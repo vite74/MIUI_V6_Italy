@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Elimina %1$d file</item>
+        <item quantity="zero">Elimina %1$d file</item>
+        <item quantity="one">Elimina 1 file</item>
+        <item quantity="two">Elimina %1$d file</item>
+        <item quantity="few">Elimina %1$d file</item>
+        <item quantity="many">Elimina %1$d file</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" e %1$d cartelle?"</item>
+        <item quantity="zero">" e %1$d cartelle?"</item>
+        <item quantity="one">" e 1 cartella?"</item>
+        <item quantity="two">" e %1$d cartelle?"</item>
+        <item quantity="few">" e %1$d cartelle?"</item>
+        <item quantity="many">" e %1$d cartelle?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d file</item>
+        <item quantity="zero">%d file</item>
+        <item quantity="one">1 file</item>
+        <item quantity="two">%d file</item>
+        <item quantity="few">%d file</item>
+        <item quantity="many">%d file</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d file ancora da scaricare</item>
+        <item quantity="zero">%1$d file ancora da scaricare</item>
+        <item quantity="one">1 file ancora da scaricare</item>
+        <item quantity="two">%1$d file ancora da scaricare</item>
+        <item quantity="few">%1$d file ancora da scaricare</item>
+        <item quantity="many">%1$d file ancora da scaricare</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d file ancora da caricare</item>
+        <item quantity="zero">%1$d file ancora da caricare</item>
+        <item quantity="one">1 file ancora da caricare</item>
+        <item quantity="two">%1$d file ancora da caricare</item>
+        <item quantity="few">%1$d file ancora da caricare</item>
+        <item quantity="many">%1$d file ancora da caricare</item>
+    </plurals>
+</resources>

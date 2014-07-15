@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d brani correlati</item>
+        <item quantity="one">%d brano correlati</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d brani preferiti</item>
+        <item quantity="one">%d brano preferiti</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%1$d brani</item>
+        <item quantity="one">%1$d brano</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%1$d album</item>
+        <item quantity="one">%1$d album</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">brani</item>
+        <item quantity="one">brano</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">album</item>
+        <item quantity="one">album</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">artisti</item>
+        <item quantity="one">artista</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">playlist</item>
+        <item quantity="one">playlist</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">cartelle</item>
+        <item quantity="one">cartella</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Nella scheda SD sono presenti %1$d brani</item>
+        <item quantity="one">Nella scheda SD è presente %1$d brano</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d brani aggiunti alla playlist.</item>
+        <item quantity="one">1 brano aggiunto alla playlist.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d rimossi dalla playlist</item>
+        <item quantity="one">1 brano rimosso dalla playlist</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%1$d brani aggiunti alla playlist.</item>
+        <item quantity="one">1 brano aggiunto alla playlist.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d brani rimossi dalla playlist</item>
+        <item quantity="one">1 brano rimosso dalla playlist</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d risultati</item>
+        <item quantity="one">%d risultato</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" categorie"</item>
+        <item quantity="one">" categoria"</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d giorni in scadenza</item>
+        <item quantity="one">%d giorno in scadenza</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d brani</item>
+        <item quantity="one">%1$s, %2$d brano</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%1$d brani eliminati.</item>
+        <item quantity="one">1 brano eliminato.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d brani che verranno scaricati.</item>
+        <item quantity="one">1 brano che verrà scaricato..</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d giorni rimanenti</item>
+        <item quantity="one">%d giorno rimanente</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Il tuo accesso alla musica di alta qualità sta per scadere (%d giorni rimanenti)</item>
+    </plurals>
+</resources>

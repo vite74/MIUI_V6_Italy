@@ -15,4 +15,10 @@
     <string name="debug_tool_email_sender_picker">Scegli un programma per inviare il file</string>
     <string name="debug_tool_email_subject">Db calendario allegato</string>
     <string name="debug_tool_email_body">"In allegato è presente il mio database dell'applicazione Calendario con tutti i miei appuntamenti e le mie informazioni personali. Trattare con cura."</string>
+    <string name="holiday_update_title">Work days data need connect network and update</string>
+    <string name="holiday_update_summary">Click check updates</string>
+    <string name="holiday_data_updating">Updating...</string>
+    <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
+    <string name="holiday_data_update_succeed">Check for completed update</string>
+    <string name="holiday_data_no_network">No network, please try again later</string>
 </resources>

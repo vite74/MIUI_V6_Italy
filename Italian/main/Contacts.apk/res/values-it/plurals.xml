@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
-    <plurals name="searchFoundContacts">
-        <item quantity="other">%d trovati</item>
-        <item quantity="one">1 trovato</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatti con numeri di telefono</item>
         <item quantity="one">1 contatto con numero di telefono</item>
@@ -13,6 +11,10 @@
         <item quantity="one">1 contatto</item>
     </plurals>
     <plurals name="listFoundAllContacts">
+        <item quantity="other">%d trovati</item>
+        <item quantity="one">1 trovato</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
         <item quantity="other">%d trovati</item>
         <item quantity="one">1 trovato</item>
     </plurals>

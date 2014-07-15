@@ -44,7 +44,7 @@
         <item>1 settimana</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Impostazioni internazionali predefinite</item>
+        <item>Impostazioni predefinite</item>
         <item>Sabato</item>
         <item>Domenica</item>
         <item>Lunedì</item>

@@ -43,7 +43,6 @@
     <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
     <string name="error_contact_not_exist">Contatto inesistente</string>
     <string name="preferences_title">Impostazioni</string>
-    <string name="preferences_bg_random_appear_title">Colori delle note a caso</string>
     <string name="pref_title_font_size">Dimensione font</string>
     <string name="call_record_folder_name">Registro chiamate</string>
     <string name="hint_foler_name">Digita il nome</string>
@@ -60,7 +59,6 @@
     <string name="alert_edit_action_delete">Rimuovi</string>
     <string name="notify_alarm_title">Promemoria sveglia</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
-    <string name="toast_note_privacy_mode">Impossibile modificare nota in modalità Guard</string>
     <string name="toast_folder_privacy_mode">Impossibile modificare cartella in modalità Guard</string>
     <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
@@ -73,14 +71,13 @@
     <string name="enable_sync">Sincronizza</string>
     <string name="login_sync">Accedi e sincronizza</string>
     <string name="pref_title_note_style">Stile note</string>
-    <string name="pref_desc_mode_list">Lista</string>
-    <string name="pref_desc_mode_grid">Griglia</string>
     <string name="pref_title_common">Impostazioni frequenti</string>
     <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziosa</string>
     <string name="pref_desc_alarm_when_silent">La sveglia suonerà anche in modalità silenziosa</string>
     <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
-    <string name="close">Chiudi</string>
+    <string name="permlab_accessNote">Accedi agli appunti</string>
+    <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere le tue informazioni personali.</string>    
     <string name="undo">Annulla</string>
     <string name="redo">Ripristina</string>
 </resources>

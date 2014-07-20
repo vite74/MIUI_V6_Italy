@@ -463,14 +463,6 @@
         <item>Percentuale</item>
         <item>Barra</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Nessuno</item>
-        <item>Mostra applicazioni recenti</item>
-        <item>Avvia Assistant</item>
-        <item>Avvia Google now</item>
-        <item>Chiudi applicazione attuale</item>
-        <item>Mostra menu</item>
-    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>

@@ -19,4 +19,9 @@
     <string name="debug_dump_email_sender_picker">Scegli un programma per inviare il file</string>
     <string name="debug_dump_email_subject">Database di contatti allegato</string>
     <string name="debug_dump_email_body">In allegato è presente il mio database di contatti contenente tutte le informazioni sui miei contatti. Trattare con cura.</string>
+    <string name="group_name_contacts">Contatti</string>
+    <string name="group_name_friends">Amici</string>
+    <string name="group_name_family">Famiglia</string>
+    <string name="group_name_coworkers">Colleghi</string>
+    <string name="unknown">Numero sconosciuto</string>
 </resources>

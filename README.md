@@ -1,6 +1,6 @@
 # MIUI ROM Italian Translation
 
-#####Since 2010 provided by Mish @ www.miui.it
+#####Since 2010 provided and maintained by Mish @ www.miui.it
 
 License of this work is covered below, for more information contact info@miui.it
 

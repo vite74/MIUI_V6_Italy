@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="download_stop">Ferma</string>
-    <string name="download_resume">Riprendi</string>
-    <string name="download_pause">Pausa</string>
-    <string name="download_retry">Riprova</string>
-    <string name="download_stop_all">Ferma tutti</string>
-    <string name="download_resume_all">Riprendi tutti</string>
-    <string name="download_pause_all">Pausa tutti</string>
-    <string name="download_retry_all">Riprova tutti</string>
     <string name="app_label">Gestione download</string>
     <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
     <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
@@ -47,4 +39,7 @@ Tocca %s  per avviare il download la prossima volta che sei connesso a una rete 
     <string name="download_running">In corso</string>
     <string name="download_error">Operazione non riuscita</string>
     <string name="download_running_percent">In corso, %d%%</string>
+    <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria esterna</string>
+    <string name="dialog_insufficient_space_on_cache">Spazio insufficiente sulla memoria interna</string>
+    <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente sotto copertura Wi-Fi</string>
 </resources>

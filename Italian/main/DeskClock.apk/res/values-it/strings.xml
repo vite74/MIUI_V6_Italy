@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
+    <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
+    <string name="default_clock_style">digital</string>
     <string name="app_label">Orologio</string>
     <string name="alarm_list_title">Allarmi</string>
     <string name="add_alarm">Aggiungi allarme</string>
@@ -25,6 +28,7 @@
     <string name="alarm_missed_title">Sveglia ignorata</string>
     <string name="alarm_missed_text" formatted="false">%s - %s</string>
     <string name="alarm_alert_snooze_text">Posticipa</string>
+    <string name="alarm_alert_snooze_set">Sospensione per %d minuti.</string>
     <string name="alarm_alert_snooze_until">Ripetizione allarme fino alle %s</string>
     <string name="alarm_alert_predismiss_title">Prossimo allarme</string>
     <string name="missed_alarm_has_been_deleted">"L'allarme ignorato è stato eliminato"</string>
@@ -70,6 +74,7 @@
     <string name="loading_ringtone">Caricamento suoneria...</string>
     <string name="timer_ring_service_desc">Servizio di riproduzione dei suoni per i timer impostati in Orologio.</string>
     <string name="control_set_alarm">Imposta allarme</string>
+    <string name="control_set_alarm_with_existing">%s</string>
     <string name="menu_alarm">Allarme</string>
     <string name="menu_timer">Timer</string>
     <string name="menu_clock">Orologio</string>
@@ -126,6 +131,7 @@
     <string name="time_picker_30_label">:30</string>
     <string name="alarm_settings">ALLARMI</string>
     <string name="see_all">Mostra tutto...</string>
+    <string name="desk_clock_help_url" />
     <string name="stopwatch_service_desc">Servizio cronometro per pubblicare la notifica.</string>
     <string name="swn_stopped">Interrotto</string>
     <string name="description_direction_right">Fai scorrere il dito verso destra per eliminare</string>
@@ -155,6 +161,19 @@
     <string name="digital_gadget">Orologio digitale</string>
     <string name="no_alarms">Nessun allarme</string>
     <string name="no_upcoming_alarms">NESSUN ALLARME PROSSIMO</string>
+    <string name="worldclock_empty_text">Nessun orario internazionale</string>
+    <string name="delete_timezone_title">Elimina fuso orario</string>
+    <string name="delelte_selected_timezone">Eliminar eil fuso orario selezionato?</string>
+    <string name="system_time_setting">Impostazioni orario</string>
+    <string name="menu_add_worldclock">Aggiungi fuso orario</string>
+    <string name="timezone_exist_error_message">Questo fuso orario è già presente.</string>
+    <string name="current_zone">Fuso orario attuale</string>
+    <string name="zone_time_offset_ahead">%1$d ore e %2$d minuti avanti</string>
+    <string name="zone_time_offset_behind">%1$d ore e %2$d minuti indietro</string>
+    <string name="zone_time_offset_ahead_only_hour">%d ore avanti</string>
+    <string name="zone_time_offset_behind_only_hour">%d ore indietro</string>
+    <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
+    <string name="add_time_zone">Aggiungi fuso orario</string>
     <string name="done_label">Fine</string>
     <string name="hour_picker_description">Dispositivo di scorrimento circolare per le ore</string>
     <string name="minute_picker_description">Dispositivo di scorrimento per i minuti</string>

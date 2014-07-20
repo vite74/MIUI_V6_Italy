@@ -448,4 +448,53 @@
         <item>Contenuti multimediali</item>
         <item>Dispositivo</item>
     </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Strong</item>
+        <item>Medium</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Strong</item>
+        <item>Medium</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Graphical</item>
+        <item>Percentage</item>
+        <item>Top bar</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>None</item>
+        <item>Show recent apps tray</item>
+        <item>Launch Assistant</item>
+        <item>Launch Google now</item>
+        <item>Close current app</item>
+        <item>Show menu</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>High performance</item>
+        <item>Balance</item>
+        <item>Battery saving</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP and older versions of Windows</item>
+        <item>Windows Vista and newer versions of Windows</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Dial</item>
+        <item>Messaging</item>
+        <item>Browser</item>
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Network is slow due to too much traffic</item>
+        <item>Network is slow due to weak signal strength</item>
+        <item>Moving…</item>
+    </string-array>
 </resources>

@@ -40,4 +40,16 @@
         <item quantity="other">%1$s stampanti trovate</item>
         <item quantity="one">%1$s stampante trovata</item>
     </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">You are now %1$d steps away from entering phone info.</item>
+        <item quantity="one">You are now %1$d step away from entering phone info.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">You are now %1$d steps away from entering cit.</item>
+        <item quantity="one">You are now %1$d step away from entering cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">You are now %1$d steps away from bugreporting.</item>
+        <item quantity="one">You are now %1$d step away from bugreporting.</item>
+    </plurals>
 </resources>

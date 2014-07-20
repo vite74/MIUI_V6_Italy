@@ -85,10 +85,10 @@
     <string name="count_ge_favorite">preferito da %d</string>
     <string name="search">Cerca</string>
     <string name="count_get_result">%d Risultati</string>
-    <string name="search_result_input_hint">Prego inserie la parola chiave da cercare</string>
+    <string name="search_result_input_hint">Prego inserire la parola chiave da cercare</string>
     <string name="search_result_hint">%s risultati della ricerca</string>
-    <string name="search_result_empty_text">Nessun risultati</string>
-    <string name="search_result_recommend_hint">Potrebbe piacere：</string>
+    <string name="search_result_empty_text">Nessun risultato</string>
+    <string name="search_result_recommend_hint">Potrebbe piacerti：</string>
     <string name="search_result_recommend_empty">Non è stato possibile trovare nulla</string>
     <string name="online_video">Online</string>
     <string name="my_video">Locali</string>
@@ -119,7 +119,7 @@
     <string name="time_colon">Data：</string>
     <string name="type_colon">Genere：</string>
     <string name="detail_episode_empty_hint">Nessun episodio</string>
-    <string name="detail_introduce_empty_hint">Nessun trailer</string>
+    <string name="detail_introduce_empty_hint">Nessuna introduzione</string>
     <string name="detail_review_list_empty_hint">Nessun commento</string>
     <string name="detail_recommend_empty_hint">Nessuna raccomandazione</string>
     <string name="write_comment">Aggiungi commento</string>
@@ -134,7 +134,7 @@
     <string name="filter">Filtro</string>
     <string name="channel_choice_empty_hint">Nessun video famoso</string>
     <string name="channel_all_empty_hint">Nessun video</string>
-    <string name="tv_channel_empty_hint">Nessun canaòe</string>
+    <string name="tv_channel_empty_hint">Nessun canale</string>
     <string name="feature">Consigliati</string>
     <string name="count_ge_feature">%d selezionati</string>
     <string name="feature_list_empty_hint">Lista consigli vuota</string>

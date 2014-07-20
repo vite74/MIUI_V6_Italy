@@ -50,7 +50,7 @@
     <string name="not_selected">Scegli una canzone</string>
     <string name="file_not_found">File inesistente</string>
     <string name="fail_to_play">Impossibile riprodurre</string>
-    <string name="my_music_empty">\"Mia musica\" è vuota. Download o segna come preferito qualche brano in \"Online\"</string>
+    <string name="my_music_empty">\"Mia musica\" è vuota. Scarica o imposta come preferito qualche brano in \"Online\"</string>
     <string name="click_to_shuffle">Tocca per mescolare tutto</string>
     <string name="send_to_title">Invia a (%1$s)</string>
     <string name="dialog_title_add_playlist">Aggiungi alla playlist</string>

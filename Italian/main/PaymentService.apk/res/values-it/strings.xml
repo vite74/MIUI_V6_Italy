@@ -7,14 +7,6 @@
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
-    <string name="label_giftcard">Carta regalo:</string>
-    <string name="title_bind_phone">Collegamento telefono No.</string>
-    <string name="summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver collegato il numero di telefono.</string>
-    <string name="button_sms_code">Conferma</string>
-    <string name="title_sms_code">Inserisci il codice di verifica del telefono</string>
-    <string name="summary_sms_code">Per garantire la sicurezza del tuo account, inserisci il codice di verifica ricevuto dal telefono %1$s, quindi completa il pagamento</string>
-    <string name="sms_code_hint">Codice di verifica telefono</string>
-    <string name="sms_code_error">Errore nel codice di verifica del telefono, richiedilo di nuovo</string>
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Inserisci password account</string>
     <string name="password_error">Password sbagliata.</string>
@@ -27,13 +19,11 @@
     <string name="button_pay">Conferma</string>
     <string name="button_recharge_pay">Conferma</string>
     <string name="button_recharge">Ricarica</string>
-    <string name="button_bind_phone">Collega adesso</string>
-    <string name="button_count_down_reget">Richiedi il codice di verifica (%1$s)</string>
-    <string name="button_reget">Richiedi codice di verifica</string>
     <string name="balance_payment">%1$s MiCredit</string>
-    <string name="giftcard_payment">%1$s MiCredit</string>
-    <string name="partner_giftcard_payment">%1$s MiCredit （Solo per %2$s）</string>
-    <string name="balance">Saldo: %1$s MiCredit</string>
+    <string name="balance_giftcard_payment">%1$s MiCredit (%2$s-Carta MiCredit)</string>
+    <string name="balance_no_giftcard_payment">%1$s MiCredit (non è possibile utilizzare la carta MiCredit per questo acquisto)</string>
+    <string name="payment_actionbar_title">Conferma</string>
+    <string name="balance_title">Saldo</string>
     <string name="giftcard_value">(%1$s-Carta regalo MiCredit)</string>
     <string name="frozen">(Congelato)</string>
     <string name="mili_center">MiCredit</string>
@@ -55,6 +45,7 @@ Accedi di nuovo."</string>
     <string name="error_cert_date_summary">"Errore data certificato. 
 Verifica la data locale e prova di nuovo."</string>
     <string name="title_recharge">Ricarica MiCredit</string>
+    <string name="recharge_group_familiar">Metodo comune</string>
     <string name="recharge_group_favorite">Utilizza il precedente metodo di ricarica</string>
     <string name="recharge_group_others">Altri metodi di ricarica</string>
     <string name="recharge_prepaid_title">Carta prepagata</string>
@@ -67,9 +58,11 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="recharge_novalid_method">Nessun metodo di ricarica valido.</string>
     <string name="account_detail">"Account Xiaomi:
 %1$s"</string>
+    <string name="pc_pay_login">Effettua il login</string>
+    <string name="pc_pay_website">mibi.xiaomi.com</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
-    <string name="recharge_denomination">￥%1$s</string>
+
     <string name="btn_recharge_large">Ricarica</string>
     <string name="recharge_other">Mostra altri metodi</string>
     <string name="btn_recharge_success">Ricarica completata</string>
@@ -77,7 +70,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="btn_prev">Indietro</string>
     <string name="btn_next">Avanti</string>
     <string name="recharge_grid_picker_hint">Seleziona importo</string>
-    <string name="recharge_grid_edit_hint">Importo (￥)</string>
+
     <string name="recharge_grid_edit_limit">￥%1$s~%2$s</string>
     <string name="recharge_grid_edit_upper_limit">Non puoi superare i ￥%1$s</string>
     <string name="recharge_grid_error_denomination">"Inserisci l'importo corretto tra ￥%1$s~%2$s"</string>
@@ -86,13 +79,14 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="paytool_msp_not_installed">Non hai installato il plugin %1$s per la sicurezza mobile, installarlo adesso?</string>
     <string name="progress_paytool_creating">Creazione ordine %1$s...</string>
     <string name="progress_paytool_installing">Installazione plugin  %1$s per la sicurezza mobile…</string>
-    <string name="prepaid_grid_carrier_hint">Seleziona operatore</string>
-    <string name="prepaid_grid_denomination_hint">Seleziona importo</string>
+    <string name="prepaid_carriers_picker_hint">Seleziona</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Supportate solo ricariche mono uso.</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Il valore nominale deve essere equivalente a quello della carta prepagata. La selezione di un importo diverso annullerà la carta. Questa operazione non può essere annullata.</string>
     <string name="prepaid_picker_hint_2_2_b">"Se il valore nominale della carta prepagata non è &lt;font color=red>￥%1$s&lt;/font>, la carta verrà annullata. Xiaomi non è responsabile per qualsiasi perdita di denaro causata da errori dell'utente."</string>
+    <string name="prepaid_picker_title_default">Seleziona importo</string>
+    <string name="prepaid_picker_title_selected">importo</string>
     <string name="prepaid_number_edit_hint">Numero</string>
     <string name="prepaid_password_edit_hint">Password</string>
     <string name="prepaid_edit_limit">numeri</string>
@@ -102,10 +96,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="prepaid_error_password">Password carta non valida.</string>
     <string name="prepaid_error_card_length">Numero carta o password non valide.</string>
     <string name="progress_prepaid_creating">Creazione ordine…</string>
-    <string name="prepaid_error_not_choose_carrier">Nessun operatore selezionato.</string>
-    <string name="prepaid_card_order_info">%1$s carta ricarica: RMB %2$s</string>
     <string name="voucher_input_password_prompt">Inserisci codice</string>
-    <string name="voucher_edit_hint">Codice</string>
     <string name="voucher_edit_limit">numeri</string>
     <string name="voucher_error_password">Codice voucher non valido!</string>
     <string name="progress_voucher_creating">Ricarica carta MiCredit in corso…</string>
@@ -113,6 +104,8 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_picker_hint_1_2">La ricarica tramite SMS potrebbe essere più costosa: &lt;font color=red>￥2 = 1 MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Gli operatori addebitano ￥0.1 di costi per ogni ricarica</string>
+    <string name="msg_picker_hint_3_1">3.</string>
+    <string name="msg_picker_hint_3_2">Massimo mensile: ￥%1$s</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ricarica fallita</string>
     <string name="progress_msg_creating">Creazione ordine di ricarica…</string>
@@ -127,10 +120,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="btn_recharge_confirm">Conferma acquisto</string>
     <string name="btn_wait_confirm">In attesa</string>
     <string name="btn_wait_confirm_count">In attesa （%1$s）</string>
-    <string name="msg_order_hint_1_1">Dopo aver premuto Conferma acquisto, il telefono</string>
-    <string name="msg_order_hint_1_2">Contatta automaticamente il tuo provider di rete.</string>
-    <string name="msg_progress_hint_2_1">Il tuo provider di rete è stato contattato!</string>
-    <string name="msg_progress_hint_2_2">Riceverai un SMS di conferma entro breve.</string>
+    <string name="msg_telecom_picker_hint_1_1">"Dopo aver premuto Conferma, l'acquisto riavvierà il telefono"</string>
+    <string name="msg_telecom_picker_hint_1_2">Contattare automaticamente il provider di rete.</string>
+    <string name="msg_telecom_picker_hint_2_1">Il tuo operatore di rete è stato contattato!</string>
+    <string name="msg_telecom_picker_hint_2_2">Riceverai una conferma di testo tra poco.</string>
     <string name="giftcard_denom_available">MiCredit disponibili</string>
     <string name="giftcard_denom">MiCredit</string>
     <string name="giftcard_denom_frozen">MiCredit congelati</string>
@@ -141,7 +134,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
-    <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+    <string name="bankcall_xiaomi_company">Corporazione Xiaomi (Beijing)</string>
     <string name="bankcall_denom_number">%1$s yuan</string>
     <string name="bankcall_card">Carta bancaria</string>
     <string name="bankcall_card_hint">Inserisci numero conto</string>
@@ -169,6 +162,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="btn_other_bankcard">"Utilizza un'altra carta"</string>
     <string name="btn_delete_record">Elimina</string>
     <string name="bankcall_saved_card_info">%1$s - Numero carta %2$s</string>
+    <string name="voucher_card_text">Si prega di buttare il numero di carta</string>
     <string name="progress_submit_title">Richiesta inoltrata</string>
     <string name="progress_submit_recharge_summary">Ricarica: %1$s MiCredit.</string>
     <string name="progress_submit_hint">La ricarica comparirà nel tuo saldo entro 3 minuti.</string>
@@ -192,13 +186,12 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="btn_back">Indietro</string>
     <string name="btn_recharge_other">Ricarica</string>
     <string name="btn_call">Chiama</string>
+    <string name="btn_finish">finito</string>
     <string name="recharge_notification">Ricarica: %1$s MiCredit</string>
     <string name="giftcard_push_notification_prime_title">Hai ricevuto una carta regalo</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit in omaggio</string>
     <string name="recharge_push_notification_prime_title">%1$d ha aggiunto %2$s MiCredit sul tuo account</string>
     <string name="recharge_push_notification_sub_title">Ricarica completata.</string>
-    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere...</string>
-    <string name="giftcard_expire_notification_sub_title">La tua scheda regalo Mi scade il %1$s</string>
     <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">Registro ricariche</string>
     <string name="title_pay_record">Registro pagamenti</string>
@@ -215,9 +208,6 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="pay_record_typeall">Tutto</string>
     <string name="mibi_license_title">Accordo utente</string>
     <string name="mibi_license_message">Tocca OK se accetti i termini e le condizioni descritte in %1$s.</string>
-    <string name="mibi_license_net_prompt_title">Connessione internet richiesta</string>
-    <string name="mibi_license_net_prompt_message">"L'utilizzo dell'applicazione MiCredit potrebbe incrementare l'utilizzo della rete dati."</string>
-    <string name="mibi_license_checkbox_prompt">Non ricordarmi più</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
     <string name="btn_agree">"Sono d'accordo"</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
@@ -257,14 +247,11 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
     <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
     <string name="title_nopassword_dialog">Limite giornaliero</string>
-    <string name="title_prompt">Notifiche</string>
-    <string name="title_need_prompt">"Notificami la connessione ad Internet all'apertura"</string>
     <string name="button_confirm">Conferma</string>
     <string name="button_next">Avanti</string>
     <string name="scan_prompt_number">Scansiona numero della carta prepagata %1$s</string>
     <string name="scan_prompt_password">Scansione password della carta prepagata %1$s</string>
     <string name="scan_prompt_voucher">Scansiona password MiCredit</string>
-    <string name="scan_prompt_retry">Mantieni la carta in posizione non riflettente, lasciandola ferma dopo aver riprovato</string>
     <string name="detail_recharge_title">Cronologi ricariche</string>
     <string name="detail_recharge_order">Numero ordine ricarica:</string>
     <string name="detail_recharge_account">ID ricarica</string>
@@ -283,25 +270,5 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="detail_giftcard_activity">Promozione</string>
     <string name="detail_giftcard_expired_time">Data di scadenza</string>
     <string name="detail_giftcard_theme">Acquista temi</string>
-    <string name="hfb_app_name">UMPay</string>
-    <string name="hfb_succ_label">Acquisto completato</string>
-    <string name="hfb_fail_label">Pagamento fallito!</string>
-    <string name="hfb_succ_result">Grazie per aver utilizzato questo metodo di pagamento.</string>
-    <string name="hfb_instruct">"Segui le istruzioni 10,658,008 SMS di verifica, premi su 'acquisto completato' Thank you!"</string>
-    <string name="hfb_complete">Acquisto completato!</string>
-    <string name="hfb_other_case">Se non ricevi un SMS dal numero 10658008 consulta i suggerimenti di aiuto.</string>
-    <string name="hfb_retry_receive">Riprova</string>
-    <string name="hfb_fail_hint">"Errore nella ricezione dell'SMS di attivazione, contatta il Centro Servizio di Pagamento China Mobile al numero: 400 612 5880 (telefono fisso, chiamate a lunga distanza gratuite) 0.3 yuan / min.
- "</string>
-    <string name="hfb_return">Indietro</string>
-    <string name="hfb_main_title">Completa pagamento</string>
-    <string name="hfb_goods_name">Nome:</string>
-    <string name="hfb_goods_name_content">MiCredit</string>
-    <string name="hfb_order_price">Prezzo ordine：</string>
-    <string name="hfb_customer_service_phone">Servizio Clienti Telefonico：</string>
-    <string name="hfb_customer_service_phone_number">4006125880</string>
-    <string name="hfb_pay_by_phone">Paga con telefono:</string>
-    <string name="hfb_confirm_code">Captcha：</string>
-    <string name="hfb_get_confirm_code">Richiedi codice di verifica</string>
-    <string name="hfb_confirm">Conferma</string>
+   <string name="direct_consume_not_support">Consumo diretto non è supportato!</string>
 </resources>

@@ -448,4 +448,45 @@
         <item>Contenuti multimediali</item>
         <item>Dispositivo</item>
     </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Forte</item>
+        <item>Medio</item>
+        <item>Leggero</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Forte</item>
+        <item>Medio</item>
+        <item>Leggero</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafico</item>
+        <item>Percentuale</item>
+        <item>Barra</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Alte prestazioni</item>
+        <item>Bilanciato</item>
+        <item>Bassi consumi</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP e versioni precedenti di Windows</item>
+        <item>Windows Vista e versioni più recenti di Windows</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Composizione numero</item>
+        <item>Messaggi</item>
+        <item>Browser</item>
+        <item>Fotocamera</item>
+        <item>Galleria</item>
+        <item>Musica</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>La rete è lenta per via del traffico intenso</item>
+        <item>La rete è lenta per via del segnale debole</item>
+        <item>In movimento…</item>
+    </string-array>
 </resources>

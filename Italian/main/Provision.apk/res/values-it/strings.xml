@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="next">Avanti</string>
-    <string name="continues">Continua</string>
-    <string name="shutdown">Spegni</string>
-    <string name="other_service_label">Altri servizi</string>
-    <string name="other_service_location">Servizi di localizzazione</string>
-    <string name="other_service_location_summary">I servizi di localizzazione consentono alle mappe e ad altre applicazioni di recuperare i dettagli sulla la tua posizione tramite GPS</string>
-    <string name="other_service_google_location">Servizi di localizzazione Google</string>
-    <string name="other_service_google_location_use">Localizzazione e ricerca Google</string>
-    <string name="other_service_google_location_use_help">"Consenti al servizio di localizzazione di Google di raccogliere dati anonimi sulla posizione. La raccolta si verifica anche quando le applicazioni sono aperte. Per modificare questa impostazione, passare a Impostazioni &gt; Servizi di localizzazione"</string>
-    <string name="other_service_google_location_use_summary">Lascia che Google utilizzi la tua posizione per migliorare i risultati di ricerca e gli altri servizi</string>
-    <string name="other_service_permission_manager">Gestisci i permessi delle App</string>
-    <string name="other_service_permission_manager_summary">Monitora le applicazioni per la sicurezza e la privacy</string>
-    <string name="other_service_user_experience">Fornisci i tuoi feedback</string>
-    <string name="other_service_user_experience_summary0">Contiamo sul tuo uso del nostro prodotto e delle sue caratteristiche e speriamo che tu possa aiutarci fornendoci il tuo feedback. Il tuo feedback sarà tutelato dalla nostra </string>
-    <string name="other_service_user_experience_summary1">\u0020Privacy policy</string>
-    <string name="sim_card_detection_dialog_message">Rilevamento SIM. Attendere prego.</string>
-    <string name="sim_card_detection_label">Rilevamento SIM</string>
-    <string name="sim_card_detection_info">Non possiamo impostare un account Xiaomi senza una SIM. Avrai bisogno di una SIM per utilizzare alcuni servizi come la sincronizzazione account, tracciamento telefono etc.</string>
-    <string name="sim_card_detection_status_absent">SIM non rilevata. Inserire una SIM e riavviare o continuare.</string>
-    <string name="setup_complete_label">Grazie</string>
-    <string name="setup_complete_info" />
-    <string name="setup_complete_start">Inizia ad utilizzare il telefono</string>
-    <string name="setup_complete_summary">Configurazione completata! Adesso goditi MIUI :)</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="input_method_setting">Scegli metodo immissione</string>
+    <string name="input_method_category">"Scegli il metodo d'immissione predefinito che verrà utilizzato durante la scrittura delle email, note, e tutto il resto. Si nota che potrai installare tastiere di terze parti."</string>
+    <string name="other_settings">Impostazioni aggiuntive</string>
+    <string name="other_settings_location">Accedi alla posizione</string>
+    <string name="other_settings_location_summary">Let apps pinpoint your location</string>
+    <string name="other_settings_user_experience">Feedback utente</string>
+    <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
 </resources>

@@ -67,34 +67,18 @@
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
     <string name="confirm_delete">Confermare la cancellazione di %s file?</string>
-    <string name="confirm_delete_cloud_all_item_page" formatted="false">%s immagine(i) in %s album, sicuro di voler eliminare ?</string>
     <string name="action_fail_unknown_error">Operazione fallita a causa di un errore sconosciuto.</string>
     <string name="add_to_cloud_fail_too_many_items">Impossibile completare operazione, troppi elementi selezionati</string>
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
     <string name="confirm_delete_album" formatted="false">Sicuro di voler eliminare %s album (contenenti %s elementi)?</string>
     <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
     <string name="operation_delete_confirm_message_folder">Cartelle e file verranno eliminati nello stesso momento.</string>
+   
     <string name="delete_folder">"Confermare l'eliminazione di %1$d cartella(e)?"</string>
     <string name="delete_file">"Confermare l'eliminazione di %1$d file?"</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
-    <string name="confirm_delete_init_title">Suggerimento</string>
-    <string name="confirm_delete_init_message">"L'immagine verrà eliminata dal dispositivo e da Mi Cloud. Se vuoi eliminare solo sul dispositivo, esegui in locale.</string>
-    <string name="confirm_delete_has_cloud_local_image_video">Elimiare %s elementi in locale e in cloud?</string>
-    <string name="confirm_delete_has_cloud_local_image">Eliminare %s immagini in locale e in cloud?</string>
-    <string name="confirm_delete_has_cloud_local_video">Eliminare %s video in locale e in cloud?</string>
-    <string name="confirm_delete_has_cloud_image_video">Eliminare %s elementi in cloud?</string>
-    <string name="confirm_delete_has_cloud_image">Eliminare %s immagini in cloud?</string>
-    <string name="confirm_delete_has_cloud_video">Eliminare %s video in cloud?</string>
-    <string name="confirm_delete_has_local_image_video">Eliminare %s elementi?</string>
-    <string name="confirm_delete_has_local_image">Eliminare %s immagini?</string>
-    <string name="confirm_delete_has_local_video">Eliminare %s video?</string>
-    <string name="confirm_delete_pictures">%s</string>
-    <string name="confirm_delete_videos">%s</string>
-    <string name="confirm_delete_this_picture">"Vuoi eliminare l'immagine selezionata?"</string>
-    <string name="confirm_delete_this_video">"Vuoi eliminare il video selezionato?"</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutto</string>
-    <string name="deselect_all">Deseleziona tutto</string>
     <string name="slideshow">Presentazione</string>
     <string name="details">Dettagli</string>
     <string name="details_title">%1$d elementi su %2$d:</string>
@@ -139,7 +123,6 @@
     <string name="mimetype">Tipo MIME</string>
     <string name="file_size">Dimensioni file</string>
     <string name="maker">Autore</string>
-    <string name="model">Modello</string>
     <string name="flash">Flash</string>
     <string name="aperture">Diaframma</string>
     <string name="focal_length">Lungh. focale</string>
@@ -151,9 +134,6 @@
     <string name="auto">Autom.</string>
     <string name="flash_on">Flash scattato</string>
     <string name="flash_off">Senza flash</string>
-    <string name="taken_time">Data creazione</string>
-    <string name="modified_time">Data modifica</string>
-    <string name="photo_size">Dimensione</string>
     <string name="set_label_all_albums">Tutti gli album</string>
     <string name="set_label_local_albums">Album locali</string>
     <string name="cloud_media_set_set">Album cloud</string>
@@ -183,7 +163,6 @@
     <string name="remove_recent_album">Rimuovi dai Preferiti</string>
     <string name="set_hidden_album">Nascondi Album</string>
     <string name="remove_hidden_album">Rendi visibile</string>
-    <string name="skip_hide_special_album">Impossibile eliminare album di sistema (es. Camera, Screenshots).</string>
     <string name="photos">Foto</string>
     <string name="tab_lockscreen_text">Lockscreen</string>
     <string name="tab_wallpaper_text">Desktop</string>
@@ -202,14 +181,9 @@
     <string name="cut">Taglia e salva</string>
     <string name="more">Altro</string>
     <string name="deleting_files">Eliminazione file...</string>
-    <string name="bigscreen_slide_playing">Slideshow in riproduzione sul dispositivo: %s</string>
     <string name="bigscreen_slide_exit">Esci dallo slideshow via TV</string>
     <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata".</string>
-    <string name="bigscreen_video_quit">Tocca per uscire dalla riproduzione del video</string>
     <string name="defalt_local_mobile">Mobile</string>
-    <string name="local_time">(Locale)</string>
-    <string name="photo_page_detail_show_in_the_map">Mostra posizione su mappa</string>
-    <string name="start_slide_show">Avvia la presentazione</string>
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
@@ -239,7 +213,6 @@
     <string name="slideshow_time_title">Durata slideshow</string>
     <string name="there_is_no_image">Nessuna immagine</string>
     <string name="preparing_data_to_delete">"Preparazione all'eliminazione dell'immagine..."</string>
-    <string name="rename_failed">Impossibile rinominare.</string>
     <string name="rename_failed_duplicated_name">Esiste già un file con questo nome.</string>
     <string name="warn">Avviso</string>
     <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
@@ -280,8 +253,6 @@
     <string name="storage_all_volumes">Tutte le unità di memoria</string>
     <string name="settings_i_xiaomi_com">Accedi a i.xiaomi.com per vedere i tuoi album su cloud in qualsiasi momento</string>
     <string name="big_screen_alertdialog_title">Device list</string>
-    <string name="comma">, </string>
-    <string name="quotation">\"%s\"</string>
     <string name="cloud_gallery_space_full">Caricamento fallito! Archivio Galleria Cloud pieno</string>
     <string name="share_album_space_full">Questo album condiviso è pieno. Eliminare alcune immagini.</string>
     <string name="cloud_gallery_recyclebin_full">Cestino Cloud pieno, svuota il cestino Cloud su i.xiaomi.com.</string>
@@ -297,7 +268,6 @@
     <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
     <string name="cloud_gallery_no_pictures">Nessuna immagine trovata su MiCloud</string>
-    <string name="click_to_add_picture">Premi per aggiungere immagini</string>
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
     <string name="initial_cloud_text">In ogni momento e ovunque tu sia, guarda e organizza le tue foto</string>
     <string name="initial_cloud_button_text">"Inizia ad utilizzare l'album cloud"</string>
@@ -330,7 +300,6 @@
     <string name="already_apply_album">Aprire %1$s?</string>
     <string name="no_picture_or_video">Nessuna immagine o video</string>
     <string name="camera_view_none_message">Le foto scattate verranno visualizzate qui.</string>
-    <string name="sync_in_progress_message">Sincronizzazione in corso...</string>
     <string name="none_picture">Nessuna immagine trovata in Galleria</string>
     <string name="show_hidden_albums">Mostra album nascosti</string>
     <string name="not_show_hidden_albums">Non mostrare album nascosti</string>
@@ -340,9 +309,7 @@
     <string name="share_current_album">Condividi contenuto album</string>
     <string name="cloud_share_guide_title">Condivisione MiCloud!</string>
     <string name="cloud_share_guide_message">"Puoi condividere il tuo album MiCloud con
-i tuoi amici.
-Consultalo e aggiornalo da qualsiasi posto.
-."</string>
+i tuoi amici.Consultalo e aggiornalo da qualsiasi posto.."</string>
     <string name="cloud_be_shared_guide_title">Questo album è stato condiviso da un amico</string>
     <string name="cloud_be_shared_guide_message">Puoi vedere le immagini dei tuoi amici ed aggiungerne di tue, così da renderle visibili a tutti gli amici.</string>
     <string name="cloud_owner_album_share_guide">Puoi condividere questo album con gli amici</string>
@@ -364,9 +331,6 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="confirm_download_video_message">Il video richiede il download! Il download verrà ripreso qundo sarà disponibile una connessione Wi-Fi.</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="item_not_sync">Questo elemento non può essere sincronizzato in cloud e non può essere scaricato</string>
-    <string name="item_not_sync_for_origin_image">Questa immagine non è stata sincronizzata in cloud e la sua immagine di origine non può essere scaricata</string>
-    <string name="item_not_sync_for_refocus_data">Questa immagine non è stata sincronizzata in cloud ed i suoi dati per la rimessa a fuoco non possono essere scaricati</string>
-    <string name="fail_to_download_n_items">Impossibile scaricare %s</string>
     <string name="cloud_album_more_settings">Album cloud</string>
     <string name="browse_category">Gestione Foto</string>
     <string name="photo_page_save_image">Salva</string>
@@ -379,8 +343,6 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="cloud_album_set_create">Nuovo</string>
     <string name="cloud_album_set_scan_qr_code">QR code</string>
     <string name="scan_qr_code_failure">Impossibile scansionare QR code.</string>
-    <string name="alert_init_merged_title">Tutte le tue foto. Finalmente insieme.</string>
-    <string name="alert_init_merged_message">Adesso le foto del tuo telefono e quelle archiviate su MiCloud verranno mostrate insieme.</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>
@@ -465,7 +427,6 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="error_album_not_exist">Album inesistente.</string>
     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
     <string name="error_socket_timeout">Timeout di rete, riprovare più tardi</string>
-    <string name="error_share_with_creator">Sei già membro di questo album</string>
     <string name="error_cloud_not_active">Album MiCloud non utilizzato</string>
     <string name="scan_barcode_to_join">Scansiona QR code per entrare in un album</string>
     <string name="where_is_barcode">"Dov'è il QR code?"</string>
@@ -508,8 +469,6 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="autohomemain">Autohomemain</string>
     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
     <string name="tieba">Tie Ba</string>
-    <string name="yellow_page">Cartella</string>
-    <string name="picker_tab_camera">Fotocamera</string>
     <string name="picker_no_items_selected">Nessuna selezione</string>
     <string name="picker_select_album_title_empty">Seleziona un album</string>
     <string name="picker_no_album_selected">Nessun album selezionato</string>
@@ -521,20 +480,14 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">Nuovo dispositivo trovato. Premi per visualizzare</string>
     <string name="time_line_view">Linea temporale</string>
-    <string name="home_page_tab_photo">Foto</string>
-    <string name="home_page_tab_cloud">Cloud</string>
-    <string name="home_page_tab_local">Locale</string>
-    <string name="error_title">Errore di sincronizzazione</string>
-    <string name="error_unauthorized">Troppi tentativi di accesso: Sincro. disattivata.</string>
-    <string name="error_forbidden">Ci sono alcuni problemi con il tuo account: Sincro. disattivata.</string>
-    <string name="error_not_acceptable">Errore del server: Sincro. disattivata.</string>
-    <string name="long_press_to_refocus">Continua a premere per rimettere a fuoco</string>
-    <string name="ubifocus_data_missing">Alcuni dati sono andati persi</string>
-    <string name="ubifocus_map_error">Alcuni dati non sono coretti</string>
-    <string name="ubifocus_refocus_data_missing">Impossibile rimettere a fuoco a causa di alcuni dati mancanti</string>
-    <string name="ubifocus_refocus_map_error">Impossibile rimettere a fuoco a causa di alcuni dati sbagliati</string>
-    <string name="ubifocus_refocus_download_tip">Scaricare dati di rimessa a fuoco prima di procedere</string>
-    <string name="download_refocus_data">Scarica dati rimessa a fuoco</string>
-    <string name="refocus_data_downloading">Download dei dati di rimessa a fuoco…</string>
-    <string name="ubifocus_guide_text">Tieni premuto per rimettere a fuoco</string>
+    <string name="confirm_delete_pictures">%s immagini</string>
+    <string name="confirm_delete_this_picture">"Vuoi eliminare l'immagine selezionata?"</string>
+    <string name="confirm_delete_this_video">"Vuoi eliminare il video selezionato?</string>
+    <string name="confirm_delete_videos">%s videoo</string>
+    <string name="confirm_delete_cloud_all_item_page" formatted="false">%s immagine(i) nel %s album, sei di sicuro di voler eliminare?</string>
+    <string name="folder_holder_file">Luogo filer</string>
+    <string name="menu_item_sort_visit_asc">Ordine crescente</string>
+    <string name="menu_item_sort_visit_desc">Ordine decrescente</string>
+    <string name="model">Modello</string>
+    <string name="picker_tab_camera">Fotocamera</string>
 </resources>

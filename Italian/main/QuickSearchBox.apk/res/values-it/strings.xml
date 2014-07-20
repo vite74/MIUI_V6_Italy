@@ -38,4 +38,5 @@
     <string name="voice_search_hint_quotation_end">”</string>
     <string name="search_in_web">Cerca in rete</string>
     <string name="search_in_app_store">Cerca nel market</string>
+    <string name="send_secret_code">Invia codice segreto</string>
 </resources>

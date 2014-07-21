@@ -140,7 +140,6 @@
     <string name="photo_load_failed">Impossibile caricare foto!</string>
     <string name="frame_load_failed">Impossibile caricare il widget Cornice!</string>
     <string name="gadget_weather_loading">Nessun dato meteo</string>
-    <string name="gadget_weather_title">Weather</string>
     <string name="gadget_weather_title">Meteo</string>
     <string name="gadget_weather_title_24">Meteo 2X4</string>
     <string name="gadget_weather_app_not_installed">Installa MIUI Weather</string>
@@ -162,7 +161,6 @@
     <string name="free_style_edit_bottom_empty_tip">Premi il rettangolo da modificare</string>
     <string name="free_style_edit_bar_empty">Vuoto</string>
     <string name="free_style_enter_tip">Scorri in basso con due dita per passare a MiSpace</string>
-    <string name="free_style_enter_tip">Scorri in basso con due dita per entrare nel MiSpace</string>
     <string name="free_style_exit_tip">Scorri in alto con due dita per uscire da MiSpace</string>
     <string name="free_style_londing_text">Caricamento in corso…</string>
     <string name="toggle_select_title">Seleziona comando</string>

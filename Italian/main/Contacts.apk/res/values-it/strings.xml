@@ -119,7 +119,6 @@
     <string name="chat_jabber">Chatta su Jabber</string>
     <string name="chat">Chatta</string>
     <string name="description_minus_button">elimina</string>
-    <string name="expand_collapse_name_fields_description">Espandi o comprimi i campi dei nomi</string>
     <string name="list_filter_all_accounts">Tutti i contatti</string>
     <string name="list_filter_all_starred">Speciali</string>
     <string name="list_filter_customize">Personalizza</string>
@@ -133,7 +132,6 @@
     <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione...</string>
     <string name="menu_done">Fine</string>
     <string name="menu_doNotSave">Annulla</string>
-    <string name="listAllContactsInAccount">Contatti in %s</string>
     <string name="listCustomView">Contatti in visualizzazione personalizzata</string>
     <string name="listSingleContact">Contatto singolo</string>
     <string name="dialog_new_contact_account">"Crea contatto nell'account"</string>
@@ -214,7 +212,7 @@ Motivo: \"%s\""</string>
     <string name="description_dial_phone_number">Componi numero di telefono %1$s</string>
     <string name="contact_status_update_attribution">tramite %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s tramite %2$s</string>
-    <string name="people">Persone</string>
+    <string name="people">Contatti</string>
     <string name="shortcutContact">Contatto</string>
     <string name="shortcutDialContact">Composizione diretta</string>
     <string name="shortcutMessageContact">Messaggio diretto</string>
@@ -388,9 +386,6 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="keep_local">Memorizza in locale</string>
     <string name="add_account">Aggiungi account</string>
     <string name="add_new_account">Aggiungi nuovo account</string>
-    <string name="menu_export_database">Esporta file database</string>
-    <string name="contact_detail_picture_description">Immagine. Seleziona per modificare</string>
-
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_primary">Primary</string>
     <string name="preference_import_export_title">Import/Export contacts</string>
@@ -404,101 +399,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="description_send_text_message">Send text message to %1$s</string>
     <string name="recentCalls_callNumber">Call %s</string>
     <string name="preference_contacts_filter">Configure contact lists</string>
-    <string name="sim_account_name">SIM</string>
-    <string name="solar_calendar">公历</string>
-    <string name="lunar_calendar">农历</string>
-    <string name="lunar_zheng">正</string>
-    <string name="lunar_leap">闰</string>
-    <string name="lunar_ling">O</string>
-    <string name="lunar_yi">一</string>
-    <string name="lunar_er">二</string>
-    <string name="lunar_san">三</string>
-    <string name="lunar_si">四</string>
-    <string name="lunar_wu">五</string>
-    <string name="lunar_liu">六</string>
-    <string name="lunar_qi">七</string>
-    <string name="lunar_ba">八</string>
-    <string name="lunar_jiu">九</string>
-    <string name="lunar_shi">十</string>
-    <string name="lunar_shi_yi">冬</string>
-    <string name="lunar_shi_er">腊</string>
-    <string name="lunar_chu_shi">初十</string>
-    <string name="lunar_er_shi">二十</string>
-    <string name="lunar_san_shi">三十</string>
-    <string name="lunar_chu">初</string>
-    <string name="lunar_nian">廿</string>
-    <string name="lunar_yue">月</string>
-    <string name="lunar_year">年</string>
-    <string name="the_spring_festival">春节</string>
-    <string name="lantern_festival">元宵节</string>
-    <string name="the_dragon_boat_festival">端午节</string>
-    <string name="double_seventh_day">七夕</string>
-    <string name="the_mid_autumn_festival">中秋节</string>
-    <string name="the_double_ninth_festival">重阳节</string>
-    <string name="the_laba_rice_porridge_festival">腊八</string>
-    <string name="new_years_day">元旦</string>
-    <string name="valentines_day">情人节</string>
-    <string name="international_womens_day">妇女节</string>
-    <string name="arbor_day">植树节</string>
-    <string name="fools_day">愚人节</string>
-    <string name="labour_day">劳动节</string>
-    <string name="chinese_youth_day">青年节</string>
-    <string name="childrens_day">儿童节</string>
-    <string name="partys_day">建党节</string>
-    <string name="the_armys_day">建军节</string>
-    <string name="teachers_day">教师节</string>
-    <string name="national_day">国庆节</string>
-    <string name="christmas_day">圣诞节</string>
-    <string name="peace_day">和平紀念</string>
-    <string name="national_father_day">國父誕辰</string>
-    <string name="anti_aggression_day">反侵略日</string>
-    <string name="tw_youth_day">青年節</string>
-    <string name="tw_childrens_day">兒童節</string>
-    <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
-    <string name="armed_forces_day">軍人節</string>
-    <string name="united_nations_day">聯合國日</string>
-    <string name="retrocession_day">光復節</string>
-    <string name="hksar_establishment_day">行政區成立</string>
-    <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
-    <string name="good_friday">耶穌受難節</string>
-    <string name="day_following_good_friday">耶穌受難節翌日</string>
-    <string name="easter">復活節</string>
-    <string name="slight_cold">小寒</string>
-    <string name="great_cold">大寒</string>
-    <string name="spring_begins">立春</string>
-    <string name="the_rains">雨水</string>
-    <string name="insects_awaken">惊蛰</string>
-    <string name="vernal_equinox">春分</string>
-    <string name="clear_and_bright">清明</string>
-    <string name="grain_rain">谷雨</string>
-    <string name="summer_begins">立夏</string>
-    <string name="grain_buds">小满</string>
-    <string name="grain_in_ear">芒种</string>
-    <string name="summer_solstice">夏至</string>
-    <string name="slight_heat">小暑</string>
-    <string name="great_heat">大暑</string>
-    <string name="autumn_begins">立秋</string>
-    <string name="stopping_the_heat">处暑</string>
-    <string name="white_dews">白露</string>
-    <string name="autumn_equinox">秋分</string>
-    <string name="cold_dews">寒露</string>
-    <string name="hoar_frost_falls">霜降</string>
-    <string name="winter_begins">立冬</string>
-    <string name="light_snow">小雪</string>
-    <string name="heavy_snow">大雪</string>
-    <string name="winter_solstice">冬至</string>
     <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
-    <string name="v5_date_time_picker_dialog_title">设置提醒时间</string>
-    <string name="v5_date_picker_label_year">年</string>
-    <string name="v5_date_picker_label_month">月</string>
-    <string name="v5_date_picker_label_day">日</string>
-    <string name="v5_time_picker_label_hour">时</string>
-    <string name="v5_time_picker_label_minute">分</string>
-    <string name="group_name_contacts">Contacts</string>
-    <string name="group_name_friends">Friends</string>
-    <string name="group_name_family">Family</string>
-    <string name="group_name_coworkers">Colleagues</string>
-    <string name="unknown_caller">Unknown caller</string>
     <string name="launcherDialer">Phone</string>
     <string name="menu_newContact">New contact</string>
     <string name="menu_copy">Copy</string>
@@ -534,62 +435,20 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
     <string name="noContactsHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
- 
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/export to import contacts from your SIM or SD card
-"</li></font></b>"
-"</string>
+To add contacts, touch "</string>
     <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
- 
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
-"</li></font></b>"
-"</string>
+To add contacts, touch "</string>
     <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
- 
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
-"</li></font></b>"
-"</string>
+To add contacts, touch "</string>
     <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
- 
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
-"</li></font></b>"
-"</string>
+To add contacts, touch "</string>
     <string name="noFavoritesHelpText">"You don't have any favorites.
 
 To add a contact to your list of favorites:
 
-"<li>Touch the <b>Contacts</b>" tab
-"</li>" 
-"<li>"Touch the contact you want to add to your favorites
-"</li>" 
-"<li>"Touch the star next to the contact's name
-"</li>"
 "</string>
     <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
     <string name="dialer_returnToInCallScreen">Return to call in progress</string>
@@ -1046,7 +905,6 @@ Contact data stored in your MiCloud account will also be deleted."</string>
     <string name="yellowPageNavigationLabel">Directory</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Sign in</string>
-    <string name="login_before_recharging">You need to sign in before you can top up.</string>
     <string name="yellowpage_navigation_search_hint">Search</string>
     <string name="yellowpage_navigation_no_content">No search result</string>
     <string name="yellowpage_navigation_search_offline_hint">No internet access</string>
@@ -1055,6 +913,191 @@ Contact data stored in your MiCloud account will also be deleted."</string>
     <string name="yellowpage_navigation_search_select_city">Please select a city</string>
     <string name="yellowpage_navigation_search_result_no_more">No more results</string>
     <string name="yellowpage_navigation_search_result_network_error">"Couldn't connect to network"</string>
-    <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
-    <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
+    <string name="yellowpage_navigation_search_result_service_error">Service currently unavailable</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Unknown error occurred!</string>
+    <string name="menu_callNumber">Call %s</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
+    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="notification_new_voicemail_ticker">New voicemail from %1$s</string>
+    <string name="description_view_contact">View contact %1$s</string>
+    <string name="sim_capacity_content" formatted="false">Total capacity %d | %d used</string>
+    <string name="account_unactivated">Account not activated</string>
+    <string name="all_resources">All</string>
+    <string name="callrecordview_menu_batch_delete">Batch delete</string>
+    <string name="delete_call_log_selected_title">Delete selected call log?</string>
+    <string name="deleting">Deleting...</string>
+    <string name="description_author">Author:</string>
+    <string name="description_designer">Designer:</string>
+    <string name="description_download">Download:</string>
+    <string name="description_size">Size:</string>
+    <string name="description_summary">Summary:</string>
+    <string name="description_uploadtime">Updated:</string>
+    <string name="description_version">Version:</string>
+    <string name="description_version_szie">Version: %1$s Size: %2$s</string>
+    <string name="download_failed">Download failed!</string>
+    <string name="download_preview_failed">Failed to load preview</string>
+    <string name="fail_to_add_account">Failed to add account!</string>
+    <string name="group_name">My groups</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_resource_detail_fail">Failed to load resource!</string>
+    <string name="loading_resource_detail_info">Loading resource info...</string>
+    <string name="online_no_network">"Couldn't connect to network"</string>
+    <string name="online_search_hint">Search for online resources</string>
+    <string name="resource_account_abnormal_state">Account error, please try again later.</string>
+    <string name="resource_account_fail_to_add">Failed to add account!</string>
+    <string name="resource_account_login">Log in</string>
+    <string name="resource_account_login_before_action">Please login to your Xiaomi account.</string>
+    <string name="resource_account_login_title">Login</string>
+    <string name="resource_account_switch">Switch account</string>
+    <string name="resource_alarm_default">Alarm</string>
+    <string name="resource_app_name">Resource browser</string>
+    <string name="resource_apply">Apply</string>
+    <string name="resource_apply_trial">Try now</string>
+    <string name="resource_buy">Buy</string>
+    <string name="resource_can_not_selected">"%1$s can't be selected"</string>
+    <string name="resource_category">Category</string>
+    <string name="resource_comment_1_star">1 Star</string>
+    <string name="resource_comment_2_star">2 Stars</string>
+    <string name="resource_comment_3_star">3 Stars</string>
+    <string name="resource_comment_4_star">4 Stars</string>
+    <string name="resource_comment_5_star">5 Stars</string>
+    <string name="resource_comment_all_comments">All</string>
+    <string name="resource_comment_average_score">Ratings</string>
+    <string name="resource_comment_bad_comments">Negative</string>
+    <string name="resource_comment_current_version">Current version</string>
+    <string name="resource_comment_edit_comment">Add comments</string>
+    <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
+    <string name="resource_comment_edit_text_default">Add a comment</string>
+    <string name="resource_comment_edit_title">Edit comment: %1$s</string>
+    <string name="resource_comment_entry_tips">Show comments</string>
+    <string name="resource_comment_expand_full_text">Show all text ▼</string>
+    <string name="resource_comment_footer">Empty comments are not displayed.</string>
+    <string name="resource_comment_good_comments">Positive comments</string>
+    <string name="resource_comment_invalid">Touch stars to rate</string>
+    <string name="resource_comment_loading_list">Loading comments…</string>
+    <string name="resource_comment_name_default">User %1$s</string>
+    <string name="resource_comment_no_average_score">No score</string>
+    <string name="resource_comment_no_comment">No comments</string>
+    <string name="resource_comment_publish">Submit</string>
+    <string name="resource_comment_rate">Rating:</string>
+    <string name="resource_comment_score_count">%1$s users</string>
+    <string name="resource_comment_sending">Adding comment…</string>
+    <string name="resource_comment_title">Comments: %1$s</string>
+    <string name="resource_comment_upload_data_invalid">Comment input is invalid</string>
+    <string name="resource_comment_upload_failed">Failed add comments!</string>
+    <string name="resource_comment_upload_hint">Comments will be displayed after being reviewed.</string>
+    <string name="resource_comment_upload_not_bought">Please use this theme before leaving comments.</string>
+    <string name="resource_comment_upload_not_logined">Please login first</string>
+    <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
+    <string name="resource_default">Default ringtone</string>
+    <string name="resource_default_name">Resource</string>
+    <string name="resource_delete_all">Delete %1$d selected resources?</string>
+    <string name="resource_delete_confirm">Delete these resources?</string>
+    <string name="resource_delta_update_failed">Update failed! The complete resource will now be downloaded</string>
+    <string name="resource_delta_update_successful">Update successful，saving %1$s.</string>
+    <string name="resource_delta_update_total">%1$d updates. Total saved %2$s</string>
+    <string name="resource_detail">Details</string>
+    <string name="resource_detail_comment_title">Comments</string>
+    <string name="resource_detail_jump_to_online_title">Online</string>
+    <string name="resource_detail_jump_to_same_author_title">Same author</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
+    <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
+    <string name="resource_detail_recommend_other_themes">Users also liked</string>
+    <string name="resource_detail_update_log_title">Updates</string>
+    <string name="resource_detail_window_title">%1$s details</string>
+    <string name="resource_download">Download</string>
+    <string name="resource_download_trial">Free trial</string>
+    <string name="resource_downloaded_title">Downloaded resources</string>
+    <string name="resource_downloading">Downloading...</string>
+    <string name="resource_exchange">Redeem</string>
+    <string name="resource_exchange_confirm">Confirm</string>
+    <string name="resource_exchange_empty_format">Please input gift code</string>
+    <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
+    <string name="resource_exchange_has_expired">The gift code you entered has expired.</string>
+    <string name="resource_exchange_has_used">The gift ode you entered has already been used.</string>
+    <string name="resource_exchange_hint">Enter your gift code</string>
+    <string name="resource_exchange_purchase_unkown_error">An unknown error occurred. Please login at http://market.xiaomi.com to view your payment status..</string>
+    <string name="resource_exchange_share_code_content">You have received a code for %1$s on the MIUI theme store. Your gift code is: %2$s. Touch %3$s to use it now.</string>
+    <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for %1$s is: %2$s. You can now share this with friends.</string>
+    <string name="resource_exchange_share_code_dlg_title">Send gift code</string>
+    <string name="resource_exchange_success">Transaction successful</string>
+    <string name="resource_exchange_unavailable">"The theme associated with the gift code you entered isn't available."</string>
+    <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI Theme Store.</string>
+    <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
+    <string name="resource_exchange_window_title">Redeem gift code</string>
+    <string name="resource_exchange_wrong_format_by_local">Invalid code entered</string>
+    <string name="resource_exchange_wrong_format_by_server">"Gift code could not be verified. Make sure you'inputted it correctly."</string>
+    <string name="resource_expand_full_text">Expand</string>
+    <string name="resource_get_auth_checking">Checking authorisation...</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device, you have reached the device limit of 10, please use another device</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit exceeded</string>
+    <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
+    <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
+    <string name="resource_hint">Alert</string>
+    <string name="resource_import_failed">Import failed</string>
+    <string name="resource_import_successful">Download complete</string>
+    <string name="resource_importing">Importing…</string>
+    <string name="resource_list_title">Latest selected</string>
+    <string name="resource_local">Local %1$s</string>
+    <string name="resource_menu_refresh">Refresh</string>
+    <string name="resource_mute">None</string>
+    <string name="resource_my">Local</string>
+    <string name="resource_no_result">No result</string>
+    <string name="resource_notification_default">Notifications</string>
+    <string name="resource_on_trial">Trying: %1$s</string>
+    <string name="resource_online">Online %1$s</string>
+    <string name="resource_pack_confirm">You have already purchased %1$d items, the current purchase price is better than purchase individually for left items, would you like to continue?</string>
+    <string name="resource_pack_discount_info">%1$s saved</string>
+    <string name="resource_pack_price_info">%1$s Original</string>
+    <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
+    <string name="resource_present">Gift</string>
+    <string name="resource_price_format">(%1$s)</string>
+    <string name="resource_price_free">Free</string>
+    <string name="resource_price_unit">" MiCredits"</string>
+    <string name="resource_purchase_getting_order">Retrieving order info…</string>
+    <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
+    <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
+    <string name="resource_ranking">Popular</string>
+    <string name="resource_ranking_free">Free</string>
+    <string name="resource_ranking_purchase">Paid</string>
+    <string name="resource_ringtone_default">Ringtones</string>
+    <string name="resource_ringtone_playing_error">playing error</string>
+    <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
+    <string name="resource_save_to_note">Save to Notes</string>
+    <string name="resource_see_more">See more</string>
+    <string name="resource_select">Select</string>
+    <string name="resource_selected">Featured</string>
+    <string name="resource_send">Send</string>
+    <string name="resource_server_alert_dialog_title">Service is currently unavailable</string>
+    <string name="resource_server_out_of_service">Server currently unavailable, please try again later.</string>
+    <string name="resource_share_subject">Share theme: %1$s</string>
+    <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
+    <string name="resource_share_title">Share</string>
+    <string name="resource_system_title">System resources</string>
+    <string name="resource_tip_select_ringtone">None selected</string>
+    <string name="resource_title">Resource detail</string>
+    <string name="resource_title_select_ringtone">Select tone</string>
+    <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+    <string name="resource_trial_end_purchase">Purchase</string>
+    <string name="resource_trial_end_restore">Finish trial</string>
+    <string name="resource_trial_end_title">Trial expired</string>
+    <string name="resource_trial_time">（trial for %1$d minutes）</string>
+    <string name="resource_unable_to_access">"Unfortunately,
+the content you're looking for is not currently available in your region."</string>
+    <string name="resource_unknow_error">An unknown error occurred</string>
+    <string name="resource_update">Update</string>
+    <string name="resource_user_know">OK</string>
+    <string name="resource_waiting_download">Waiting to download...</string>
+    <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
+"</string>
+    <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+    <string name="to_activate_the_account">Activate your Xiaomi Account now</string>
+    <string name="toast_finish_delete_selected_call_log">Selected call log deleted</string>
+    <string name="yellowpage_navigation_menu_order">My order</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
+    <string name="import_weibo_notification_title">Importing Sina Weibo contacts…</string>
+    <string name="config_export_dir">/mnt/sdcard</string>
+    <string name="config_prohibited_phone_number_regexp" />
+    <string name="resource_account_current">Account: %1$s</string>
+    <string name="t9_search_guide">Quickly find people using your dialler pad</string>
 </resources>

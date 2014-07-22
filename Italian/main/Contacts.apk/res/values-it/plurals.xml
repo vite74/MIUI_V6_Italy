@@ -34,14 +34,14 @@
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d numeri</item>
-        <item quantity="one">%1$d numbero</item>
+        <item quantity="one">%1$d numero</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d messaggi in segreteria</item>
         <item quantity="one">Messaggio in segreteria</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selezioanti</item>
+        <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="group_add_success_toast">

@@ -318,7 +318,7 @@ Motivo: \"%s\""</string>
     <string name="pick_new_photo">Seleziona nuova foto da galleria</string>
     <string name="locale_change_in_progress">"Elenco contatti in fase di aggiornamento per l'applicazione della modifica della lingua."</string>
     <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>
-    <string name="upgrade_out_of_memory">"Contatti in fase di upgrade. 
+    <string name="upgrade_out_of_memory">"Contatti in fase di aggiornamento. 
 
 Il processo di upgrade richiede circa %s MB di memoria interna.
 

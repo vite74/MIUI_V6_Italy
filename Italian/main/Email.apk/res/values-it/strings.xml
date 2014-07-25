@@ -664,8 +664,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="account_setup_need_password_verification">Il tuo account è stato aperto tramite autenticazione password, autenticazione richiesta</string>
     <string name="other_mail">Altra email</string>
     <string name="account_settings_list_title">Seleziona i provider di posta da aggiungere:</string>
-    <string name="confirm">conferma</string>
-    <string name="annex_size">allegati</string>
+    <string name="confirm">Conferma</string>
+    <string name="annex_size">Allegati</string>
     <string name="change_account_type">Modifica tipo di account</string>
     <string name="change_account_confirm">"L'account "%1$s" verrà rimosso da WPSMail."</string>
     <string name="account_type_exchange">Exchange</string>

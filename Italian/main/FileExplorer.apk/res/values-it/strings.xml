@@ -114,7 +114,7 @@
     <string name="ui_main_menu_option_task_manage">Gestione Trasferimenti</string>
     <string name="kuaipan_label">Kuaipan</string>
     <string name="create_kuaipan_shortcut_pref">Crea collegamento sulla Home</string>
-    <string name="login_reg_content0">Utilizza KuaiPan in qualsiasi luogo.</string>
+    <string name="login_reg_content0">Utilizza Kuaipan in qualsiasi luogo.</string>
     <string name="login_reg_content">Archivia file e sincronizzali con vari dispositivi, questa funzione necessita di una connessione di rete.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
     <string name="pan_settting">Impostazioni MiDrive</string>
@@ -249,7 +249,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="folder_exist">Cartella già esistente</string>
     <string name="unmount_inform_text">"L'archivio uSB verrà smontato.</string>
     <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
-    <string name="my_app">DAti app</string>
+    <string name="my_app">Dati app</string>
     <string name="my_app_desc" />
     <string name="my_bak">Backup</string>
     <string name="my_bak_desc" />
@@ -284,7 +284,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="open_file_failed">Impossibile aprire</string>
     <string name="system_alert">Avvisa</string>
-    <string name="network_connect_confirm_des">Usando kuaipan si accede alla rete dati, accedere?</string>
+    <string name="network_connect_confirm_des">Usando Kuaipan si accede alla rete dati, accedere?</string>
     <string name="operation_agree">Sì</string>
     <string name="never_notify_network_connect">Non mostrare più</string>
     <string name="connect_network_setting_des">"Avvisami quando si richiede l'accesso alla rete"</string>

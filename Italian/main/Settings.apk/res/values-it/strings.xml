@@ -2250,11 +2250,11 @@ La SIM non lo supporta.</string>
     <string name="wifi_disabled_help">"Wi-Fi disconnesso a causa della scarsa qualità della connessione"</string>
     <string name="wifi_wps_overlap_error">"E' stata rilevata un'altra sessione Wi-Fi. Riprova fra qualche minuto."</string>
     <string name="wifi_p2p_wps_setup">Impostazione WPS</string>
-    <string name="default_input_method">Scegli metodo di immissione predefinito</string>
+    <string name="default_input_method">Scegli tastiera</string>
     <string name="volume_category_title">Volume</string>
     <string name="vibrate_category_title">Vibrazione</string>
     <string name="vibrate_in_normal_title">Vibra quando suona</string>
-    <string name="silent_mode_title">Modalità silenziona</string>
+    <string name="silent_mode_title">Modalità silenziosa</string>
     <string name="media_feedback_enable_title">Vibra a ritmo</string>
     <string name="wifi_wapi_certification_dont_exist">La password di rete che hai inserito non è corretta. Per favore riprova.</string>
     <string name="please_type_passphrase">Password</string>
@@ -2625,7 +2625,7 @@ ed esegui il software."</string>
     <string name="free_wifi_confirm">Ho capito</string>
     <string name="restrict_background_data_title">Limita dati in background</string>
     <string name="restrict_background_data_dialog_summary">Le app in esecuzione in background non possono ricevere messaggi</string>
-    <string name="restrict_background_data_notification_summary">Le app non possono connetersi alla rete se i dati in background sono limitati</string>
+    <string name="restrict_background_data_notification_summary">Le app non possono connettersi alla rete se i dati in background sono limitati</string>
     <string name="accessibility_screen_magnification_enable">"Gesti per l'ingrandimento"</string>
     <string name="miui_screensaver_state_on">Attivato</string>
     <string name="miui_screensaver_state_off">Disattivato</string>
@@ -2643,7 +2643,7 @@ ed esegui il software."</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
     <string name="preferred_app_settings_reset_message">Ripristino impostazioni app predefinite?</string>
     <string name="system_app_settings">App di sistema</string>
-    <string name="connect_to_internet">Connessione ad Internet</string>
+    <string name="connect_to_internet">Rete Wi-Fi</string>
     <string name="wifi_setting_category">Per attivare il tuo dispositivo, connettiti ad Internet</string>
     <string name="downloading_description">Download in corso…</string>
     <string name="cancel_download_buton_text">Annulla</string>

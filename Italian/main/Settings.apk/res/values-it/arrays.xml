@@ -236,7 +236,7 @@
         <item>volume principale</item>
         <item>volume voce</item>
         <item>volume suoneria</item>
-        <item>volume contenuti multimediali</item>
+        <item>volume media</item>
         <item>volume allarme</item>
         <item>volume notifiche</item>
         <item>volume bluetooth</item>
@@ -276,12 +276,12 @@
         <item>Riproduzione audio</item>
         <item>Lettura degli appunti</item>
         <item>Modifica degli appunti</item>
-        <item>Pulsanti contenuti multimediali</item>
+        <item>Pulsanti media</item>
         <item>Focus audio</item>
         <item>Volume principale</item>
         <item>Volume voce</item>
         <item>Volume suoneria</item>
-        <item>Volume contenuti multimediali</item>
+        <item>Volume media</item>
         <item>Volume allarme</item>
         <item>Volume notifiche</item>
         <item>Volume Bluetooth</item>

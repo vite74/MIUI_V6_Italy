@@ -366,9 +366,7 @@ ed esci dall'inquadratura"</string>
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
     <string name="simple_mode_button_text_audio_capture">Esci dalla modalità scatto vocale</string>
     <string name="simple_mode_button_text_fast_video">Esci dalla modalità fast-motion</string>
-    <string name="simple_mode_button_text_slow_video">Chiudi la fotocamera slow-motion</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
-    <string name="pref_video_fast_speed_title_simple_mode">Fast-motion</string>
+    <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
     <string name="simple_mode_title">Modalità semplice</string>
     <string name="pref_settings_mode">Modalità fotocamera</string>
     <string name="pref_video_captrue_ability_title">Modalità cattura</string>

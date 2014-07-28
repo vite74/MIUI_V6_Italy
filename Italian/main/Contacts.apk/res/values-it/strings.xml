@@ -770,7 +770,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_smart_group_location_title">Per località</string>
     <string name="preference_smart_group_location_summary">Raggruppa per codice area</string>
     <string name="preference_smart_group_frequency_title">Più recenti</string>
-    <string name="preference_smart_group_frequency_summary">Raggruppo per i più recenti</string>
+    <string name="preference_smart_group_frequency_summary">Raggruppa i più recenti</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_label">Gruppi intelligenti</string>
     <string name="smart_group_loading">Caricamento gruppi in corso…</string>

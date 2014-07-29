@@ -7,6 +7,7 @@
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
+    <string name="label_giftcard">Carta regalo:</string>
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Inserisci password account</string>
     <string name="password_error">Password sbagliata.</string>
@@ -20,8 +21,8 @@
     <string name="button_recharge_pay">Conferma</string>
     <string name="button_recharge">Ricarica</string>
     <string name="balance_payment">%1$s MiCredit</string>
-    <string name="balance_giftcard_payment">%1$s MiCredit (%2$s-Carta MiCredit)</string>
-    <string name="balance_no_giftcard_payment">%1$s MiCredit (non è possibile utilizzare la carta MiCredit per questo acquisto)</string>
+    <string name="giftcard_payment">%1$s MiCredit</string>
+    <string name="partner_giftcard_payment">%1$s MiCredit （Solo per %2$s）</string>
     <string name="payment_actionbar_title">Conferma</string>
     <string name="balance_title">Saldo</string>
     <string name="giftcard_value">(%1$s-Carta regalo MiCredit)</string>
@@ -62,7 +63,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="pc_pay_website">mibi.xiaomi.com</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
-
+    <string name="denomination_unit">￥</string>
     <string name="btn_recharge_large">Ricarica</string>
     <string name="recharge_other">Mostra altri metodi</string>
     <string name="btn_recharge_success">Ricarica completata</string>
@@ -70,7 +71,6 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="btn_prev">Indietro</string>
     <string name="btn_next">Avanti</string>
     <string name="recharge_grid_picker_hint">Seleziona importo</string>
-
     <string name="recharge_grid_edit_limit">￥%1$s~%2$s</string>
     <string name="recharge_grid_edit_upper_limit">Non puoi superare i ￥%1$s</string>
     <string name="recharge_grid_error_denomination">"Inserisci l'importo corretto tra ￥%1$s~%2$s"</string>

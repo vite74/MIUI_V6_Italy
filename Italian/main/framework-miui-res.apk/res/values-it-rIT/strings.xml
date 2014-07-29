@@ -16,13 +16,13 @@
     <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
-    <string name="global_actions_airplane_mode">Airplane mode</string>
+    <string name="global_actions_airplane_mode">Modalità Aereo</string>
     <string name="global_actions_reboot">Riavvia</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
-    <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-    <string name="screen_on_proximity_sensor_summary">"Don't cover the top of the screen."</string>
-    <string name="screen_on_proximity_sensor_hint">To disable this feature, press the Back and Volume up buttons simultaneously.</string>
+    <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
+    <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
+    <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi i tasti Indietro e Volume Su.</string>
     <string name="first_back_long_press_message">Vuoi abilitare la funzione long-press del tasto Indietro per chiudere il porcesso attuale ed i servizi in background associati? Abilita da Impostazioni > Sistema > Tasto Impostazioni</string>
     <string name="force_exit_message">\"%1$s\" chiuso correttamente</string>
     <string name="screen_button_notification_title">Tasti schermo disabilitati</string>

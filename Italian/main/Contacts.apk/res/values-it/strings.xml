@@ -357,7 +357,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="social_widget_label">Contatto</string>
     <string name="social_widget_loading">Caricamento...</string>
     <string name="contacts_unavailable_create_contact">Crea nuovo contatto</string>
-    <string name="contacts_unavailable_add_account">Accedi a un account</string>
+    <string name="contacts_unavailable_add_account">Accedi ad un account</string>
     <string name="contacts_unavailable_import_contacts">Importa contatti</string>
     <string name="create_group_dialog_title">Crea nuovo gruppo</string>
     <string name="create_group_item_label">Crea nuovo gruppo</string>

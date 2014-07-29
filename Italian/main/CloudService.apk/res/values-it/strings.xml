@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Sincronizzazione Xiaomi</string>
-  <string name="find_device">Find device</string>
+  <string name="find_device">Trova telefono</string>
   <string name="find_device_stop_noise">Premi \"OK\" per fermare il suono di avviso</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Si consiglia di attivare per non avere un consumo dati eccessivo</string>
   <string name="pref_title_sync_contacts_title">Sincronizza contatti</string>

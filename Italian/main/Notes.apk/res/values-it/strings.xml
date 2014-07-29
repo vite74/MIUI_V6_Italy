@@ -50,7 +50,7 @@
     <string name="search_hint">Cerca note</string>
     <string name="search_setting_description">Testo nelle note</string>
     <string name="search">Note</string>
-    <string name="button_new_note">Nuova Nota</string>
+    <string name="button_new_note">Nuova nota</string>
     <string name="default_folder_name">Note</string>
     <string name="attachment_gallery">Galleria</string>
     <string name="attachment_camera">Fotocamera</string>

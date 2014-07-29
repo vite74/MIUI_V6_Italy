@@ -22,7 +22,7 @@
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
     <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
     <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
-    <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi i tasti Indietro e Volume Su.</string>
+    <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i tasti Indietro e Volume Su.</string>
     <string name="first_back_long_press_message">Vuoi abilitare la funzione long-press del tasto Indietro per chiudere il porcesso attuale ed i servizi in background associati? Abilita da Impostazioni > Sistema > Tasto Impostazioni</string>
     <string name="force_exit_message">\"%1$s\" chiuso correttamente</string>
     <string name="screen_button_notification_title">Tasti schermo disabilitati</string>

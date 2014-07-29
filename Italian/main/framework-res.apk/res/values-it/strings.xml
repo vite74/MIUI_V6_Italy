@@ -987,7 +987,7 @@ Vuoi chiuderla?"</string>
     <string name="screen_compat_mode_hint">Riattivala in Impostazioni di sistema > Applicazioni > Scaricate.</string>
     <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
     <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
-    <string name="android_upgrading_title">Upgrade di Android...</string>
+    <string name="android_upgrading_title">Aggiornamento Android...</string>
     <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d.</string>
     <string name="android_upgrading_starting_apps">Avvio applicazioni.</string>
     <string name="android_upgrading_complete">"Conclusione dell'avvio."</string>
@@ -1012,7 +1012,7 @@ Vuoi chiuderla?"</string>
     <string name="volume_icon_description_bluetooth">Volume Bluetooth</string>
     <string name="volume_icon_description_ringer">Volume suoneria</string>
     <string name="volume_icon_description_incall">Volume chiamate</string>
-    <string name="volume_icon_description_media">Volume contenuti multimediali</string>
+    <string name="volume_icon_description_media">Volume media</string>
     <string name="volume_icon_description_notification">Volume notifiche</string>
     <string name="ringtone_default">Suoneria predefinita</string>
     <string name="ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>

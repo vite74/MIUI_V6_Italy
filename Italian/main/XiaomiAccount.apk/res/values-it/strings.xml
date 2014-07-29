@@ -151,7 +151,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="process_result">Dettagli sincronizzazione:</string>
     <string name="access_token_expired_warning">"L'account Weibo è scaduto, riconnettere"</string>
     <string name="access_token_invalid_warning">"L'account Weibo non è valido, si prega di riconnettere"</string>
-    <string name="service_error">Errore di servizio</string>    <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="service_error">Errore di servizio</string>
     <string name="wrong_captcha">Captcha non valido</string>
     <string name="wrong_vcode">Vcode non valido</string>
     <string name="input_vcode_prompt">Inserisci codice di verifica</string>

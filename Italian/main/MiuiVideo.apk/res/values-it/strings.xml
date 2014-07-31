@@ -59,7 +59,7 @@
     <string name="vp_super_definition">Super</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_content_description">Descrizione del contenuto</string>
-    <string name="vp_get_url_error">""Impossibile ottenere l'indirizzo da riprodurre."</string>
+    <string name="vp_get_url_error">"Impossibile ottenere l'indirizzo da riprodurre."</string>
     <string name="vp_exit">Esci</string>
     <string name="vp_back">Indietro</string>
     <string name="vp_loading">Caricamento in corso…</string>

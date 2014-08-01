@@ -75,7 +75,7 @@
     <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
     <string name="operation_delete_confirm_message_folder">Cartelle e file verranno eliminati nello stesso momento.</string>
     <string name="delete_folder">Eliminare %1$d cartelle?</string>  
-    <string name="delete_file">Eliminare %1$d file?</string
+    <string name="delete_file">Eliminare %1$d file?</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
     <string name="confirm_delete_init_title">Hint</string>
     <string name="confirm_delete_init_message">"L'immagine verrà eliminata da questo dispositivo e dal tuo MiCloud. Se vuoi eliminarla solo in locale, esegui l'operazione localmente."</string>

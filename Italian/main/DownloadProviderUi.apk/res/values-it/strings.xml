@@ -63,16 +63,17 @@
     <string name="pref_summary_max_bytes_limit_format">Chiedi autorizzazione se il file supera i %s</string>
     <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
-    <string name="download_in_process">Download in corso</string>
+    <string name="download_in_process">In corso</string>
     <string name="download_complete">Scaricati</string>
     <string name="retry_after_network_available">Riprova quando ci sarà una rete disponibile.</string>
     <string name="editmode_menu_share">Condividi</string>
     <string name="editmode_menu_delete">Elimina</string>
     <string name="all_downloads">Tutti i download</string>
     <string name="app_downloads">%s download</string>
-    <string name="turn_off_xunlei_message">Potresti riscontrare velocità di download più lente.</string>
-    <string name="turn_off_xunlei_title">Disattiva il motore download Xunlei</string>
-    <string name="xunlei_brand">Powered by Xunlei</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-    <string name="xunlei_switch">Xunlei download engine</string>
+    <string name="all_fileter">TUTTI</string>
+    <string name="apk_filter">APK</string>
+    <string name="media_filter">MEDIA</string>
+    <string name="doc_filter">DOCUMENTI</string>
+    <string name="package_filter">PACCHETTI</string>
+    <string name="other_filter">ALTRO</string>
 </resources>

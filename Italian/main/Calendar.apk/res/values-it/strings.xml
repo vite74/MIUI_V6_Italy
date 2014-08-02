@@ -191,6 +191,25 @@
     <string name="recurrence_end_date">Fino al giorno: %s</string>
     <string name="recurrence_end_count_label">Per una serie di eventi</string>
     <string name="acessibility_recurrence_choose_end_date_description">modifica data di fine</string>
+    <string name="notification_sender_id" />
+    <string name="lunar_calendar" />
+    <string name="lunar_yue"> />
+    <string name="year_label"> />
+    <string name="blank_space">"  "</string>
+    <string name="local_calendar_display_name">Calendario locale</string>
+    <string name="local_owner_account_name">Account locale</string>
+    <string name="month_medium_january">Gen</string>
+    <string name="month_medium_february">Feb</string>
+    <string name="month_medium_march">Mar</string>
+    <string name="month_medium_april">Apr</string>
+    <string name="month_medium_may">Mag</string>
+    <string name="month_medium_june">Giu</string>
+    <string name="month_medium_july">Lug</string>
+    <string name="month_medium_august">Ago</string>
+    <string name="month_medium_september">Set</string>
+    <string name="month_medium_october">Ott</string>
+    <string name="month_medium_november">Nov</string>
+    <string name="month_medium_december">Dic</string>
     <string name="hint_time_zone_search">Digita il nome del Paese</string>
     <string name="searchview_description_clear">Cancella query</string>
     <string name="no_results_found">Nessun risultato trovato</string>
@@ -198,6 +217,7 @@
     <string name="done_label">Fine</string>
     <string name="hour_picker_description">Dispositivo di scorrimento circolare per le ore</string>
     <string name="minute_picker_description">Dispositivo di scorrimento per i minuti</string>
+    <string name="minute_picker_description">Slider minuti circolare</string>
     <string name="select_hours">Seleziona le ore</string>
     <string name="select_minutes">Seleziona i minuti</string>
     <string name="day_picker_description">Griglia del mese suddivisa per giorni</string>
@@ -213,4 +233,7 @@
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="done">Invio</string>
+    <string name="daily">Quotidiano</string>
+    <string name="weekly">Settimanale (ogni %s)</string>
+    <string name="query_empty">" "</string>
 </resources>

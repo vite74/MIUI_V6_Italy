@@ -460,7 +460,7 @@
     <string name="gesture_kneading">GEstisci le pagine in finestre multiple</string>
     <string name="advertise_pop_window">Blocca popup</string>
     <string name="advertise_suspend_window">Blocca finestre in sospensione</string>
-    <string name="clear_data_cache_cookie">Cancella cache ecookie</string>
+    <string name="clear_data_cache_cookie">Cancella cache e cookie</string>
     <string name="clear_data_website_dataset">Archivio dati sito</string>
     <string name="pref_ua_title">Gestione user agent</string>
     <string name="pref_ua_string">Stringa user agent</string>

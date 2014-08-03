@@ -217,7 +217,6 @@
     <string name="done_label">Fine</string>
     <string name="hour_picker_description">Dispositivo di scorrimento circolare per le ore</string>
     <string name="minute_picker_description">Dispositivo di scorrimento per i minuti</string>
-    <string name="minute_picker_description">Slider minuti circolare</string>
     <string name="select_hours">Seleziona le ore</string>
     <string name="select_minutes">Seleziona i minuti</string>
     <string name="day_picker_description">Griglia del mese suddivisa per giorni</string>

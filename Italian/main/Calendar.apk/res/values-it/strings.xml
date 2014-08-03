@@ -46,7 +46,7 @@
     <string name="creating_event_with_guest">Gli inviti verranno inviati.</string>
     <string name="saving_event_with_guest">Gli aggiornamenti verranno inviati.</string>
     <string name="create_event_dialog_save">Salva</string>
-    <string name="alert_title">Notifiche di Google Calendar</string>
+    <string name="alert_title">Notifiche Calendario Google</string>
     <string name="event_info_title">Visualizza evento</string>
     <string name="event_info_title_invite">Invito a riunione</string>
     <string name="edit_event_to_label">A</string>
@@ -193,8 +193,8 @@
     <string name="acessibility_recurrence_choose_end_date_description">modifica data di fine</string>
     <string name="notification_sender_id" />
     <string name="lunar_calendar" />
-    <string name="lunar_yue"> />
-    <string name="year_label"> />
+    <string name="lunar_yue" />
+    <string name="year_label" />
     <string name="blank_space">"  "</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="local_owner_account_name">Account locale</string>

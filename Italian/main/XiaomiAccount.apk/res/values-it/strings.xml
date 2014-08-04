@@ -187,7 +187,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Non è stato possibile recuperare le informazioni di registrazione</string>
     <string name="activate_status_desc_acquire_sim_pass_token">Acquisizione informazioni di sicurezza dal server</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">"Si è verificato un errore del server durante l'acquisizione delle informazioni di sicurezza. Nuovo tentativo..."</string>
-    <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">"Si è verificato un I/O server durante l'acquisizione delle informazioni di sicurezza. Nuovo tentativo..."</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">"Si è verificato un erroore di I/O lato server durante l'acquisizione delle informazioni di sicurezza. Nuovo tentativo..."</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Non è stato possibile recuperare le informazioni di sicurezza. Nuovo tentativo..."</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_error">"Si è verificato un errore del server durante l'acquisizione delle informazioni di sicurezza"</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">"Si è verificato un I/O server durante l'acquisizione delle informazioni di sicurezza"</string>

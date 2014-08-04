@@ -252,7 +252,7 @@ Se il tuo dispositivo viene smarrito o danneggiato, potresti non recuperare più
     <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">"Si è verificato un errore lato server durante l'acquisizione delle info sulla sicurezza. Riprovo…"</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Si è verificato un errore di I/O lato server durante l'acquisizione delle info sulla sicurezza. Riprovo…"</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Impossibile ottenere info sulla sicurezza. Riprovo…</string>
-    <string name="activate_status_desc_acquire_sim_pass_token_server_error">"Si è verificato un errore lato server durante l'acquisizione delle info sulla sicurezza."/string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_error">"Si è verificato un errore lato server durante l'acquisizione delle info sulla sicurezza."</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">"Si è verificato un errore di I/O lato server durante l'acquisizione delle info sulla sicurezza."</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Impossibile ottenere le info sulla sicurezza</string>
     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Impossibile ottenere le info sulla sicurezza: token password non corretta</string>

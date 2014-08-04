@@ -51,7 +51,7 @@
     <string name="micloud_error_empty_captcha_code">Inserisci il codice captcha</string>
     <string name="micloud_error_empty_vcode">Inserisci il codici di verifica</string>
     <string name="micloud_email">Indirizzo email</string>
-    <string name="reg_type_phone">Crea via telefono (racommandato)</string>
+    <string name="reg_type_phone">Crea via telefono (raccomandato)</string>
     <string name="reg_type_email">Crea via email</string>
     <string name="micloud_input_password_prompt">Inserisci password</string>
     <string name="micloud_password_confirm_hint">Conferma password</string>
@@ -71,7 +71,7 @@
     <string name="micloud_activating_account_notify_info">Attivazione in corso del tuo account Xiaomi</string>
     <string name="micloud_activate_back_btn">Annulla</string>
     <string name="micloud_activate_retry_btn">Riprova</string>
-    <string name="micloud_account_not_actived">"L'acount non è stato attivato"</string>
+    <string name="micloud_account_not_actived">"L'account non è stato attivato"</string>
     <string name="micloud_active_email_visit">Visita %s</string>
     <string name="micloud_click_email_to_valid">Per attivare il tuo account, segui il link di attivazione che hai ricevuto via mail.</string>
     <string name="micloud_resend_active_email">"Rispedisci l'email di attivazione"</string>
@@ -182,12 +182,12 @@
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="current_account">Account attuale</string>
     <string name="my_xiaomi_account">Account Xiaomi</string>
-    <string name="micloud_intro_01_part_01">Risparmia sul trasferimento dati!</string>
+    <string name="micloud_intro_01_part_01">Ottimizza il trasferimento dei dati!</string>
     <string name="micloud_intro_01_part_02">Messaggi gratis via Wi-Fi</string>
     <string name="micloud_intro_02_part_01">"Non usare più unità esterne o l'email per spostare i tuoi file."</string>
-    <string name="micloud_intro_02_part_02">Sincronizza contatti, messaggi, foto, ed altro tra diversi dispoitivi.</string>
+    <string name="micloud_intro_02_part_02">Sincronizza contatti, messaggi, foto, ed altro tra diversi dispositivi.</string>
     <string name="micloud_intro_03_part_01">Metti al sicuro il contenuto del tuo dispositivo</string>
-    <string name="micloud_intro_03_part_02">Rintraccia, blocco o cancella il contenuto del tuo dispositivo da remoto tramite i.xiaomi.com"</string>
+    <string name="micloud_intro_03_part_02">Rintraccia, blocca o cancella il contenuto del tuo dispositivo da remoto tramite i.xiaomi.com"</string>
     <string name="micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="cmcc_micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="micloud_sec_dspt">e condividere cose con i tuoi amici.</string>
@@ -229,9 +229,9 @@ Se il tuo dispositivo viene smarrito o danneggiato, potresti non recuperare più
     <string name="activate_status_desc_getting_sim_info">Recupero informazioni sulla carta SIM</string>
     <string name="activate_status_desc_failed_getting_sim_info">Impossibile recuperare informazioni sulla carta SIM</string>
     <string name="activate_status_desc_getting_gateway">Ricerca Gatewy SMS</string>
-    <string name="activate_status_desc_failed_getting_gateway">Impossibile troavre un gateway SMS</string>
-    <string name="activate_status_desc_prepare_sending_sms">"In preparazione l'invio al gateway dell'attivazione SMS"</string>
-    <string name="activate_status_desc_sending_sms">Invio attivazione al gateway SMS</string>
+    <string name="activate_status_desc_failed_getting_gateway">Impossibile trovare un gateway SMS</string>
+    <string name="activate_status_desc_prepare_sending_sms">"Preparazione invio SMS di attivazione al gateway"</string>
+    <string name="activate_status_desc_sending_sms">Invio SMS di attivazione al gateway</string>
     <string name="activate_status_desc_sms_sent">SMS di attivazione inviato</string>
     <string name="activate_status_desc_sim_absent">Impossibile trovare la carta SINM</string>
     <string name="activate_status_desc_acquire_phone_number">Acquisizione numero di telefono dal server</string>
@@ -255,7 +255,7 @@ Se il tuo dispositivo viene smarrito o danneggiato, potresti non recuperare più
     <string name="activate_status_desc_acquire_sim_pass_token_server_error">"Si è verificato un errore lato server durante l'acquisizione delle info sulla sicurezza."/string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">"Si è verificato un errore di I/O lato server durante l'acquisizione delle info sulla sicurezza."</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Impossibile ottenere le info sulla sicurezza</string>
-    <string name="activate_status_desc_acquire_sim_pass_token_password_error">Impossibile ottenere le info sulla sicurezza: password token non corretta</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_password_error">Impossibile ottenere le info sulla sicurezza: token password non corretta</string>
     <string name="checking_input">Verifica dati immessi…</string>
     <string name="micloud_data_loading">Caricamento</string>
     <string name="micloud_space_full_influence"><u>Cosa succede quando finisco lo spazio?</u></string>
@@ -267,7 +267,7 @@ Se il tuo dispositivo viene smarrito o danneggiato, potresti non recuperare più
     <string name="micloud_user_phone">Numero telefonico</string>
     <string name="micloud_user_name">Nome</string>
     <string name="micloud_user_id">Id Xiaomi</string>
-    <string name="micloud_storage_space">Spazio disaponibile su MiCloud</string>
+    <string name="micloud_storage_space">Spazio disponibile su MiCloud</string>
     <string name="micloud_user_space_usage">Spazio utilizzato</string>
     <string name="micloud_web_discription_01">Accedi su i.xiaomi.com</string>
     <string name="micloud_web_discription_02">per salvare i tuoi file ed accedervi dovunque ti trovi</string>
@@ -303,7 +303,7 @@ Per sistemare questo problema, liberati di alcuni vecchi file per fare spazio pe
     <string name="login_step2_title">Protezione accesso</string>
     <string name="micloud_user_space_title">Spazio disponibile</string>
     <string name="micloud_welcome_skip_login_provision">Salta</string>
-    <string name="sync_sub_dspt_provision">Visuaizza e gestisci i tuoi dati dovunque ti trovi</string>
+    <string name="sync_sub_dspt_provision">Visualizza e gestisci i tuoi dati dovunque ti trovi</string>
     <string name="get_verify_code">Ottieni un code</string>
     <string name="getting_verify_code">Recupero...</string>
     <string name="input_phone_hint">Inserisci il numero di telefono</string>

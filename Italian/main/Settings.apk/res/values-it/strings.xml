@@ -1252,7 +1252,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="quick_launch_clear_dialog_message">La scorciatoia per %1$s (%2$s) verrà cancellata.</string>
     <string name="quick_launch_clear_ok_button">OK</string>
     <string name="quick_launch_clear_cancel_button">Annulla</string>
-    <string name="quick_launch_display_mode_applications">App</string>
+    <string name="quick_launch_display_mode_applications">Applicazioni</string>
     <string name="quick_launch_display_mode_shortcuts">Scorciatoie</string>
     <string name="input_methods_settings_title">Inserimento testo</string>
     <string name="input_method">Metodo inserimento</string>
@@ -1773,7 +1773,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
-    <string name="debug_applications_category">App</string>
+    <string name="debug_applications_category">Applicazioni</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
     <string name="app_process_limit_title">Limite processi background</string>
@@ -2739,7 +2739,7 @@ ed esegui il software."</string>
     <string name="miracast_is_discoverable">Visibile a tutti i dispositivi display wireless nelle vicinanze (%1$s)</string>
     <string name="miracast_menu_search">Cerca</string>
     <string name="miracast_menu_searching">Ricerca in corso...</string>
-    <string name="move_app_app_label">App</string>
+    <string name="move_app_app_label">Applicazioni</string>
     <string name="move_app_data_label">Dati</string>
     <string name="move_app_to_device_dlg_title">"Spostare l'app sul dispositivo"?</string>
     <string name="move_app_to_sdcard_dlg_title">"Spostare l'app sulla scheda SD ?"</string>

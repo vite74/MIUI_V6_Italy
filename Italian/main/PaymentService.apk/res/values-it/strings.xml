@@ -115,7 +115,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_telecom_order_goods_label">Descrizione prodotto:</string>
     <string name="msg_telecom_order_goods">%1s MiCredit</string>
     <string name="msg_telecom_order_denom_label">Importo dovuto:</string>
-    <string name="msg_telecom_order_denom">￥%1s（esclusi costi per la connessione dati）</string>
+    <string name="msg_telecom_order_denom">￥%1s （esclusi costi per la connessione dati）</string>
     <string name="msg_telecom_sending">Connessione con il provider di rete…</string>
     <string name="btn_recharge_confirm">Conferma acquisto</string>
     <string name="btn_wait_confirm">In attesa</string>

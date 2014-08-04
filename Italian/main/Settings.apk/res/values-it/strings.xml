@@ -211,7 +211,7 @@
     <string name="proxy_error">Attenzione</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
-    <string name="proxy_error_invalid_exclusion_list">"L'elenco di esclusioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole."</string>
+    <string name="proxy_error_invalid_exclusion_list">"L'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole."</string>
     <string name="proxy_error_empty_port">Devi inserire un valore nel campo Porta.</string>
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>

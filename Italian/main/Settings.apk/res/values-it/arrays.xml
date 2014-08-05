@@ -503,7 +503,6 @@
         <item>Chiudi applicazione corrente</item>
         <item>Mostra i menù</item>
     </string-array>
-    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>

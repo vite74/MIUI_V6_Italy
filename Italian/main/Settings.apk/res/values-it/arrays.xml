@@ -463,6 +463,46 @@
         <item>Percentuale</item>
         <item>Barra</item>
     </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Chiedi alla connessione</item>
+        <item>Solo carica</item>
+        <item>Monta scheda</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+        <item>8 secondi</item>
+        <item>9 secondi</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Viola</item>
+        <item>Porpora</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Giallo</item>
+        <item>Verde</item>
+        <item>Ciano</item>
+        <item>Bianco</item>
+        <item>Viola</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+	    <item>Nessuna</item>
+        <item>Lancia task manager</item>
+        <item>Lancia assistente vocale</item>
+        <item>Lancia Google now</item>
+        <item>Chiudi applicazione corrente</item>
+        <item>Mostra i menù</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
@@ -473,6 +513,11 @@
         <item>Windows Vista e versioni più recenti di Windows</item>
         <item>Mac OS</item>
         <item>Linux</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Caldo</item>
+        <item>Naturale</item>
+        <item>Freddo</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

@@ -75,8 +75,8 @@
     <string name="function_error">Questa funzione non può essere inizializzata</string>
     <string name="music_settings">Musica</string>
     <string name="network_traffic">Traffico di rete</string>
-    <string name="allow_to_use_traffic_summary">May generate high costs, the proposed closure</string>
-    <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
+    <string name="allow_to_use_traffic_summary">"Non attivandolo si può avere costi elevati di traffico dati,si consiglia l'attivazione"</string>
+    <string name="allow_to_use_traffic_title">"Consenti l'uso della rete Wi-Fi per ascoltare le canzoni online"</string>
     <string name="download_method">Download</string>
     <string name="download_while_playing_summary">Scarica automaticamente le canzoni che hai ascoltato online</string>
     <string name="download_while_playing_title">Ascolta mentre scarichi</string>

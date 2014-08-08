@@ -517,7 +517,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il tablet tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">"Pronto a trasmettere i contenuti dell'applicazione tramite NFC"</string>
-    <string name="android_beam_off_summary">OFF</string>
+    <string name="android_beam_off_summary">Disattivo</string>
     <string name="android_beam_disabled_summary">Non disponibile perché la tecnologia NFC non è attiva</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Quando questa funzione è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell'applicazione Browser, video di YouTube, contatti di Persone e altri dati.È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L'applicazione stabilisce i dati da trasferire."</string>
@@ -734,7 +734,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="screensaver_settings_summary_either_short">Entrambi i casi</string>
     <string name="screensaver_settings_summary_sleep">Durante la ricarica</string>
     <string name="screensaver_settings_summary_dock">Quando inserito nel dock</string>
-    <string name="screensaver_settings_summary_off">OFF</string>
+    <string name="screensaver_settings_summary_off">Disattivo</string>
     <string name="screensaver_settings_disabled_prompt">Per stabilire che cosa accade quando il telefono è inserito nel dock e/o in stand-by, attiva Daydream.</string>
     <string name="screensaver_settings_when_to_dream">Quando attivare Daydream</string>
     <string name="screensaver_settings_dream_start">Inizia subito</string>
@@ -1339,8 +1339,8 @@ Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre vol
 
 Nota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
-    <string name="accessibility_global_gesture_preference_summary_on">ON</string>
-    <string name="accessibility_global_gesture_preference_summary_off">OFF</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Attivo</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Disattivo</string>
     <string name="accessibility_global_gesture_preference_description">"Quando questa funzione è attiva, puoi attivare rapidamente le funzioni di accessibilità in due passaggi:
 
 Passaggio 1. Premi e tieni premuto il tasto di accensione fino all'emissione di un suono o una vibrazione.
@@ -1356,8 +1356,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia le password</string>
     <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
-    <string name="accessibility_feature_state_on">ON</string>
-    <string name="accessibility_feature_state_off">OFF</string>
+    <string name="accessibility_feature_state_on">Attivo</string>
+    <string name="accessibility_feature_state_off">Disattivo</string>
     <string name="captioning_preview_title">Anteprima</string>
     <string name="captioning_standard_options_title">Opzioni standard</string>
     <string name="captioning_locale">Lingua</string>
@@ -1402,8 +1402,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="print_no_printers_found">Nessuna stampante trovata</string>
     <string name="print_menu_item_settings">Impostazioni</string>
     <string name="print_menu_item_add_printers">Aggiungi stampanti</string>
-    <string name="print_feature_state_on">ON</string>
-    <string name="print_feature_state_off">OFF</string>
+    <string name="print_feature_state_on">Attivo</string>
+    <string name="print_feature_state_off">Disattivo</string>
     <string name="print_menu_item_add_service">Aggiungi servizio</string>
     <string name="print_menu_item_add_printer">Aggiungi stampante</string>
     <string name="print_menu_item_search">Cerca</string>
@@ -1574,8 +1574,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="gadget_toggle_wifi">Aggiornamento impostazione Wi‑Fi</string>
     <string name="gadget_toggle_bluetooth">Aggiornamento impostazione Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_on">ON</string>
-    <string name="gadget_state_off">OFF</string>
+    <string name="gadget_state_on">Attivo</string>
+    <string name="gadget_state_off">Disattivo</string>
     <string name="gadget_state_turning_on">attivazione</string>
     <string name="gadget_state_turning_off">disattivazione</string>
     <string name="gadget_wifi">Wi‑Fi</string>
@@ -1586,7 +1586,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="gadget_brightness_state_auto">auto</string>
     <string name="gadget_brightness_state_full">massima</string>
     <string name="gadget_brightness_state_half">media</string>
-    <string name="gadget_brightness_state_off">OFF</string>
+    <string name="gadget_brightness_state_off">Disattivo</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Archivio credenziali</string>
     <string name="credentials_install">Installa da archivio</string>

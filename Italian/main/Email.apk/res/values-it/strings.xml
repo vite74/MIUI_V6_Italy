@@ -580,10 +580,10 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="message_details_title">Dettagli messaggio</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
-    <string name="auto_advance_help_title">"Preferenze avanzamento automatico
+    <string name="auto_advance_help_title">"Avanzamento automatico
 (dopo eliminazioni, ecc.)"</string>
-    <string name="clear_display_images_whitelist_title">Azzera consenso immagini</string>
-    <string name="clear_display_images_whitelist_dialog_title">Azzerare i consensi immagini?</string>
+    <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
+    <string name="clear_display_images_whitelist_dialog_title">Vuoi revocare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
     <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
     <string name="preferences_signature_title">Firma</string>

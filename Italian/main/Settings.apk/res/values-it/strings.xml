@@ -2653,7 +2653,7 @@ ed esegui il software."</string>
     <string name="dialog_yes">Si</string>
     <string name="confirm_download_cancelation_dialog_message">Annullare il download?</string>
     <string name="found_new_version">Trovata nuova versione</string>
-    <string name="no_update_found">"Già all'ultima versione "</string>
+    <string name="no_update_found">"Hai già l'ultima versione "</string>
     <string name="no_updates_found">"Stai già usando l'ultima versione di MIUI."</string>
     <string name="no_updates_warning">Nessun aggiornamento trovato per il tuo dispositivo.</string>
     <string name="no_updates_warning2">"Rilassati, ti avviseremo se c'è un aggiornamento."</string>

@@ -103,7 +103,6 @@
     <string name="networkView_notConnected">rete non disponibile</string>
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
-    <string name="user_guide">Introduzione alla KuaiPan</string>
     <string name="user_guide">Guida Utente</string>
     <string name="rename_failed">Impossibile rinominare %1$s</string>
     <string name="directory_no_item">Cartella vuota</string>
@@ -257,7 +256,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="waiting_for_cleaning">In attesa…</string>
     <string name="item_name">Cartelle senza nome</string>
     <string name="waiting_for_scanning">In attesa…</string>
-    <string name="scanned">Scansione completata<</string>
+    <string name="scanned">Scansione completata</string>
     <string name="cleaning">Pulizia in corso...</string>
     <string name="cleaned">Fatto</string>
     <string name="cleanup_stopped">Pulizia fermata</string>

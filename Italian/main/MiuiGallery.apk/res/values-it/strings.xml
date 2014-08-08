@@ -209,7 +209,7 @@
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
-    <string name="photo_page_always_rotate">Rotazione autom. immagini</string>
+    <string name="photo_page_always_rotate">Rotazione automatica immagini</string>
     <string name="auto_create_recent_album_over_ten_times">Crea automaticamente album preferiti quando un album viene aperto più di 10 volte</string>
     <string name="not_auto_create_recent_album">Non creare automaticamente album recenti</string>
     <string name="auto_create_recent_album_confirm">"Dopo la disattivazione di questa opzione, Galleria cancellerà i dati degli album recenti. Gli album recenti impostati dall'utente non verranno modificati. In alternativa, puoi impostarlo tramite long-press sull'album."</string>

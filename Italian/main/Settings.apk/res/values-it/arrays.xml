@@ -168,7 +168,7 @@
         <item>Manuale</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>OFF</item>
+        <item>Disattivo</item>
         <item>Avviso</item>
         <item>Vibrazione</item>
     </string-array>
@@ -390,18 +390,18 @@
         <item>Stack di chiamate su glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>OFF</item>
+        <item>Disattivo</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia cmd disegno test in verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>OFF</item>
+        <item>Disattivo</item>
         <item>Su schermo sotto forma di barre</item>
         <item>Su schermo sotto forma di linee</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>OFF</item>
+        <item>Disattivo</item>
         <item>Mostra aree overdraw</item>
         <item>Mostra aree con deuteranomalia</item>
         <item>Mostra contatore overdraw</item>

@@ -167,7 +167,7 @@
     <string name="find_password_on_web_msg">Visita account.xiaomi.com per recuperare la tua password.</string>
     <string name="relogin">"Riesegui l'accesso"</string>
     <string name="skip_login">"Salta l'accesso"</string>
-    <string name="skip_login_u">"<u>Salta l'accesso</u>"</string>
+    <string name="skip_login_u">"Salta l'accesso"</string>
     <string name="removing_account">Disconnessione…</string>
     <string name="checking_account">Verifica…</string>
     <string name="button_cancel">Annulla</string>

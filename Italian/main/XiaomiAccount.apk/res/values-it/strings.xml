@@ -100,8 +100,8 @@
 Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="email_reg_success_summary">"%1$s è stato collegato al tuo account.
 Puoi utilizzarlo per accedere e recuperare la password."</string>
-    <string name="sync_on">On</string>
-    <string name="sync_off">Off</string>
+    <string name="sync_on">Attivato</string>
+    <string name="sync_off">Disattivato</string>
     <string name="btn_activate">Attiva</string>
     <string name="sim_changed_notification_content">SIM non attivata</string>
     <string name="activating">Attivazione in corso…</string>

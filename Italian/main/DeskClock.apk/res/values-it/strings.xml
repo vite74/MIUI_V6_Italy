@@ -163,7 +163,7 @@
     <string name="no_upcoming_alarms">NESSUN ALLARME PROSSIMO</string>
     <string name="worldclock_empty_text">Nessun orario internazionale</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
-    <string name="delelte_selected_timezone">Eliminar eil fuso orario selezionato?</string>
+    <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
     <string name="system_time_setting">Impostazioni orario</string>
     <string name="menu_add_worldclock">Aggiungi fuso orario</string>
     <string name="timezone_exist_error_message">Questo fuso orario è già presente.</string>

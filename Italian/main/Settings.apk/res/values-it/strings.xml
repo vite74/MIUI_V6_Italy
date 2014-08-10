@@ -818,7 +818,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
     <string name="sd_eject">Smonta archivio condiviso</string>
     <string name="sd_eject_summary">Smonta archivio USB interno</string>
-    <string name="sd_insert_summary">Inserisci arch. USB da montare</string>
+    <string name="sd_insert_summary">Inserisci archivio USB da montare</string>
     <string name="sd_mount">Monta archivio USB</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Cancella archivio USB</string>

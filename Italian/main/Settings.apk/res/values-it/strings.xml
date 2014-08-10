@@ -2103,7 +2103,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Sincr.</string>
+    <string name="sync_settings">Sincronizzazione</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono di messaggio ricevuto</string>

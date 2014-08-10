@@ -76,7 +76,7 @@
     <string name="radioInfo_service_off">Segnale radio disattivato</string>
     <string name="radioInfo_roaming_in">Roaming</string>
     <string name="radioInfo_roaming_not">Non roaming</string>
-    <string name="radioInfo_phone_idle">Inattivo</string>
+    <string name="radioInfo_phone_idle">Disattivato</string>
     <string name="radioInfo_phone_ringing">Chiamata in corso</string>
     <string name="radioInfo_phone_offhook">Chiamata in corso</string>
     <string name="radioInfo_data_disconnected">Disconnesso</string>
@@ -517,7 +517,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il tablet tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">"Pronto a trasmettere i contenuti dell'applicazione tramite NFC"</string>
-    <string name="android_beam_off_summary">Disattivo</string>
+    <string name="android_beam_off_summary">Disattivato</string>
     <string name="android_beam_disabled_summary">Non disponibile perché la tecnologia NFC non è attiva</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Quando questa funzione è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell'applicazione Browser, video di YouTube, contatti di Persone e altri dati.È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L'applicazione stabilisce i dati da trasferire."</string>
@@ -734,7 +734,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="screensaver_settings_summary_either_short">Entrambi i casi</string>
     <string name="screensaver_settings_summary_sleep">Durante la ricarica</string>
     <string name="screensaver_settings_summary_dock">Quando inserito nel dock</string>
-    <string name="screensaver_settings_summary_off">Disattivo</string>
+    <string name="screensaver_settings_summary_off">Disattivato</string>
     <string name="screensaver_settings_disabled_prompt">Per stabilire che cosa accade quando il telefono è inserito nel dock e/o in stand-by, attiva Daydream.</string>
     <string name="screensaver_settings_when_to_dream">Quando attivare Daydream</string>
     <string name="screensaver_settings_dream_start">Inizia subito</string>
@@ -818,7 +818,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
     <string name="sd_eject">Smonta archivio condiviso</string>
     <string name="sd_eject_summary">Smonta archivio USB interno</string>
-    <string name="sd_insert_summary">Inserisci arch. USB da montare</string>
+    <string name="sd_insert_summary">Inserisci archivio USB da montare</string>
     <string name="sd_mount">Monta archivio USB</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Cancella archivio USB</string>
@@ -1339,8 +1339,8 @@ Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre vol
 
 Nota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Attivo</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Disattivo</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
     <string name="accessibility_global_gesture_preference_description">"Quando questa funzione è attiva, puoi attivare rapidamente le funzioni di accessibilità in due passaggi:
 
 Passaggio 1. Premi e tieni premuto il tasto di accensione fino all'emissione di un suono o una vibrazione.
@@ -1356,8 +1356,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia le password</string>
     <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
-    <string name="accessibility_feature_state_on">Attivo</string>
-    <string name="accessibility_feature_state_off">Disattivo</string>
+    <string name="accessibility_feature_state_on">Attivato</string>
+    <string name="accessibility_feature_state_off">Disattivato</string>
     <string name="captioning_preview_title">Anteprima</string>
     <string name="captioning_standard_options_title">Opzioni standard</string>
     <string name="captioning_locale">Lingua</string>
@@ -1402,8 +1402,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="print_no_printers_found">Nessuna stampante trovata</string>
     <string name="print_menu_item_settings">Impostazioni</string>
     <string name="print_menu_item_add_printers">Aggiungi stampanti</string>
-    <string name="print_feature_state_on">Attivo</string>
-    <string name="print_feature_state_off">Disattivo</string>
+    <string name="print_feature_state_on">Attivato</string>
+    <string name="print_feature_state_off">Disattivato</string>
     <string name="print_menu_item_add_service">Aggiungi servizio</string>
     <string name="print_menu_item_add_printer">Aggiungi stampante</string>
     <string name="print_menu_item_search">Cerca</string>
@@ -1431,9 +1431,9 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_duration">%1$s dallo scollegamento</string>
     <string name="battery_stats_charging_label">In carica</string>
     <string name="battery_stats_screen_on_label">Schermo acceso</string>
-    <string name="battery_stats_gps_on_label">GPS attivo</string>
+    <string name="battery_stats_gps_on_label">GPS attivato</string>
     <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
-    <string name="battery_stats_wake_lock_label">Attivo</string>
+    <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="awake">Tempo di attività dispositivo</string>
     <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
@@ -1574,10 +1574,10 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="gadget_toggle_wifi">Aggiornamento impostazione Wi‑Fi</string>
     <string name="gadget_toggle_bluetooth">Aggiornamento impostazione Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_on">Attivo</string>
-    <string name="gadget_state_off">Disattivo</string>
-    <string name="gadget_state_turning_on">attivazione</string>
-    <string name="gadget_state_turning_off">disattivazione</string>
+    <string name="gadget_state_on">Attivato</string>
+    <string name="gadget_state_off">Disattivato</string>
+    <string name="gadget_state_turning_on">Attivazione</string>
+    <string name="gadget_state_turning_off">Disattivazione</string>
     <string name="gadget_wifi">Wi‑Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_location">Posizione</string>
@@ -1586,7 +1586,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="gadget_brightness_state_auto">auto</string>
     <string name="gadget_brightness_state_full">massima</string>
     <string name="gadget_brightness_state_half">media</string>
-    <string name="gadget_brightness_state_off">Disattivo</string>
+    <string name="gadget_brightness_state_off">Disattivato</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Archivio credenziali</string>
     <string name="credentials_install">Installa da archivio</string>
@@ -1689,10 +1689,10 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi‑Fi."</string>
     <string name="background_data_summary">Sincron., invio e ricezione dati possibili in ogni momento</string>
     <string name="background_data_dialog_title">Disatt. dati backgr.?</string>
     <string name="background_data_dialog_message">"La disattivazione dei dati in background aumenta la durata della batteria e riduce l'utilizzo dei dati. Alcune applicazioni potrebbero utilizzare comunque la connessione dati in background."</string>
-    <string name="sync_automatically">Sincronizz. automatica</string>
+    <string name="sync_automatically">Sincronizzazione automatica</string>
     <string name="sync_enabled">Sincronizzazione attiva</string>
     <string name="sync_disabled">La sincronizzazione non è attiva</string>
-    <string name="sync_error">Errore sincronizz.</string>
+    <string name="sync_error">Errore sincronizzazione</string>
     <string name="last_synced">Ultima sincronizzazione: %1$s</string>
     <string name="sync_in_progress">Sincronizzazione in corso…</string>
     <string name="settings_backup">Impostazioni di backup</string>
@@ -1818,13 +1818,13 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 
 Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni disponibili all'interno dell'applicazione."</string>
     <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati mobili.</string>
-    <string name="data_usage_auto_sync_on_dialog_title">Attivare sincr. autom. dati?</string>
+    <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul tablet.
 
 Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul tablet. Gli account Google funzionano in questo modo.
 
 Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni account, vai a Impostazioni > Account."</string>
-    <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincr. autom. dati?</string>
+    <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
     <string name="data_usage_auto_sync_off_dialog">"In questo modo limiterai l'utilizzo di dati e della batteria, ma dovrai sincronizzare ciascun account manualmente per raccogliere le informazioni recenti. Inoltre non riceverai notifiche quando si verificano gli aggiornamenti."</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
     <string name="data_usage_cycle_editor_subtitle">Data di ogni mese:</string>
@@ -2103,7 +2103,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Sincr.</string>
+    <string name="sync_settings">Sincronizzazione</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono di messaggio ricevuto</string>
@@ -2653,7 +2653,7 @@ ed esegui il software."</string>
     <string name="dialog_yes">Si</string>
     <string name="confirm_download_cancelation_dialog_message">Annullare il download?</string>
     <string name="found_new_version">Trovata nuova versione</string>
-    <string name="no_update_found">"Hai già l'ultima versione "</string>
+    <string name="no_update_found">"Hai già l'ultima versione: "</string>
     <string name="no_updates_found">"Stai già usando l'ultima versione di MIUI."</string>
     <string name="no_updates_warning">Nessun aggiornamento trovato per il tuo dispositivo.</string>
     <string name="no_updates_warning2">"Rilassati, ti avviseremo se c'è un aggiornamento."</string>
@@ -2733,7 +2733,7 @@ ed esegui il software."</string>
     <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perchè un PC sta trasmettendo a questo dispositivo.</string>
     <string name="miracast_game_mode_title">Modalità gioco</string>
     <string name="miracast_game_mode_text_off">DISATTIVATO</string>
-    <string name="miracast_game_mode_text_on">ATTIVO</string>
+    <string name="miracast_game_mode_text_on">ATTIVATO</string>
     <string name="miracast_game_mode_summary">Migliora performance per i giochi </string>
     <string name="miracast_not_visible_to_other_devices">Non visibile ad altri dispositivi display wireless</string>
     <string name="miracast_is_discoverable">Visibile a tutti i dispositivi display wireless nelle vicinanze (%1$s)</string>

@@ -30,7 +30,6 @@
     <string name="date_and_time" formatted="false">%H:%M:%S %d/%b/%Y</string>
     <string name="date_time">%2$s %1$s</string>
     <string name="global_action_reboot">Riavvia</string>
-    <string name="reboot_reboot">@string/global_action_reboot</string>
     <string name="reboot_recovery">Recovery</string>
     <string name="reboot_fastboot">Fastboot</string>
     <string name="reboot_system">Riavvia tablet</string>

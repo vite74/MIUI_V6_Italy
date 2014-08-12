@@ -47,7 +47,14 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="perm_action_accept">Consenti</string>
     <string name="perm_action_prompt">Chiedi nuovamente</string>
     <string name="perm_action_reject">Nega</string>
-
+	<string name="main_title">Installazione applicazione</string>
+    <string name="installer_name">Fonte: %1$s</string>
+    <string name="progress_verifying">Controlli di sicurezza in corso…</string>
+    <string name="button_continue_install">Installa</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="button_next">Avanti</string>
+    <string name="button_continue">Continua</string>
+    <string name="button_remove">Elimina</string>
     <string name="virus_scan_install"><u>installare comunque</u></string>
     <string name="virus_scan_is_virus">Questa applicazione ha un virus.</string>
     <string name="virus_scan_is_risk">"Questa applicazione può compromettere la sicurezza del dispositivo."</string>

@@ -503,6 +503,20 @@
         <item>Chiudi applicazione corrente</item>
         <item>Mostra i menù</item>
     </string-array>
+	 <string-array name="screen_key_long_press_timeout">
+        <item>0.5 secondo</item>
+        <item>1 secondo</item>
+        <item>1.5 secondi</item>
+        <item>2 secondi</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>5 secondi</item>
+        <item>10 secondi</item>
+        <item>20 secondi</item>
+        <item>Sempre</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>

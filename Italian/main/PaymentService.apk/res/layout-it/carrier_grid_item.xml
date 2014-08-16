@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.xiaomi.payment.component.CarrierGridViewItem android:background="@drawable/list_view_item_bg_light" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="80.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center" android:id="@id/carrier_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    <TextView android:textSize="@dimen/text_size_carrier_grid_title" android:textColor="@color/primary_color" android:layout_gravity="bottom|right|center" android:id="@id/carrier_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_marginBottom="5.0dip" android:text="@string/denomination_unit" />
-</com.xiaomi.payment.component.CarrierGridViewItem>

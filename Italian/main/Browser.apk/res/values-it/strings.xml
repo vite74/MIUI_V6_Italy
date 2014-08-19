@@ -121,7 +121,7 @@
     <string name="pref_content_open_in_background">Apri in secondo piano</string>
     <string name="pref_content_plugins">Attiva plug-in</string>
     <string name="pref_content_open_in_background_summary">Apri le nuove schede dietro la scheda corrente</string>
-    <string name="pref_set_homepage_to">Impost come</string>
+    <string name="pref_set_homepage_to">Imposta come</string>
     <string name="input_valid_url">Inserisci un URL valido</string>
     <string name="pref_content_autofit">Adatta autom. pagine</string>
     <string name="pref_content_autofit_summary">Adatta le pagine web allo schermo</string>
@@ -353,12 +353,12 @@
     <string name="accessibility_state_frozen">Pagina salvata</string>
     <string name="accessibility_transition_navscreen">Gestione schede</string>
     <string name="accessibility_button_bookmarks_folder_up">Cartella precedente</string>
-    <string name="url_hint">Search or type URL</string>
+    <string name="url_hint">Cerca o digita un URL</string>
     <string name="done">Finito</string>
     <string name="add">Aggiungi</string>
-    <string name="search_cancel">Cancel</string>
-    <string name="search">Search</string>
-    <string name="clear_search_history">Clear history</string>
+    <string name="search_cancel">Annulla</string>
+    <string name="search">Cerca</string>
+    <string name="clear_search_history">Cancella cronologia</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>
     <string name="search_google">Google</string>
@@ -370,7 +370,7 @@
     <string name="search_easou">Easou</string>
     <string name="search_dianping">Cate</string>
     <string name="search_shipin">Video</string>
-    <string name="search_tupian">Image</string>
+    <string name="search_tupian">Immagine</string>
     <string name="nav_screen_settings">Impostazioni</string>
     <string name="nav_screen_newincognitotab">Incognito</string>
     <string name="nav_screen_cancel_incognitotab">Annulla Incognito</string>

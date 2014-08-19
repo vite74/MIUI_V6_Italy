@@ -100,7 +100,7 @@
     <string name="my_favorite">Preferiti</string>
     <string name="local_video">Locali</string>
     <string name="play_his_empty_hint">Nessuna cronologia</string>
-    <string name="delete">Eliminati</string>
+    <string name="delete">Elimina</string>
     <string name="today">Oggi</string>
     <string name="yesterday">Ieri</string>
     <string name="imports">Importati</string>
@@ -171,8 +171,8 @@
     <string name="manage_offline_media">Gestione cache multimediale offline</string>
     <string name="manage">Gestisci</string>
     <string name="download_select_more">Aumenta cache</string>
-    <string name="select_all">Seleziona tutto</string>
-    <string name="select_none">Deseleziona tutto</string>
+    <string name="select_all">Sel.tutto</string>
+    <string name="select_none">Des.tutto</string>
     <string name="select_count_xiang">%d selezionato</string>
     <string name="setting">Impostazioni</string>
     <string name="offline_setting">Video offline</string>

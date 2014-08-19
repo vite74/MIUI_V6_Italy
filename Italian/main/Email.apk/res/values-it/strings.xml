@@ -781,4 +781,6 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
+	    <string name="account_setup_index_other_mails">Altro</string>
+    <string name="account_setup_index_label">Aggiungi un account</string>
 </resources>

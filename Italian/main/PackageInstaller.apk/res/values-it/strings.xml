@@ -49,6 +49,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="perm_action_reject">Nega</string>
 	<string name="main_title">Installazione applicazione</string>
     <string name="installer_name">Fonte: %1$s</string>
+    <string name="permission_warn_title">Puoi avere dei rischi a installare applicazioni non ufficiali</string>
+    <string name="permission_warn_hint">"L'applicazione riceverà le seguenti autorizzazioni："</string>
     <string name="progress_verifying">Controlli di sicurezza in corso…</string>
     <string name="button_continue_install">Installa</string>
     <string name="button_cancel">Annulla</string>

@@ -28,7 +28,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Più nuovi</item>
         <item>Più vecchi</item>
-        <item>List aconversazioni</item>
+        <item>Lista conversazioni</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Mostra la conversazione più recente dopo la cancellazione</item>

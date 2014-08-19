@@ -2150,7 +2150,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
-    <string name="screen_key_long_press">Long press navigation buttons</string>
+    <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Esegui funzionalità</string>
     <string name="app_switch_key">Recenti</string>
     <string name="menu_key">Menu</string>

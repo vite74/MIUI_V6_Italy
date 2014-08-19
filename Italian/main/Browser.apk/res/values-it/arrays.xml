@@ -6,11 +6,8 @@
         <item>Non attivo</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pagina corrente</item>
-        <item>Pagina vuota</item>
-        <item>Pagina predefinita</item>
-        <item>Siti più visitati</item>
-        <item>Altro</item>
+	    <item>Pagina iniziale di default</item>
+        <item>Personalizzata</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Molto piccolo</item>

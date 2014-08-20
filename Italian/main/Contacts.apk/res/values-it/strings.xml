@@ -132,6 +132,7 @@
     <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione...</string>
     <string name="menu_done">Fine</string>
     <string name="menu_doNotSave">Annulla</string>
+	<string name="listAllContactsInAccount">Contatti in %s</string>
     <string name="listCustomView">Contatti in visualizzazione personalizzata</string>
     <string name="listSingleContact">Contatto singolo</string>
     <string name="dialog_new_contact_account">"Crea contatto nell'account"</string>

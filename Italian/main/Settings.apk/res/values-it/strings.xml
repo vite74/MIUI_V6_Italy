@@ -2675,7 +2675,7 @@ ed esegui il software."</string>
 	<string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
     <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata,i dati saranno salvati automaticamente nella memoria interna del dispositivo</string>
-    <string name="priority_storage_app_settings">I dati saranno salvati in %1$s</string>
+    <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
     <string name="add_auto_startup_application">Aggiungi applicazione</string>
     <string name="power_autorun_apps_empty">Nessuno</string>
     <string name="miracast_settings">Display wireless</string>

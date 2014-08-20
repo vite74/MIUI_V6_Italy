@@ -2756,6 +2756,4 @@ ed esegui il software."</string>
     <string name="move_app_progress_to_sdcard">Spostamento di %1$s sulla scheda SD...</string>
     <string name="tnhwrevision_settings_list_item_title">Revisione HW Mocha</string>
     <string name="tnhwrevision_settings_list_item_summary">Sommario revisione HW Mocha</string>
-	<string name="add_auto_startup_application">Aggiungi applicazione</string>
-    <string name="power_autorun_apps_empty">Nessuna</string>
 </resources>

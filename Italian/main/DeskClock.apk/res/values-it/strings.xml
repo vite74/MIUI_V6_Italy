@@ -170,8 +170,8 @@
     <string name="current_zone">Fuso orario attuale</string>
     <string name="zone_time_offset_ahead">%1$d ore e %2$d minuti avanti</string>
     <string name="zone_time_offset_behind">%1$d ore e %2$d minuti indietro</string>
-    <string name="zone_time_offset_ahead_only_hour">%d ore avanti</string>
-    <string name="zone_time_offset_behind_only_hour">%d ore indietro</string>
+    <string name="zone_time_offset_ahead_only_hour">"%d ora(e) avanti"</string>
+    <string name="zone_time_offset_behind_only_hour">"%d ora(e) indietro"</string>
     <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
     <string name="add_time_zone">Aggiungi fuso orario</string>
     <string name="done_label">Fine</string>

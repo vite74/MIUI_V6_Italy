@@ -34,7 +34,7 @@
     <string name="date_time_done">Fatto</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="date_time_picker_dialog_title">Imposta oa e data</string>
+    <string name="date_time_picker_dialog_title">Imposta ora e data</string>
     <string name="copyright">Copyright</string>
     <string name="user_agreement">Accordo utente</string>
     <string name="privacy_policy">Accordo privacy</string>

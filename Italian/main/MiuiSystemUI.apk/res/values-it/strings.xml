@@ -113,7 +113,7 @@
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_ringing">Chiamata in corso</string>
     <string name="reject_call">Rifiuta la chiamata</string>
-    <string name="status_bar_style_settings">Impostazioni Barra di Stato</string>
+    <string name="status_bar_style_settings">Impostazioni</string>
     <string name="settings_custom_notification">Notifiche personalizzate</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_position_divider_page">I comandi sopra questa barra sono attivi (%1$d)</string>

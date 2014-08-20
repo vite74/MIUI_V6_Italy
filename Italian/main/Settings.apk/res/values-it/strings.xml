@@ -1042,7 +1042,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="activity_not_found">Applicazione non installata sul telefono.</string>
     <string name="manageapplications_settings_title">Gestisci applicazioni</string>
     <string name="manageapplications_settings_summary">Gestisci e rimuovi applicazioni installate</string>
-    <string name="applications_settings">App</string>
+    <string name="applications_settings">Applicazioni</string>
     <string name="applications_settings_summary">Gestisci le applicazioni, imposta le scorciatoie di avvio rapido</string>
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
@@ -2150,7 +2150,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
-    <string name="screen_key_long_press">Long press navigation buttons</string>
+    <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Esegui funzionalità</string>
     <string name="app_switch_key">Recenti</string>
     <string name="menu_key">Menu</string>
@@ -2642,7 +2642,7 @@ ed esegui il software."</string>
     <string name="preferred_app_settings_default">Predefinite</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
     <string name="preferred_app_settings_reset_message">Ripristino impostazioni app predefinite?</string>
-    <string name="system_app_settings">App di sistema</string>
+    <string name="system_app_settings">Applicazioni di sistema</string>
     <string name="connect_to_internet">Rete Wi-Fi</string>
     <string name="wifi_setting_category">Per attivare il tuo dispositivo, connettiti ad Internet</string>
     <string name="downloading_description">Download in corso…</string>
@@ -2672,6 +2672,12 @@ ed esegui il software."</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, prego attendere.</string>
     <string name="launching_rep">Segnalazione bug in corso, prego attendere.</string>
     <string name="status_serialno">Numero di serie</string>
+	<string name="priority_storage_title">Impostazioni di archiviazione</string>
+    <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
+    <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata,i dati saranno salvati automaticamente nella memoria interna del dispositivo</string>
+    <string name="priority_storage_app_settings">I dati saranno salvati in %1$s</string>
+    <string name="add_auto_startup_application">Aggiungi applicazione</string>
+    <string name="power_autorun_apps_empty">Nessuno</string>
     <string name="miracast_settings">Display wireless</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_add_sink_title">Aggiungi display wireless</string>

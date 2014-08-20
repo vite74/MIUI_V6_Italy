@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xmpp_server_addr" />
-    <string name="app_name">Servizi Micloud</string>
+    <string name="app_name">Micloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza SMS</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
@@ -110,7 +110,7 @@
     <string name="login_notice">Accesso…</string>
     <string name="data_sync_notice">Usa il tuo account Xiaomi per sincronizzare messaggi e contatti tra diversi dispositivi.</string>
     <string name="cmcc_data_sync_notice">Usa il tuo account Xiaomi per sincronizzare messaggi e contatti tra diversi dispositivi.</string>
-    <string name="sync_dspt">Abilita sincr.</string>
+    <string name="sync_dspt">Abilita sincronizzazione</string>
     <string name="sync_sub_dspt">"L'SMS di attivazione è soggetto ai normali costi previsti dal tuo piano."</string>
     <string name="sync_sub_int_dspt">"L'SMS di attivazione è soggetto ai costi di un messaggio internazionale."</string>
     <string name="send_sms_for_sync_title">Invia messaggio di testo</string>

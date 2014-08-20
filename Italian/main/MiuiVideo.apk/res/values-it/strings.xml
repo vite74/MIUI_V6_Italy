@@ -171,8 +171,8 @@
     <string name="manage_offline_media">Gestione cache multimediale offline</string>
     <string name="manage">Gestisci</string>
     <string name="download_select_more">Aumenta cache</string>
-    <string name="select_all">Sel.tutto</string>
-    <string name="select_none">Des.tutto</string>
+    <string name="select_all">S.tutti</string>
+    <string name="select_none">D.tutti</string>
     <string name="select_count_xiang">%d selezionato</string>
     <string name="setting">Impostazioni</string>
     <string name="offline_setting">Video offline</string>

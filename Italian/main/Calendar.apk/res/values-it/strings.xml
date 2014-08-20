@@ -3,15 +3,15 @@
     <string name="app_label">Calendario</string>
     <string name="what_label">Che cosa</string>
     <string name="where_label">Dove</string>
-    <string name="when_label">Intervallo di tempo</string>
+    <string name="when_label">Intervallo di tempo:</string>
     <string name="timezone_label">Fuso orario</string>
     <string name="attendees_label">Invitati</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
+    <string name="today">\u0020Oggi</string>
+    <string name="tomorrow">\u0020Domani</string>
     <string name="today_at_time_fmt">Oggi alle %s</string>
     <string name="tomorrow_at_time_fmt">Domani alle %s</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
-    <string name="repeats_label">Ripetizione</string>
+    <string name="repeats_label">Ripetizione:</string>
     <string name="no_title_label">(Senza titolo)</string>
     <string name="calendar_refresh">Aggiorna</string>
     <string name="show_day_view">Mostra giorno</string>
@@ -65,9 +65,9 @@
 • Puoi accedervi da qualsiasi browser web
 • Effettua il backup dei tuoi eventi in modo sicuro"</string>
     <string name="add_account">Aggiungi account</string>
-    <string name="view_event_calendar_label">Calendario:</string>
-    <string name="view_event_organizer_label">Agenda:</string>
-    <string name="choose_event_color_label">Scegli colore evento</string>
+    <string name="view_event_calendar_label">Calendario:\u0020</string>
+    <string name="view_event_organizer_label">Agenda:\u0020</string>
+    <string name="choose_event_color_label">Colore</string>
     <string name="event_color_picker_dialog_title">Colore evento</string>
     <string name="event_color_set_to_default">Imposta colore calendario predefinito</string>
     <string name="calendar_color_picker_dialog_title">Colore calendario</string>

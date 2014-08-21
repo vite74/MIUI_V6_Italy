@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
+    <string name="miui_transfer_inbound_title">Ricevuti</string>
+    <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
     <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire file."</string>
     <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
@@ -31,6 +34,7 @@
     <string name="notification_received">Condivisione Bluetooth: file %1$s ricevuto</string>
     <string name="notification_received_fail">Condivisione Bluetooth: file %1$s non ricevuto</string>
     <string name="notification_sending">Condivisione Bluetooth: invio file %1$s</string>
+    <string name="notification_sent">Condivisione Bluetooth: inviato %1$s</string>
     <string name="notification_sent">Condivisione Bluetooth: file %1$s inviato</string>
     <string name="notification_sent_complete">100% completato</string>
     <string name="notification_sent_fail">Condivisione Bluetooth: file %1$s non inviato</string>
@@ -103,37 +107,6 @@
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="sharedUserId" />
     <string name="process" />
-    <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
-    <string name="miui_transfer_inbound_title">Ricevuti</string>
-    <string name="miui_transfer_outbound_title">Inviati</string>
-    <string name="permlab_bluetoothMap">Accedi al Profilo del Messaggio di Accesso Bluetooth.</string>
-    <string name="permdesc_bluetoothMap">"Consente all'applicazione di accedere al Profilo del Messaggio di Accesso Bluetooth del provider ed inviare messaggi MAP agli utenti.</string>
-    <string name="permlab_fm_receiver">Accesso ricevitore FM</string>
-    <string name="permdesc_fm_receiver">"Consenti ad un'applicazione di accedere alle funzioni del ricevitore FM."</string>
-    <string name="bt_advanced_settings">Impostazioni Avanzate Bluetooth</string>
-    <string name="profile_hs_hfp">HS/HFP</string>
-    <string name="profile_description_hs_hfp">Profilo Cuffie/Mani Libere</string>
-    <string name="profile_a2dp">A2DP</string>
-    <string name="profile_description_a2dp">Profilo A2DP</string>
-    <string name="profile_hid">HID Host</string>
-    <string name="profile_description_hid">Human Interface Device (Host) Profile</string>
-    <string name="profile_hdp">HDP</string>
-    <string name="profile_description_hdp">Health Devices Profile</string>
-    <string name="profile_pan">PAN</string>
-    <string name="profile_description_pan">Personal Area Network Profile</string>
-    <string name="profile_gatt">GATT</string>
-    <string name="profile_description_gatt">GATT/BLE Profile</string>
-    <string name="profile_sap">SAP</string>
-    <string name="profile_description_sap">SIM Access Profile</string>
-    <string name="profile_ftp">FTP</string>
-    <string name="profile_description_ftp">File Transfer (Server) Profile</string>
-    <string name="profile_mse">MAP</string>
-    <string name="profile_description_mse">Message Access Profile</string>
-    <string name="title_bt_mse_settings">Impostazioni Avanzate MAP Bluetooth</string>
-    <string name="map_provider_smsmms_name">Messaggi</string>
-    <string name="map_datasource_sms_name">SMS</string>
-    <string name="map_datasource_mms_name">MMS</string>
-    <string name="map_datasource_smsmms_name">SMS e MMS</string>
     <string name="pbap_session_key_dialog_title">Digita la chiave di sessione per %1$s</string>
     <string name="pbap_session_key_dialog_header">Chiave sessione Bluetooth necessaria</string>
     <string name="pbap_acceptance_timeout_message">"Timeout dell'accettazione della connessione con %1$s"</string>

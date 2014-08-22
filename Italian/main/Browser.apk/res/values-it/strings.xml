@@ -193,8 +193,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_content_search_engine_summary">Scegli un motore di ricerca</string>
     <string name="pref_title_font_size">Dimensione testo</string>
     <string name="read_mode_text">Modalità lettura</string>
-    <string name="have_sent_bookmark_to_home_screen">Segnalibro inviato sulla home</string>
-    <string name="bookmark_to_readmodelist_not_saved">Impossibile salvare nella lista di lettura.</string>
     <string name="readmode_setting_light">Luminosità</string>
     <string name="readmode_setting_fontsize">Font</string>
     <string name="readmode_setting_theme">Tema</string>

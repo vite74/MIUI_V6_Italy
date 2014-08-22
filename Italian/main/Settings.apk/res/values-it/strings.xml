@@ -2013,7 +2013,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
     <string name="account_autostar_label">Esecuzione automatica</string>
     <string name="auto_startup_application_manage">Avvio automatico</string>
-    <string name="auto_startup_count">Attualmente %d app hanno il permesso di avviarasi automaticamente</string>
+    <string name="auto_startup_count">Attualmente %d app hanno il permesso di avviarsi automaticamente</string>
     <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
     <string name="application_item_disable">Nega</string>
     <string name="application_item_permission">Consenti</string>

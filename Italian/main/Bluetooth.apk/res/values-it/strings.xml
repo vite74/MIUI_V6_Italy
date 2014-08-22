@@ -34,7 +34,6 @@
     <string name="notification_received">Condivisione Bluetooth: file %1$s ricevuto</string>
     <string name="notification_received_fail">Condivisione Bluetooth: file %1$s non ricevuto</string>
     <string name="notification_sending">Condivisione Bluetooth: invio file %1$s</string>
-    <string name="notification_sent">Condivisione Bluetooth: inviato %1$s</string>
     <string name="notification_sent">Condivisione Bluetooth: file %1$s inviato</string>
     <string name="notification_sent_complete">100% completato</string>
     <string name="notification_sent_fail">Condivisione Bluetooth: file %1$s non inviato</string>

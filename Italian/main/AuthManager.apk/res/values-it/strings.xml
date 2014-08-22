@@ -3,9 +3,9 @@
     <string name="HIPS_Action_Accept">Consenti</string>
     <string name="HIPS_Action_Prompt">Chiedi</string>
     <string name="HIPS_Action_Reject">Nega</string>
-    <string name="HIPS_Action_Accept_Colored"><font color=#478800>Consenti</font></string>
-    <string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Chiedi</font></string>
-    <string name="HIPS_Action_Reject_Colored"><font color=#DF0000>Nega</font></string>
+    <string name="HIPS_Action_Accept_Colored">Consenti</string>
+    <string name="HIPS_Action_Prompt_Colored">Chiedi</string>
+    <string name="HIPS_Action_Reject_Colored">Nega</string>
     <string name="HIPS_Group_Expense">Sicurezza</string>
     <string name="HIPS_Group_PIM">Dati utente</string>
     <string name="HIPS_Group_Location">Posizione</string>

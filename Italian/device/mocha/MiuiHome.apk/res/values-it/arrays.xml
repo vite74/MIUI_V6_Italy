@@ -48,7 +48,7 @@
         <item>Grandinata</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Pulisci home</item>
+        <item>Muovi app.</item>
         <item>Widget</item>
         <item>Sfondi</item>
         <item>Transizioni</item>

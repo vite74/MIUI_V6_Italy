@@ -548,4 +548,8 @@
         <item>La rete è lenta per via del segnale debole</item>
         <item>In movimento…</item>
     </string-array>
+	    <string-array name="priority_storage_entries">
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
+    </string-array>
 </resources>

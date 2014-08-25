@@ -504,7 +504,7 @@
         <item>Mostra i menù</item>
     </string-array>
 	 <string-array name="screen_key_long_press_timeout">
-        <item>0.5 secondo</item>
+        <item>0.5 secondi</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
         <item>2 secondi</item>

@@ -644,6 +644,7 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
     <string name="show_n_more_folders">Mostra %1$s altre cartelle</string>
     <string name="hide_folders">Nascondi cartelle</string>
+	<string name="from_label">Account di invio</string>
     <string name="failed">"Impossibile caricare immagine"</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Copia indirizzo email</string>

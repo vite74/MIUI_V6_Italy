@@ -80,7 +80,7 @@
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">Per attivare il tuo account, segui il link nel messaggio di attivazione.</string>
     <string name="completed">Terminato</string>
-    <string name="header_data_and_synchronization">Dati e sincr.</string>
+    <string name="header_data_and_synchronization">Dati e sincrnizzazione</string>
     <string name="title_reg">Accesso</string>
     <string name="micloud_account_label">Account: %1$s</string>
     <string name="email_already_be_used">Questo indirizzo email è già associato ad un altro account.</string>

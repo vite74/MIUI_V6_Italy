@@ -27,9 +27,9 @@
     <string name="alarm_alert_dismiss_now_text">Ignora ora</string>
     <string name="alarm_missed_title">Sveglia ignorata</string>
     <string name="alarm_missed_text" formatted="false">%s - %s</string>
-    <string name="alarm_alert_snooze_text">Posticipa</string>
-    <string name="alarm_alert_snooze_set">Sospensione per %d minuti.</string>
-    <string name="alarm_alert_snooze_until">Ripetizione allarme fino alle %s</string>
+    <string name="alarm_alert_snooze_text">Rimanda</string>
+    <string name="alarm_alert_snooze_set">Rimanda di %d minuti.</string>
+    <string name="alarm_alert_snooze_until">Ripeti allarme fino alle %s</string>
     <string name="alarm_alert_predismiss_title">Prossimo allarme</string>
     <string name="missed_alarm_has_been_deleted">"L'allarme ignorato è stato eliminato"</string>
     <string name="day">1 giorno</string>
@@ -43,7 +43,7 @@
     <string name="day_concat">", "</string>
     <string name="clock_instructions">Scegli un orologio</string>
     <string name="analog_gadget">Orologio analogico</string>
-    <string name="help">guida</string>
+    <string name="help">Guida</string>
     <string name="settings">Impostazioni</string>
     <string name="snooze_duration_title">Intervallo ripetizione allarme</string>
     <string name="auto_silence_title">Disattiva suoneria dopo</string>
@@ -148,7 +148,7 @@
     <string name="night_mode_summary">Display molto scuro (per stanze buie)</string>
     <string name="expand_alarm">Espandi allarme</string>
     <string name="collapse_alarm">Comprimi allarme</string>
-    <string name="alarm_undo">annulla</string>
+    <string name="alarm_undo">Annulla</string>
     <string name="alarm_deleted">Allarme eliminato.</string>
     <string name="slash">/</string>
     <string name="world_day_of_week_label">/%s</string>

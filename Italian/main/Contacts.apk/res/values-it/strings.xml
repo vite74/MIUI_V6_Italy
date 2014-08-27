@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="deselect_all">Deseleziona tutto</string>
+    <string name="resource_app_name">Sfoglia risorse</string>
+    <string name="resource_delete">Elimina</string>
+    <string name="resource_price_free">Gratis</string>
+    <string name="resource_price_unit">" MiCredits"</string>
+    <string name="resource_price_format">(%1$s)</string>
+    <string name="sdcard_not_mounted_dialog_title">Nessuna scheda SD rilevata</string>
+    <string name="sdcard_not_mounted_dialog_message">"Inserisci la scheda SD ora.
+"</string>
+    <string name="resource_mute">Nessuna</string>
+    <string name="resource_default">Suoneria predefinita</string>
+    <string name="resource_purchase_getting_order">Recupero info ordine in corso…</string>
+    <string name="resource_purchase_verifying_payment">Verifica info pagamento in corso…</string>
+    <string name="resource_purchase_waiting_payment">In attesa delle info di pagamento…</string>
+    <string name="select_none">Nessuna selezione</string>
     <string name="toast_text_copied">Testo copiato</string>
     <string name="call_custom">Chiama %s</string>
     <string name="call_home">Chiama casa</string>
@@ -565,9 +581,7 @@ Per aggiungere contatti alla lista dei preferiti:
     <string name="sim_contact_search_error">Si è verificato un errore</string>
     <string name="service_provider">Cartella</string>
     <string name="zero_items_selected">Seleziona voci</string>
-    <string name="select_all">Seleziona tutto</string>
-    <string name="deselect_all">Deseleziona tutto</string>
-    <string name="select_none">Nessuna selezione</string>
+
     <string name="toast_finish_delete_call_log">Registro chiamate cancellato</string>
     <string name="confirm_delete_contact_all_call_logs">Cancellare il registro chiamate?</string>
     <string name="confirm_delete_selected_all_call_logs">Cancellare i registri chiamate?</string>
@@ -951,7 +965,6 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_account_login_title">Accesso</string>
     <string name="resource_account_switch">Cambia account</string>
     <string name="resource_alarm_default">Allarme</string>
-    <string name="resource_app_name">Sfoglia risorse</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_apply_trial">Prova ora</string>
     <string name="resource_buy">Acquista</string>
@@ -990,7 +1003,6 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_comment_upload_not_bought">Prego usare questa tema prima di lasciare dei commenti.</string>
     <string name="resource_comment_upload_not_logined">"Prego eseguire prima l'accesso"</string>
     <string name="resource_comment_upload_success">Commento inviato! Il tuo commento sarà visualizzato dopo una breve verifica.</string>
-    <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_default_name">Risorsa</string>
     <string name="resource_delete_all">Cancellare %1$d risorse selezionate?</string>
     <string name="resource_delete_confirm">Cancellare queste risorse?</string>
@@ -1041,7 +1053,6 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_list_title">Ultimo selezionato</string>
     <string name="resource_local">Locale %1$s</string>
     <string name="resource_menu_refresh">Aggiorna</string>
-    <string name="resource_mute">Nessuna</string>
     <string name="resource_my">Locale</string>
     <string name="resource_no_result">Nessun risultato</string>
     <string name="resource_notification_default">Notifiche</string>
@@ -1052,12 +1063,6 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_warning">"Hai già acquistato %1$d componenti di questo tema. E' più economico se compri individualmente i componenti che rimangono."</string>
     <string name="resource_present">Regalo</string>
-    <string name="resource_price_format">(%1$s)</string>
-    <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit">" MiCredits"</string>
-    <string name="resource_purchase_getting_order">Recupero info ordine in corso…</string>
-    <string name="resource_purchase_verifying_payment">Verifica info pagamento in corso…</string>
-    <string name="resource_purchase_waiting_payment">In attesa delle info di pagamento…</string>
     <string name="resource_ranking">Popolare</string>
     <string name="resource_ranking_free">Gratis</string>
     <string name="resource_ranking_purchase">A pagamento</string>
@@ -1089,9 +1094,6 @@ il contenuto che stai cercando non è attualmente disponibile nella tua regione.
     <string name="resource_update">Aggiorna</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">In attesa del download...</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inserisci la scheda SD ora.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Nessuna scheda SD rilevata</string>
     <string name="to_activate_the_account">Attiva ora il tuo account Xiaomi</string>
     <string name="toast_finish_delete_selected_call_log">Registro chiamate selezionato cancellato</string>
     <string name="yellowpage_navigation_menu_order">Il mio ordine</string>

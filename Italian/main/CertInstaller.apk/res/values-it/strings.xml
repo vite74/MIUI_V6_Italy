@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Programma di installazione certificato</string>
+    <string name="app_name">Programma di installazione certificati</string>
     <string name="pick_file_title">Scegli un certificato</string>
     <string name="pkcs12_password_dialog_title">Estrai certificato</string>
     <string name="extracting_pkcs12">Estrazione...</string>
@@ -13,7 +13,7 @@
     <string name="one_userkey">una chiave utente</string>
     <string name="one_usercrt">un certificato utente</string>
     <string name="one_cacrt">un certificato CA</string>
-    <string name="n_cacrts">Certificati CA %d</string>
+    <string name="n_cacrts">%d certificati CA</string>
     <string name="password_error">Digita la password corretta.</string>
     <string name="password_empty_error">Digita la password.</string>
     <string name="name_empty_error">Digita un nome.</string>
@@ -30,5 +30,5 @@
     <string name="no_cert_file_found">"Nessun file di certificato trovato nell'archivio USB."</string>
     <string name="sdcard_not_present">Archivio USB non disponibile.</string>
     <string name="only_primary_user_allowed">Solo il proprietario di questo dispositivo può installare certificati.</string>
-    <string name="credential_usage_label">Utilizzo della credenziale:</string>
+    <string name="credential_usage_label">Utilizzo della credenziale: </string>
 </resources>

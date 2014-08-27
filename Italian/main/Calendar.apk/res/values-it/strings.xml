@@ -21,7 +21,7 @@
     <string name="month_view">Mese</string>
     <string name="event_view">Visualizza evento</string>
     <string name="event_create">Nuovo evento</string>
-    <string name="event_edit">"Modifica  evento"</string>
+    <string name="event_edit">"Modifica evento"</string>
     <string name="event_delete">Elimina evento</string>
     <string name="goto_today">Oggi</string>
     <string name="menu_preferences">Impostazioni</string>
@@ -30,8 +30,8 @@
     <string name="hide_controls">Nascondi controlli</string>
     <string name="show_controls">Mostra controlli</string>
     <string name="select_visible_calendars_title">Calendari da visualizzare</string>
-    <string name="synced">sincronizzato</string>
-    <string name="not_synced">non sincronizzato</string>
+    <string name="synced">Sincronizzato</string>
+    <string name="not_synced">Non sincronizzato</string>
     <string name="acct_not_synced">"L'account non viene sincronizzato quindi i calendari potrebbero non essere aggiornati."</string>
     <string name="accounts">Account e sincronizzazione</string>
     <string name="select_synced_calendars_title">Calendari da sincronizzare</string>
@@ -154,8 +154,8 @@
     <string name="preferences_reminders_responded_dialog">Salta promemoria</string>
     <string name="preferences_reminders_quiet_hours_label">Orari disattivazione audio</string>
     <string name="preferences_reminders_quiet_hours_description">Disattiva audio promemoria eventi durante orario specificato.</string>
-    <string name="preferences_reminders_quiet_hours_start">Inizio orari disatt. audio</string>
-    <string name="preferences_reminders_quiet_hours_end">Fine orari disattiv. audio</string>
+    <string name="preferences_reminders_quiet_hours_start">Inizio orario audio disatt.</string>
+    <string name="preferences_reminders_quiet_hours_end">Fine orario audio disatt.</string>
     <string name="preferences_debug_category">Debug</string>
     <string name="copy_db">Invia database</string>
     <string name="directory_searching_fmt">Ricerca in %s in corso...</string>
@@ -190,7 +190,7 @@
     <string name="recurrence_end_date_label">Fino a una data</string>
     <string name="recurrence_end_date">Fino al giorno: %s</string>
     <string name="recurrence_end_count_label">Per una serie di eventi</string>
-    <string name="acessibility_recurrence_choose_end_date_description">modifica data di fine</string>
+    <string name="acessibility_recurrence_choose_end_date_description">Modifica data di fine</string>
     <string name="notification_sender_id" />
     <string name="lunar_calendar" />
     <string name="lunar_yue" />
@@ -211,7 +211,7 @@
     <string name="month_medium_november">Nov</string>
     <string name="month_medium_december">Dic</string>
     <string name="hint_time_zone_search">Digita il nome del Paese</string>
-    <string name="searchview_description_clear">Cancella query</string>
+    <string name="searchview_description_clear">Cancella ricerca</string>
     <string name="no_results_found">Nessun risultato trovato</string>
     <string name="palestine_display_name">Palestina</string>
     <string name="done_label">Fine</string>

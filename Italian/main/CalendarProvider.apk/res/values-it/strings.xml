@@ -7,7 +7,7 @@
     <string name="calendar_info_error">Errore</string>
     <string name="calendar_info_no_calendars">Nessun calendario</string>
     <string name="calendar_info_events">Eventi: %1$d</string>
-    <string name="calendar_info_events_dirty">Eventi: %1$d, Non salvati: %2$d</string>
+    <string name="calendar_info_events_dirty">Eventi: %1$d, non salvati: %2$d</string>
     <string name="provider_label">Calendario</string>
     <string name="debug_tool_delete_button">Elimina adesso</string>
     <string name="debug_tool_start_button">Inizia</string>

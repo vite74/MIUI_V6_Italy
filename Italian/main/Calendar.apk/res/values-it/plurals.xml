@@ -57,7 +57,7 @@
     </plurals>
     <plurals name="recurrence_interval_yearly">
         <item quantity="other">\u0020Ogni %d anni</item>
-        <item quantity="one">\u0020Ogni %d anni</item>
+        <item quantity="one">\u0020Ogni anno</item>
     </plurals>
     <plurals name="recurrence_end_count">
         <item quantity="other">Per %d eventi</item>

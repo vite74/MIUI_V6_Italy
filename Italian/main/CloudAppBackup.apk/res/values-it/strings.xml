@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CloudAppBackup</string>
+    <string name="app_name">Backup su Cloud</string>
     <string name="button_cancel">Annulla</string>
     <string name="button_ok">OK</string>
     <string name="button_return">Indietro</string>

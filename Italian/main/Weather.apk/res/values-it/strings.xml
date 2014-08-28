@@ -31,9 +31,9 @@
     <string name="button_not_allow">Nega</string>
     <string name="location_allow_err">Non si riesce a trovare la posizione</string>
     <string name="view_aqi_title">Qualità aria</string>
-    <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.<</string>
+    <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>
     <string name="act_weather_find_city_click_retry">Riprova</string>
-    <string name="act_weather_find_city_connect_net">Impossibile connettersi alla rete.<</string>
+    <string name="act_weather_find_city_connect_net">Impossibile connettersi alla rete.</string>
     <string name="act_weather_find_city_searching">Ricerca…</string>
     <string name="loading_weather">Caricamento…</string>
     <string name="act_weather_cycle_link_china">WeatherChina</string>

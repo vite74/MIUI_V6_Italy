@@ -17,45 +17,45 @@
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
     <string name="error_not_acceptable">Errore del server: sincronizzazione disattivata.</string>
-    <string name="error_data_in_transfer_title">Cloud Service not avalable currently.</string>
-    <string name="error_data_in_transfer">Your data is being transferred. Please wait %s hours.</string>
+    <string name="error_data_in_transfer_title">Cloud Service non è attualmente disposnibile.</string>
+    <string name="error_data_in_transfer">Trasferimento dei tuoi dati in corso. Si prega di attendere %s ore.</string>
     <string name="activate">Attiva</string>
     <string name="no_sim">SIM non rilevata</string>
     <string name="account">Account</string>
-    <string name="verify">Verify</string>
-    <string name="next">Next</string>
-    <string name="password">Enter your password</string>
-    <string name="vcode">Verification code</string>
-    <string name="bad_authentication">Invalid username or password</string>
-    <string name="header_data_and_synchronization">Data &amp; sync</string>
-    <string name="title_reg">Create an account</string>
-    <string name="unactivated_user">Deactivated</string>
-    <string name="error_network">"Can't connect to network"</string>
-    <string name="error_server">Server error</string>
-    <string name="error_unknown">"Can't sign in"</string>
-    <string name="sync_dspt">Enable sync</string>
-    <string name="sync_sub_dspt">Activation text message is subject to regular data charges.</string>
-    <string name="sync_sub_int_dspt">Activation text message is subject to international data charges.</string>
-    <string name="access_denied">Access denied</string>
-    <string name="sync_on">On</string>
-    <string name="sync_off">Off</string>
-    <string name="activating">Activating…</string>
-    <string name="other_settings">Other settings</string>
-    <string name="find_device">Find device enabled</string>
-    <string name="find_device_enabling">Turning on…</string>
-    <string name="find_device_disabling">Turning off…</string>
-    <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-    <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
-    <string name="find_device_error_network">Check your data connection and try again.</string>
-    <string name="find_device_error_server">Something went wrong with our servers.</string>
-    <string name="find_device_success_title">Find device</string>
-    <string name="find_device_notice_p1">Go to</string>
+    <string name="verify">Verifica</string>
+    <string name="next">Avanti</string>
+    <string name="password">Inserisci la tua password</string>
+    <string name="vcode">Codice di verifica</string>
+    <string name="bad_authentication">Nome utente o password non validi</string>
+    <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
+    <string name="title_reg">Crea un account</string>
+    <string name="unactivated_user">Disattivato</string>
+    <string name="error_network">Imposssibile connettersi alla rete</string>
+    <string name="error_server">Errore del server</string>
+    <string name="error_unknown">"Impossibile eseguire l'accesso"</string>
+    <string name="sync_dspt">Abilita sincronizzazione</string>
+    <string name="sync_sub_dspt">"L'SMS di attivazione è soggetto ai normali costi del tuo piano tariffario."</string>
+    <string name="sync_sub_int_dspt">"L'SMS di attivazione è soggetto ai costi degli SMS verso l'estero previsti dal tuo piano tariffario."</string>
+    <string name="access_denied">Accesso negato</string>
+    <string name="sync_on">Attivata</string>
+    <string name="sync_off">Disattivata</string>
+    <string name="activating">Attivazione…</string>
+    <string name="other_settings">Altre impostazioni</string>
+    <string name="find_device">Trova dispositivo abilitato</string>
+    <string name="find_device_enabling">Attivazione…</string>
+    <string name="find_device_disabling">Disattivazione…</string>
+    <string name="enable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
+    <string name="disable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
+    <string name="find_device_error_network">Verifica la tua connessione dati e riprova.</string>
+    <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
+    <string name="find_device_success_title">Trova dispositivo</string>
+    <string name="find_device_notice_p1">Visita</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"to find, lock, or restore your phone.
-If you switch SIM cards, a new activation SMS must be sent ."</string>
+    <string name="find_device_notice_p3">"per trovare, bloccare, o ripristinare il tuo dispositivo.
+Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Servizio Trova dispositivo disabilitato</string>
-    <string name="find_device_disabled_notice">Puoi attivare o disattivare Trova dispositivo tramite Impostazioni > Account e sincr. > Account Xiaomi</string>
+    <string name="find_device_disabled_notice">Puoi attivare o disattivare Trova dispositivo tramite Impostazioni > Account e sincronizzazione > Account Xiaomi</string>
     <string name="button_cancel">Annulla</string>
     <string name="enable_micloud">Registrati o crea un account</string>
     <string name="micloud_more">Info aggiuntive</string>
@@ -69,7 +69,7 @@ If you switch SIM cards, a new activation SMS must be sent ."</string>
     <string name="micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="cmcc_micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="micloud_sec_dspt">e condividere cose con i tuoi amici.</string>
-    <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+    <string name="micloud_dspt_provision">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo, e condividere cose con i tuoi amici.</string>
     <string name="start_micloud">Avvia MiCloud</string>
     <string name="micloud_proceed">Continua</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
@@ -83,37 +83,37 @@ If you switch SIM cards, a new activation SMS must be sent ."</string>
     <string name="sub_alert_notif_dspt_add">%s non sincronizzati.</string>
     <string name="sub_alert_notif_dspt_no">Non è stato sincronizzato nulla.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="micloud_space_full_influence"><u>What happens when I run out of space?</u></string>
-    <string name="micloud_title_dspt" formatted="false">"%s total
- %s used | %s remaining"</string>
-    <string name="micloud_title_dspt_remain">%s remaining</string>
-    <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
-    <string name="micloud_user_space_usage">Storage space</string>
-    <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
-    <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
-    <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-    <string name="micloud_warn_low_title">Almost out of space…</string>
-    <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
-    <string name="micloud_warn_full_title">Out of space</string>
-    <string name="micloud_warn_full_sum">"New items won't be synced with Mi Cloud."</string>
-    <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will remain backed up in the cloud. 
+    <string name="micloud_space_full_influence"><u>Cosa accade quando esaurisco lo spazio?</u></string>
+    <string name="micloud_title_dspt" formatted="false">"%s totale
+ %s in uso | %s rimasti"</string>
+    <string name="micloud_title_dspt_remain">%s rimasti</string>
+    <string name="micloud_title_full_dspt">Hai esaurito lo spazio!</string>
+    <string name="micloud_user_space_usage">Spazio di memorizzazione</string>
+    <string name="micloud_web_discription_01">Accedi su i.mi.com</string>
+    <string name="micloud_web_discription_02">per salvare i tuoi file o accedervi ovunque tu sia</string>
+    <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
+    <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
+    <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
+    <string name="micloud_warn_full_title">Spazio esaurito</string>
+    <string name="micloud_warn_full_sum">"Nessun nuovo contenuto sarà sincronizzaziono con il Mi Cloud."</string>
+    <string name="micloud_full_influence_dspt">"Tutte le tue foto, i video, le note e le app rimarranno nel backup sul cloud. 
 
 In questo modo, se smarrisci o danneggi il tuo dispositivo, i tuoi dati saranno ancora al sicuro.. 
 
 Quando il tuo cloud è pieno, i tuoi vecchi dati non andranno da nessuna parte. Comunque, qualsiasi nuovo contenuto che aggiungerai (ad es. foto, video, note, e app) non sarà sincronizzato.
 
-To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
-    <string name="micloud_upgrade_space">Get more storage space</string>
-    <string name="enable_sync_dspt">Sync is off</string>
-    <string name="enable_sync">Turn on</string>
-    <string name="cloud_find_device">Find Device</string>
-    <string name="find_device_dspt">Lock or wipe this device remotely.</string>
-    <string name="micloud_user_space_title">Storage space</string>
-    <string name="sync_sub_dspt_provision">View and manage your data from anywhere</string>
-    <string name="btn_return">Back</string>
-    <string name="sync_sub_1_sms">An SMS will be sent to bind your SIM card with this account. You will incur regular charges from your carrier.</string>
-    <string name="sync_sub_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur charges from your carrier.</string>
-    <string name="sync_sub_2_sms">SMS will be sent to bind your SIM cards with this account. You will incur regular charges from your carrier.</string>
-    <string name="sync_sub_2_intl_sms">International SMS will be sent to bind your SIM cards with this account. You will incur international charges from your carrier.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur charges from your carrier.</string>
+Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per quelli nuovi, oppure comprare spazione aggiuntivo."</string>
+    <string name="micloud_upgrade_space">Ottieni spazio aggiuntivo</string>
+    <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
+    <string name="enable_sync">Attiva</string>
+    <string name="cloud_find_device">Trova dispositivo</string>
+    <string name="find_device_dspt">Blocca o ripristina il dispositivo da remoto.</string>
+    <string name="micloud_user_space_title">Spazio di memorizzazione</string>
+    <string name="sync_sub_dspt_provision">Visualizza e gestisci i tuoi dati dovunque tu sia</string>
+    <string name="btn_return">Indietro</string>
+    <string name="sync_sub_1_sms">Verrà inviato un SMS per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
+    <string name="sync_sub_1_intl_sms">Verrà inviato un SMS internazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
+    <string name="sync_sub_2_sms">Verranno inviati due SMS per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
+    <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
+    <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionali e uno nazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
 </resources>

@@ -64,7 +64,7 @@
     <string name="micloud_delete_account">Sign out</string>
     <string name="micloud_active_email_sent_1">"An activation link has been sent to "</string>
     <string name="micloud_active_email_sent_2" />
-    <string name="micloud_click_email">"
+    <string name="micloud_click_email"/>
     <string name="completed">Completato</string>
     <string name="header_data_and_synchronization">Dati &amp; sincronizzazione</string>
     <string name="title_reg">Crea un account</string>

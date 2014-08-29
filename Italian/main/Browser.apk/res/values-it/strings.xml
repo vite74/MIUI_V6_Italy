@@ -488,7 +488,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="tab_snapshots">Pagine salvate</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
     <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
-    <string name="sign_in_to">Accedi a %s1 \"%s2\"</string>
+    <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
     <string name="username">Nome</string>
     <string name="password">Password</string>
     <string name="action">Accedi</string>

@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d messaggi in segreteria</item>
-        <item quantity="one">Messaggio in segreteria</item>
+        <item quantity="one">Un messaggio in segreteria</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selezionati</item>
@@ -73,7 +73,7 @@
         <item quantity="one">%1$d contatto recente</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contatti aggiunti"</item>
+        <item quantity="other">" %1$d contatti aggiunti"</item>
         <item quantity="one">%1$d contatto aggiunto</item>
     </plurals>
     <plurals name="smart_group_member_count">
@@ -86,7 +86,7 @@
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d selezionati"</item>
-        <item quantity="zero">%1$d selezionato</item>
+        <item quantity="zero">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
 </resources>

@@ -79,7 +79,7 @@
     <string name="open_all_in_new_window">Apri tutto in nuove schede</string>
     <string name="goto_dot">Vai</string>
     <string name="select_dot">Seleziona testo</string>
-    <string name="close_other_tabs">Ciudi le altre schede</string>
+    <string name="close_other_tabs">Chiudi le altre schede</string>
     <string name="bookmarks">Segnalibri</string>
     <string name="shortcut_bookmark">Segnalibro</string>
     <string name="shortcut_bookmark_title">Scegli un segnalibro</string>

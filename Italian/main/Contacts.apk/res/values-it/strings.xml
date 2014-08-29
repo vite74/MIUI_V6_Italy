@@ -349,7 +349,7 @@ Per aggiungere contatti alla lista dei preferiti:
     <string name="callBack">Richiama</string>
     <string name="callAgain">Richiama</string>
     <string name="returnCall">Chiama numero</string>
-    <string name="callDetailsDurationFormat">%s min %s sec</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min %s sec</string>
     <string name="favoritesFrequentContacted">Contattati spesso</string>
     <string name="favoritesFrequentCalled">Numeri più chiamati</string>
     <string name="add_contact_dlg_message_fmt">Aggiungi \"%s\" ai contatti?</string>

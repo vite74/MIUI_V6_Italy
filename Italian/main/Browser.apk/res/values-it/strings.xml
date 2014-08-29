@@ -488,7 +488,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="tab_snapshots">Pagine salvate</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
     <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
-    <string name="sign_in_to">Accedi a %s1 \"%s2\"</string>
+    <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
     <string name="username">Nome</string>
     <string name="password">Password</string>
     <string name="action">Accedi</string>
@@ -688,7 +688,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
     <string name="download_pending">Avvio download...</string>
     <string name="dump_nav">Copia chache di navigazione</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
     <string name="webstorage_outofspace_notification_title">Memoria del browser piena</string>
     <string name="webstorage_outofspace_notification_text">Tocca per liberare spazio.</string>
     <string name="webstorage_clear_data_title">Cancella dati archiviati</string>

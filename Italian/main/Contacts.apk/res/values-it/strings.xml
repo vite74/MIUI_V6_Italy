@@ -427,8 +427,8 @@ Motivo: \"%s\""</string>
     <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
     <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul tablet, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti dal tablet."</string>
     <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
-    <string name="fail_reason_could_not_open_file">Apertura di \"%s\" non riuscita: %s.</string>
-    <string name="exporting_contact_list_progress">%s contatti su %s</string>
+    <string name="fail_reason_could_not_open_file" formatted="false">Apertura di \"%s\" non riuscita: %s.</string>
+    <string name="exporting_contact_list_progress" formatted="false">%s contatti su %s</string>
     <string name="cancel_import_confirmation_message">"Annullare l'importazione di %s?"</string>
     <string name="cancel_export_confirmation_message">"Annullare l'esportazione di %s?"</string>
     <string name="cancel_vcard_import_or_export_failed">Annull. import./esport. vCard non riuscito</string>
@@ -1080,7 +1080,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="call_record_setting_miui">Impostazioni registrazione</string>
     <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
     <string name="select_groups">Seleziona gruppi</string>
-    <string name="sim_capacity_content">Capacità totale %d | %d usata</string>
+    <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
     <string name="sim_error_generic_failure">Si è verificato un errore</string>
     <string name="sim_error_storage_full">Memoria piena</string>
     <string name="sim_error_text_too_long">Nome troppo lungo</string>

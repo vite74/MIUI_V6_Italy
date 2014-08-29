@@ -68,7 +68,7 @@
     <string name="cloud_app_no_network">Impossibile connettersi alla rete</string>
     <string name="cloud_app_no_wifi">Impossibile connettersi alla rete Wi-Fi</string>
     <string name="cloud_app_no_wifi_connect">Impossibile connettersi alla rete Wi-Fi</string>
-    <string name="cloud_app_loading_with_mobile_network_prompt">Usare la connessione dati mobile per completare l'esecuzione?</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">"Usare la connessione dati mobile per completare l'esecuzione?"</string>
     <string name="just_support_op_with_wifi_connected">Puoi usare questa funzionalità solo quando hai una connessione Wi-Fi</string>
     <string name="button_restore">Ripristina</string>
     <string name="button_abandon">Sovrascrivi</string>

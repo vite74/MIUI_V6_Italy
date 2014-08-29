@@ -47,11 +47,11 @@
     <string name="group_name_gallery">Galleria</string>
     <string name="group_name_more">Varie</string>
     <string name="group_name_shop_info">Informazioni</string>
-    <string name="group_name_shop_recommendation">Nearby</string>
+    <string name="group_name_shop_recommendation">Nelle vicinanze</string>
     <string name="group_name_data_source">Sorgente</string>
     <string name="photo_count">%d totale</string>
     <string name="all_services">Tutto</string>
-    <string name="no_price">Nessuna informazione prezzo</string>
+    <string name="no_price">Nessuna informazione sui prezzi</string>
     <string name="no_evaluation">Nessuna recensione</string>
     <string name="no_brief">Nessuna introduzione</string>
     <string name="average_price">Media %s RMB</string>
@@ -110,10 +110,10 @@
     <string name="notify_connect_title">Permessi di rete</string>
     <string name="notify_connect_summary">Chiedi i permessi di rete ogni volta</string>
     <string name="do_not_remind_me">Non ricordarmelo più</string>
-    <string name="fraud_number_online_identification">Block telemarketers (requires internet connection)</string>
-    <string name="upload_and_verify_fraud_num_on">Share blocked telemarketer info</string>
-    <string name="upload_and_verify_fraud_num_off">This feature has been closed</string>
-    <string name="about_fraud_num_online_identification">Informazioni su questa funzione</string>
+    <string name="fraud_number_online_identification">Blocca chiamate di telemarketing (richiede una connessione)</string>
+    <string name="upload_and_verify_fraud_num_on">Condividi informazioni sulle chiamate di telemarketing bloccate</string>
+    <string name="upload_and_verify_fraud_num_off">Questa funzionalità è stata chiusa</string>
+    <string name="about_fraud_num_online_identification">Informazioni su questa funzionalità</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>
     <string name="payment_unknown_status_title">Errore di stato del pagamento</string>
@@ -271,7 +271,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="balance_inquiry_send_sms_fail_hint">Impossibile inviare SMS. Verifica lo stato della SIM.</string>
     <string name="navigation_search_default_hint">Digita la parola che vuoi cercare (e.s. xiaomi)</string>
     <string name="navigation_search_automatically_positioned_city">Città attuale</string>
-    <string name="navigation_search_positioning">Ricerca posizione...</string>
+    <string name="navigation_search_positioning">Ricerca posizione…</string>
     <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>
     <string name="navigation_search_no_city_list">Nessun dato trovato sulla città!</string>
     <string name="navigation_search_hot_cities">Principali</string>
@@ -283,8 +283,8 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_product_name_label">Nome prodotto：</string>
     <string name="order_status_label">Stato ordine：%s</string>
     <string name="order_price_label">Prezzo ordine：%s</string>
-    <string name="order_id_label">Id Ordine：%s</string>
-    <string name="order_date_label">Data ordine Order date：%s</string>
+    <string name="order_id_label">Id ordine：%s</string>
+    <string name="order_date_label">Data ordine：%s</string>
     <string name="order_not_found">Nessun ordine relativo</string>
     <string name="general_yellow_page_title">Generale</string>
     <string name="general_recent_title">Recenti</string>
@@ -299,7 +299,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
     <string name="user_agreement2">" Contratto utente"</string>
     <string name="user_agreement4">Politica riservatezza</string>
-    <string name="callNoAnswerTimeFormat">Rang %s times</string>
+    <string name="callNoAnswerTimeFormat">%s squillo/i</string>
     <string name="account_yellowpage_recent">Visualizza cronologia</string>
     <string name="account_yellowpage_favorite">I miei preferiti</string>
     <string name="account_order">Ordini</string>

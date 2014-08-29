@@ -29,7 +29,7 @@
     <string name="button_allow">Consenti</string>
     <string name="button_abandon">Abbandona cambiamenti</string>
     <string name="button_not_allow">Nega</string>
-    <string name="location_allow_err">Non si riesce a trovare la posizione</string>
+    <string name="location_allow_err">Impossibile rilevare la posizione</string>
     <string name="view_aqi_title">Qualità aria</string>
     <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>
     <string name="act_weather_find_city_click_retry">Riprova</string>
@@ -52,7 +52,7 @@
     <string name="view_indexes_title_uv">Indice UV</string>
     <string name="view_indexes_title_wind">Potenza vento</string>
     <string name="view_indexes_title_pressure">Pressione (mb)</string>
-    <string name="view_indexes_title_feel">Feels like (°C)</string>
+    <string name="view_indexes_title_feel">T. percepita (°C)</string>
     <string name="view_dropwater_title">Precipitazioni</string>
     <string name="view_forecast_item_yesterday">Ieri</string>
     <string name="view_indexes_item_today">Oggi</string>
@@ -60,11 +60,11 @@
     <string name="view_aqi_main_no_data">Nessuno</string>
     <string name="activity_main_refresh_time">Ultimo aggiornamento %1$s</string>
     <string name="view_indexes_wind_unit">km/h</string>
-    <string name="activity_main_update_time">Aggiornato %1$s</string>
+    <string name="activity_main_update_time">Aggiornato alle %1$s</string>
     <string name="activity_main_update_time_right_now">Ora</string>
-    <string name="activity_main_refresh_timeout">Refresh timeout</string>
+    <string name="activity_main_refresh_timeout">Timeout aggiornamenti</string>
     <string name="activity_find_city_dialog_cancel">Annulla</string>
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
-    <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di posizione</string>
+    <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
 </resources>

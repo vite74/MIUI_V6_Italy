@@ -34,7 +34,7 @@
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
     <string name="download_in_process">In corso</string>
     <string name="download_complete">Scaricati</string>
-    <string name="download_speed_null" />
+    <string name="download_speed_null"></string>
     <string name="download_list_get_free_vip">Xunlei trial</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial session created</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Enjoy faster download speeds powered by Xunlei</string>
@@ -100,7 +100,7 @@
     <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
     <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
     <string name="no_downloads">No downloads</string>
-    <string name="missing_title">&lt;Unknown></string>
+    <string name="missing_title">Unknown</string>
     <string name="button_sort_by_size">Sort by size</string>
     <string name="button_sort_by_date">Sort by date</string>
     <string name="download_queued">Queued</string>

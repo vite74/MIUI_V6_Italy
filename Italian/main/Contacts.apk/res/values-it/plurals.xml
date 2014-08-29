@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="searchFoundContacts">
-        <item quantity="other">%d trovati</item>
-        <item quantity="one">1 trovato</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatti con numeri di telefono</item>
         <item quantity="one">1 contatto con numero di telefono</item>
@@ -13,6 +9,10 @@
         <item quantity="one">1 contatto</item>
     </plurals>
     <plurals name="listFoundAllContacts">
+        <item quantity="other">%d trovati</item>
+        <item quantity="one">1 trovato</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
         <item quantity="other">%d trovati</item>
         <item quantity="one">1 trovato</item>
     </plurals>
@@ -44,19 +44,6 @@
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
-    <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contatti aggiunti"</item>
-        <item quantity="one">%1$d contatto aggiunto</item>
-    </plurals>
-    <plurals name="smart_group_member_count">
-        <item quantity="other">%d persone</item>
-        <item quantity="one">1 persona</item>
-    </plurals>
-    <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d selezionati"</item>
-        <item quantity="zero">%1$d selezionato</item>
-        <item quantity="one">%1$d selezionato</item>
-    </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d preferiti</item>
         <item quantity="one">%1$d preferito</item>
@@ -85,8 +72,21 @@
         <item quantity="other">%1$d contatti recenti</item>
         <item quantity="one">%1$d contatto recente</item>
     </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  contatti aggiunti"</item>
+        <item quantity="one">%1$d contatto aggiunto</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d persone</item>
+        <item quantity="one">1 persona</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contatti importati</item>
         <item quantity="one">%1$d contatto importato</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d selezionati"</item>
+        <item quantity="zero">%1$d selezionato</item>
+        <item quantity="one">%1$d selezionato</item>
     </plurals>
 </resources>

@@ -32,7 +32,7 @@
     <string name="resource_category">Categoria</string>
     <string name="resource_my">Locale</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
-    <string name="resource_pack_discount_info">%1$s In offerta</string>
+    <string name="resource_pack_discount_info">%1$s risparmiati</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d componenti, il prezzo di acquisto attuale è migliore rispetto all'acquisto individuale dei singoli componenti rimanenti, desideri proseguire?"</string>
     <string name="resource_pack_warning">"Hai già acquistato %1$d componenti di questo tema. E' più economico se compri individualmente i componenti che rimangono."</string>
     <string name="resource_title">Dettagli risorsa</string>

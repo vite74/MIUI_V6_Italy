@@ -4,7 +4,7 @@
         <item>Dopo 1 minuto</item>
         <item>Dopo 5 minuti</item>
         <item>Dopo 10 minuti</item>
-        <item>Never</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 secondi</item>

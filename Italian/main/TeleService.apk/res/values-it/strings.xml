@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="incall_default_package">com.android.incallui</string>
-    <string name="dialer_default_package">com.android.contacts</string>
-    <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-    <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-    <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
-    <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
     <string name="carrier_settings" />
     <string name="carrier_settings_menu" />
     <string name="config_dialing_emergency_number_suffix" />
@@ -418,7 +412,7 @@ Dopo aver premuto “Attiva”, ascolta le istruzioni fornite per attivare il tu
     <string name="ota_hfa_activation_dialog_message">"Il telefono sta attivando il tuo servizio dati mobile.
 
 Potrebbero essere necessari fino a 5 minuti."</string>
-    <string name="ota_skip_activation_dialog_title">Saltare l'attivazione?</string>
+    <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
     <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti alla rete dati mobile (ma potrai connetterti via Wi-Fi). Finché non attivi il tuo telefono, ti verrà richiesto di attivarlo ogni volta che lo accendi."</string>
     <string name="ota_skip_activation_dialog_skip_label">Salta</string>
     <string name="ota_activate">Attivato</string>
@@ -693,7 +687,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="autoip_areacode_required">Codice area richiesto</string>
     <string name="autoip_areacode_required_accept">OK</string>
     <string name="emergency_call_area_code_edit_dialog_hint">Imposta prefisso area</string>
-    <string name="autoip_areacode_required_for_emergency_number">Il prefisso dell'area locale è necessario per eseguire chiamate di emergenza</string>
+    <string name="autoip_areacode_required_for_emergency_number">"Il prefisso dell'area locale è necessario per eseguire chiamate di emergenza"</string>
     <string name="emergency_call_area_code_edit_dialog_button">Chiama</string>
     <string name="dial_related_setting_catory">Componi</string>
     <string name="t9_indexing_method_title">T9 search input</string>

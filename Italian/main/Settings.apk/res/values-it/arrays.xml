@@ -587,7 +587,7 @@
         <item>Memoria esterna</item>
     </string-array>
     <string-array name="miracast_policies">
-        <item>Piccolo ritardo</item>
+        <item>Minimo ritardo</item>
         <item>Normale</item>
         <item>Migliore qualità</item>
     </string-array>

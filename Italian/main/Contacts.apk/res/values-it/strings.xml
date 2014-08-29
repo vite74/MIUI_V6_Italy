@@ -427,7 +427,7 @@ Motivo: \"%s\""</string>
     <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
     <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul tablet, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti dal tablet."</string>
     <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
-    <string name="fail_reason_could_not_open_file">Apertura di \"%s\" non riuscita: %s.</string>
+    <string name="fail_reason_could_not_open_file" formatted="false">Apertura di \"%s\" non riuscita: %s.</string>
     <string name="exporting_contact_list_progress">%s contatti su %s</string>
     <string name="cancel_import_confirmation_message">"Annullare l'importazione di %s?"</string>
     <string name="cancel_export_confirmation_message">"Annullare l'esportazione di %s?"</string>

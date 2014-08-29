@@ -701,11 +701,11 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
     <string name="testing_wifi_info">Informazioni Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
+    <string name="disableNetwork">Disattiva rete</string>
+    <string name="enableNetwork">Attiva rete</string>
+    <string name="disconnect">Disconnetti</string>
+    <string name="getConfiguredNetworks">Reti configurate</string>
+    <string name="getConnectionInfo">Informazioni connessione</string>
     <string name="wifi_api_test">API Wi-Fi</string>
     <string name="wifi_status_test">Stato Wi-Fi</string>
     <string name="wifi_update">Aggiorna statistiche</string>

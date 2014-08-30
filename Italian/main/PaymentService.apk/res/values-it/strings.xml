@@ -126,7 +126,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ricarica fallita</string>
     <string name="progress_msg_creating">Creazione ordine di ricarica…</string>
-    <string name="msg_send_parameter_error">"Failed to send message，there's an error in the content."</string>
+    <string name="msg_send_parameter_error">"Impossibile inviare il messaggio. C'è un errore nel contenuto"</string>
     <string name="msg_send_send_fail_error">Impossibile inviare messaggio</string>
     <string name="msg_send_no_sim_error">Impossibile inviare messaggio: prova a reinserire la SIM.</string>
     <string name="msg_send_no_net_error">Impossibile inviare messaggio: connessione al provider di rete fallita.</string>
@@ -142,10 +142,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_telecom_picker_hint_1_2">Contattare automaticamente il provider di rete.</string>
     <string name="msg_telecom_picker_hint_2_1">Il tuo operatore di rete è stato contattato!</string>
     <string name="msg_telecom_picker_hint_2_2">Riceverai una conferma di testo tra poco.</string>
-    <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
-    <string name="msg_order_hint_1_2">Automatically contact your service provider.</string>
-    <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
-    <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
+    <string name="msg_order_hint_1_1">Dopo aver premuto Conferma acquisto, il tuo telefono</string>
+    <string name="msg_order_hint_1_2">contatterà automaticamente il tuo fornitore di servizi.</string>
+    <string name="msg_progress_hint_2_1">Il tuo operatore di rete è stato contattato!</string>
+    <string name="msg_progress_hint_2_2">Riceverai un messaggio di conferma a breve.</string>
     <string name="giftcard_denom_available">MiCredit disponibili</string>
     <string name="giftcard_denom">MiCredit</string>
     <string name="giftcard_denom_frozen">MiCredit congelati</string>
@@ -153,10 +153,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="giftcard_acitivity_and_denomination">Scheda regalo del valore di %2$s-MiCredit da %1$s</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s scaduta</string>
     <string name="giftcard_empty">Nessuna carta regalo.</string>
-    <string name="giftcard_title">Mi Credit Gift Card</string>
-    <string name="giftcard_define_detail">Use these gift cards just like regular Mi Credits. You may receive gift cards after participating in Xiaomi events and promotions.</string>
-    <string name="progress_mipay_creating">Generating order…</string>
-    <string name="mipay_error">Mipay failed</string>
+    <string name="giftcard_title">Carta Regalo MiCredit</string>
+    <string name="giftcard_define_detail">Usa questa carta regalo proprio come normali MiCredit. Potresti ricevere carte regalo partecipando a eventi o promozioni di Xiaomi.</string>
+    <string name="progress_mipay_creating">Generazione ordine…</string>
+    <string name="mipay_error">Mipay fallito</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
@@ -204,13 +204,13 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="progress_error_pay_title">Pagamento fallito</string>
     <string name="progress_error_pay_summary">Aggiunti %1$s MiCredit, ma pagamento fallito! Riprova più tardi.</string>
     <string name="progress_warning_waiting">Il pagamento non ha ancora raggiunto il tuo conto.</string>
-    <string name="progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
-We will check again within two working days.
-Customer service center：400-100-5678"</string>>
+    <string name="progress_warning_check_with_contact">"Il pagamento non ha ancora raggiunto il tuo account. 
+Verificheremo di nuovo entro due giorni lavorativi.
+Centro assistenza clienti：400-100-5678"</string>>
     <string name="btn_back">Indietro</string>
     <string name="btn_recharge_other">Ricarica</string>
     <string name="btn_call">Chiama</string>
-    <string name="btn_finish">finito</string>
+    <string name="btn_finish">Finito</string>
     <string name="recharge_notification">Ricarica: %1$s MiCredit</string>
     <string name="giftcard_push_notification_prime_title">Hai ricevuto una carta regalo</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit in omaggio</string>

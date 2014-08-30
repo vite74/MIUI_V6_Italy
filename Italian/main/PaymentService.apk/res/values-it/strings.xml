@@ -8,18 +8,18 @@
     <string name="colon">": "</string>
     <string name="unit">MiCredit</string>
     <string name="unit_value">%1$s MiCredit</string>
-    <string name="illegal_intent">Illegal intent request</string>
+    <string name="illegal_intent">Richiesta illegale</string>
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
     <string name="label_giftcard">Carta regalo:</string>
-    <string name="title_bind_phone">Binding mobile phone No.</string>
-    <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
-    <string name="button_sms_code">Confirm</string>
-    <string name="title_sms_code">Please enter the mobile phone verification code</string>
-    <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
-    <string name="sms_code_hint">Mobile phone verification code</string>
-    <string name="sms_code_error">Mobile phone verification code error, please get again</string>
+    <string name="title_bind_phone">Associazione numero di telefono.</string>
+    <string name="summary_bind_phone">Per assicurare la sicurezza del tuo account, si prega di completare il pagamento dopo avere associato il numero di cellulare.</string>
+    <string name="button_sms_code">Conferma</string>
+    <string name="title_sms_code">Si prega di inserire il codice di verifica del telefono</string>
+    <string name="summary_sms_code">Per assicurare la sicurezza del tuo account, si prega di inserire il codice di verifica ricevuta dal telefono %1$s，e quindi completare il pagamento</string>
+    <string name="sms_code_hint">Codice di verifica cellulare</string>
+    <string name="sms_code_error">Errore nel codice di verifica cellulare, si prega di riprovare</string>
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Inserisci password account</string>
     <string name="password_error">Password sbagliata.</string>
@@ -33,8 +33,8 @@
     <string name="button_recharge_pay">Conferma</string>
     <string name="button_recharge">Ricarica</string>
     <string name="button_bind_phone">Bind now</string>
-    <string name="button_count_down_reget">Gets the verification code(%1$s)</string>
-    <string name="button_reget">Gets the verification code</string>
+    <string name="button_count_down_reget">Ottieni codice di verifica (%1$s)</string>
+    <string name="button_reget">Ottieni codice di verifica</string>
     <string name="balance_payment">%1$s MiCredit</string>
     <string name="giftcard_payment">%1$s MiCredit</string>
     <string name="partner_giftcard_payment">%1$s MiCredit （%2$s）</string>
@@ -75,7 +75,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="recharge_novalid_method">Nessun metodo di ricarica valido.</string>
     <string name="account_detail">"Account Xiaomi:
 %1$s"</string>
-    <string name="pc_pay_login">Effettua il login</string>
+    <string name="pc_pay_login">Accedi</string>
     <string name="pc_pay_website">mibi.xiaomi.com</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
@@ -112,7 +112,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="prepaid_error_password">Password carta non valida.</string>
     <string name="prepaid_error_card_length">Numero carta o password non valide.</string>
     <string name="progress_prepaid_creating">Creazione ordine…</string>
-    <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
+    <string name="prepaid_card_order_info">%1$s carta prepagata: RMB %2$s</string>
     <string name="voucher_input_password_prompt">Inserisci codice</string>
     <string name="voucher_edit_limit">numeri</string>
     <string name="voucher_error_password">Codice voucher non valido!</string>

@@ -11,7 +11,7 @@
     <string name="menu_edit_systemtime">Modifica orario sistema</string>
     <string name="menu_edit_timer_item">Modifica</string>
     <string name="delete_timer_item_title">Elimina operazione</string>
-    <string name="delete_selected_timer_item">Eliminare l'operazione selezionata?</string>
+    <string name="delete_selected_timer_item">"Eliminare l'operazione selezionata?"</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
     <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
     <string name="timezone_exist_error_message">Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo.</string>

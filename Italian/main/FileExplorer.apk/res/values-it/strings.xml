@@ -230,7 +230,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="trans_task">Trasferimento di rete</string>
     <string name="des_running_trans">Restano %1$d file da trasferire</string>
     <string name="trans_task_delete_confirm_message">Eliminare le %1$d funzioni selezionate?</string>
-    <string name="forward_to_web_recycle_prompt"><a href=\"%1$s\">Clicca qui</a>per aprire il cestino cloud</string>
+    <string name="forward_to_web_recycle_prompt">Tocca qui %1$s per aprire il cestino cloud</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>

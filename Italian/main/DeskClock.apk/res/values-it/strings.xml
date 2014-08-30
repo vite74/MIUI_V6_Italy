@@ -17,7 +17,7 @@
     <string name="timezone_exist_error_message">Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo.</string>
     <string name="alarm_disabled">Disabilitata</string>
     <string name="alarm_ascending_mode_title">Sveglia ascendente</string>
-    <string name="alarm_ascending_mode_summary">La sveglia aumenterà gradatamente il volume fino a raggiungere quello impostato.</string>
+    <string name="alarm_ascending_mode_summary">"Il volume dell'allarme cresce progressivamente."</string>
     <string name="close_alarm">Disattiva sveglia</string>
     <string name="start">Avvia</string>
     <string name="pause">Pausa</string>

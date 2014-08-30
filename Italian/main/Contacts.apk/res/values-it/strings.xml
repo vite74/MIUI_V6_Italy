@@ -1105,7 +1105,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Abilita servizio di localizzazione</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">"L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere."</string>
     <string name="yellowpage_navigation_network_location_enable">Abilita</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non ora</string>
     <string name="yellowpage_user_profile">Profilo</string>

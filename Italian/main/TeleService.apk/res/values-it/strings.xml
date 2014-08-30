@@ -110,7 +110,7 @@
 Contatta il tuo operatore se questo problema persiste.</string>
     <string name="fw_change_failed">Impossibile modificare il numero a cui inoltrare le chiamate.
 Contatta il tuo operatore se questo problema persiste.</string>
-    <string name="fw_get_in_vm_failed">Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate.
+    <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate.
 Desideri passare comunque al nuovo servizio?"</string>
     <string name="no_change">Nessuna modifica effettuata.</string>
     <string name="sum_voicemail_choose_provider">Scegli il servizio di segreteria telefonica</string>

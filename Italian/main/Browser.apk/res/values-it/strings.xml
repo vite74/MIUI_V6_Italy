@@ -263,7 +263,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">Il browser non userà la rete mobile per precaricare pagine web o per visualizzare le immagini</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
     <string name="menu_save_bandwidth_mode_open_toast">Riduzione uso dei dati attiva</string>
-    <string name="menu_save_bandwidth_mode_close_toast">E' attivo l'uso normale dei dati</string>
+    <string name="menu_save_bandwidth_mode_close_toast">"E' attivo l'uso normale dei dati"</string>
     <string name="return_to_homepage">Torna alla pagina iniziale</string>
     <string name="new_tab">Nuova scheda</string>
     <string name="new_incognito_tab">Nuova scheda in incognito</string>

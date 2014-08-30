@@ -253,7 +253,7 @@
     <string name="cannot_move_special_mailboxes_toast">I messaggi in Bozze, Posta in uscita e Posta inviata non possono essere spostati.</string>
     <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s<br></string>
+    <string name="cc_attribution">Cc: %1$s</string>
     <string name="cc_bcc">Cc/Ccn</string>    
     <string name="cc_heading">"Cc: "</string>
     <string name="change_account_confirm">"L'account "%1$s" verrà rimosso da WPSMail."</string>
@@ -410,7 +410,7 @@
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Avanti</string>
-    <string name="forward_attribution">---------- Messaggio inoltrato ----------<br>Da: %1$s<br>Data: %2$s<br>Oggetto: %3$s<br>A: %4$s<br></string>
+    <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>

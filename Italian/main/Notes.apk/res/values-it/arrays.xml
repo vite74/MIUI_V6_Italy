@@ -20,17 +20,17 @@
         <item>Enorme</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Ora si può facilmente annotare idee, appunti, pensieri utilizzando
+        <item>"Potrai appuntare facilmente idee, memo e pensieri
 "</item>
-        <item>"Attach pictures or contacts
+        <item>"Allegare immagini o contatti
 "</item>
-        <item>"Check off tasks with your finger
+        <item>"Sbarrare gli elementi scorrendo con il dito
 "</item>
-        <item>"e più ggrandi caratteristiche!
+        <item>"Avrai altre interessanti funzioni a disposizione!
   - Sincronizzare le note con MiCloud
   - Impostare i promemoria
 
-To learn more, visit
+Per maggiori informazioni, visita
 http://www.miui.com/forum.php?lang=1
 "</item>
     </string-array>

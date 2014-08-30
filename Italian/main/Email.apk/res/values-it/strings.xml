@@ -48,7 +48,7 @@
     <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
     <string name="account_settings_list_title">Seleziona i provider di posta da aggiungere:</string>
     <string name="account_settings_login_dialog_content_fmt">Il nome utente o la password per %s non sono corretti. Aggiornarli ora?</string>
-    <string name="account_settings_login_dialog_reason_fmt">Accesso a %s fallito; il server dice: %s Do you want to update your username and/or password?</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Accesso a %s fallito; il server dice: %s Do you want to update your username and/or password?</string>
     <string name="account_settings_login_dialog_title">Impossibile accedere</string>
     <string name="account_settings_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
     <string name="account_settings_name_label">Nome</string>

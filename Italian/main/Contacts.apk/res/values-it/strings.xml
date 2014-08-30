@@ -76,8 +76,8 @@
     <string name="resource_downloaded_title">Risorse scaricate</string>
     <string name="resource_see_more">Vedi altro</string>
     <string name="resource_no_result">Nessun risultato</string>
-    <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
-    <string name="resource_search_list_empty">Nessun risultato</string>  
+    <string name="resource_unable_to_access">"Spiacenti,
+il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_list_title">Ultimo selezionato</string>
     <string name="resource_get_auth_checking">Verifica autorizzazioni…</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
@@ -180,14 +180,14 @@
     <string name="resource_hint">Avviso</string>
     <string name="resource_ringtone_volume_mute">La tua suoneria è attualmente silenziata</string>
     <string name="config_export_dir">/mnt/sdcard</string>
-    
-    
-    
-    
+    <string name="config_export_file_prefix" />
+    <string name="config_export_file_suffix" />
+    <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_extensions_to_consider" />
     <string name="config_prohibited_phone_number_regexp"></string>
-    
-    
-    
+    <string name="help_url_people_main" />
+    <string name="help_url_people_add" />
+    <string name="help_url_people_edit" />   
     <string name="launcherDialer">Telefono</string>
     <string name="people">Contatti</string>
     <string name="contactsList">Contatti</string>
@@ -1105,7 +1105,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Abilita servizio di localizzazione</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">"L'elenco ha bisogno di rilevare la tua posizione per funzionare a dovere."</string>
     <string name="yellowpage_navigation_network_location_enable">Abilita</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non ora</string>
     <string name="yellowpage_user_profile">Profilo</string>

@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Servizio pagamento</string>
-    <string name="format_time">MMM dd, yyyy hh:mmaa</string>
-    <string name="format_date">MMM. dd, yyyy</string>
+
+    <string name="cancel">Annulla</string>
+    <string name="app_name">MiCredit</string>
+    <string name="format_time">dd.MMM, yyyy HH:mm</string>
+    <string name="format_date">dd.MMM, yyyy</string>
     <string name="colon">": "</string>
+    <string name="unit">MiCredit</string>
+    <string name="unit_value">%1$s MiCredit</string>
+    <string name="illegal_intent">Illegal intent request</string>
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
     <string name="label_giftcard">Carta regalo:</string>
+    <string name="title_bind_phone">Binding mobile phone No.</string>
+    <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
+    <string name="button_sms_code">Confirm</string>
+    <string name="title_sms_code">Please enter the mobile phone verification code</string>
+    <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+    <string name="sms_code_hint">Mobile phone verification code</string>
+    <string name="sms_code_error">Mobile phone verification code error, please get again</string>
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Inserisci password account</string>
     <string name="password_error">Password sbagliata.</string>
@@ -20,13 +32,17 @@
     <string name="button_pay">Conferma</string>
     <string name="button_recharge_pay">Conferma</string>
     <string name="button_recharge">Ricarica</string>
+    <string name="button_bind_phone">Bind now</string>
+    <string name="button_count_down_reget">Gets the verification code(%1$s)</string>
+    <string name="button_reget">Gets the verification code</string>
     <string name="balance_payment">%1$s MiCredit</string>
     <string name="giftcard_payment">%1$s MiCredit</string>
-    <string name="partner_giftcard_payment">%1$s MiCredit （Solo per %2$s）</string>
+    <string name="partner_giftcard_payment">%1$s MiCredit （%2$s）</string>
     <string name="payment_actionbar_title">Conferma</string>
+    <string name="milicenter_title">MiCredit</string>
     <string name="balance_title">Saldo</string>
-    <string name="giftcard_value">(%1$s-Carta regalo MiCredit)</string>
-    <string name="frozen">(Congelato)</string>
+    <string name="giftcard_value">%1$s-Carta regalo MiCredit</string>
+    <string name="frozen">Congelato</string>
     <string name="mili_center">MiCredit</string>
     <string name="memu_refresh">Aggiorna</string>
     <string name="error_mili_summary">Fondi insufficienti.</string>
@@ -96,6 +112,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="prepaid_error_password">Password carta non valida.</string>
     <string name="prepaid_error_card_length">Numero carta o password non valide.</string>
     <string name="progress_prepaid_creating">Creazione ordine…</string>
+    <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
     <string name="voucher_input_password_prompt">Inserisci codice</string>
     <string name="voucher_edit_limit">numeri</string>
     <string name="voucher_error_password">Codice voucher non valido!</string>
@@ -109,6 +126,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ricarica fallita</string>
     <string name="progress_msg_creating">Creazione ordine di ricarica…</string>
+    <string name="msg_send_parameter_error">"Failed to send message，there's an error in the content."</string>
     <string name="msg_send_send_fail_error">Impossibile inviare messaggio</string>
     <string name="msg_send_no_sim_error">Impossibile inviare messaggio: prova a reinserire la SIM.</string>
     <string name="msg_send_no_net_error">Impossibile inviare messaggio: connessione al provider di rete fallita.</string>
@@ -124,6 +142,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_telecom_picker_hint_1_2">Contattare automaticamente il provider di rete.</string>
     <string name="msg_telecom_picker_hint_2_1">Il tuo operatore di rete è stato contattato!</string>
     <string name="msg_telecom_picker_hint_2_2">Riceverai una conferma di testo tra poco.</string>
+    <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
+    <string name="msg_order_hint_1_2">Automatically contact your service provider.</string>
+    <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
+    <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
     <string name="giftcard_denom_available">MiCredit disponibili</string>
     <string name="giftcard_denom">MiCredit</string>
     <string name="giftcard_denom_frozen">MiCredit congelati</string>
@@ -131,6 +153,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="giftcard_acitivity_and_denomination">Scheda regalo del valore di %2$s-MiCredit da %1$s</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s scaduta</string>
     <string name="giftcard_empty">Nessuna carta regalo.</string>
+    <string name="giftcard_title">Mi Credit Gift Card</string>
+    <string name="giftcard_define_detail">Use these gift cards just like regular Mi Credits. You may receive gift cards after participating in Xiaomi events and promotions.</string>
+    <string name="progress_mipay_creating">Generating order…</string>
+    <string name="mipay_error">Mipay failed</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
@@ -172,17 +198,15 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="progress_success_recharge_title">Ricarica da %1$s MiCredit completata</string>
     <string name="progress_success_pay_title">Pagamento di %1$s MiCredit completato</string>
     <string name="progress_success_recharge_summary">Saldo: %1$s MiCredit.</string>
-    <string name="progress_success_pay_summary">Pagamento completato! :)</string>
+    <string name="progress_success_pay_summary">%1$s MiCredit ricaricati，%2$s MiCredit pagati</string>
     <string name="progress_error_recharge_title">Ricarica fallita!</string>
     <string name="progress_error_recharge_summary">TRicarica fallita! Riprova più tardi.</string>
     <string name="progress_error_pay_title">Pagamento fallito</string>
     <string name="progress_error_pay_summary">Aggiunti %1$s MiCredit, ma pagamento fallito! Riprova più tardi.</string>
     <string name="progress_warning_waiting">Il pagamento non ha ancora raggiunto il tuo conto.</string>
-    <string name="progress_warning_contact_server">"Il pagamento non ha ancora raggiunto il tuo conto. 
-1. Contatta il nostro centro servizio clienti di Shenzhou：%1$s 
-2. Quando richiesto, fornisci il numero di serie: %2$s."</string>
-    <string name="progress_warning_check">"Il pagamento non ha ancora raggiunto il tuo conto. 
-Controlleremo di nuovo entro due giorni lavorativi."</string>
+    <string name="progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
+We will check again within two working days.
+Customer service center：400-100-5678"</string>>
     <string name="btn_back">Indietro</string>
     <string name="btn_recharge_other">Ricarica</string>
     <string name="btn_call">Chiama</string>
@@ -211,7 +235,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
     <string name="btn_agree">"Sono d'accordo"</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
-    <string name="lockscreen_forgot_pattern_button_text">&lt;u>Sequenza dimenticata&lt;/u></string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Sequenza dimenticata</u></string>
     <string name="lockpattern_recording_intro_header">Disegna sequenza di sblocco:</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza di sblocco</string>
     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti. Prova di nuovo:</string>
@@ -221,10 +245,9 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Password sbagliata, ti restano %d tentativi&lt;/font></string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco:</string>
     <string name="lockpattern_recording_inprogress">Allontana il dito dallo schermo quando hai finito.</string>
-    <string name="lockpattern_retry_text">&lt;u>Ripristina sequenza di sblocco&lt;/u></string>
-    <string name="forget_password">&lt;u>Ripristina password&lt;/u></string>
+    <string name="lockpattern_retry_text"><u>Ripristina sequenza di sblocco</u></string>
+    <string name="forget_password"><u>Ripristina password</u></string>
     <string name="login">Accedi</string>
-    <string name="cancel">Annulla</string>
     <string name="change_security_lock">Modifica blocco di sicurezza</string>
     <string name="lockpassword_confirm_your_pattern_header">Conferma la sequenza</string>
     <string name="lockpassword_input_your_pattern_header">Conferma la sequenza</string>
@@ -237,7 +260,6 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Troppi tentativi sbagliati!&lt;/font></string>
     <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Riprova tra  %d secondi.</string>
-    <string name="title_myaccount">Account Mi: %s</string>
     <string name="title_gesture">Sequenza di sblocco</string>
     <string name="title_lockpattern">Richiesta sequenza di sblocco</string>
     <string name="title_visible_pattern">Rendi visibile la sequenza</string>
@@ -245,14 +267,15 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="title_change_lockpattern">Modifica sequenza di sblocco</string>
     <string name="title_password">Password</string>
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
-    <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
+    <string name="title_password_threshold">Limite giornaliero = %1$s ￥</string>
     <string name="title_nopassword_dialog">Limite giornaliero</string>
     <string name="button_confirm">Conferma</string>
     <string name="button_next">Avanti</string>
     <string name="scan_prompt_number">Scansiona numero della carta prepagata %1$s</string>
     <string name="scan_prompt_password">Scansione password della carta prepagata %1$s</string>
     <string name="scan_prompt_voucher">Scansiona password MiCredit</string>
-    <string name="detail_recharge_title">Cronologi ricariche</string>
+    <string name="scan_prompt_retry">Mantenere lo stesso codice</string>
+    <string name="detail_recharge_title">Cronologia ricariche</string>
     <string name="detail_recharge_order">Numero ordine ricarica:</string>
     <string name="detail_recharge_account">ID ricarica</string>
     <string name="detail_pay_account">Pagamento ID</string>
@@ -270,5 +293,4 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="detail_giftcard_activity">Promozione</string>
     <string name="detail_giftcard_expired_time">Data di scadenza</string>
     <string name="detail_giftcard_theme">Acquista temi</string>
-   <string name="direct_consume_not_support">Consumo diretto non è supportato!</string>
 </resources>

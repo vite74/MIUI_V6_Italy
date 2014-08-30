@@ -3,9 +3,26 @@
     <string name="welcome">Benvenuto</string>
     <string name="input_method_setting">Scegli tastiera</string>
     <string name="input_method_category">"Scegli il metodo d'immissione predefinito che verrà utilizzato durante la scrittura delle email, note, e tutto il resto. Si nota che potrai installare tastiere di terze parti."</string>
+    <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
+    <string name="multisim_settings_category">Impostazioni preferite SIM</string>
+    <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
+    <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo MIAccount.</string>
+    <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
     <string name="other_settings_location">Accedi alla posizione</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di segnalare la tua posizione</string>
     <string name="other_settings_user_experience">Feedback utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
+    <string name="other_settings_user_experience_summary1">(Vedi le politiche privacy)</string>
+    <string name="next">Avanti</string>
+    <string name="sim_dectection_next">Continua</string>
+    <string name="shut_down">Spegni</string>
+    <string name="sim_redetection">Verifica nuovamente la presenza della scheda SIM</string>
+    <string name="logo_congratulation">Hai settato tutto!</string>
+    <string name="congratulation_label">Goditi il tuo nuovo telefono :)</string>
+    <string name="congratulation_next">Inizia a utilizzare MIUI</string>
+    <string name="pref_title_voice_slot">Scheda SIM per le chiamate vocali</string>
+    <string name="pref_title_data_slot">Scheda SIM per i dati</string>
+    <string name="summary_not_set">Non impostato</string>
+    <string name="summary_sim_card">Scheda SIM %1$d%2$s</string>
 </resources>

@@ -666,7 +666,6 @@ CC: %4$s
     <string name="quick_4">Organizziamo una riunione per discuterne.</string>
     <string name="quick_reply_dialog_title">Scegli</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
-    <string name="quote_begin"><div class=\"quote\"></string>
     <string name="quoted_text">Includi testo citato</string>
     <string name="quoted_text_label">Testo citato</string>
     <string name="read_string">Conversazione letta</string>

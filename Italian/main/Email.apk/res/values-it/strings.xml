@@ -682,7 +682,7 @@ CC: %4$s
     <string name="remove_star">Rimuovi da Speciali</string>
     <string name="reply">Rispondi</string>
     <string name="reply_all">Rispondi a tutti</string>
-    <string name="reply_attribution"formatted="false">Il %s, %s ha scritto:</string>
+    <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
     <string name="reply_subject_label">Re:</string>
     <string name="replyto_heading">"Rispondi a: "</string>
     <string name="report">Rapporto</string>
@@ -757,7 +757,6 @@ CC: %4$s
     <string name="storage">Memoria</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Oggetto</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="swipe_down_to_refresh">Scorri in basso per aggiornare</string>

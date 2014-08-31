@@ -92,7 +92,7 @@
     <string name="pref_keep_in_memory_title">Mantieni in memoria</string>
     <string name="pref_keep_in_memory_summary">Mantieni applicazione in memoria, in questo modo non verrà terminata.</string>
     <string name="pref_render_in_truecolor_title">Grafica di alta qualità</string>
-    <string name="pref_render_in_truecolor_summary">Turning off this feature improves drawing performance</string>   
+    <string name="pref_render_in_truecolor_summary">Disablitando questa feature aumenterai le performance grafiche</string>   
     <string name="pref_enable_drawing_cache_title">Utilizzo Cache</string>
     <string name="pref_enable_drawing_cache_summary">Disattiva per liberare memoria, causerà delle latenze</string>
     <string name="pref_icon_shadow_title">Ombra icone</string>
@@ -201,7 +201,7 @@
     <string name="status_bar_toggle_screen_button">Tasti</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_shutdown">Spegni</string>
-    <string name="status_bar_toggle_sync">Sinc.</string>
+    <string name="status_bar_toggle_sync">Sincr.</string>
     <string name="status_bar_toggle_torch">Torcia</string>
     <string name="status_bar_toggle_vibrate">Vibra</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
@@ -214,7 +214,6 @@
     <string name="status_bar_toggle_sync_auto">Sinc.Auto</string>
     <string name="status_bar_toggle_sync_manual">Sinc.Manu</string>
     <string name="status_bar_toggle_syncing">Sincronizza</string>
-
     <string name="screen_rotation_freeze_message">Rotazione automatica bloccata</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">I tasti funzione in basso</string>

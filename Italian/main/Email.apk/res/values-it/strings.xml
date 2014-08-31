@@ -449,7 +449,6 @@
     <string name="intent_exchange_package">com.android.exchange</string>
     <string name="invalid_recipient">Indirizzo non valido.</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%s: %s</string>    
     <string name="load_more">Carica altro</string>
     <string name="loading_conversation">Caricamento…</string>
     <string name="loading_conversations">Caricamento…</string>

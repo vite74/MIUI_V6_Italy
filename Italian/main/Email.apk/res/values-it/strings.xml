@@ -601,7 +601,7 @@ CC: %4$s
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="phone">telefono</string>
     <string name="photo_load_failed">Non è stato possibile caricare l\'immagine</string>
-    <string name="photo_view_count">%d di %d</string>
+    <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="please_fill_in_your_mailbox_information">Inserisci i dati del tuo account %s:</string>
     <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account:</string>
     <string name="please_wait">Attendi…</string>

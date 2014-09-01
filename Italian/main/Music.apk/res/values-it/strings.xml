@@ -18,7 +18,7 @@
     <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo account Mi.</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
     <string name="impunity_declaration_title">"Condizioni d'uso"</string>
-    <string name="impunity_declaration">"Lo streamng online è fornito da Baidu Online Music Service. Toccando Conferma, accetti le "<a href="http://music.baidu.com/doc/agreement">Condizioni d'uso</a> di Baidu.</string>
+    <string name="impunity_declaration">"Lo streamng online è fornito da Baidu Online Music Service. Toccando Conferma, accetti le "<a href="http://music.baidu.com/doc/agreement">Condizioni d\'uso</a> di Baidu.</string>
     <string name="impunity_declaration_ignore">"Non mostrare di nuovo"</string>
     <string name="impunity_declaration_settings">"Mostra Condizioni d'uso"</string>
     <string name="impunity_declaration_summary">"Mostra in popup le Condizioni d'uso per il servizio Baidu Online Music Service ogni volta che l'app Musica viene aperta"</string>

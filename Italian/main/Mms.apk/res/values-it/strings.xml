@@ -385,7 +385,7 @@
     <string name="mx_activate_hint_malformed_info">Verrà inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai normali costi previsti dal tuo operatore.</string>
     <string name="mx_activate_int_hint_malformed_info">Verrà inviato un SMS internazionale per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai costi per i messaggi internazionali previsti dal tuo operatore.</string>
     <string name="mx_activate_hint_server">Verrà inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai normali costi previsti dal tuo operatore.</string>
-    <string name="mx_activate_int_hint_server">Verrà inviato un SMS internazionale per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai costi per i messaggi internazionali previsti dal tuo operatore.</string>>
+    <string name="mx_activate_int_hint_server">Verrà inviato un SMS internazionale per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai costi per i messaggi internazionali previsti dal tuo operatore.</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite MiCloud, vuoi scaricarli?</string>

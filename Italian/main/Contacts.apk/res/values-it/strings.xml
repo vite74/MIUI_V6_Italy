@@ -868,7 +868,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_telocation_summary_countrycode_on">Componi automaticamente il prefisso internazionale</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="preference_phone">Telefono</string>
-    <string name="preference_dial_pad_touch_tone_title">Tono al tocca del tastierino</string>
+    <string name="preference_dial_pad_touch_tone_title">Tono al tocco del tastierino</string>
     <string name="preference_auto_ip_title">Prefisso IP automatico</string>
     <string name="preference_auto_ip_summary_disable">Disabilitato</string>
     <string name="preference_auto_ip_summary_on">"Prefisso IP dell'operatore: %s"</string>

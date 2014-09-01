@@ -123,7 +123,7 @@
     <string name="record_fail">Recording failed</string>
     <string name="record_error_unknown">Recording stopped: unknown error</string>
     <string name="record_error_file_removed">Recording deleted: unknown error</string>
-    <string name="turn_on_fm">Accendi FM</string
+    <string name="turn_on_fm">Accendi FM</string>
     <string name="turn_off_fm">Spegni FM</string>
     <string name="turn_on_speaker_phone">Attiva speaker</string>
     <string name="turn_off_speaker_phone">Turn off speaker phone</string>

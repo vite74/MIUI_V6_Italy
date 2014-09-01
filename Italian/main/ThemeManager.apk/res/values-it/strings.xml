@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="maml_component_customization_title">Inpostazioni</string>
+    <string name="maml_component_customization_title">Impostazioni</string>
     <string name="default_name">Predefinito</string>
     <string name="resource_select">Seleziona</string>
     <string name="resource_app_name">Ricerca Browser</string>
@@ -35,7 +35,7 @@
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti, vuoi continuare?</string>
-    <string name="resource_pack_warning">Attenzione! Hai giù acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
+    <string name="resource_pack_warning">Attenzione! Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
@@ -96,7 +96,7 @@
     <string name="resource_trial_fail_title">Impossibile impostare la sessione di prova</string>
     <string name="resource_trial_fail_message">"Assicurati che l'orologio il sistema sia impostato sull'ora corretta."</string>
     <string name="resource_trial_fail_cancel">OK</string>
-    <string name="resource_trial_fail_go_settings">Inpostazioni</string>
+    <string name="resource_trial_fail_go_settings">Impostazioni</string>
     <string name="resource_trial_end_title">Prova scaduta</string>
     <string name="resource_trial_end_message">La prova di %1$s è terminata. Se ti piace, ti preghiamo di acquistarlo.</string>
     <string name="resource_trial_end_restore">Prova terminata</string>
@@ -260,11 +260,11 @@
     <string name="theme_fresh_man_notifaction">Nuovi temi disponibili</string>
     <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
     <string name="apply_theme_with_ringtones">Utilizza la suoneria del tema</string>
-    <string name="settings">Inpostazioni</string>
+    <string name="settings">Impostazioni</string>
     <string name="theme_user_agreement_content1">"Toccando D'accordo, accetti i termini indicati nella nostra "</string>
     <string name="theme_user_agreement_content2">Accordo utente</string>
     <string name="theme_user_agreement_content3">" e "</string>
-    <string name="theme_user_agreement_content4">Codizioni privacy</string>
+    <string name="theme_user_agreement_content4">Condizioni privacy</string>
     <string name="theme_user_agreement_content5">.</string>
     <string name="theme_user_agreement_title">Termini di utilizzo</string>
     <string name="theme_user_agreement_allow">"D'accordo"</string>

@@ -367,7 +367,7 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="input_cloudfolder_name">Nome cartella Cloud</string>
     <string name="cloudfolder_already_exists">Cartella Cloud già esistente</string>
     <string name="cloudfolder_fail_to_load_data">Failed to load data for unknown reason, please retry</string>
-    <string name="cloudfolder_loading_data">(Loading data...)</string
+    <string name="cloudfolder_loading_data">(Loading data...)</string>
     <string name="loading_thumbnail">Caricamento anteprima...</string>
     <string name="video_not_exist">Video inesistente!</string>
     <string name="loading_video">Download video…</string>

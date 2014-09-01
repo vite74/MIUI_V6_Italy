@@ -9,7 +9,7 @@
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
     <string name="lrc_search_failed">Testi non trovati</string>
-    <string name="lrc_searching">Ricerca testi...</string>
+    <string name="lrc_searching">Ricerca testi…</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione su rete mobile</string>
     <string name="playback_failed_no_title_by_bad_file">Il brano non può essere riprodotto, formato non supportato.</string>
     <string name="streamloadingtext">Connessione a %s</string>
@@ -79,8 +79,8 @@
     <string name="tab_track_list">Track</string>
     <string name="tab_artist_list">Artist</string>
     <string name="tab_album_list">Album</string>
-    <string name="buffering">Creazione buffer in corso...</string>
-    <string name="loading_hint">Caricamento in corso...</string>
+    <string name="buffering">Creazione buffer in corso…</string>
+    <string name="loading_hint">Caricamento in corso…</string>
     <string name="artist_search_title">Artista</string>
     <string name="album_search_title">Album</string>
     <string name="track_search_title">Canzone</string>
@@ -95,7 +95,7 @@
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="send_to_title">Invia a (%1$s)</string>
     <string name="dialog_title_add_playlist">Aggiungi alla playlist</string>
-    <string name="dialog_title_name_playlist">Nome playlist</string>
+    <string name="dialog_title_name_playlist">Titolo playlist</string>
     <string name="dialog_title_track_picker">Seleziona canzone(i)</string>
     <string name="dialog_title_remove_tracks">Rimuovi</string>
     <string name="dialog_title_delete_tracks">Elimina</string>
@@ -118,8 +118,8 @@
     <string name="function_error">Questa funzione non può essere inizializzata</string>
     <string name="music_settings">Musica</string>
     <string name="network_traffic">Traffico di rete</string>
-    <string name="avoid_to_use_traffic_summary">Show data usage warning</string>
-    <string name="avoid_to_use_traffic_title">Only use WLAN to stream music</string>
+    <string name="avoid_to_use_traffic_summary">"Mostra avvisi sull'utilizzo dei dati"</string>
+    <string name="avoid_to_use_traffic_title">Usa solamente il Wi-Fi per lo streaming di musica</string>
     <string name="download_method">Download</string>
     <string name="download_while_playing_summary">Scarica automaticamente le canzoni che hai ascoltato online</string>
     <string name="download_while_playing_title">Download while streaming</string>

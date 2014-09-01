@@ -23,24 +23,24 @@
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
     <string name="main_alert_message_slot_no_data_connection">"Lo slot SIM non supporta
 la connessione alla rete dati mobile"</string>
-    <string name="main_primary_message_traffic_enough">Under data usage limit</string>
-    <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
-    <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>
-    <string name="main_primary_message_traffic_overlimit_purchase">You need to top-up</string>
-    <string name="main_primary_message_traffic_purchase">You need to top-up</string>
-    <string name="main_primary_message_traffic_cur_normal">Under data limit</string>
-    <string name="main_primary_message_traffic_cur_normal_warning">Data usage warning</string>
-    <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
-    <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
-    <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
-    <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
-    <string name="main_secondary_message_traffic_remain">remaining</string>
-    <string name="main_secondary_message_traffic_over">over</string>
+    <string name="main_primary_message_traffic_enough">"Sotto la soglia dell'utilizzo dati"</string>
+    <string name="main_primary_message_traffic_warning">"Vicino alla soglia dell'utilizzo dati"</string>
+    <string name="main_primary_message_traffic_overlimit">"Oltre la soglia dell'utilizzo dati"</string>
+    <string name="main_primary_message_traffic_overlimit_purchase">Hai bisogno di incrementare la soglia</string>
+    <string name="main_primary_message_traffic_purchase">Hai bisogno di incrementare la soglia</string>
+    <string name="main_primary_message_traffic_cur_normal">Sotto il limite dati</string>
+    <string name="main_primary_message_traffic_cur_normal_warning">Avviso utilizzo dati</string>
+    <string name="main_primary_message_traffic_cur_normal_overlimit">Limite dati superato</string>
+    <string name="main_primary_message_traffic_cur_leisure">Uso dati in fascia alta</string>
+    <string name="main_secondary_message_traffic_used_normal">%s dati usati in fascia alta</string>
+    <string name="main_secondary_message_traffic_used_leisure">%s dato usati in fascia bassa</string>
+    <string name="main_secondary_message_traffic_remain">Rimanenti</string>
+    <string name="main_secondary_message_traffic_over">Oltre</string>
     <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s remaining | %3$s used"</string>
+Fascia alta: %1$s%2$s rimanenti | %3$s usati"</string>
     <string name="main_secondary_message_traffic_detail_leisure">"
-Off-peak: %1$s remaining | %2$s used"</string>
-    <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
+Fascia bassa: %1$s rimanenti | %2$s usati"</string>
+    <string name="main_secondary_message_traffic_used_noleisure">%s dati usai in fascia alta | non ti rimangono altri dati in fascia bassa</string>
     <string name="firewall_activity_lable">Limite utilizzo dati da applicazione</string>
     <string name="firewall_applist">Applicazioni</string>
     <string name="firewall_rule_group_title_mobile">Dati</string>
@@ -131,7 +131,7 @@ Off-peak: %1$s remaining | %2$s used"</string>
     <string name="pref_add_traffic_pkg">Dati aggiuntivi acquistati</string>
     <string name="pref_free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
-    <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
+    <string name="pref_data_usage_ignore_settings_summary">"Non tiene traccia dell'uso dei dati da parte di un gruppo di applicazioni scelte"</string>
     <string name="pref_specified_traffic_settings">Impostazioni limite dati</string>
     <string name="input_traffic_pkg">Inserisci utilizzo dati</string>
     <string name="begin_date">Data di azzeramento periodo</string>
@@ -140,7 +140,7 @@ Off-peak: %1$s remaining | %2$s used"</string>
     <string name="daily_pkg_traffic">Imposta soglia utilizzo dati</string>
     <string name="input_aviable_traffic">Imposta limite utilizzo dati</string>
     <string name="pkg_traffic">Imposta limite utilizzo dati</string>
-    <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
+    <string name="datausage_ignore_app_list_count">"Stai ignorando l'uso dei dati da parte di %d app"</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
     <string name="power_save_on_time_default_time">00:00</string>
@@ -218,7 +218,7 @@ Vuoi aggiornare il limite uso dati locale?"</string>
     <string name="traffic_config_alert_body_leisure">"
 Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico fuori picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente"</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
+Il conto del tuo operatore sull'utilizzo dei dati mostra che hai %1$s di dati fuori soglia ancora a disposizione. Non hai impostato alcun limite."</string>
     <string name="traffic_config_alert_setted">Limite dati impostato</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
@@ -242,7 +242,7 @@ Your carrier's data usage accounting shows you have %1$s of off-peak usage remai
     <string name="datausage_purchase_get_captcha_again">Invia di nuovo</string>
     <string name="datausage_purchase_get_captcha_failed">"Impossibile ottenere il codice di verifica. Verifica la tua connessione dati e riprova."</string>
     <string name="datausage_purchase_confirm_tip">Ordine:</string>
-    <string name="datausage_purchase_ordering">Acquisto in corso...</string>
+    <string name="datausage_purchase_ordering">Acquisto in corso…</string>
     <string name="datausage_purchase_result_ok">"Acquistati %s
 Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informazioni."</string>
     <string name="datausage_purchase_result_failed">"Impossibile completare l'acquisto"</string>

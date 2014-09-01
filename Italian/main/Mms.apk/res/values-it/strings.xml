@@ -374,7 +374,7 @@
     <string name="mx_auto_resend_mms_summary">"Invia un MMS quando i Messaggi Cloud non sono disponibili. Possono essere applicate le tariffe previste dall'operatore"</string>
     <string name="msg_type_hint_sms">Messaggio di testo</string>
     <string name="msg_type_hint_mms">Messaggio Multimediale</string>
-    <string name="msg_type_hint_mx">Messaggio Cloud</string
+    <string name="msg_type_hint_mx">Messaggio Cloud</string>
     <string name="mx_reactivate">Reactivate Cloud Messaging</string>
     <string name="mx_activate_error_title">"Couldn't activate SIM card"</string>
     <string name="mx_activate_error_sim_change">"Looks like you've switched SIM cards. To activate Cloud Messaging, your device needs to send an SMS to Xiaomi's servers."</string>

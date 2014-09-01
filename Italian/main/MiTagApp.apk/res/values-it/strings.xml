@@ -91,7 +91,7 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="err_fail_to_erase">Non è stato possibile cancellare il tag</string>
     <string name="err_tag_read_only">Non puoi scrivere su questo tag</string>
     <string name="err_tag_protected">Quest tag è protetto da password. Prego inserire la password esatta.</string>
-    <string name="err_parse_external_data">Questo tipo di file non è supportato</string
+    <string name="err_parse_external_data">Questo tipo di file non è supportato</string>
     <string name="wireless_network">Wi-Fi e reti</string>
     <string name="display">Schermo</string>
     <string name="sound">Audio</string>

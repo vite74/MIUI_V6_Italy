@@ -137,10 +137,10 @@
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
     <string name="preferences_home_tz_title">Orario predefinito</string>
-    <string name="preferences_home_tz_default">Europe/Rome</string>
+    <string name="preferences_home_tz_default">Europa/Roma</string>
     <string name="preferences_show_week_num_title">Mostra numero settimana</string>
     <string name="preferences_about_title">Informazioni</string>
-    <string name="preferences_build_version">Versione N.</string>
+    <string name="preferences_build_version">Versione n.</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">Nessun evento</string>
@@ -190,7 +190,7 @@
     <string name="delete_calendar">Elimina</string>
     <string name="adding_calendar" />
     <string name="deleting_calendar" />
-    <string name="delete_topic_dialog_title">Cancellare la sottoscrizione al  calendario\"%s\"？</string>
+    <string name="delete_topic_dialog_title">Cancellare la sottoscrizione al calendario\"%s\"？</string>
     <string name="add_topic_success">Accesso a \"%s\" completato</string>
     <string name="delete_topic_success">Cancellazione per \"%s\" completata</string>
     <string name="calendar_server_error">Errore del server</string>

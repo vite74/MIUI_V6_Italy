@@ -4,8 +4,6 @@
     <string name="pull_to_refresh_release_label">Rilascia</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento...</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Carica più dettagli</string>
-    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="app_name">MiBand</string>
     <string name="action_exit">Esci</string>
     <string name="register">Registrati</string>

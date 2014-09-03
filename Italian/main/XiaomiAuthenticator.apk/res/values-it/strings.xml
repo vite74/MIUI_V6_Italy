@@ -134,7 +134,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="timesync_sync_now_connectivity_error_dialog_details">Si è verificato un problema nel contattare il server. Si prega di verificare le impostazioni di rete e riprovare.</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Sincronizza ora</string>
   <string name="timesync_sync_now_preference_title">Sincronizza ora</string>
-  <string name="timesync_sync_now_progress_dialog_details">Connessione al server in corsa...</string>
+  <string name="timesync_sync_now_progress_dialog_details">Connessione al server in corso...</string>
   <string name="timesync_sync_now_progress_dialog_title">Sincronizza ora</string>
   <string name="timesync_sync_now_screen_title">Sincronizza ora</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"L'orologio interno di Authenticator non è stato modificato perché a quanto pare è già sincronizzato con i server."</string>
@@ -143,7 +143,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
 
 La data e l'ora impostati sul dispositivo non sono stati modificati."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Orario aggiornato</string>
-  <string name="tip1_patternforgotten">"Disintalla il token di sizurezza dell'account, re-installa e attiva"</string>
+  <string name="tip1_patternforgotten">"Disintalla il token di sicurezza dell'account, re-installa e attiva"</string>
   <string name="tip2_patternforgotten">Cliccare il pulsante qui sotto "Reimposta ora" per iniziare il recupero della tua password</string>
   <string name="tip_lockpattern">Proteggi il tuo token con una sequenza di blocco.</string>
   <string name="title_change_lockpattern">Configuraz sequenza di blocco</string>

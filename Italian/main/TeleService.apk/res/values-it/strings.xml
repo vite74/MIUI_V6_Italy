@@ -134,7 +134,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connetti ai servizi dati quando sei in roaming</string>
-    <string name="roaming_disable">Non Connettere ai servizi dati quando sei in roaming</string>
+    <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
     <string name="roaming_reenable_message">Hai perso la connessione perchè non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
     <string name="roaming_warning">Consentire il roaming dati? Potresti ricevere consistenti addebiti per il roaming!</string>
     <string name="ussd_dialog_sep">----------</string>
@@ -544,10 +544,10 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="ims_menu_discard">Ignora</string>
     <string name="remove_ims_account">Rimuovi account</string>
     <string name="not_voice_capable">Chiamate vocali non supportate</string>
-    <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Puoi richiamare più tardi?"</string>
-    <string name="respond_via_sms_canned_response_2">"Richiamo io al più presto"</string>
-    <string name="respond_via_sms_canned_response_3">"Richiamo io più tardi."</string>
-    <string name="respond_via_sms_canned_response_4">"Ora non posso parlare. Che succede?"</string>
+    <string name="respond_via_sms_canned_response_1">Ora non posso parlare. Puoi richiamare più tardi?</string>
+    <string name="respond_via_sms_canned_response_2">Richiamo io al più presto</string>
+    <string name="respond_via_sms_canned_response_3">Richiamo io più tardi.</string>
+    <string name="respond_via_sms_canned_response_4">Ora non posso parlare. Che succede?</string>
     <string name="respond_via_sms_cannot_empty">Il messaggio di rifiuto non può essere vuoto</string>
     <string name="respond_via_sms_setting_title">Risposte rapide</string>
     <string name="respond_via_sms_setting_summary">Modifica SMS di risposta precompilati</string>
@@ -571,7 +571,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="ringtone_title">Suoneria telefono</string>
     <string name="vibrate_on_ring_title">Vibra quando suona</string>
     <string name="dtmf_tone_enable_title">Tono tastierino chiamata</string>
-    <string name="dial_pad_autocomplete">Autocompleta tastierino chiamata</string>
+    <string name="dial_pad_autocomplete">Autocompletamento tastierino chiamata</string>
     <string name="preference_category_ringtone">Suoneria e vibrazione</string>
     <string name="set_subscription">Seleziona sottoscrizione</string>
     <string name="place_a_call1">Sottoscrizione 1</string>

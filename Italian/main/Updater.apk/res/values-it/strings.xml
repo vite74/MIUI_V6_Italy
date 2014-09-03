@@ -87,7 +87,7 @@
     <string name="about_device">Informazioni</string>
     <string name="emegency_build">Build:</string>
     <string name="wifi_not_available_title">Avvertimento utilizzo dati</string>
-    <string name="wifi_not_available_body">"Utilizzando la connessione dati per scaricare gli aggiornamenti MIUI , puoi incappare in costi elevati da parte dell'operatore di rete."</string>
+    <string name="wifi_not_available_body">"Utilizzando la connessione dati per scaricare gli aggiornamenti MIUI, potresti sostenere costi elevati da parte dell'operatore di rete."</string>
     <string name="paused_queued_for_network">In attesa della connessione di rete</string>
     <string name="paused_queued_for_wifi">In attesa di connessione Wi-Fi</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
@@ -125,8 +125,8 @@ Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="share_qq">Posta tramite Tencent weibo</string>
     <string name="install_qq">Installa app QQ</string>
     <string name="upgrade_kernel">La versione attuale del kernel deve essere aggiornata</string>
-    <string name="upgrade_kernel_msg">"La versione attuale del kernel non corrisponde alla ROM MIUI.Devi aggiornare il kernel manualmente.Fai riferimento al tutorial di aggiornamento:
-"</string>
+    <string name="upgrade_kernel_msg">La versione attuale del kernel non corrisponde alla ROM MIUI. Devi aggiornare il kernel manualmente. Fai riferimento al tutorial di aggiornamento:
+</string>
     <string name="view_upgrade_tutorial">Tutorial</string>
     <string name="upgrade_close">Chiudi</string>
     <string name="recommend_vote_title">Sondaggio Beta Team MIUI</string>

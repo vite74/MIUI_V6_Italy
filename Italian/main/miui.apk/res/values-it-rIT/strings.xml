@@ -69,10 +69,10 @@
     <string name="empty" />
     <string name="solar_term_slight_cold">Leggermente freddo</string>
     <string name="solar_term_great_cold">Freddo inteso</string>
-    <string name="solar_term_spring_begins">Inizio della primaversa</string>
+    <string name="solar_term_spring_begins">Inizio della primavera</string>
     <string name="solar_term_the_rains">Le pioggie</string>
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
-    <string name="solar_term_vernal_equinox">Equinozio di primaversa</string>
+    <string name="solar_term_vernal_equinox">Equinozio di primavera</string>
     <string name="solar_term_clear_and_bright">Sereno e luminoso</string>
     <string name="solar_term_grain_rain">Grandi pioggie</string>
     <string name="solar_term_summer_begins">"Inizio dell'estate"</string>
@@ -87,7 +87,7 @@
     <string name="solar_term_autumn_equinox">"Equinozio d'autunno"</string>
     <string name="solar_term_cold_dews">Rugiada gelata</string>
     <string name="solar_term_hoar_frost_falls">Cade la brina gelata</string>
-    <string name="solar_term_winter_begins">"Inizia dell'inverno"</string>
+    <string name="solar_term_winter_begins">"Inizio dell'inverno"</string>
     <string name="solar_term_light_snow">Nevicate leggere</string>
     <string name="solar_term_heavy_snow">Intense nevicate</string>
     <string name="solar_term_winter_solstice">Solstizio invernale</string>

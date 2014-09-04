@@ -9,7 +9,7 @@
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
     <string name="lrc_search_failed">Testi non trovati</string>
-    <string name="lrc_searching">Ricerca testi...</string>
+    <string name="lrc_searching">Ricerca testi…</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione su rete mobile</string>
     <string name="playback_failed_no_title_by_bad_file">Il brano non può essere riprodotto, formato non supportato.</string>
     <string name="streamloadingtext">Connessione a %s</string>
@@ -39,8 +39,8 @@
     <string name="track_list_control_edit_rename_playlist">Rinomina</string>
     <string name="track_list_descript_cover">Copertina</string>
     <string name="search_hint">Artista, canzone o album</string>
-    <string name="buffering">Creazione buffer in corso...</string>
-    <string name="loading_hint">Caricamento in corso...</string>
+    <string name="buffering">Creazione buffer in corso…</string>
+    <string name="loading_hint">Caricamento in corso…</string>
     <string name="artist_search_title">Artista</string>
     <string name="album_search_title">Album</string>
     <string name="track_search_title">Canzone</string>

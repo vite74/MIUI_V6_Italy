@@ -4,7 +4,7 @@
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
     <string name="widget_under_visit_mode">Modalità Guard, il contenuto delle note sarà nascosto</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="notelist_menu_new">Aggiungi nota</string>
     <string name="note_alert_expired">Scaduto</string>
     <string name="notealert_ok">Ok</string>

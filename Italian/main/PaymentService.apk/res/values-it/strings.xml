@@ -92,7 +92,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="paytool_error_install">Impossibile installare il plugin %1$s per la sicurezza mobile</string>
     <string name="paytool_error_msp">%1$s fallito</string>
     <string name="paytool_msp_not_installed">Non hai installato il plugin %1$s per la sicurezza mobile, installarlo adesso?</string>
-    <string name="progress_paytool_creating">Creazione ordine %1$s...</string>
+    <string name="progress_paytool_creating">Creazione ordine %1$s…</string>
     <string name="progress_paytool_installing">Installazione plugin  %1$s per la sicurezza mobile…</string>
     <string name="prepaid_carriers_picker_hint">Seleziona</string>
     <string name="prepaid_picker_hint_1_1">1.</string>

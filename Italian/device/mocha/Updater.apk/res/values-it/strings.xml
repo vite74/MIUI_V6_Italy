@@ -13,7 +13,7 @@
     <string name="now">Riavvia adesso</string>
     <string name="later">Riavvia dopo</string>
     <string name="start_update">Aggiorna</string>
-    <string name="applying_update">Installazione aggiornamento...%s</string>
+    <string name="applying_update">Installazione aggiornamento…%s</string>
     <string name="apply_update_fail">Aggiornamento di sistema fallito</string>
     <string name="view_install_log">Leggi log errore</string>
     <string name="send_install_log">Invia log errore</string>
@@ -26,8 +26,8 @@
     <string name="mione_update_fail_title">Aggiornamento fallito</string>
     <string name="mione_update_fail_description">Aggiornare di nuovo</string>
     <string name="apply_unable_to_reboot_toast">Impossibile riavviare per entrare in recovery</string>
-    <string name="checking_for_updates">Ricerca aggiornamenti...</string>
-    <string name="downloading_description">Download in corso...</string>
+    <string name="checking_for_updates">Ricerca aggiornamenti…</string>
+    <string name="downloading_description">Download in corso…</string>
     <string name="sdcard_is_not_present_dialog_body">Scheda SD non montata o non accessibile , provare di nuovo</string>
     <string name="sdcard_is_not_present_dialog_title">Scheda SD non trovata</string>
     <string name="sdcard_has_no_space_dialog_body">La scheda SD non ha spazio sufficiente, per questa operazione è necessario maggiore spazio</string>
@@ -42,7 +42,7 @@
     <string name="dialog_no">No</string>
     <string name="dialog_ok">OK</string>
     <string name="verify_and_apply_dialog_title">Verifica integrità file</string>
-    <string name="verify_and_apply_dialog_message">Verifica checksum MD5...</string>
+    <string name="verify_and_apply_dialog_message">Verifica checksum MD5…</string>
     <string name="apply_existing_update_md5error_title">La firma MD5 non corrisponde</string>
     <string name="file_not_found_error_message">File richiesto non trovato sul server</string>
     <string name="apply_upload_info_message_manually">Dopo lo spegnimento, puoi entrare in recovery manualmente per installare %s dalla scheda SD. Se vuoi eseguire il backup, puoi farlo e tornare successivamente all\'aggiornamento di sistema.</string>
@@ -124,7 +124,7 @@ Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="submit">Invia</string>
     <string name="submit_success">Inviato con successo, grazie!</string>
     <string name="submit_fail">Impossibile inviare</string>
-    <string name="submit_progress">Invio in corso...</string>
+    <string name="submit_progress">Invio in corso…</string>
     <string name="choose_recommend">Seleziona se consigliare o meno</string>
     <string name="refuse_recommend_reason">Inserisci un motivo</string>
     <string name="update_feedback">Feedback sull\'aggiornamento</string>

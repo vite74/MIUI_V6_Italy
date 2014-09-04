@@ -65,13 +65,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Ricerca...</item>
-        <item>Connessione...</item>
-        <item>Autenticazione...</item>
-        <item>Acquisizione indirizzo IP...</item>
+        <item>Ricerca…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Acquisizione indirizzo IP…</item>
         <item>Connessa</item>
         <item>Sospesa</item>
-        <item>Disconnessione...</item>
+        <item>Disconnessione…</item>
         <item>Disconnessa</item>
         <item>Operazione non riuscita</item>
         <item>Bloccato</item>
@@ -79,13 +79,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Ricerca...</item>
-        <item>Connessione a %1$s...</item>
-        <item>Autenticazione con %1$s...</item>
-        <item>Acquisizione indirizzo IP da %1$s...</item>
+        <item>Ricerca…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Acquisizione indirizzo IP da %1$s…</item>
         <item>Connessa a %1$s</item>
         <item>Sospesa</item>
-        <item>Disconnessione da %1$s...</item>
+        <item>Disconnessione da %1$s…</item>
         <item>Disconnessa</item>
         <item>Operazione non riuscita</item>
         <item>Bloccato</item>
@@ -424,8 +424,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Disconnessa</item>
-        <item>Inizializzazione...</item>
-        <item>Connessione...</item>
+        <item>Inizializzazione…</item>
+        <item>Connessione…</item>
         <item>Connessa</item>
         <item>Timeout</item>
         <item>Operazione non riuscita</item>

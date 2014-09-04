@@ -46,7 +46,7 @@
     <string name="status_paused">In pausa</string>
     <string name="status_downloaded">Scaricato</string>
     <string name="status_installing">Installazione</string>
-    <string name="loading_desktop">Caricamento launcher...</string>
+    <string name="loading_desktop">Caricamento launcher…</string>
     <string name="start_activity_failed">Avvio non riuscito, provare di nuovo</string>
     <string name="gadget_error_text">Problema nel caricamento widget</string>
     <string name="menu_edit">Modifica</string>
@@ -63,7 +63,7 @@
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
     <string name="uninstall_dialog_title_format">Disinstalla applicazione \"%s\"?</string>
     <string name="uninstall">Disinstalla</string>
-    <string name="starting_preset_app">Inizio...</string>
+    <string name="starting_preset_app">Inizio…</string>
     <string name="install">Installa</string>
     <string name="cant_remove_folder">Non puoi rimuovere questa cartella</string>
     <string name="widget_favorite_contacts_label">Contatti preferiti</string>
@@ -128,7 +128,7 @@
     <string name="gadget_photo_24_label">Cornice 2x4</string>
     <string name="gadget_google_search_label">Ricerca Google</string>
     <string name="gadget_mtz_label">MiGadget</string>
-    <string name="gadget_load_error">Errore caricamento widget...</string>
+    <string name="gadget_load_error">Errore caricamento widget…</string>
     <string name="invalid_contact_shortcut">Collegamento non valido</string>
     <string name="guide_tips_editing_mode">Tocca e tieni premuto per prendere un widget</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>

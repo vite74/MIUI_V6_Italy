@@ -99,7 +99,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="menu_exit_nightmode">Esci</string>
     <string name="pref_content_auto_light_mode">Luminosità automatica</string>
     <string name="pref_content_fontsize_setting">Impostazioni font</string>
-    <string name="readmode_page_loading">Caricamento in corso, attendere prego...</string>
+    <string name="readmode_page_loading">Caricamento in corso, attendere prego…</string>
     <string name="readmode_page_load_error">Impossibile caricare la pagina, premi Aggiorna per provare di nuovo</string>
     <string name="readmode_already_add_to_bookshelf">Aggiunto alla libreria</string>
     <string name="readmode_login_message">"Devi effettuare l'accesso per leggere i capitoli successivi"</string>
@@ -494,7 +494,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="bookmarks_search">Browser</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
-    <string name="title_bar_loading">Caricamento...</string>
+    <string name="title_bar_loading">Caricamento…</string>
     <string name="page_info">Info pagina</string>
     <string name="page_info_view">Visualizza info pagina</string>
     <string name="page_info_address">Indirizzo:</string>
@@ -553,7 +553,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="contextmenu_download_image">Salva immagine</string>
     <string name="contextmenu_view_image">Visualizza immagine</string>
     <string name="contextmenu_set_wallpaper">Imposta come sfondo</string>
-    <string name="contextmenu_dial_dot">Componi...</string>
+    <string name="contextmenu_dial_dot">Componi…</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_map">Mappa</string>
@@ -685,7 +685,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="download_sdcard_busy_dlg_title">Archivio USB non dispon.</string>
     <string name="download_sdcard_busy_dlg_msg">"L'archivio USB è già in uso. Per consentire i download, tocca Disattiva archivio USB nella notifica."</string>
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
-    <string name="download_pending">Avvio download...</string>
+    <string name="download_pending">Avvio download…</string>
     <string name="dump_nav">Copia chache di navigazione</string>
     <string name="webstorage_outofspace_notification_title">Memoria del browser piena</string>
     <string name="webstorage_outofspace_notification_text">Tocca per liberare spazio.</string>
@@ -708,7 +708,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="website_settings_clear_all_dialog_message">Eliminare tutti i dati del sito web e le relative autorizzazioni di localizzazione?</string>
     <string name="website_settings_clear_all_dialog_ok_button">OK</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Annulla</string>
-    <string name="progress_dialog_setting_wallpaper">Impostazione sfondo...</string>
+    <string name="progress_dialog_setting_wallpaper">Impostazione sfondo…</string>
     <string name="error_console_header_text_minimized">Mostra console JavaScript</string>
     <string name="error_console_header_text_maximized">Console JavaScript</string>
     <string name="error_console_eval_text_hint">Esegui JavaScript</string>

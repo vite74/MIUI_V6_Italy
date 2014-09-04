@@ -305,7 +305,7 @@ Per sistemare questo problema, liberati di alcuni vecchi file per fare spazio pe
     <string name="micloud_welcome_skip_login_provision">Salta</string>
     <string name="sync_sub_dspt_provision">Visualizza e gestisci i tuoi dati dovunque ti trovi</string>
     <string name="get_verify_code">Ottieni un code</string>
-    <string name="getting_verify_code">Recupero...</string>
+    <string name="getting_verify_code">Recupero…</string>
     <string name="input_phone_hint">Inserisci il numero di telefono</string>
     <string name="input_verify_code_hint">Inserisci il codice di verifica</string>
     <string name="please_input_phone_number">Inserisci il numero di telefono</string>

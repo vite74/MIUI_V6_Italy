@@ -64,9 +64,9 @@
     <string name="file_info_ishidden">Nascosto:</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
-    <string name="operation_deleting">Eliminazione...</string>
-    <string name="operation_pasting">Incolla...</string>
-    <string name="operation_moving">Spostamento...</string>
+    <string name="operation_deleting">Eliminazione…</string>
+    <string name="operation_pasting">Incolla…</string>
+    <string name="operation_moving">Spostamento…</string>
     <string name="confirm_know">Conferma</string>
     <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
     <string name="fail_to_create_folder">Impossibile creare la cartella, la cartella è già esistente.</string>
@@ -94,13 +94,13 @@
     <string name="favorite_photo">Foto</string>
     <string name="favorite_screen_cap">Screenshot MIUI</string>
     <string name="favorite_ringtone">Suoneria</string>
-    <string name="file_loading">Caricamento...</string>
+    <string name="file_loading">Caricamento…</string>
     <string name="multi_select_title">Seleziona %1$s elemento(i)</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="operation_download_link">Genera li download</string>
     <string name="ui_filechange_btn_download">Scarica file</string>
     <string name="show_message">Il file non può essere aperto se non scaricato</string>
-    <string name="ui_main_progress_txt_open_file">Download in corso...</string>
+    <string name="ui_main_progress_txt_open_file">Download in corso…</string>
     <string name="networkView_notConnected">rete non disponibile</string>
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
@@ -159,24 +159,24 @@
     <string name="compress_title">Comprimi</string>
     <string name="compress_message">Comprimi in:</string>
     <string name="compress_fail">Compressione fallita, destinazione già esistente</string>
-    <string name="operation_compressing">Compressione...</string>
-    <string name="operation_decompressing">Decompressione...</string>
+    <string name="operation_compressing">Compressione…</string>
+    <string name="operation_decompressing">Decompressione…</string>
     <string name="decompress_success">Decompressione completata</string>
     <string name="decompress_fail">Decompressione fallita!</string>
-    <string name="decompress_to_here">Decompressione...</string>
+    <string name="decompress_to_here">Decompressione…</string>
     <string name="decompress_to">Decomprimi in:</string>
     <string name="decompress_confirm">Decomprimere?</string>
     <string name="decompress_cancel">Annulla</string>
     <string name="kuaipan_prompt">Aiuto MiDrive</string>
     <string name="kuaipan_prompt_message">"
-Il server è momentaneamente non accessibile, si prega di riprovare più tardi...
+Il server è momentaneamente non accessibile, si prega di riprovare più tardi…
 "</string>
     <string name="move_failed">Impossibile spostare</string>
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
     <string name="ui_main_menu_option_sign_in">Accedi</string>
-    <string name="sign_description">Accesso in corso...</string>
+    <string name="sign_description">Accesso in corso…</string>
     <string name="signin_error">Rete momentaneamente non disponibile, provare di nuovo</string>
     <string name="signin_success">"Accesso effettuato!
 Hai ricevuto %1$s di spazio gratuito"</string>
@@ -205,7 +205,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="ftp_invalid_username_or_password">Errore di autenticazione</string>
     <string name="add_task">Aggiungi operazione</string>
     <string name="adding_upload_tasks">Aggiunta processi caricamento.</string>
-    <string name="create_new_folder_desctiption">Creazione nuova cartella...</string>
+    <string name="create_new_folder_desctiption">Creazione nuova cartella…</string>
     <string name="create_share_link_description">Creazione link di condivisione…</string>
     <string name="rename_description">Rinominazione, attendere prego…</string>
     <string name="share_link_failed">Impossibile creare link di condivisione, provare di nuovo!</string>
@@ -238,14 +238,14 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="bind_account_summary">Se hai già un account KuaiPan puoi aggiungerlo per recuperare i tuoi dati</string>
     <string name="binded_accout_title">Account KuaiPan</string>
     <string name="binded_accout_description">Account collegati, utilizza il tuo account Xiaomi o quello KuaiPan per accedere, entrambi possono accedere ai tuoi dati</string>
-    <string name="cleaning">Pulizia in corso...</string>
-    <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego...</string>
+    <string name="cleaning">Pulizia in corso…</string>
+    <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego…</string>
     <string name="migrate_announcement_title">Migrazione Account</string>
     <string name="migrate_announcement_msg">Se hai un account puoi collegarlo nelle impostazioni e preferenze di accesso.</string>
-    <string name="query_bind_state">Verifica stato collegamento, attendere prego...</string>
+    <string name="query_bind_state">Verifica stato collegamento, attendere prego…</string>
     <string name="operation_deleting_detail">Eliminazione (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Spostamento (%1$d/%2$d)</string>
-    <string name="operation_copying">Copia...</string>
+    <string name="operation_copying">Copia…</string>
     <string name="operation_copying_detail">Copia file (%1$d/%2$d)</string>
     <string name="name_illegal">Il nome del file non può essere vuoto</string>
     <string name="open_changed_file_title">File modificati</string>

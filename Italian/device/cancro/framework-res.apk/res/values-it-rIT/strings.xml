@@ -22,7 +22,7 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attenzione</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Spiacenti, questo video non è valido per lo streaming su questo dispositivo.</string>
-    <string name="selectTextMode">Seleziona testo...</string>
+    <string name="selectTextMode">Seleziona testo…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_tether_apndata" />
@@ -308,7 +308,7 @@ Tentativi rimasti:"</string>
     <string name="silent_mode_silent">Silenzioso</string>
     <string name="silent_mode_vibrate">Vibrazione</string>
     <string name="silent_mode_ring">Suoneria</string>
-    <string name="shutdown_progress">Spegnimento...</string>
+    <string name="shutdown_progress">Spegnimento…</string>
     <string name="shutdown_confirm">Il telefono verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
@@ -807,7 +807,7 @@ Contatta il fornitore del tuo servizio wireless per ricevere un'altra scheda SIM
 o 
 consulta il Manuale utente o contatta il servizio clienti.</string>
     <string name="lockscreen_sim_locked_message">La SIM è bloccata.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"%d tentativi di inserimento della sequenza di sblocco. 
 
 Riprova fra %d secondi."</string>
@@ -835,7 +835,7 @@ Riprova fra %d secondi."</string>
     <string name="lockscreen_glogin_invalid_input">Password o nome utente non valido.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Hai dimenticato il nome utente o la password?
 Visita "<b>google.com/accounts/recovery</b></string>
-    <string name="lockscreen_glogin_checking_password">Controllo...</string>
+    <string name="lockscreen_glogin_checking_password">Controllo…</string>
     <string name="lockscreen_unlock_label">Sblocca</string>
     <string name="lockscreen_sound_on_label">Audio attivato</string>
     <string name="lockscreen_sound_off_label">Audio disattivato</string>
@@ -990,7 +990,7 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="Midnight">Mezzanotte</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Sostituisci...</string>
+    <string name="replace">Sostituisci…</string>
     <string name="delete">Elimina</string>
     <string name="textSelectionCABTitle">Selezione testo</string>
     <string name="addToDictionary">aggiungi al dizionario</string>
@@ -999,7 +999,7 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="editTextMenuTitle">Azioni testo</string>
     <string name="low_internal_storage_view_title">Spazio in esaurimento</string>
     <string name="low_internal_storage_view_text">Spazio di archiviazione del telefono in esaurimento.</string>
-    <string name="loading">Caricamento...</string>
+    <string name="loading">Caricamento…</string>
     <string name="capital_on">ON</string>
     <string name="capital_off">OFF</string>
     <string name="whichApplication">"Completa l'azione con"</string>
@@ -1036,7 +1036,7 @@ Vuoi chiuderla?"</string>
     <string name="screen_compat_mode_hint">Riattiva questa modalità utilizzando Impostazioni > Applicazioni > Gestisci applicazioni.</string>
     <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
     <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
-    <string name="android_upgrading_title">Upgrade di Android...</string>
+    <string name="android_upgrading_title">Upgrade di Android…</string>
     <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d.</string>
     <string name="android_upgrading_starting_apps">Avvio applicazioni.</string>
     <string name="android_upgrading_complete">"Conclusione dell'avvio."</string>
@@ -1217,13 +1217,13 @@ per l'account %s"</string>
     <string name="no_matches">Nessuna corrispondenza</string>
     <string name="find_on_page">Trova nella pagina</string>
     <string name="action_mode_done">Fine</string>
-    <string name="progress_unmounting_internal">Rimozione archivio interno...</string>
+    <string name="progress_unmounting_internal">Rimozione archivio interno…</string>
     <string name="progress_unmounting">Rimozione archivio USB…</string>
-    <string name="progress_erasing_internal">"Cancellazione dell'archivio interno..."</string>
+    <string name="progress_erasing_internal">"Cancellazione dell'archivio interno…"</string>
     <string name="progress_erasing">Cancellazione archivio USB…</string>
     <string name="format_error">Cancellazione archivio USB non riuscita.</string>
     <string name="media_bad_removal">La scheda SD è stata rimossa prima che fosse smontata.</string>
-    <string name="media_checking">"Controllo dell'archivio USB..."</string>
+    <string name="media_checking">"Controllo dell'archivio USB…"</string>
     <string name="media_removed">La scheda SD è stata rimossa.</string>
     <string name="media_shared">"L'archivio USB è attualmente utilizzato da un computer."</string>
     <string name="media_unknown_state">Stato dei supporti esterni sconosciuto.</string>
@@ -1288,7 +1288,7 @@ per l'account %s"</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
-    <string name="extract_edit_menu_button">Modifica...</string>
+    <string name="extract_edit_menu_button">Modifica…</string>
     <string name="data_usage_warning_title">"Avviso sull'utilizzo dei dati"</string>
     <string name="data_usage_warning_body">Mostra utilizzo e impostazioni</string>
     <string name="data_usage_3g_limit_title">Dati 2G-3G disattivati</string>
@@ -1317,12 +1317,12 @@ per l'account %s"</string>
     <string name="fingerprints">Fingerprint:</string>
     <string name="sha256_fingerprint">Fingerprint SHA-256:</string>
     <string name="sha1_fingerprint">Fingerprint SHA-1:</string>
-    <string name="activity_chooser_view_see_all">Mostra tutto...</string>
+    <string name="activity_chooser_view_see_all">Mostra tutto…</string>
     <string name="activity_chooser_view_dialog_title_default">Seleziona attività</string>
-    <string name="share_action_provider_share_with">Condividi con...</string>
+    <string name="share_action_provider_share_with">Condividi con…</string>
     <string name="status_bar_device_locked">Dispositivo bloccato.</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Invio...</string>
+    <string name="sending">Invio…</string>
     <string name="launchBrowserDefault">"Avviare l'applicazione Browser?"</string>
     <string name="SetupCallDefault">Accettare la chiamata?</string>
     <string name="activity_resolver_use_always">Sempre</string>

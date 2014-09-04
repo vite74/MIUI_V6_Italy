@@ -186,10 +186,10 @@
     <string name="bluetooth_connected_no_map">Connesso (nessun accesso ai messaggi)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
     <string name="bluetooth_disconnected">Disconnesso</string>
-    <string name="bluetooth_disconnecting">Disconnessione...</string>
-    <string name="bluetooth_connecting">Connessione...</string>
+    <string name="bluetooth_disconnecting">Disconnessione…</string>
+    <string name="bluetooth_connecting">Connessione…</string>
     <string name="bluetooth_unknown" />
-    <string name="bluetooth_pairing">Accoppiamento...</string>
+    <string name="bluetooth_pairing">Accoppiamento…</string>
     <string name="bluetooth_device">Dispositivo Bluetooth senza nome</string>
     <string name="progress_scanning">Ricerca</string>
     <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth in vicinanze.</string>
@@ -204,8 +204,8 @@
     <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tablet visualizzabile da altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tablet visualizzabile da altri dispositivi per %1$d secondi."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tablet visualizzabile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
-    <string name="bluetooth_turning_on">Attivazione Bluetooth...</string>
-    <string name="bluetooth_turning_off">Disattivazione Bluetooth...</string>
+    <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
+    <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
     <string name="bluetooth_connection_permission_request">Richiesta di connessione Bluetooth</string>
     <string name="bluetooth_connection_notif_message">Tocca per connetterti a \"%1$s\".</string>
@@ -279,7 +279,7 @@
     <string name="radio_info_toggle_dns_check_label">Attiva o disattiva verifica DNS</string>
     <string name="oem_radio_info_label">Info/impostazioni specifiche OEM</string>
     <string name="band_mode_title">Imposta banda GSM/UMTS</string>
-    <string name="band_mode_loading">Caricamento lista bande...</string>
+    <string name="band_mode_loading">Caricamento lista bande…</string>
     <string name="band_mode_set">Imposta</string>
     <string name="band_mode_failed">Non riuscita</string>
     <string name="band_mode_succeeded">Riuscita</string>
@@ -310,7 +310,7 @@
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
     <string name="airplane_mode">Modalità aereo</string>
-    <string name="radio_controls_title">Altro...</string>
+    <string name="radio_controls_title">Altro…</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
@@ -470,7 +470,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="bluetooth_connecting_error_message">Impossibile collegarsi a %1$s.</string>
     <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
     <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
-    <string name="bluetooth_searching_for_devices">Ricerca...</string>
+    <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
     <string name="bluetooth_preference_paired_devices">Dispositivi accoppiati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
@@ -479,7 +479,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="bluetooth_device_context_pair_connect">Accoppia e connetti</string>
     <string name="bluetooth_device_context_unpair">Disaccoppia</string>
     <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e disaccoppia</string>
-    <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
+    <string name="bluetooth_device_context_connect_advanced">Opzioni…</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
     <string name="bluetooth_empty_list_bluetooth_off">Per visualizzare i dispositivi, attiva Bluetooth.</string>
@@ -598,10 +598,10 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="wifi_required_info_text">Per poter completare la configurazione, il tablet deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
-    <string name="wifi_wps_setup_msg">Avvvio WPS...</string>
+    <string name="wifi_wps_setup_msg">Avvvio WPS…</string>
     <string name="wifi_wps_onstart_pbc">Premi il pulsante Wi-Fi Protected Setup del router. Il pulsante potrebbe essere denominato \"WPS\" o contenere questo simbolo:</string>
     <string name="wifi_wps_onstart_pin">Inserisci il PIN %1$s sul router Wi-Fi. Il completamento della configurazione può richiedere fino a due minuti.</string>
-    <string name="wifi_wps_complete">Configurazione WPS riuscita. Connessione alla rete...</string>
+    <string name="wifi_wps_complete">Configurazione WPS riuscita. Connessione alla rete…</string>
     <string name="wifi_wps_connected">Connesso alla rete Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">La configurazione WPS è già in corso e il completamento può richiedere fino a due minuti</string>
     <string name="wifi_wps_failed_generic">Configurazione WPS non riuscita. Riprova tra qualche minuto.</string>
@@ -693,8 +693,8 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a connettersi con %1$s?"</string>
     <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi portatile</string>
-    <string name="wifi_tether_starting">Attivazione hotspot...</string>
-    <string name="wifi_tether_stopping">Disattivazione hotspot...</string>
+    <string name="wifi_tether_starting">Attivazione hotspot…</string>
+    <string name="wifi_tether_stopping">Disattivazione hotspot…</string>
     <string name="wifi_tether_enabled_subtext">Hotspot portatile %1$s attivo</string>
     <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
@@ -865,7 +865,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_available">Disponibile</string>
     <string name="memory_available_read_only">Disponibile (in sola lettura)</string>
     <string name="memory_size">Spazio totale</string>
-    <string name="memory_calculating_size">Calcolo...</string>
+    <string name="memory_calculating_size">Calcolo…</string>
     <string name="memory_apps_usage">App (dati di app e contenuti multimediali)</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
@@ -1050,11 +1050,11 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="terms_title">Termini e condizioni</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
-    <string name="settings_license_activity_loading">Caricamento...</string>
+    <string name="settings_license_activity_loading">Caricamento…</string>
     <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
     <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
     <string name="settings_safetylegal_activity_unreachable">Nessuna connessione dati disponibile. Per visualizzare ora le informazioni, visita il sito %s da qualsiasi computer collegato a Internet.</string>
-    <string name="settings_safetylegal_activity_loading">Caricamento...</string>
+    <string name="settings_safetylegal_activity_loading">Caricamento…</string>
     <string name="lockpassword_choose_your_password_header">Scegli la tua password</string>
     <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
     <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
@@ -1169,7 +1169,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="no_applications">Nessuna applicazione.</string>
     <string name="internal_storage">Archivio interno</string>
     <string name="sd_card_storage">Archivio USB</string>
-    <string name="recompute_size">Ricalcolo dimensioni...</string>
+    <string name="recompute_size">Ricalcolo dimensioni…</string>
     <string name="clear_data_dlg_title">"Eliminare i dati dell'applicazione?"</string>
     <string name="clear_data_dlg_text">"Tutti i dati dell'applicazione verranno eliminati definitivamente, inclusi tutti i file, le impostazioni, gli account, i database e così via."</string>
     <string name="dlg_ok">OK</string>
@@ -1189,7 +1189,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="security_settings_billing_desc">Questa applicazione potrebbe addebitarti dei costi:</string>
     <string name="security_settings_premium_sms_desc">Invio di SMS premium</string>
-    <string name="computing_size">Elaborazione...</string>
+    <string name="computing_size">Elaborazione…</string>
     <string name="invalid_size_value">Impossibile calcolare le dimensioni del pacchetto.</string>
     <string name="empty_list_msg">Nessuna applicazione di terze parti installata.</string>
     <string name="version_text">versione %1$s</string>
@@ -1296,8 +1296,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
     <string name="user_dict_settings_empty_text">Non sono presenti parole nel dizionario utente. Puoi aggiungere una parola toccando il pulsante Aggiungi (+).</string>
     <string name="user_dict_settings_all_languages">Per tutte le lingue</string>
-    <string name="user_dict_settings_more_languages">Altre lingue...</string>
-    <string name="testing">Verifica...</string>
+    <string name="user_dict_settings_more_languages">Altre lingue…</string>
+    <string name="testing">Verifica…</string>
     <string name="testing_phone_info">Informazioni sul tablet</string>
     <string name="testing_battery_info">Informazioni batteria</string>
     <string name="testing_sim_toolkit">Strumenti SIM</string>
@@ -1611,7 +1611,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_status_ok">%1$s completamente supportato</string>
     <string name="tts_status_requires_network">%1$s richiede connessione di rete</string>
     <string name="tts_status_not_supported">%1$s non supportato</string>
-    <string name="tts_status_checking">Controllo in corso...</string>
+    <string name="tts_status_checking">Controllo in corso…</string>
     <string name="tts_engines_section">Motori</string>
     <string name="tts_engine_name_settings">Impostazioni di %s</string>
     <string name="tts_engine_name_is_enabled_summary">%s è abilitato</string>
@@ -1721,17 +1721,17 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_forget">Elimina</string>
     <string name="wifi_setup_save">Salva</string>
     <string name="wifi_setup_cancel">Annulla</string>
-    <string name="wifi_setup_status_scanning">Ricerca reti...</string>
+    <string name="wifi_setup_status_scanning">Ricerca reti…</string>
     <string name="wifi_setup_status_select_network">Tocca una rete per collegarti</string>
     <string name="wifi_setup_status_existing_network">Connetti a rete esistente</string>
     <string name="wifi_setup_status_unsecured_network">Collegati a rete non protetta</string>
     <string name="wifi_setup_status_edit_network">Digita configurazione di rete</string>
     <string name="wifi_setup_status_new_network">Connetti a nuova rete</string>
-    <string name="wifi_setup_status_connecting">Connessione...</string>
+    <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi‑Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
-    <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
+    <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
 Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
@@ -1847,7 +1847,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot mobili</string>
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
-    <string name="data_usage_change_cycle">Cambia ciclo...</string>
+    <string name="data_usage_change_cycle">Cambia ciclo…</string>
     <string name="data_usage_pick_cycle_day">Giorno del mese in cui reimpostare ciclo di utilizzo dei dati:</string>
     <string name="data_usage_empty">Dati non usati da applicazioni in questo periodo.</string>
     <string name="data_usage_label_foreground">Primo piano</string>
@@ -2515,7 +2515,7 @@ ed esegui il software."</string>
     <string name="drive_mode_calling_auto_sms_reply">Rispsota alle chiamate</string>
     <string name="drive_mode_sms_auto_sms_reply">Risposta agli SMS</string>
     <string name="drive_mode_only_contact_reply">Rispondi solo ai tuoi contatti</string>
-    <string name="drive_mode_auto_sms_reply_content">Non posso parlare ora... Ti chiamo io più tardi</string>
+    <string name="drive_mode_auto_sms_reply_content">Non posso parlare ora… Ti chiamo io più tardi</string>
     <string name="drive_mode_auto_sms_reply_content_title">Risposta rapida</string>
     <string name="clear_activities_summary">Usa questa app come predefinita per alcune operazioni</string>
     <string name="permission_detail_info">Dettagli permessi</string>
@@ -2673,7 +2673,7 @@ ed esegui il software."</string>
     <string name="free_wifi_connect_dialog_summary">Questo Wi-Fi libero %1$s è in parte offerto da %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Connetti</string>
-    <string name="free_wifi_connecting">Connessione in corso...</string>
+    <string name="free_wifi_connecting">Connessione in corso…</string>
     <string name="free_wifi_connected">Connesso ad un Wi-Fi libero</string>
     <string name="free_wifi_connect_fail">Impossibile collegarsi alla rete</string>
     <string name="free_wifi_connect_fail2">Impossibile accedere. Attendi un minuto o due e riprova.</string>
@@ -2724,7 +2724,7 @@ ed esegui il software."</string>
     <string name="no_updates_warning2">"Rilassati, ti avviseremo se c'è un aggiornamento."</string>
     <string name="network_error">Errore di rete.</string>
     <string name="checking_for_updates">Ricerca aggiornamenti in corso…</string>
-    <string name="rebootiing_for_updates">Riavvio in corso...</string>
+    <string name="rebootiing_for_updates">Riavvio in corso…</string>
     <string name="update_progress_for_updates">Aggiornamento （%s）</string>
     <string name="button_text_reboot_now">Riavvia ora</string>
     <string name="welcome">Benvenuto</string>
@@ -2808,7 +2808,7 @@ ed esegui il software."</string>
     <string name="miracast_cancelconnect_dialog">Annulla connessione</string>
     <string name="miracast_dialog_title">%1$s</string>
     <string name="miracast_error_cancelconnect">La connessione è attualmente occupata</string>
-    <string name="miracast_search_for_displays">Ricerca di display wireless in corso...</string>
+    <string name="miracast_search_for_displays">Ricerca di display wireless in corso…</string>
     <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perchè un PC sta trasmettendo a questo dispositivo.</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>

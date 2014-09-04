@@ -152,9 +152,9 @@
     <string name="Generic_TrustedApp">Apps Sicure (%1$d)</string>
     <string name="Generic_ShowSystemApp">Mostra App Sistema</string>
     <string name="Generic_HideSystemApp">Nascondi App Sistema</string>
-    <string name="Generic_Loading">Caricamento...</string>
-    <string name="Generic_Operating">Esecuzione...</string>
-    <string name="Generic_Canceling">Annullamento...</string>
+    <string name="Generic_Loading">Caricamento…</string>
+    <string name="Generic_Operating">Esecuzione…</string>
+    <string name="Generic_Canceling">Annullamento…</string>
     <string name="Generic_InvalidInput">Input non valido</string>
     <string name="Generic_Service_Enabled">Servizio attivato</string>
     <string name="Generic_Service_Disabled">Servizio disattivato</string>

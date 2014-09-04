@@ -25,8 +25,8 @@
     <string name="usb_debugging_title">Consentire debug USB ?</string>
     <string name="usb_debugging_message">La chiave RSA del computer è: %1$s</string>
     <string name="usb_debugging_always">Consenti sempre per questo computer</string>
-    <string name="screenshot_saving_ticker">Salvataggio screenshot...</string>
-    <string name="screenshot_saving_title">Salvataggio screenshot...</string>
+    <string name="screenshot_saving_ticker">Salvataggio screenshot…</string>
+    <string name="screenshot_saving_title">Salvataggio screenshot…</string>
     <string name="screenshot_saving_text">Screenshot in corso di salvataggio.</string>
     <string name="screenshot_saved_title">Screenshot acquisito.</string>
     <string name="screenshot_saved_text">Tocca per visualizzare il tuo screenshot.</string>

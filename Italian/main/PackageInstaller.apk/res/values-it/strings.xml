@@ -42,7 +42,7 @@
     <string name="security_settings_desc">"Consenti all'applicazione:"</string>
     <string name="cancel">Annulla</string>
     <string name="unknown">Sconosciuto</string>
-    <string name="installing">Installazione...</string>
+    <string name="installing">Installazione…</string>
     <string name="install_done">Applicazione installata.</string>
     <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
     <string name="install_failed">Applicazione non installata.</string>
@@ -84,7 +84,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_confirm_question">Vuoi disinstallare questa applicazione?</string>
     <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>tutti</b>" gli utenti? L'applicazione e i relativi dati verranno rimossi da "<b>tutti</b> gli utenti configurati sul dispositivo.</string>
     <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione di fabbrica?</string>
-    <string name="uninstalling">Disinstallazione...</string>
+    <string name="uninstalling">Disinstallazione…</string>
     <string name="uninstall_done">Disinstallazione completata.</string>
     <string name="uninstall_failed">Disinstallazione non riuscita.</string>
     <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>

@@ -54,7 +54,7 @@
     <string name="directory_search_label">Directory</string>
     <string name="local_search_label">Tutti i contatti</string>
     <string name="user_profile_contacts_list_header">Io</string>
-    <string name="search_results_searching">Ricerca...</string>
+    <string name="search_results_searching">Ricerca…</string>
     <string name="foundTooManyContacts">Più di %d trovati.</string>
     <string name="listFoundAllContactsZero">Nessun contatto</string>
     <string name="description_quick_contact_for">Accesso rapido ai contatti per %1$s</string>
@@ -127,9 +127,9 @@
     <string name="display_all_contacts">Tutti i contatti</string>
     <string name="menu_sync_remove">Rimuovi gruppo sincronizzazione</string>
     <string name="dialog_sync_add">Aggiungi gruppo sincronizzazione</string>
-    <string name="display_more_groups">Altri gruppi...</string>
+    <string name="display_more_groups">Altri gruppi…</string>
     <string name="display_warn_remove_ungrouped">Se rimuovi \"%s\" dalla sincronizzazione, verranno rimossi anche gli eventuali contatti separati.</string>
-    <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione...</string>
+    <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione…</string>
     <string name="menu_done">Fine</string>
     <string name="menu_doNotSave">Annulla</string>
 	<string name="listAllContactsInAccount">Contatti in %s</string>
@@ -187,7 +187,7 @@ Motivo: \"%s\""</string>
     <string name="import_one_vcard_string">Importa un file vCard</string>
     <string name="import_multiple_vcard_string">Importa più file vCard</string>
     <string name="import_all_vcard_string">Importa tutti i file vCard</string>
-    <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio..."</string>
+    <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio…"</string>
     <string name="caching_vcard_title">Memorizzazione nella cache</string>
     <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\""</string>
     <string name="progress_notifier_message" formatted="false">Importazione di %s/%s: %s</string>
@@ -276,7 +276,7 @@ Motivo: \"%s\""</string>
     <string name="noAccounts">Per creare gruppi è necessario un account.</string>
     <string name="emptyGroup">Nessuna persona in questo gruppo.</string>
     <string name="addPeopleToGroup">Per aggiungerne qualcuno, modifica il gruppo.</string>
-    <string name="savingContact">Salvataggio contatto...</string>
+    <string name="savingContact">Salvataggio contatto…</string>
     <string name="contactSavedToast">Contatto salvato.</string>
     <string name="contactSavedErrorToast">Salvataggio delle modifiche ai contatti non riuscito.</string>
     <string name="groupSavedToast">Gruppo salvato.</string>
@@ -342,7 +342,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="menu_copyContact">Copia nei miei contatti</string>
     <string name="add_to_my_contacts">Aggiungi ai contatti personali</string>
     <string name="contact_directory_description">Directory %1$s</string>
-    <string name="toast_making_personal_copy">Creazione di una copia personale...</string>
+    <string name="toast_making_personal_copy">Creazione di una copia personale…</string>
     <string name="list_filter_custom">Personalizzato</string>
     <string name="activity_title_settings">Impostazioni</string>
     <string name="menu_settings">Impostazioni</string>
@@ -356,7 +356,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Specifica un anno</string>
     <string name="social_widget_label">Contatto</string>
-    <string name="social_widget_loading">Caricamento...</string>
+    <string name="social_widget_loading">Caricamento…</string>
     <string name="contacts_unavailable_create_contact">Crea nuovo contatto</string>
     <string name="contacts_unavailable_add_account">Accedi ad un account</string>
     <string name="contacts_unavailable_import_contacts">Importa contatti</string>
@@ -926,7 +926,7 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="all_resources">Tutte</string>
     <string name="callrecordview_menu_batch_delete">Eliminazione multipla</string>
     <string name="delete_call_log_selected_title">Cancellare il registro chiamate selezionato?</string>
-    <string name="deleting">Cancellazione in corso...</string>
+    <string name="deleting">Cancellazione in corso…</string>
     <string name="description_author">Autore:</string>
     <string name="description_designer">Disegnatore:</string>
     <string name="description_download">Download:</string>
@@ -939,9 +939,9 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="download_preview_failed">"Impossibile caricare l'anteprima"</string>
     <string name="fail_to_add_account">"Impossibile aggiungere l'account!"</string>
     <string name="group_name">I miei gruppi</string>
-    <string name="loading">Caricamento in corso...</string>
+    <string name="loading">Caricamento in corso…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
-    <string name="loading_resource_detail_info">Caricamento info risorsa in corso...</string>
+    <string name="loading_resource_detail_info">Caricamento info risorsa in corso…</string>
     <string name="online_no_network">Impossibile connettersi alla rete</string>
     <string name="online_search_hint">Cerca soluzioni online</string>
     <string name="resource_account_abnormal_state">Errore account, prego riprovare più tardi.</string>
@@ -1009,7 +1009,7 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_download">Download</string>
     <string name="resource_download_trial">Prova gratuita</string>
     <string name="resource_downloaded_title">Risorse scaricate</string>
-    <string name="resource_downloading">Download in corso...</string>
+    <string name="resource_downloading">Download in corso…</string>
     <string name="resource_exchange">Usa codice</string>
     <string name="resource_exchange_confirm">Conferma</string>
     <string name="resource_exchange_empty_format">Prego inserire il codice regalo</string>
@@ -1017,7 +1017,7 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_exchange_has_expired">Il codice regalo che hai inserito è scaduto.</string>
     <string name="resource_exchange_has_used">Il codice regalo che hai inserito è già stato usato.</string>
     <string name="resource_exchange_hint">Inserisci il tuo codice regalo</string>
-    <string name="resource_exchange_purchase_unkown_error">Si è verificato un errore sconosciuto. Per favore, esegui il login su http://market.xiaomi.com per vedere lo stato del tuo pagamento...</string>
+    <string name="resource_exchange_purchase_unkown_error">Si è verificato un errore sconosciuto. Per favore, esegui il login su http://market.xiaomi.com per vedere lo stato del tuo pagamento…</string>
     <string name="resource_exchange_share_code_content">Hai ricevuto un codice per %1$s sullo store temi MIUI. Il tuo codice regalo è: %2$s. Tocca %3$s per usarlo ora.</string>
     <string name="resource_exchange_share_code_dlg_content">Il codice regalo che hai comparo per  %1$s è %2$s. Puoi ora condividerlo con i tuoi amici.</string>
     <string name="resource_exchange_share_code_dlg_title">Invia codice regalo</string>
@@ -1029,11 +1029,11 @@ Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
     <string name="resource_exchange_wrong_format_by_local">Codice inserito non valido</string>
     <string name="resource_exchange_wrong_format_by_server">Impossibile verificare il codice regalo. Assicurati di averlo inserito correttamente.</string>
     <string name="resource_expand_full_text">Espandi</string>
-    <string name="resource_get_auth_checking">Verifica autorizzazioni in corso...</string>
+    <string name="resource_get_auth_checking">Verifica autorizzazioni in corso…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">"Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite di 10 per dispositivo, prego usare un'altro dispositivo'"</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, prego scaricarne uno simile dal market ufficiale.</string>
-    <string name="resource_get_auth_retrieving">Recupero autorizzazioni...</string>
+    <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
     <string name="resource_hint">Avviso</string>
     <string name="resource_import_failed">Importazione fallita</string>
     <string name="resource_import_successful">Download completato</string>
@@ -1088,7 +1088,7 @@ il contenuto che stai cercando non è attualmente disponibile nella tua regione.
     <string name="resource_unknow_error">"E' accaduto un errore imprevisto"</string>
     <string name="resource_update">Aggiorna</string>
     <string name="resource_user_know">OK</string>
-    <string name="resource_waiting_download">In attesa del download...</string>
+    <string name="resource_waiting_download">In attesa del download…</string>
     <string name="sdcard_not_mounted_dialog_message">"Inserisci la scheda SD ora.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Nessuna scheda SD rilevata</string>

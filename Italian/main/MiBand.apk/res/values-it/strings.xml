@@ -91,7 +91,7 @@ Agreement: %2$s"</string>
     <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato. E' necessario Android 4.4 o superiore. "</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
-    <string name="bind_bracelet">Find Mibracelet</string>
+    <string name="bind_bracelet">Trova MiBand</string>
     <string name="bracelet_login_title">Benvenuto in MiBand</string>
     <string name="bracelet_login_info">"L'accesso consentirà a MiCloud di analizzare le attività e il sonno per darti suggerimenti scientifici"</string>
     <string name="male">Maschio</string>
@@ -107,11 +107,11 @@ Agreement: %2$s"</string>
     <string name="search_devices_title">Cerco MiBand</string>
     <string name="share_blog_cancel">Annulla</string>
     <string name="share_blog_title">Novità pubblicate</string>
-    <string name="share_blog_share">Share</string>
+    <string name="share_blog_share">Condividi</string>
     <string name="share_blog_message_hint">Dì qualcosa…</string>
     <string name="share_blog_other">Condividi tramite</string>
     <string name="share_blog_weixin">WeChat</string>
-    <string name="share_blog_pengyouquan">Moment</string>
+    <string name="share_blog_pengyouquan">Momenti</string>
     <string name="share_blog_qq_zone">QQ zone</string>
     <string name="share_blog_qq">QQ</string>
     <string name="share_blog_weibo">Weibo</string>
@@ -127,9 +127,9 @@ Agreement: %2$s"</string>
     <string name="unknown_mili">Mio</string>
     <string name="s_mili">MiBand</string>
     <string name="rename_mili">Rinomina MiBand</string>
-    <string name="reset_mili">Reset MiBand</string>
+    <string name="reset_mili">Ripristina MiBand</string>
     <string name="bind_new_mili">Associa Nuovo MiBand</string>
-    <string name="unbind_mili">Disassocia MiBand</string>
+    <string name="unbind_mili">Dissocia MiBand</string>
     <string name="smart_alarm_clock">Sveglia Intelligente</string>
     <string name="exit_login">Scollega</string>
     <string name="exit_login_1">"Uscire dall'account?"</string>
@@ -152,7 +152,8 @@ Agreement: %2$s"</string>
     <string name="set_person_goal">Impostazioni Obiettivo</string>
     <string name="feedback">Feedback</string>
     <string name="smart_wake_up">Risveglio intelligente</string>
-    <string name="smart_wake_up_info">"Consenti alla sveglia di svegliarmi 30 minuti in anticipo sull'orario programmato"</string>
+    <string name="smart_wake_up_info">"Consenti alla sveglia di svegliarmi 30 minuti in anticipo sull'orario programmato.
+Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="alarm_cycle">Ripetizione Allarme</string>
     <string name="login_failed_check_sys_time">"Accesso fallito, controlla l'ora e utilizza l'ora dalla rete"</string>
     <string name="everyday">Tutti i giorni</string>
@@ -161,10 +162,13 @@ Agreement: %2$s"</string>
     <string name="device_not_found_not_knocked">Ripetere la ricerca dopo aver tappato MiBand finchè non lampeggia</string>
     <string name="statistic">Statistiche</string>
     <string name="mili_unbind_question_content">Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBand o sostituirlo con un altro.</string>
-    <string name="mili_unbind_question_content_1">" Se hai impostato MiBand per sbloccare il telefono, disassociandolo perderai questa funzione."</string>
-    <string name="mili_reset_info">" Cancella tutte le informazioni sul MiBand e ripristina i dati di fabbrica. Confermi il reset?"</string>
-    <string name="mili_exit_login_info">"Uscire dall'account Mi corrente. Confermi?"</string>
-    <string name="mili_exit_login_info_continue">"Sincronizzazione fallita, controlla il collegamento ad internet. Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
+    <string name="mili_unbind_question_content_1">" Se hai impostato MiBand per sbloccare il telefono e lo dissoci, perderai questa funzione."</string>
+    <string name="mili_reset_info">" Cancella tutte le informazioni sul MiBand e ripristina i dati di fabbrica.
+Confermi il reset?"</string>
+    <string name="mili_exit_login_info">"Uscire dall'account Mi corrente.
+Confermi?"</string>
+    <string name="mili_exit_login_info_continue">"Sincronizzazione fallita, controlla il collegamento ad internet.
+Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="modify_signiture">Modifica firma</string>
     <string name="modify_signiture_hint">Firma</string>
     <string name="modify_nickname">Modifica Nome</string>
@@ -281,7 +285,9 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="dynamic_detail_step_title_today">Dati raccolti giornalieri</string>
     <string name="dynamic_sleep_deep">Sonno Profondo</string>
     <string name="dynamic_sleep_shallow">Sonno leggero</string>
-    <string name="dynamic_sleep_active">Sonno non profondo</string>
+    <string name="dynamic_sleep_active">Sveglio</string>
+    <string name="dynamic_sleep_active_start">Pronto per dormire</string>
+    <string name="dynamic_sleep_active_end">Pronto per alzarmi</string>
     <string name="dynamic_tip_unweared">MiBand non indossato</string>
     <string name="dynamic_tip_sleep_unsynced">Sonno non sincronizzato</string>
     <string name="dynamic_tip_step_unsynced">Passi non sincronizzati</string>
@@ -298,6 +304,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="action_pop_person_info">Informazioni personali</string>
     <string name="action_pop_unlock_screen">Sblocco schermo</string>
     <string name="action_pop_weixin_enter">Sincronizza con WeChat</string>
+    <string name="start_weixin">Apri Wechat</string>
     <string name="start_weixin_not_installed">WeChat non è installato</string>
     <string name="action_pop_about">Info</string>
     <string name="find_bracelet">Trova MiBand</string>
@@ -311,6 +318,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="firmware_version">Versione Firmware</string>
     <string name="step_per_day">Passi al giorno</string>
     <string name="remain_days_format">"L'ultima ricarica risale a %s giorni fa"</string>
+    <string name="remain_days_today_format">"Meno di un giorno dall'utima carica"</string>
     <string name="blue">Blu</string>
     <string name="red">Rosso</string>
     <string name="green">Verde</string>
@@ -345,20 +353,26 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="share_step_goal_succ_title">Archivio obiettivi completati</string>
     <string name="share_step_goal_failed_title_today">Totale di oggi</string>
     <string name="share_step_goal_failed_title">Camminato per un totale di</string>
-    <string name="share_step_description">Passi %1$s, Calorie bruciate %2$s Kcal</string>
-    <string name="share_step_description_weekly">"Corsa %1$s %2$s Calorie totali bruciate %3$s Kcal
+    <string name="share_step_description">"Passi %1$s, Calorie bruciate %2$s Kcal
+"</string>
+    <string name="share_step_description_weekly">"Corsa %1$s %2$s
+Calorie totali bruciate %3$s Kcal
 Record%4$s del giorno %5$s passi"</string>
     <string name="share_play_ground_format">Un giro di corsa equivale a %1$s giri camminati</string>
     <string name="share_step_description_monthly">"Corsa%1$s, %2$s
-Consumate %3$sKcal in totale, Risparmiati %4$s Litri di benzina
+Consumate %3$sKcal in totale, Risparmiati %4$s galloni di benzina.
+(Grazie per aver cura del nostro pianeta)
 Record %5$s del giorno %6$s Passi"</string>
     <string name="marathon_format_0">Equivale %1$s ad una maratona</string>
     <string name="marathon_format_1">Più %1$s una maratona</string>
     <string name="half_marathon_format_0">Equivale %1$s mezza maratona</string>
     <string name="half_marathon_format_1">Più %1$s mezza maratona</string>
-    <string name="share_continue_goal_format">Totale %1$s passi, %2$s Passi giornalieri di corsa %3$s %4$s</string>
-    <string name="share_sleep_description">"Sonno profondo   %1$s   Ore   %2$s   Minuti, Sonno leggero   %3$s   ore   %4$s   Minuti 
-Dormiti %5$s, Sveglio %6$s"</string>
+    <string name="share_continue_goal_format">Totale %1$s passi, %2$s Passi giornalieri di corsa 
+%3$s 
+%4$s</string>
+    <string name="share_sleep_description">"Sonno profondo: %1$s ore e %2$s minuti.
+Sonno leggero: %3$s ore %4$s minuti.
+Sonno: %5$s. Sveglio: %6$s."</string>
     <string name="share_sleep_description_average">"Media sonno profondo %1$s Ore %2$s Minuti, Media sonno leggero %3$s Ore %4$s Minuti
 Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="smart_alarm_notify">Risveglio intelligente</string>
@@ -372,9 +386,13 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="unlock_screen_set_use_bracelet_tips">Conferma la password</string>
     <string name="unlock_screen_set_use_bracelet">Imposta suono per lo sblocco</string>
     <string name="unlock_screen_set_success">Hai impostato correttamente lo sblocco tramite MiBand</string>
-    <string name="unlock_screen_modify_unlock">Per modificare apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo</string>
+    <string name="unlock_screen_modify_unlock">"Per modificare
+apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo"</string>
     <string name="bind_weixin_title">"dopo aver cliccato su \"connetti a Wechat\" sarà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti "</string>
-    <string name="bind_weixin_tips_1">inoltre, puoi usare il PC visitando http://hm.xiaomi.com/login.do per ottenere il codice QR, e quindi usare lo scanner di codici QR di WeChat per connetterti</string>
+    <string name="step1">Passo 1) </string>
+    <string name="step2">Passo 2) </string>
+    <string name="bind_weixin_tips_1">Tocca Crea QR code, crea e salva il QR code nella Galleria.</string>
+    <string name="bind_weixin_tips_2">Tocca Apri Wechat, seleziona Scansiona QR code e tocca Album per selezionare il QR code salvato.</string>
     <string name="bind_weixin_now">Sto generando il QR-Code, attendi…</string>
     <string name="bind_weixin_failed">Associazione fallita, riprova!</string>
     <string name="bind_weixin_succ">Associazione completata, puoi usare WeChat</string>
@@ -393,18 +411,29 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="unlock_screen_help_info1">Se lo sblocco non avviene, prova a spegnere e riaccendere il Bluetooth, dopo pochi minuti controlla che lo sblocco con MiBand funzioni</string>
     <string name="unlock_screen_help_info2">"Se riavviare il Bluetooth non funziona, vai a Impostazioni -> Sicurezza e privacy-> Bluetooth rimuovi l'associazione e ripeti l'associazione dall'applicazione."</string>
     <string name="instruction_title">Demo MiBand</string>
-    <string name="instruction_tip_1">Solleva il polso, controlla i progressi</string>
-    <string name="instruction_tip_2_1">"Meno di un terzo dell'obiettivo"</string>
-    <string name="instruction_tip_2_2">Quasi alla metà</string>
-    <string name="instruction_tip_2_3">"Forza, manca solo un terzo all'obiettivo!"</string>
-    <string name="instruction_tip_2_4">Congratulazioni, obiettivo raggiunto!</string>
-    <string name="instruction_tip_2_5">Impostazione Obiettivo</string>
-    <string name="instruction_tip_3">La batteria è in esaurimento</string>
+    <string name="instruction_tip_1">"Dai un'occhiata e
+controlla i tuoi
+progressi"</string>
+    <string name="instruction_tip_2_1">"Meno
+di 1/3
+dell'obiettivo"</string>
+    <string name="instruction_tip_2_2">"Più
+di 1/3 dell'obbiettivo"</string>
+    <string name="instruction_tip_2_3">"Più
+di 2/3 dell'obiettivo"</string>
+    <string name="instruction_tip_2_4">"Congratulazioni,
+obiettivo raggiunto!"</string>
+    <string name="instruction_tip_2_5">"Hai superato
+il tuo obbiettivo!"</string>
+    <string name="instruction_tip_3">"La batteria è
+ in esaurimento.
+Ricarica al più presto</string>
     <string name="new_record_born">Complimenti, nuovo record!</string>
     <string name="new_record_format_str">"Corso %1$s, Calorie bruciate %2$s Kcal
-\u0009basta un passo al nuovo record! I sogni non hanno mai fermato il passo"</string>
+Ogni nuovo record è un passo verso il miglioramento di se stessi.
+Non ti fermare, continua così!"</string>
     <string name="continue_reach_goal">Continui a raggiungere i tuoi obiettivi</string>
-    <string name="continue_tips_format">"Continuous record %1$s Giorni al raggiungimento dell'obiettivo"</string>
+    <string name="continue_tips_format">"Record continuo %1$s Giorni al raggiungimento dell'obiettivo"</string>
     <string name="gram">g</string>
     <string name="kilogram">Kg</string>
     <string name="sync_to_server">Sincronizzando con il server…</string>
@@ -419,10 +448,11 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="stop">Fine</string>
     <string name="start">Inizio</string>
     <string name="no_wear_bracelet">La notte scorsa non hai indossato MiBand</string>
+    <string name="no_wear_user_modified">Aggiungi manualmente dettagli sul mio sonno.</string>
     <string name="dynamic_pull_connect_failed">Errore di connessione, riprova</string>
     <string name="dynamic_pull_connect_failed_hint">Assicurati di avere il telefono completamente carico</string>
     <string name="dynamic_pull_not_sync_today">Oggi non ho ancora sincronizzato</string>
-    <string name="dynamic_pull_last_sync_time">Ultima soncronizzazione</string>
+    <string name="dynamic_pull_last_sync_time">Ultima sincronizzazione</string>
     <string name="dynamic_pull_connecting_bracelet">Collegamento a MiBand…</string>
     <string name="dynamic_pull_sync_after_connected">Dopo il collegamento, sincronizza automaticamente i dettagli</string>
     <string name="dynamic_pull_syncing">Sincronizzando i dettagli…</string>
@@ -430,7 +460,8 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="dynamic_pull_release_to_sync">Avvia sincronizzazione dei dettagli</string>
     <string name="dynamic_pull_pull_to_sync">Tira per sincronizzare</string>
     <string name="dynamic_pull_update_report">Aggiornati %s dati</string>
-    <string name="bind_weixin_qrcode_name">MiBand qr-code</string>
+    <string name="dynamic_pull_sync_error">Impossibile sincronizzare, trascina per aggiornare.</string>
+    <string name="bind_weixin_qrcode_name">MiBand QR code</string>
     <string name="mili_exit_login_info_unbind">"Uscendo il telefono perderà l'associazione al MiBand"</string>
     <string name="mili_exit_login_info_unlock">Tutte le funzioni non saranno più disponibili.</string>
     <string name="mili_exit_login_info_continue_tip">"Confermare l'uscita con ESCI"</string>
@@ -438,4 +469,28 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="back">Indietro</string>
     <string name="enable_debug_log">Debug log attivato!</string>
     <string name="disable_debug_log">Disabilita debug!</string>
+    <string name="fw_upgrade">Aggiornamento firmware</string>
+    <string name="fw_upgrade_tips">"Assicurati che MiBand sia vicino al telefono durante l'aggiornamento."</string>
+    <string name="fw_upgrade_progress">%s%% completato</string>
+    <string name="runed">Corso</string>
+    <string name="share_to_miliao_path">Condividi con</string>
+    <string name="share_to_miliao_target_feeds">Cerchia</string>
+    <string name="share_to_miliao_target_friends">Amici</string>
+    <string name="share_to_miliao_target_union">Amici di allenamento</string>
+    <string name="no_network_connection">Rete disconnessa</string>
+    <string name="gen_qr_code">Genera QR code</string>
+    <string name="bin_weixin_device_not_connect">MiBand non connesso.</string>
+    <string name="share_to_content_sleep">Informazioni sul sonno</string>
+    <string name="share_to_content_step">"Informazioni sull'attività"</string>
+    <string name="share_to_topic">\#Mi Band#</string>
+    <string name="month">Mese</string>
+    <string name="year">Anno</string>
+    <string name="find_bracelet_warning">La ricerca di MiBand comporta un alto consumo di batteria.</string>
+    <string name="second">Secondo</string>
+    <string name="move_and_capture">Sposta e cattura</string>
+    <string name="share_miliao_too_old">Versione di MiTalk troppo vecchia.</string>
+    <string name="first_use_days_today_format">Meno di un giorno dal primo utilizzo.</string>
+    <string name="first_use_remain_days_format">%s giorni dal primo utilizzo</string>
+    <string name="until">Fino a </string>
+    <string name="continue_reach_goal_new_record">Nuovo record</string>
 </resources>

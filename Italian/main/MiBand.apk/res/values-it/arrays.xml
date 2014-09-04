@@ -38,22 +38,16 @@
         <item>Da lunedì a venerdì</item>
         <item>Personalizza</item>
     </string-array>
-    <string-array name="select_days">
-        <item>Lunedì</item>
-        <item>Martedì</item>
-        <item>Mercoledì</item>
-        <item>Giovedì</item>
-        <item>Venerdì</item>
-        <item>Sabato</item>
-        <item>Domenica</item>
-    </string-array>
-    <string-array name="short_days">
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mer</item>
-        <item>Gio</item>
-        <item>Ven</item>
-        <item>Sab</item>
-        <item>Dom</item>
+    <string-array name="fortune">
+        <item>"E' facile raggiungere l'obbiettivo una volta m anon è facile farlo goni giorno."</item>
+        <item>"Non è semplice raggiungere il proprio obbiettivo tutti i giorni."</item>
+        <item>Stai facendo un record ogni giorno!</item>
+        <item>Continua a migliorarti!</item>
+        <item>Non sarai mai un perdente finchè non smetterai di provare.</item>
+        <item>"Noi siamo ciò che facciamo ripetutamente. L'eccellenza quindi, non è un azione ma un'abitudine."</item>
+        <item>Raggiungi un obbiettivo ogni giorno.</item>
+        <item>COntinua a sfidare te stesso per migliorare il presente.</item>
+        <item>Fallo e basta.</item>
+        <item>Continua ad allenarti, la vittoria arriverà da sola.</item>
     </string-array>
 </resources>

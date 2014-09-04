@@ -484,7 +484,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="registration_status_failed_try_later">Registrazione account fallita: (%s); riprova più tardi</string>
     <string name="registration_status_invalid_credentials">Registrazione account fallita: nome utente o password errati.</string>
     <string name="registration_status_server_unreachable">Registrazione account fallita: verifica il nome del server.</string>
-    <string name="third_party_account_summary">Questo account è attualmente in uso da parte dell'app %s.</string>
+    <string name="third_party_account_summary">"Questo account è attualmente in uso da parte dell'app %s."</string>
     <string name="sip_edit_title">Dettagli account SIP</string>
     <string name="sip_edit_new_title">Dettagli account SIP</string>
     <string name="domain_address_title">Server</string>

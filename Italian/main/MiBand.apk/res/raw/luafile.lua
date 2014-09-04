@@ -1261,7 +1261,7 @@ end
 function doAction(context, luaAction)
 --    local intent = luaAction:getIntentFromString("cn.com.smartdevices.bracelet.ui.StatisticActivity")
 --    context:startActivity(intent)
-    log("default doAction called...")
+    log("default doAction called…")
 end
 
 function testAddItem(listDao)
@@ -1270,7 +1270,7 @@ function testAddItem(listDao)
 
     t = {}
     time = os.date("%X",os.time())
-    t.t1 = r.."Benvenuti in MiBand ..." .. time
+    t.t1 = r.."Benvenuti in MiBand …" .. time
     t.t2 = "Premi per il tutorail"
     t.stype = "0001"
     t.index = "0001"

@@ -72,7 +72,7 @@
     <string name="times">volte</string>
     <string name="rank_prefix">"Classifica: "</string>
     <string name="rank_suffix">" punti"</string>
-    <string name="no_usage">...</string>
+    <string name="no_usage">…</string>
     <string name="device_not_recognized">Dispositivo non riconosciuto. Prova di nuovo.</string>
     <string name="clean_memory">Cancella memoria</string>
     <string name="close_all">Chiudi tutto</string>
@@ -117,7 +117,7 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
 più nitide, ma allunga il tempo impiegato 
 per eseguire lo scatto"</string>
     <string name="toolbox_outer_desc">Selezionare più funzioni esistenti</string>
-    <string name="notification_recorder_start">Inizia la registrazione...</string>
+    <string name="notification_recorder_start">Inizia la registrazione…</string>
     <string name="notification_control_stop">Interrompi</string>
     <string name="notification_control_play">Riproduci</string>
     <string name="notification_recorder_file_location">Salvato in:</string>

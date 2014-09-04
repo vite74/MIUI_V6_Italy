@@ -7,7 +7,7 @@
     <string name="menu_attach_screenshot">Allega screenshot</string>
     <string name="menu_discard">Elimina</string>
     <string name="description">Descrizione (opzionale)</string>
-    <string name="suggestion_description">Spero che aggiungerete la funzione X perchè...</string>
+    <string name="suggestion_description">Spero che aggiungerete la funzione X perchè…</string>
     <string name="nonsystemapp_description">Descrivi il problema</string>
     <string name="btn_send">Invia</string>
     <string name="err_type">Tipo di bug</string>
@@ -52,8 +52,8 @@
     <string name="wlan_unavailable_dialog_button_sent">Invia subito</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Generazione rapporto, si prega di attendere…</string>
-    <string name="loading_apps">Creazione lista...</string>
-    <string name="loading_hot_problem">Caricamento...</string>
+    <string name="loading_apps">Creazione lista…</string>
+    <string name="loading_hot_problem">Caricamento…</string>
     <string name="network_err">Impossibile connettersi alla rete. Controlla la tua connessione dati e prova ad aggiornare.</string>
     <string name="refresh">Aggiorna</string>
     <string name="app_empty">Non hai scaricato nessuna applicazione</string>
@@ -77,7 +77,7 @@
     <string name="camera_problem3">Chiusura forzata Fotocamera</string>
     <string name="camera_problem4">Impossibile cambiare tra fotocamera frontale a posteriore</string>
     <string name="camera_problem5">La fotocamera ha smesso di funzionare</string>
-    <string name="suggestion_problem1">DOvreste aggiungere questa funzione perchè...</string>
+    <string name="suggestion_problem1">DOvreste aggiungere questa funzione perchè…</string>
     <string name="screen_lock">Lockscreen</string>
     <string name="systemui">Pannello delle notifiche</string>
 </resources>

@@ -71,7 +71,7 @@
     <string name="battery_charging_level">%d%%</string>
     <string name="weather_fetch_failure">Le informazioni meteo non sono al momento disponibili.</string>
     <string name="alarm_klaxon_service_desc">Servizio di riproduzione dei suoni per gli allarmi impostati in Orologio.</string>
-    <string name="loading_ringtone">Caricamento suoneria...</string>
+    <string name="loading_ringtone">Caricamento suoneria…</string>
     <string name="timer_ring_service_desc">Servizio di riproduzione dei suoni per i timer impostati in Orologio.</string>
     <string name="control_set_alarm">Imposta allarme</string>
     <string name="control_set_alarm_with_existing">%s</string>
@@ -130,7 +130,7 @@
     <string name="time_picker_00_label">:00</string>
     <string name="time_picker_30_label">:30</string>
     <string name="alarm_settings">ALLARMI</string>
-    <string name="see_all">Mostra tutto...</string>
+    <string name="see_all">Mostra tutto…</string>
     <string name="desk_clock_help_url" />
     <string name="stopwatch_service_desc">Servizio cronometro per pubblicare la notifica.</string>
     <string name="swn_stopped">Interrotto</string>

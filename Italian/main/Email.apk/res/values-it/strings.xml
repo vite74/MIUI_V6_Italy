@@ -83,7 +83,7 @@
     <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
     <string name="account_setup_basics_password_label">Password</string>
     <string name="account_setup_basics_title">Impostazione account</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Verifica impostazioni server posta in uscita…</string>
     <string name="account_setup_check_settings_retr_info_msg">"Recupero informazioni sull'account…"</string>
     <string name="account_setup_creating_account_msg">Creazione account…</string>
@@ -261,7 +261,7 @@
     <string name="change_folders_selection_dialog_title">Cambia cartelle</string>
     <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>
     <string name="chat_type_name">chat</string>
-    <string name="check_setup_data">Validazione impostazioni server...</string> 
+    <string name="check_setup_data">Validazione impostazioni server…</string> 
     <string name="checking_for_mail">Controlla email</string>
     <string name="choosertitle_sharevia">Condividi tramite</string>
     <string name="clear">Cancella</string>
@@ -363,7 +363,7 @@
     <string name="download_confirm_message">"Per aprire questo file devi scaricare l'allegato da 180K %1$s"</string>
     <string name="download_confirm_title">Conferma download</string>
     <string name="download_failed">Download non riuscito. Tocca per riprovare.</string>
-    <string name="downloading_message_body">Download email, attendere prego...</string>
+    <string name="downloading_message_body">Download email, attendere prego…</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
@@ -585,7 +585,7 @@ CC: %4$s
     <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
     <string name="outbox_alert_title_sent_failed">Impossibile inviare email</string>
     <string name="outbox_no_mails">Nessuna mail in uscita</string>
-    <string name="parase_setup_data">Recupero dati di configurazione...</string>
+    <string name="parase_setup_data">Recupero dati di configurazione…</string>
     <string name="password_changed_prompt">Impossibile accedere</string>
     <string name="password_expire_warning_content_title">Password blocco schermo in scadenza</string>
     <string name="password_expire_warning_dialog_content_fmt">Devi modificare il PIN o la password di blocco dello schermo a breve altrimenti i dati relativi a %s verranno cancellati. Apportare la modifica ora?</string>

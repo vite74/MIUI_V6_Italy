@@ -136,7 +136,7 @@ CC: %4$s
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_password_spaces_error">Questa password inizia o termina con uno o più spazi. Molti server non supportano le password contenenti spazi.</string>
     <string name="account_setup_check_settings_retr_info_msg">"Recupero informazioni sull'account…"</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Verifica impostazioni server posta in uscita…</string>
     <string name="account_setup_creating_account_msg">Creazione account…</string>
     <string name="account_setup_names_title">Impostazione account</string>
@@ -767,7 +767,7 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="outbox_alert_button_confirm">Modifica</string>
     <string name="blank_feedback_toast">Il feedback è vuoto, inserire un feedback!</string>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="parase_setup_data">Recupero dati di configurazione...</string>
+    <string name="parase_setup_data">Recupero dati di configurazione…</string>
     <string name="allread">Tutto letto</string>
     <string name="eas_template">dominio\\utente</string>
     <string name="outbox_alert_button_resend">Invia di nuovo</string>

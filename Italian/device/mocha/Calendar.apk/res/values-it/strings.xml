@@ -94,7 +94,7 @@
     <string name="agenda_today">OGGI, %1$s</string>
     <string name="agenda_yesterday">IERI, %1$s</string>
     <string name="agenda_tomorrow">DOMANI, %1$s</string>
-    <string name="loading">Caricamento...</string>
+    <string name="loading">Caricamento…</string>
     <string name="show_older_events">Tocca per visualizzare eventi precedenti a: %1$s</string>
     <string name="show_newer_events">Tocca per visualizzare eventi successivi a: %1$s</string>
     <string name="search_title">Cerca nei miei calendari</string>
@@ -158,7 +158,7 @@
     <string name="preferences_reminders_quiet_hours_end">Fine orari disattiv. audio</string>
     <string name="preferences_debug_category">Debug</string>
     <string name="copy_db">Invia database</string>
-    <string name="directory_searching_fmt">Ricerca in %s in corso...</string>
+    <string name="directory_searching_fmt">Ricerca in %s in corso…</string>
     <string name="accessibility_remove_attendee">Rimuovi partecipante</string>
     <string name="accessibility_pick_start_date">Data inizio</string>
     <string name="accessibility_pick_start_time">Ora di inizio</string>

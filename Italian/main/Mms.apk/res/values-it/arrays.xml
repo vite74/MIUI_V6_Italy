@@ -43,7 +43,7 @@
         <item>8 secondi</item>
         <item>9 secondi</item>
         <item>10 secondi</item>
-        <item>Altro...</item>
+        <item>Altro…</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>

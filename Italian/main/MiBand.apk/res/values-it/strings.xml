@@ -2,7 +2,7 @@
 <resources>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
     <string name="pull_to_refresh_release_label">Rilascia</string>
-    <string name="pull_to_refresh_refreshing_label">Caricamento...</string>
+    <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Carica più dettagli</string>
     <string name="app_name">MiBand</string>
     <string name="action_exit">Esci</string>
@@ -108,7 +108,7 @@ Agreement: %2$s"</string>
     <string name="share_blog_cancel">Annulla</string>
     <string name="share_blog_title">Novità pubblicate</string>
     <string name="share_blog_share">Share</string>
-    <string name="share_blog_message_hint">Dì qualcosa...</string>
+    <string name="share_blog_message_hint">Dì qualcosa…</string>
     <string name="share_blog_other">Condividi tramite</string>
     <string name="share_blog_weixin">WeChat</string>
     <string name="share_blog_pengyouquan">Moment</string>
@@ -207,7 +207,7 @@ Agreement: %2$s"</string>
     <string name="bmenu_dynamic">Dinamico</string>
     <string name="bmenu_device">Dispositivo</string>
     <string name="bmenu_my">Io</string>
-    <string name="fw_upgrade_succ">Aggiornamento Firmware completato, attendi il riavvio del MiBand...</string>
+    <string name="fw_upgrade_succ">Aggiornamento Firmware completato, attendi il riavvio del MiBand…</string>
     <string name="fw_upgrade_failed">Aggiornamento Firmware fallito!</string>
     <string name="user_agreement">"Licenza d'utilizzo e trattamento dei dati"</string>
     <string name="error_code">"Codici d' errore"</string>
@@ -223,7 +223,7 @@ Agreement: %2$s"</string>
     <string name="app_exit_press_again">Premi ancora per uscire</string>
     <string name="set_goal_step">Imposta obiettivo</string>
     <string name="hour_1">Ora</string>
-    <string name="wait">Attendere...</string>
+    <string name="wait">Attendere…</string>
     <string name="content_too_short">il campo non può essere vuoto</string>
     <string name="help">Aiuto</string>
     <string name="unlock_screen_invalid_helper">Sblocco fallito</string>
@@ -267,7 +267,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="visit_micom">Visita il sito ufficiale</string>
     <string name="apk_uptodate">"L'ultima versione è già installata."</string>
     <string name="local_app_failed">"Errore nella verifica dell'aggiornamento"</string>
-    <string name="checking_new_apk">Verifico...</string>
+    <string name="checking_new_apk">Verifico…</string>
     <string name="please_knock_bracelet">Tocca delicatamente il MiBand</string>
     <string name="dynamic_title_sleep">Ultimo sonno</string>
     <string name="dynamic_title_step">Eventi di oggi</string>
@@ -337,7 +337,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="help_title_3">MiBand e il telefono sono collegati?</string>
     <string name="look_device_list">Cerco MiBand nelle vicinanze</string>
     <string name="device_list">Elenco MiBand disponibili</string>
-    <string name="unbinding">Scollegamento, attendi...</string>
+    <string name="unbinding">Scollegamento, attendi…</string>
     <string name="share_sleep_title">Sonno della notte scorsa</string>
     <string name="share_sleep_title_average">Media di sonno</string>
     <string name="share_sleep_title_daily">Sonno</string>
@@ -363,9 +363,9 @@ Dormiti %5$s, Sveglio %6$s"</string>
 Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="smart_alarm_notify">Risveglio intelligente</string>
     <string name="battery_charge_full">Carica batteria completata</string>
-    <string name="battery_low_info">Batteria scarica, ricaricare...</string>
-    <string name="battery_charging">Carica in corso...</string>
-    <string name="finding_bracelet">Ricerca MiBand ...</string>
+    <string name="battery_low_info">Batteria scarica, ricaricare…</string>
+    <string name="battery_charging">Carica in corso…</string>
+    <string name="finding_bracelet">Ricerca MiBand …</string>
     <string name="unlock_screen_set_password_tips_set">Impostazione Password</string>
     <string name="unlock_screen_set_password_tips_has_set">La Password è stata impostata</string>
     <string name="unlock_screen_set_password">Per cominciare, imposta la password dello schermo.</string>
@@ -375,7 +375,7 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="unlock_screen_modify_unlock">Per modificare apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo</string>
     <string name="bind_weixin_title">"dopo aver cliccato su \"connetti a Wechat\" sarà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti "</string>
     <string name="bind_weixin_tips_1">inoltre, puoi usare il PC visitando http://hm.xiaomi.com/login.do per ottenere il codice QR, e quindi usare lo scanner di codici QR di WeChat per connetterti</string>
-    <string name="bind_weixin_now">Sto generando il QR-Code, attendi...</string>
+    <string name="bind_weixin_now">Sto generando il QR-Code, attendi…</string>
     <string name="bind_weixin_failed">Associazione fallita, riprova!</string>
     <string name="bind_weixin_succ">Associazione completata, puoi usare WeChat</string>
     <string name="bind_weixin_save">"Salvato nell'album:"</string>
@@ -407,7 +407,7 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="continue_tips_format">"Continuous record %1$s Giorni al raggiungimento dell'obiettivo"</string>
     <string name="gram">g</string>
     <string name="kilogram">Kg</string>
-    <string name="sync_to_server">Sincronizzando con il server...</string>
+    <string name="sync_to_server">Sincronizzando con il server…</string>
     <string name="unlock_screen_miui_version_low">La versione MIUI è troppo bassa</string>
     <string name="share_uninstall_client">"L'applicazione non è installata non puoi condividere!"</string>
     <string name="setting_feedback_send">Invia</string>
@@ -423,9 +423,9 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="dynamic_pull_connect_failed_hint">Assicurati di avere il telefono completamente carico</string>
     <string name="dynamic_pull_not_sync_today">Oggi non ho ancora sincronizzato</string>
     <string name="dynamic_pull_last_sync_time">Ultima soncronizzazione</string>
-    <string name="dynamic_pull_connecting_bracelet">Collegamento a MiBand...</string>
+    <string name="dynamic_pull_connecting_bracelet">Collegamento a MiBand…</string>
     <string name="dynamic_pull_sync_after_connected">Dopo il collegamento, sincronizza automaticamente i dettagli</string>
-    <string name="dynamic_pull_syncing">Sincronizzando i dettagli...</string>
+    <string name="dynamic_pull_syncing">Sincronizzando i dettagli…</string>
     <string name="dynamic_pull_syncing_progress">Sincronizzato %s%%</string>
     <string name="dynamic_pull_release_to_sync">Avvia sincronizzazione dei dettagli</string>
     <string name="dynamic_pull_pull_to_sync">Tira per sincronizzare</string>
@@ -434,7 +434,7 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="mili_exit_login_info_unbind">"Uscendo il telefono perderà l'associazione al MiBand"</string>
     <string name="mili_exit_login_info_unlock">Tutte le funzioni non saranno più disponibili.</string>
     <string name="mili_exit_login_info_continue_tip">"Confermare l'uscita con ESCI"</string>
-    <string name="mili_exit_login_info_exiting">Chiusura...</string>
+    <string name="mili_exit_login_info_exiting">Chiusura…</string>
     <string name="back">Indietro</string>
     <string name="enable_debug_log">Debug log attivato!</string>
     <string name="disable_debug_log">Disabilita debug!</string>

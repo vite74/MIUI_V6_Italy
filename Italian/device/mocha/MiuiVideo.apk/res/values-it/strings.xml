@@ -22,8 +22,8 @@
     <string name="toast_back_key_pressed_notice">Premi indietro per uscire.</string>
     <string name="adjust_position_prev_media_notice">Anteprima</string>
     <string name="adjust_position_next_media_notice">Avanti</string>
-    <string name="loading_video_netplay_label">Caricamento, attendere prego...</string>
-    <string name="buffering">Creazione buffer...</string>
+    <string name="loading_video_netplay_label">Caricamento, attendere prego…</string>
+    <string name="buffering">Creazione buffer…</string>
     <string name="airkan_video_playing_in">Video in</string>
     <string name="airkan_video_playing">riproduzione</string>
     <string name="airkan_tips">"Premi qui per trasmettere il videosu box o TV"</string>
@@ -37,8 +37,8 @@
     <string name="vp_VideoView_error_network_not_available">Rete non disponibile</string>
     <string name="top_status_local_media">Media locale</string>
     <string name="top_status_online_media">Media online</string>
-    <string name="loading_video_netplay_label_v5">Caricamento stream, attendere prego...</string>
-    <string name="buffering_video_netplay_label_v5">Creazione buffer...</string>
+    <string name="loading_video_netplay_label_v5">Caricamento stream, attendere prego…</string>
+    <string name="buffering_video_netplay_label_v5">Creazione buffer…</string>
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
     <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>

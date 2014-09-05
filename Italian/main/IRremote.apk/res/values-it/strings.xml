@@ -101,7 +101,7 @@
     <string name="match_mibox_sencond">Telecomando su misura per MiTv per dare una esperienza di controllo più accurata e maggiori funzionalità</string>
     <string name="match_mibox_third">Dopo aver rilevato nuovi MiTv, il box ti aiuterà ad aggiungere il relativo telecomando</string>
     <string name="continue_to_add_other_rc">Prosegui per aggiungere un altro telecomando</string>
-    <string name="respond">C'è una reazione</string>
+    <string name="respond">"C'è una reazione"</string>
     <string name="not_respond">Nessuna reazione</string>
     <string name="brand_search_box_hint">Prego inserire la marca del dispositivo che vuoi aggiungere</string>
     <string name="brand_title_hot">Marche comuni</string>
@@ -164,7 +164,7 @@
     <string name="management_settings">Impostazioni</string>
     <string name="connected">Connesso</string>
     <string name="privacy_title">Termini e Condizioni</string>
-    <string name="privacy_content">Per utilizzare i servizi remoti offerti da Xiaomi, si prega di leggere le Politiche di Privacy e Accordo per gli utenti . Nel processo di utilizzo delle informazioni sulla posizione ha bisogno di connettersi alla rete e, se siete d'accordo</string>
+    <string name="privacy_content">"Per utilizzare i servizi remoti offerti da Xiaomi, si prega di leggere le Politiche di Privacy e Accordo per gli utenti . Nel processo di utilizzo delle informazioni sulla posizione ha bisogno di connettersi alla rete e, se siete d'accordo"</string>
     <string name="privacy_nohit">Ricorda la mia scelta</string>
     <string name="privacy_agree">Accetto</string>
     <string name="privacy_disagree">Annulla</string>

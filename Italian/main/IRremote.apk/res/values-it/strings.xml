@@ -164,7 +164,7 @@
     <string name="management_settings">Impostazioni</string>
     <string name="connected">Connesso</string>
     <string name="privacy_title">Termini e Condizioni</string>
-    <string name="privacy_content">Per utilizzare i servizi remoti offerti da Xiaomi, si prega di leggere le <u> Politiche di Privacy </u> e <u> Accordo per gli utenti </ u>. Nel processo di utilizzo delle informazioni sulla posizione ha bisogno di connettersi alla rete e, se siete d'accordo</string>
+    <string name="privacy_content">Per utilizzare i servizi remoti offerti da Xiaomi, si prega di leggere le Politiche di Privacy e Accordo per gli utenti . Nel processo di utilizzo delle informazioni sulla posizione ha bisogno di connettersi alla rete e, se siete d'accordo</string>
     <string name="privacy_nohit">Ricorda la mia scelta</string>
     <string name="privacy_agree">Accetto</string>
     <string name="privacy_disagree">Annulla</string>

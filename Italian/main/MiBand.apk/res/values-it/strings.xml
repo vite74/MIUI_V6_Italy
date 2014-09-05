@@ -164,7 +164,7 @@ Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="mili_unbind_question_content">Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBand o sostituirlo con un altro.</string>
     <string name="mili_unbind_question_content_1">" Se hai impostato MiBand per sbloccare il telefono e lo dissoci, perderai questa funzione."</string>
     <string name="mili_reset_info">" Cancella tutte le informazioni sul MiBand e ripristina i dati di fabbrica.
-Confermi il reset?"</string>
+Confermi il ripristino?"</string>
     <string name="mili_exit_login_info">"Uscire dall'account Mi corrente.
 Confermi?"</string>
     <string name="mili_exit_login_info_continue">"Sincronizzazione fallita, controlla il collegamento ad internet.
@@ -271,7 +271,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="visit_micom">Visita il sito ufficiale</string>
     <string name="apk_uptodate">"L'ultima versione è già installata."</string>
     <string name="local_app_failed">"Errore nella verifica dell'aggiornamento"</string>
-    <string name="checking_new_apk">Verifica in corso...</string>
+    <string name="checking_new_apk">Verifica in corso…</string>
     <string name="please_knock_bracelet">Tocca delicatamente il MiBand</string>
     <string name="dynamic_title_sleep">Ultimo sonno</string>
     <string name="dynamic_title_step">Eventi di oggi</string>
@@ -367,7 +367,7 @@ Record %5$s del giorno %6$s Passi"</string>
     <string name="marathon_format_1">Più %1$s una maratona</string>
     <string name="half_marathon_format_0">Equivale %1$s mezza maratona</string>
     <string name="half_marathon_format_1">Più %1$s mezza maratona</string>
-    <string name="share_continue_goal_format">Totale %1$s passi, %2$s Passi giornalieri di corsa 
+    <string name="share_continue_goal_format">Totale %1$s passi, %2$s passi giornalieri di corsa 
 %3$s 
 %4$s</string>
     <string name="share_sleep_description">"Sonno profondo: %1$s ore e %2$s minuti.
@@ -433,7 +433,7 @@ Ricarica al più presto</string>
 Ogni nuovo record è un passo verso il miglioramento di se stessi.
 Non ti fermare, continua così!"</string>
     <string name="continue_reach_goal">Continui a raggiungere i tuoi obiettivi</string>
-    <string name="continue_tips_format">"Record continuo %1$s Giorni al raggiungimento dell'obiettivo"</string>
+    <string name="continue_tips_format">"Record continuo %1$s giorni al raggiungimento dell'obiettivo"</string>
     <string name="gram">g</string>
     <string name="kilogram">Kg</string>
     <string name="sync_to_server">Sincronizzando con il server…</string>
@@ -455,7 +455,7 @@ Non ti fermare, continua così!"</string>
     <string name="dynamic_pull_last_sync_time">Ultima sincronizz.</string>
     <string name="dynamic_pull_connecting_bracelet">Collegamento a MiBand…</string>
     <string name="dynamic_pull_sync_after_connected">Sincronizza dopo il collegamento</string>
-    <string name="dynamic_pull_syncing">Sincronizzazione in corso...</string>
+    <string name="dynamic_pull_syncing">Sincronizzazione in corso…</string>
     <string name="dynamic_pull_syncing_progress">Sincronizzato %s%%</string>
     <string name="dynamic_pull_release_to_sync">Avvia sincronizzazione</string>
     <string name="dynamic_pull_pull_to_sync">Trascina per sincronizzare</string>
@@ -465,7 +465,7 @@ Non ti fermare, continua così!"</string>
     <string name="mili_exit_login_info_unbind">"Uscendo il telefono perderà l'associazione con MiBand"</string>
     <string name="mili_exit_login_info_unlock">Tutte le funzioni non saranno più disponibili.</string>
     <string name="mili_exit_login_info_continue_tip">"Confermare l'uscita con ESCI"</string>
-    <string name="mili_exit_login_info_exiting">Chiusura...</string>
+    <string name="mili_exit_login_info_exiting">Chiusura…</string>
     <string name="back">Indietro</string>
     <string name="enable_debug_log">Debug log attivato!</string>
     <string name="disable_debug_log">Disabilita debug!</string>
@@ -478,7 +478,7 @@ Non ti fermare, continua così!"</string>
     <string name="share_to_miliao_target_friends">Amici</string>
     <string name="share_to_miliao_target_union">Amici di allenamento</string>
     <string name="no_network_connection">Rete disconnessa</string>
-    <string name="gen_qr_code">Genera QR code</string>
+    <string name="gen_qr_code">Genera codice QR</string>
     <string name="bin_weixin_device_not_connect">MiBand non connesso.</string>
     <string name="share_to_content_sleep">Informazioni sul sonno</string>
     <string name="share_to_content_step">"Informazioni sull'attività"</string>

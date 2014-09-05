@@ -9,8 +9,8 @@
     <string name="resource_price_unit"> MiCredit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inserisci una scheda SD ora.
-"</string>
+    <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora.
+</string>
     <string name="resource_mute">Nessuna</string>
     <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_ringtone_default">Suonerie</string>
@@ -39,7 +39,7 @@
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
-    <string name="resource_waiting_download">In attesa del download..</string>
+    <string name="resource_waiting_download">In attesa del download…</string>
     <string name="resource_import_successful">Download completato.</string>
     <string name="resource_import_failed">Importazione fallita</string>
     <string name="resource_delta_update_successful">Aggiornamento patch completato，risparmiati %1$s.</string>
@@ -180,7 +180,7 @@
     <string name="resource_hint">Avviso</string>
     <string name="resource_ringtone_volume_mute">La tua suoneria è silenziata</string>
     <string name="app_name">Temi</string>
-    <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego..</string>
+    <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego…</string>
     <string name="theme_changed_message">Applicato con successo!</string>
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>

@@ -24,7 +24,7 @@
     <string name="share_title_to_mitalk">Condividi</string>
     <string name="share_title_to_mitalk_ellipsis">ecc…</string>
     <string name="share_title_to_sina_weibo">Invia a microblog Sina </string>
-    <string name="share_content_to_sina_weibo">%1$s for inviare %2$s，condividi con un buon amico.</string>
+    <string name="share_content_to_sina_weibo">%1$s perr inviare %2$s，condividi con un buon amico.</string>
     <string name="share_content_device_box_to_sina_weibo">MiBox</string>
     <string name="share_content_device_tv_to_sina_weibo">MiTV</string>
     <string name="share_content_device_other_to_sina_weibo">Xiaomi</string>

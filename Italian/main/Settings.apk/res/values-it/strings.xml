@@ -1040,7 +1040,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Consenti alle applicazioni che hanno chiesto la tua autorizzazione di utilizzare le informazioni sulla tua posizione</string>
     <string name="location_sources_heading">Fonti di geolocalizzazione</string>
-    <string name="about_settings">Informazioni sul tablet</string>
+    <string name="about_settings">Informazioni</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
     <string name="legal_information">Informazioni legali</string>
     <string name="contributors_title">Collaboratori</string>
@@ -1298,7 +1298,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="user_dict_settings_all_languages">Per tutte le lingue</string>
     <string name="user_dict_settings_more_languages">Altre lingue…</string>
     <string name="testing">Verifica…</string>
-    <string name="testing_phone_info">Informazioni sul tablet</string>
+    <string name="testing_phone_info">Informazioni</string>
     <string name="testing_battery_info">Informazioni batteria</string>
     <string name="testing_sim_toolkit">Strumenti SIM</string>
     <string name="quick_launch_title">Avvio rapido</string>

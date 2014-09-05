@@ -64,4 +64,8 @@ localization_Italian_table = {
 
     cannot_find_bracelet="Non riesci ad associare il tuo MiBand?",
     cannot_find_bracelet_info="Controlla che la batteria sia carica ed avvicinalo al telefono",
+
+    challenge_to_get="%s giorni al nuovo record!",
+    record_reach_max="Hai raggiunto il tuo record!",
+    new_record_born="Nuovo record!",
  }

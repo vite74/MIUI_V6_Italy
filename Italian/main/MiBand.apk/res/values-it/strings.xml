@@ -96,12 +96,12 @@ Agreement: %2$s"</string>
     <string name="bracelet_login_info">"L'accesso consentirà a MiCloud di analizzare le attività e il sonno per darti suggerimenti scientifici"</string>
     <string name="male">Maschio</string>
     <string name="female">Femmina</string>
-    <string name="cm">Cm</string>
+    <string name="cm">" Cm"</string>
     <string name="congrats">Congratulazioni</string>
     <string name="start_use">Istruzioni</string>
     <string name="share">Condividi</string>
     <string name="person_info_finished_info">Impostazione MiBand completata</string>
-    <string name="kg">Kg</string>
+    <string name="kg">" Kg"</string>
     <string name="new_friend_cancel">Rifiutato</string>
     <string name="new_friend_accept">Accettato</string>
     <string name="search_devices_title">Cerco MiBand</string>
@@ -318,7 +318,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="firmware_version">Versione Firmware</string>
     <string name="step_per_day">Passi al giorno</string>
     <string name="remain_days_format">"L'ultima ricarica risale a %s giorni fa"</string>
-    <string name="remain_days_today_format">"Meno di un giorno dall'utima carica"</string>
+    <string name="remain_days_today_format">"Meno di un giorno dall'ultima carica"</string>
     <string name="blue">Blu</string>
     <string name="red">Rosso</string>
     <string name="green">Verde</string>

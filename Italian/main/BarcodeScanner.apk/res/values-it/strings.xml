@@ -36,7 +36,7 @@
     <string name="website_details">Dettagli sito:</string>
     <string name="contact_details">Dettagli contatto:</string>
     <string name="wechat_details">Dettagli WeChat:</string>
-    <string name="qr_code_details">Dettagli QR code:</string>
+    <string name="qr_code_details">Dettagli codice QR:</string>
     <string name="import_contact">Importa contatto</string>
     <string name="secure_access_web_url">Accesso sicuro</string>
     <string name="not_recommend_access_web_url">Accesso sicuro (non consigliato)</string>

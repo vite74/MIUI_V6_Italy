@@ -177,6 +177,8 @@
     <string name="battery_desc_display">Batteria usata da schermo e retroilluminazione</string>
     <string name="battery_desc_apps">"Batteria utilizzata dall'applicazione"</string>
     <string name="percentage">%d%%</string>
+    <string name="usage_type_data_recv">Dati ricevuti</string>
+    <string name="usage_type_data_send">Dati inviati</string>
     <string name="usage_type_no_coverage">Tempo senza nessun copertura</string>
     <string name="usage_type_gps">GPS</string>
     <string name="process_kernel_label">Sistema operativo Android</string>

@@ -38,7 +38,7 @@
     <string name="reg_using_other_phone_number_prompt">Registrati tramite un altro numero di telefono</string>
     <string name="reg_using_other_phone">Registrati tramite un altro numero di telefono</string>
     <string name="reg_via_sms_alert">"L'SMS di attivazione è soggetto ai normali costi previsi dal tuo operatore."</string>
-    <string name="reg_sms_send_prompt">Invia codice di verifica a %s</string>    
+    <string name="reg_sms_send_prompt">Invia codice di verifica a %s</string>
     <string name="micloud_input_password_prompt">Inserisci password</string>
     <string name="micloud_password_confirm_hint">Conferma password</string>
     <string name="micloud_password_req_notice">8~16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>

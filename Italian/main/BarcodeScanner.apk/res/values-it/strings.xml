@@ -30,13 +30,13 @@
     <string name="url_is_safety">Questo sito è sicuro.</string>
     <string name="url_is_unsafety">Questo sito potrebbe mettere a rischio la sicurezza dei tuoi dati.</string>
     <string name="url_is_phish">Questo sito potrebbe eseguire phishing dei dati (attenzione!).</string>
-    <string name="url_is_unknown">Non è possibile confermare la sicurezza di questo sito. COntinua a tuo rischio.</string>
+    <string name="url_is_unknown">Non è possibile confermare la sicurezza di questo sito. Continua a tuo rischio.</string>
     <string name="scan_qrcode">Scansiona QR code</string>
     <string name="app_details">Dettagli app:</string>
     <string name="website_details">Dettagli sito:</string>
     <string name="contact_details">Dettagli contatto:</string>
     <string name="wechat_details">Dettagli WeChat:</string>
-    <string name="qr_code_details">DEttagli QR code:</string>
+    <string name="qr_code_details">Dettagli QR code:</string>
     <string name="import_contact">Importa contatto</string>
     <string name="secure_access_web_url">Accesso sicuro</string>
     <string name="not_recommend_access_web_url">Accesso sicuro (non consigliato)</string>

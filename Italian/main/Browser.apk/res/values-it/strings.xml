@@ -626,8 +626,8 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_privacy_clear_geolocation_access_summary">"Cancella l'accesso alla posizione per tutti i siti web"</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">"Cancellare l'accesso del sito web alla posizione?"</string>
     <string name="pref_security_passwords_title">Password</string>
-    <string name="pref_security_remember_passwords">Memorizza le passwords</string>
-    <string name="pref_security_remember_passwords_summary">Salva nomi utente e passwords per i siti web</string>
+    <string name="pref_security_remember_passwords">Memorizza le password</string>
+    <string name="pref_security_remember_passwords_summary">Salva nomi utente e password per i siti web</string>
     <string name="pref_security_save_form_data">Memorizza dati moduli</string>
     <string name="pref_security_save_form_data_summary">Memorizza i dati che digito nei moduli per usi futuri</string>
     <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>

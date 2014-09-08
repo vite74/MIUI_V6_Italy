@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="delete">Elimina</string>
     <string name="lockscreen_emergency_call">Chiamata di emergenza</string>
     <string name="lockscreen_forgot_pattern_button_text">Annulla</string>
     <string name="lockscreen_transport_prev_description">Indietro</string>
@@ -11,6 +12,7 @@
     <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
     <string name="unlockscreen_recharge_completed">Carica completa</string>
     <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
+    <string name="lockscreen_charging_msg">In carica</string>
     <string name="emergency_call_string">Emergenza</string>
     <string name="forget_password_string">Pwd dimenticata</string>
     <string name="miui_unlockscreen_password_wrong">Riprova:</string>
@@ -72,4 +74,6 @@ Prego disattivare la modalità aereo."</string>
  Riprova tra %d secondi."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Hai eseguito %d tentativi errati di sbloccare il telefono. Dopo altri %d tentativi errati, il telefono sarà ripristinato alle impostazioni di fabbrica e tutti i dati utente andranno persi."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Hai eseguito %d tentativi errati di sbloccare il telefono. Il telefono sarà ripristinato alle impostazioni di fabbrica.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato con dispositivo Bluetooth</string>
+    <string name="bluetooth_unlock_rssi_far_debug_msg">Dispositivo Bluetooth troppo lontano per sbloccare</string>
    </resources>

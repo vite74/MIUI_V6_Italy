@@ -12,7 +12,7 @@
     <string name="music_headset_calibrate_volume_down">Diminuisci volume</string>
     <string name="music_headset_calibrate_prev_track">Traccia precedente</string>
     <string name="music_headset_calibrate_next_track">Traccia successiva</string>
-    <string name="music_headset_calibrate_confirm">Applicare quest impostazioni?</string>
+    <string name="music_headset_calibrate_confirm">Applicare queste impostazioni?</string>
     <string name="music_headset_no_contected">Auricolari non rilevati</string>
     <string name="music_headset_calibrate_wrong_key">Questo è il pulsante sbagliato</string>
     <string name="music_mi_effect_title">Dirac HD Sound</string>
@@ -23,7 +23,7 @@
     <string name="music_dirac_mode_piston_100">Mi piston-1</string>
     <string name="music_dirac_mode_general">Generale</string>
     <string name="music_dirac_mode_general_earbuds">Generale auricolari</string>
-    <string name="music_dirac_mode_general_inear">General in-ear</string>
+    <string name="music_dirac_mode_general_inear">In-ear normale</string>
     <string name="music_dirac_mode_piston_2">Mi piston-2</string>
     <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
@@ -123,6 +123,7 @@
     <string name="small_font">Piccole</string>
     <string name="medium_font">Medie</string>
     <string name="large_font">Grandi</string>
+    <string name="font_size_preview_text">Esempio per le dimensioni del testo.</string>
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Archivio USB</string>
     <string name="battery_info_status_label">Stato batteria:</string>
@@ -2070,20 +2071,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_image_choose_photo">Scegli la foto dalla Galleria</string>
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
-    <string name="account_autostar_label">Esecuzione automatica</string>
-    <string name="auto_startup_application_manage">Avvio automatico</string>
-    <string name="auto_startup_count">Attualmente %d app hanno il permesso di avviarsi automaticamente</string>
-    <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
-    <string name="application_item_disable">Nega</string>
-    <string name="application_item_permission">Consenti</string>
-    <string name="application_item_already_permission">Consentito</string>
-    <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
-    <string name="floating_window_switch_label">Mostra finestre popup</string>
-    <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
-    <string name="app_floating_window_dlg_enable">"L'abilitazione dell'impostazione finestra flottante di %1$s richiede il riavvio dell'applicazione. Puoi anche chiude l'app manualmente. 
-Abilitare le finestre flottanti?"</string>
-    <string name="app_floating_window_dlg_disable">"La disabilitazione dell'impostazione finestra flottante di %1$s provocherà la chiusura dell'applicazione. 
-Disabilitare le finestre flottanti?"</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">memoria di massa</string>
@@ -2534,6 +2521,22 @@ ed esegui il software."</string>
     <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colori</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">Account</string>
+    <string name="auto_startup_application_manage">Avvio automatico</string>
+    <string name="add_auto_startup_application">Aggiungi applicazioni in avvio automatico</string>
+    <string name="power_autorun_apps_empty">Nessuna applicazione in avvio automatico</string>
+    <string name="power_autorun_empty">Nessuna applicazione</string>
+    <string name="auto_startup_count">%d applicazioni in avvio automatico</string>
+    <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
+    <string name="application_item_disable">Nega</string>
+    <string name="application_item_permission">Consenti</string>
+    <string name="application_item_already_permission">Consentito</string>
+    <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
+    <string name="floating_window_switch_label">Mostra finestre popup</string>
+    <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
+    <string name="app_floating_window_dlg_enable">"L'abilitazione dell'impostazione finestra flottante di %1$s richiede il riavvio dell'applicazione. Puoi anche chiude l'app manualmente. 
+Abilitare le finestre flottanti?"</string>
+    <string name="app_floating_window_dlg_disable">"La disabilitazione dell'impostazione finestra flottante di %1$s provocherà la chiusura dell'applicazione. 
+Disabilitare le finestre flottanti?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
@@ -2710,6 +2713,7 @@ ed esegui il software."</string>
     <string name="system_app_settings">Applicazioni di sistema</string>
     <string name="connect_to_internet">Rete Wi-Fi</string>
     <string name="wifi_setting_category">Per attivare il tuo dispositivo, connettiti ad Internet</string>
+    <string name="account_autostar_label">Avvio automati</string>
     <string name="downloading_description">Download in corso…</string>
     <string name="cancel_download_buton_text">Annulla</string>
     <string name="apply_now_button_text">Aggiorna</string>
@@ -2727,6 +2731,17 @@ ed esegui il software."</string>
     <string name="rebootiing_for_updates">Riavvio in corso…</string>
     <string name="update_progress_for_updates">Aggiornamento （%s）</string>
     <string name="button_text_reboot_now">Riavvia ora</string>
+    <string name="button_text_login">Login</string>
+    <string name="dialog_content_login">"L'aggiornamento richiede un account Xiaomi, vuoi proseguire?</string>
+    <string name="dialog_title_login">"Accedi all'account Xiaomi"</string>
+    <string name="make_sure_cancel_update">Annullare aggiornamento?</string>
+    <string name="download_current_rom">"Scarica l'ultima versione di MIUI"</string>
+    <string name="view_install_log">Mostra log errore</string>
+    <string name="install_whole_rom">Scarica ROM (standard)</string>
+    <string name="apply_update_fail">Aggiornamento di sistema fallito.</string>
+    <string name="mione_update_success_title">Aggiornamento completato</string>
+    <string name="now">Riavvia adesso</string>
+    <string name="later">Riavvia dopo</string>
     <string name="welcome">Benvenuto</string>
     <string name="launching_pho">Caricamento informazioni telefono, prego attendere.</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, prego attendere.</string>

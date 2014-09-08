@@ -11,7 +11,6 @@ zh_CN = 'zh_CN'
 zh_TW = 'zh_TW'
 en_US = 'en_US'
 en_GB = 'en_GB'
-it_IT = 'it_IT'
 en = 'en'
 g_CurLocale = ""
 -------------Globals----------------
@@ -42,7 +41,6 @@ localization_table = {
     en = localization_English_table,
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
-	it_IT = localization_Italian_table,
 	
 }
 function getString(string_locale)

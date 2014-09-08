@@ -166,7 +166,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ACaddnumcontent">Inserisci le prime cifre del numero, il sistema lo completerà</string>
     <string name="SMS_BLACKLIST">Messaggio lista blocco</string>
     <string name="SMS_PREFIX">Prefisso lista blocco</string>
-    <string name="SMS_DEFAULT">Lista blocco intelligentet</string>
+    <string name="SMS_DEFAULT">Lista blocco intelligente</string>
     <string name="SMS_MODENAME">Predefinito lista blocco</string>
     <string name="SMS_KEYWORDS">Parole lista blocco</string>
     <string name="SMS_ADRESS">Località lista blocco</string>
@@ -201,7 +201,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
     <string name="ad_block_hint">%d bloccati</string>
     <string name="ad_single_block_hint">Bloccato</string>
-    <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe inlfluire sul corretto funzionamento di alcune applicazioni."</string>
+    <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe influire sul corretto funzionamento di alcune applicazioni."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -223,7 +223,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_antispam_mode_smart">Blocco intelligente</string>
     <string name="st_antispam_mode_blacklist">Usa solo lista blocco</string>
     <string name="st_antispam_mode_only_contacts">Consenti solo contatti</string>
-    <string name="st_antispam_mode_only_whitelist">Consenti solo esclsioni</string>
+    <string name="st_antispam_mode_only_whitelist">Consenti solo esclusioni</string>
     <string name="st_antispam_mode_only_all_deny">Blocca tutto</string>
     <string name="st_antispam_mode_add_new">Aggiungi modalità</string>
     <string name="st_antispam_title_whitelist">eccezioni</string>

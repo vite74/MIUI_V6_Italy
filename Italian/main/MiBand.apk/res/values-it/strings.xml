@@ -3,7 +3,7 @@
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
     <string name="pull_to_refresh_release_label">Rilascia</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
-    <string name="pull_to_refresh_from_bottom_pull_label">Carica più dettagli</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">Altro</string>
     <string name="app_name">MiBand</string>
     <string name="action_exit">Esci</string>
     <string name="register">Registrati</string>
@@ -88,7 +88,8 @@ Agreement: %2$s"</string>
     <string name="bracelet_not_found_info">Se 1 led è acceso fisso, altrimenti ripeti la ricerca.</string>
     <string name="get_help">Ottieni Aiuto</string>
     <string name="system_not_support_title">Il sistema non supporta MiBand</string>
-    <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato. E' necessario Android 4.4 o superiore. "</string>
+    <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato.
+E' necessario Android 4.4 o superiore. "</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="bind_bracelet">Trova MiBand</string>
@@ -355,21 +356,34 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="share_step_goal_failed_title">Camminato per un totale di</string>
     <string name="share_step_description">"Passi %1$s, Calorie bruciate %2$s Kcal
 "</string>
+    <string name="share_step_description_run">"Camminato %1$s, corso %2$s
+Bruciaate %3$s Kcal
+"</string>
     <string name="share_step_description_weekly">"Corsa %1$s %2$s
-Calorie totali bruciate %3$s Kcal
+Bruciate %3$s Kcal
 Record%4$s del giorno %5$s passi"</string>
+    <string name="share_step_description_weekly_run">"Totale %1$s, corso %2$s
+%3$s
+Miglio record giornaliero il %4$s, camminato %5$s passi."</string>
     <string name="share_play_ground_format">Un giro di corsa equivale a %1$s giri camminati</string>
     <string name="share_step_description_monthly">"Corsa%1$s, %2$s
-Consumate %3$sKcal in totale, Risparmiati %4$s galloni di benzina.
+Consumate %3$s Kcal in totale, risparmiati %4$s galloni di carburante.
 (Grazie per aver cura del nostro pianeta)
-Record %5$s del giorno %6$s Passi"</string>
+Il miglior record è stato il %5$s, camminato %6$s passi."</string>
+    <string name="share_step_description_monthly_run">"%1$s, corso %2$s
+ %3$s, ed hai riaparmiato %4$s galloni di carburabte.
+(Grazie per aver cura del nostro pianeta)
+Il miglior record è stato il %5$s, camminato %6$s passi."</string>
     <string name="marathon_format_0">Equivale %1$s ad una maratona</string>
     <string name="marathon_format_1">Più %1$s una maratona</string>
     <string name="half_marathon_format_0">Equivale %1$s mezza maratona</string>
     <string name="half_marathon_format_1">Più %1$s mezza maratona</string>
-    <string name="share_continue_goal_format">Totale %1$s passi, %2$s passi giornalieri di corsa 
-%3$s 
-%4$s</string>
+    <string name="share_continue_goal_format">"Totale %1$s passi, %2$s passi giornalieri di corsa 
+%3$s
+%4$s"</string>
+    <string name="share_continue_goal_format_run">"Totale percorso %1$s, corso %2$s, passi
+%3$s
+%4$s"</string>
     <string name="share_sleep_description">"Sonno profondo: %1$s ore e %2$s minuti.
 Sonno leggero: %3$s ore %4$s minuti.
 Sonno: %5$s. Sveglio: %6$s."</string>
@@ -493,4 +507,24 @@ Non ti fermare, continua così!"</string>
     <string name="first_use_remain_days_format">%s giorni dal primo utilizzo</string>
     <string name="until">Fino a </string>
     <string name="continue_reach_goal_new_record">Nuovo record</string>
+    <string name="bind_weixin_new_tips">"Premi su "Accesso al micro-canale"，
+per avviare il micro-canale nella pagina account MiBand"</string>
+    <string name="bind_weixin_new_now">Accesso in corso, attendere prego...</string>
+    <string name="bind_weixin_new_disable_tips">"Accesso al micro-canale
+attenzione al numero di MiBand, vota con gli amici"</string>
+    <string name="weather_aqi">Qualità aria %s</string>
+    <string name="weather_description_rain">Pioggia</string>
+    <string name="weather_description_rain_snow">Neve e pioggia</string>
+    <string name="weather_description_snow">Nevicate</string>
+    <string name="weather_description_sand">Polveri</string>
+    <string name="weather_description_fine">Sereno</string>
+    <string name="weather_description_cloudy">Parzialmente nuvoloso</string>
+    <string name="weather_description_overcast">Nuvoloso</string>
+    <string name="weather_description_fog">Nebbia</string>
+    <string name="weather_description_haze">Foschia</string>
+    <string name="fw_low_battery_title">Carica prima di aggiornare</string>
+    <string name="fw_low_battery_tips" formatted="false">"La batteria è sotto il 5%, non è possibile aggiornare，al prossimo avvio con batteria superiore al 5%
+avvia automaticamente l'aggiornamento"</string>
+    <string name="fw_low_battery_view_help">Aiuto</string>
+    <string name="in">In </string>
 </resources>

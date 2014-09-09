@@ -208,7 +208,7 @@
     <string name="local_music">Brani in locale</string>
     <string name="local_tracks_short">Brani locali</string>
     <string name="tab_local_track_list">Brani</string>
-    <string name="tab_local_folder_list">Carteòòa</string>
+    <string name="tab_local_folder_list">Cartella</string>
     <string name="song_not_find">"Nessun brano trovato. Verifica la tua connessione alla rete e riprova."</string>
     <string name="empty_page_no_track">Nessun brano.</string>
     <string name="empty_page_no_artist">Nessun artista.</string>

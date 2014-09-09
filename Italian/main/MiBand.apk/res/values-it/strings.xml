@@ -3,7 +3,7 @@
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
     <string name="pull_to_refresh_release_label">Rilascia</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
-    <string name="pull_to_refresh_from_bottom_pull_label">Carica più dettagli</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">Altro</string>
     <string name="app_name">MiBand</string>
     <string name="action_exit">Esci</string>
     <string name="register">Registrati</string>
@@ -22,14 +22,14 @@ indirizzo :%2$s"</string>
     <string name="bracelet_info_deviceid">%s</string>
     <string name="bracelet_info_battery">%s%%</string>
     <string name="app_info_version">"Versione: %1$s
-Agreement: %2$s"</string>
+Condizioni: %2$s"</string>
     <string name="description_list_icon">Icona</string>
-    <string name="date_today">oggi</string>
-    <string name="date_yesterday">ieri</string>
+    <string name="date_today">Oggi</string>
+    <string name="date_yesterday">Ieri</string>
     <string name="date_this_week">settimanali</string>
-    <string name="date_last_week">settimana scorsa</string>
+    <string name="date_last_week">Sett. scorsa</string>
     <string name="date_this_month">mensili</string>
-    <string name="date_last_month">mese scorso</string>
+    <string name="date_last_month">Mese scorso</string>
     <string name="date_from_to">dalle %1$s alle %2$s</string>
     <string name="date_from_to_short">%1$s - %2$s</string>
     <string name="date_month_day">MMM d</string>
@@ -62,12 +62,12 @@ Agreement: %2$s"</string>
     <string name="about">Info</string>
     <string name="about_copyright" />
     <string name="unit_kilometer">Km</string>
-    <string name="unit_meter">M</string>
-    <string name="unit_calorie">Kcal</string>
-    <string name="unit_step">Passi</string>
-    <string name="unit_hour">" Ore  "</string>
-    <string name="unit_min">" Min"</string>
-    <string name="unit_min_short">" Min"</string>
+    <string name="unit_meter">Mt</string>
+    <string name="unit_calorie">" Kcal"</string>
+    <string name="unit_step">" passi"</string>
+    <string name="unit_hour">" ore  "</string>
+    <string name="unit_min">" min"</string>
+    <string name="unit_min_short">" min"</string>
     <string name="upgrade_tip">Aggiorna Suggerimenti</string>
     <string name="hot_des">Energia</string>
     <string name="noti_bracelet_low_battery_title">Batteria Scarica</string>
@@ -81,14 +81,15 @@ Agreement: %2$s"</string>
     <string name="search_devices_info">Avvicina MiBand al telefono</string>
     <string name="search_bracelet_ok">Trovato!</string>
     <string name="found_bracelet_info">Quando i 3 led sul MiBand lampeggiano, premi con delicatezza qualche volta</string>
-    <string name="bind_bracelet_ok">MiBand abbinato correttamente</string>
+    <string name="bind_bracelet_ok">MiBand associato correttamente</string>
     <string name="device_not_response">Perché non ci sono luci sul mio MiBand?</string>
     <string name="action_local_ota">Aggiorna da SD card</string>
     <string name="bracelet_not_found_title">Ricarica la batteria</string>
     <string name="bracelet_not_found_info">Se 1 led è acceso fisso, altrimenti ripeti la ricerca.</string>
     <string name="get_help">Ottieni Aiuto</string>
     <string name="system_not_support_title">Il sistema non supporta MiBand</string>
-    <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato. E' necessario Android 4.4 o superiore. "</string>
+    <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato.
+E' necessario Android 4.4 o superiore. "</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="bind_bracelet">Trova MiBand</string>
@@ -180,12 +181,12 @@ Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="stat_steps_achievement">Percentuale di completamento</string>
     <string name="stat_step_total">Passi in totale</string>
     <string name="stat_step_distance_total">Totale distanza</string>
-    <string name="stat_step_calorie_total">Bruciate</string>
+    <string name="stat_step_calorie_total">bruciate</string>
     <string name="stat_step_walk">Tempo in cammino</string>
     <string name="stat_step_run">Tempo in corsa</string>
     <string name="stat_step_daily">Passi giornalieri</string>
     <string name="stat_step_distance_daily">Distanza giornaliera</string>
-    <string name="stat_step_calorie_daily">Bruciate</string>
+    <string name="stat_step_calorie_daily">bruciate</string>
     <string name="stat_step_active_total">Totale eventi</string>
     <string name="stat_step_walk_total">Totale camminato</string>
     <string name="stat_step_run_total">Totale corso</string>
@@ -340,7 +341,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="alarm_repeat_title_format">%s OGGETTI?! selezionati</string>
     <string name="alarm_device_not_connect">Prima di modificare le sveglie collega MiBand</string>
     <string name="unlock_screen_not_connect">Prima di modificare le impostazioni di sblocco dello schermo collega MiBand</string>
-    <string name="unlock_screen_help_tips">Solo due passaggi ti separano dalla maggior sicurezza di sblocco esistente</string>
+    <string name="unlock_screen_help_tips">Con due passaggi, consenti a MiBand di sbloccare lo schermo</string>
     <string name="weared_days">Indossato per giorni</string>
     <string name="help_title_3">MiBand e il telefono sono collegati?</string>
     <string name="look_device_list">Cerco MiBand nelle vicinanze</string>
@@ -353,23 +354,36 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="share_step_goal_succ_title">Archivio obiettivi completati</string>
     <string name="share_step_goal_failed_title_today">Totale di oggi</string>
     <string name="share_step_goal_failed_title">Camminato per un totale di</string>
-    <string name="share_step_description">"Passi %1$s, Calorie bruciate %2$s Kcal
+    <string name="share_step_description">"Camminato %1$s, %2$s Kcal bruciate
 "</string>
-    <string name="share_step_description_weekly">"Corsa %1$s %2$s
-Calorie totali bruciate %3$s Kcal
-Record%4$s del giorno %5$s passi"</string>
-    <string name="share_play_ground_format">Un giro di corsa equivale a %1$s giri camminati</string>
-    <string name="share_step_description_monthly">"Corsa%1$s, %2$s
-Consumate %3$sKcal in totale, Risparmiati %4$s galloni di benzina.
+    <string name="share_step_description_run">"Camminato %1$s, corso %2$s,
+%3$s Kcal buciate
+"</string>
+    <string name="share_step_description_weekly">"Corsa %1$s %2$s,
+%3$s Kcal bruciate
+Miglior record del giorno: %4$s, camminato %5$s passi."</string>
+    <string name="share_step_description_weekly_run">"Totale %1$s, corso %2$s
+%3$s
+Miglior record del giorno: %4$s, camminato %5$s passi."</string>
+    <string name="share_play_ground_format">equivale a %1$s giri di pista</string>
+    <string name="share_step_description_monthly">"Corsa %1$s, %2$s
+Consumate %3$s Kcal in totale, risparmiati %4$s galloni di carburante.
 (Grazie per aver cura del nostro pianeta)
-Record %5$s del giorno %6$s Passi"</string>
+Il miglior record è stato il %5$s, camminato %6$s passi."</string>
+    <string name="share_step_description_monthly_run">"%1$s, corso %2$s
+ %3$s, ed hai risparmiato %4$s galloni di carburante.
+(Grazie per aver cura del nostro pianeta)
+Il miglior record è stato il %5$s, camminato %6$s passi."</string>
     <string name="marathon_format_0">Equivale %1$s ad una maratona</string>
     <string name="marathon_format_1">Più %1$s una maratona</string>
     <string name="half_marathon_format_0">Equivale %1$s mezza maratona</string>
     <string name="half_marathon_format_1">Più %1$s mezza maratona</string>
-    <string name="share_continue_goal_format">Totale %1$s passi, %2$s passi giornalieri di corsa 
-%3$s 
-%4$s</string>
+    <string name="share_continue_goal_format">"Totale %1$s passi, %2$s passi giornalieri di corsa 
+%3$s
+%4$s"</string>
+    <string name="share_continue_goal_format_run">"Totale percorso %1$s, corso %2$s, passi
+%3$s
+%4$s"</string>
     <string name="share_sleep_description">"Sonno profondo: %1$s ore e %2$s minuti.
 Sonno leggero: %3$s ore %4$s minuti.
 Sonno: %5$s. Sveglio: %6$s."</string>
@@ -380,9 +394,9 @@ Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="battery_low_info">Batteria scarica, ricaricare…</string>
     <string name="battery_charging">Carica in corso…</string>
     <string name="finding_bracelet">Ricerca MiBand …</string>
-    <string name="unlock_screen_set_password_tips_set">Impostazione Password</string>
+    <string name="unlock_screen_set_password_tips_set">Impostazione password</string>
     <string name="unlock_screen_set_password_tips_has_set">La Password è stata impostata</string>
-    <string name="unlock_screen_set_password">Per cominciare, imposta la password dello schermo.</string>
+    <string name="unlock_screen_set_password">Per iniziare, imposta la password.</string>
     <string name="unlock_screen_set_use_bracelet_tips">Conferma la password</string>
     <string name="unlock_screen_set_use_bracelet">Imposta suono per lo sblocco</string>
     <string name="unlock_screen_set_success">Hai impostato correttamente lo sblocco tramite MiBand</string>
@@ -399,9 +413,9 @@ apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo"</string>
     <string name="bind_weixin_save">"Salvato nell'album:"</string>
     <string name="incoming_call_notify">Notifica le chiamate in arrivo</string>
     <string name="incoming_call_notify_tips">Notifica le chiamate perse ogni 20 secondi</string>
-    <string name="share_step_walk">Ho camminato un totale di</string>
-    <string name="one_week">Una settimana</string>
-    <string name="walked">Camminato</string>
+    <string name="share_step_walk">ho camminato</string>
+    <string name="one_week">"Questa settimana "</string>
+    <string name="walked">camminato</string>
     <string name="come_from_xiaomi_bracelet">Da Xiaomi MiBand</string>
     <string name="unlock_screen_invalid">Errore nello sblocco?</string>
     <string name="unlock_screen_help_title0">Avvicina MiBand al telefono</string>
@@ -411,23 +425,23 @@ apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo"</string>
     <string name="unlock_screen_help_info1">Se lo sblocco non avviene, prova a spegnere e riaccendere il Bluetooth, dopo pochi minuti controlla che lo sblocco con MiBand funzioni</string>
     <string name="unlock_screen_help_info2">"Se riavviare il Bluetooth non funziona, vai a Impostazioni -> Sicurezza e privacy-> Bluetooth rimuovi l'associazione e ripeti l'associazione dall'applicazione."</string>
     <string name="instruction_title">Demo MiBand</string>
-    <string name="instruction_tip_1">"Dai un'occhiata e
-controlla i tuoi
+    <string name="instruction_tip_1">"Dai un'occhiata
+ai tuoi
 progressi"</string>
     <string name="instruction_tip_2_1">"Meno
 di 1/3
 dell'obiettivo"</string>
     <string name="instruction_tip_2_2">"Più
-di 1/3 dell'obbiettivo"</string>
+di 1/3 dell'obiettivo"</string>
     <string name="instruction_tip_2_3">"Più
 di 2/3 dell'obiettivo"</string>
-    <string name="instruction_tip_2_4">"Congratulazioni,
-obiettivo raggiunto!"</string>
+    <string name="instruction_tip_2_4">"Obiettivo
+raggiunto!"</string>
     <string name="instruction_tip_2_5">"Hai superato
-il tuo obbiettivo!"</string>
-    <string name="instruction_tip_3">"La batteria è
- in esaurimento.
-Ricarica al più presto</string>
+il tuo obiettivo!"</string>
+    <string name="instruction_tip_3">Batteria
+ scarica.
+Ricarica presto!</string>
     <string name="new_record_born">Complimenti, nuovo record!</string>
     <string name="new_record_format_str">"Corso %1$s, Calorie bruciate %2$s Kcal
 Ogni nuovo record è un passo verso il miglioramento di se stessi.
@@ -444,7 +458,7 @@ Non ti fermare, continua così!"</string>
     <string name="setting_feedback_address">Contatto (email, telefono o QQ)</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="setting_about_fw">Versione Firmware</string>
-    <string name="setting_about_app">"Miui Italia (www.miui.it) - Versione"</string>
+    <string name="setting_about_app">"MIUI Italia (www.miui.it) - Versione"</string>
     <string name="stop">Fine</string>
     <string name="start">Inizio</string>
     <string name="no_wear_bracelet">La notte scorsa non hai indossato MiBand</string>
@@ -491,6 +505,26 @@ Non ti fermare, continua così!"</string>
     <string name="share_miliao_too_old">Versione di MiTalk troppo vecchia.</string>
     <string name="first_use_days_today_format">Meno di un giorno dal primo utilizzo.</string>
     <string name="first_use_remain_days_format">%s giorni dal primo utilizzo</string>
-    <string name="until">Fino a </string>
+    <string name="until_hit_goals">Continua a seguire obbiettivi fino al %s</string>
     <string name="continue_reach_goal_new_record">Nuovo record</string>
+    <string name="bind_weixin_new_tips">"Premi su "Accesso al micro-canale"，
+per avviare il micro-canale nella pagina account MiBand"</string>
+    <string name="bind_weixin_new_now">Accesso in corso, attendere prego...</string>
+    <string name="bind_weixin_new_disable_tips">"Accesso al micro-canale
+attenzione al numero di MiBand, vota con gli amici"</string>
+    <string name="weather_aqi">Qualità aria %s</string>
+    <string name="weather_description_rain">Pioggia</string>
+    <string name="weather_description_rain_snow">Neve e pioggia</string>
+    <string name="weather_description_snow">Nevicate</string>
+    <string name="weather_description_sand">Polveri</string>
+    <string name="weather_description_fine">Sereno</string>
+    <string name="weather_description_cloudy">Parzialmente nuvoloso</string>
+    <string name="weather_description_overcast">Nuvoloso</string>
+    <string name="weather_description_fog">Nebbia</string>
+    <string name="weather_description_haze">Foschia</string>
+    <string name="fw_low_battery_title">Carica prima di aggiornare</string>
+    <string name="fw_low_battery_tips" formatted="false">"La batteria è sotto il 5%, non è possibile aggiornare, al prossimo avvio con batteria superiore al 5%
+avvia automaticamente l'aggiornamento"</string>
+    <string name="fw_low_battery_view_help">Aiuto</string>
+    <string name="in">In </string>
 </resources>

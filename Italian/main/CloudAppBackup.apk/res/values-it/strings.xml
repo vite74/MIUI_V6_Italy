@@ -13,7 +13,7 @@
     <string name="retry">Riprova</string>
     <string name="cloud_app_backup_title">Esegui backup su Mi Cloud</string>
     <string name="cloud_app_just_show_in_current_device">Mostra solo le app su questo dispositivo</string>
-    <string name="cloud_app_mine">App scaicate</string>
+    <string name="cloud_app_mine">App scaricate</string>
     <string name="cloud_app_backup_summary">Esegui il backup automatico delle app e dei dati utente quando il dispositivo è in carica e connesso al Wi-Fi</string>
     <string name="cloud_app_function_summary">Quando esegui il backup su Mi Cloud, puoi ripristinare i dati velocemente su qualsiasi dispositivo</string>
     <string name="cloud_app_restore_action_bar_title">Eseguito backup di %1$s dei tuoi dati</string>
@@ -37,7 +37,7 @@
     <string name="cloud_app_device">Dispositivo</string>
     <string name="cloud_app_data_in_other_devices">Backup non eseguito su questo dispositivo</string>
     <string name="cloud_app_no_data">Nessun dato</string>
-    <string name="cloud_app_invalid_op">Non è possibile visulizzare i dati del cloud durante un backup o un ripristino</string>
+    <string name="cloud_app_invalid_op">Non è possibile visualizzare i dati del cloud durante un backup o un ripristino</string>
     <string name="cloud_app_invalid_op_when_removing">Non è possibile visualizzare i dati del cloud mentre vengono rimossi</string>
     <string name="cloud_app_remove_pending">In attesa…</string>
     <string name="cloud_app_remove_progress">Cancellazione…</string>

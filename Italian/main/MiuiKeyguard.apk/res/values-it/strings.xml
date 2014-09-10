@@ -34,7 +34,7 @@
     <string name="return_to_me_message">Se smarrito, restituire a</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Apri connessione di rete</string>
-    <string name="lock_screen_date">dd/MM/yyyy</string>
+    <string name="lock_screen_date">dd/MM, E</string>
     <string name="lockscreen_glogin_instructions">Per sbloccare, accedi al tuo account Xiaomi</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>

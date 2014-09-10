@@ -475,11 +475,11 @@
     <string name="mailbox_settings_sync_enabled_label">Sincronizza questa cartella</string>
     <string name="mailbox_settings_sync_enabled_summary">I messaggi verranno scaricati alla connessione</string>
     <string name="manual_sync">Sincronizza adesso</string>
-    <string name="mark_important">Segna come importante</string>
-    <string name="mark_not_important">Segna come Non importante</string>
-    <string name="mark_not_spam">Segnala come non spam</string>
-    <string name="mark_read">Segna come già letto</string>
-    <string name="mark_unread">Segna come da leggere</string>
+    <string name="mark_important">Importante</string>
+    <string name="mark_not_important">Non importante</string>
+    <string name="mark_not_spam">Non spam</string>
+    <string name="mark_read">Letta</string>
+    <string name="mark_unread">Da leggere</string>
     <string name="me_object_pronun">Io</string>
     <string name="me_subject_pronun">Io</string>
     <string name="meeting_accepted">Accettato: %s</string>

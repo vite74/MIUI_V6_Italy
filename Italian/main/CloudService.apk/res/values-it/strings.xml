@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xmpp_server_addr" />
-    <string name="app_name">Micloud</string>
+    <string name="app_name">MiCloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza SMS</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
@@ -60,12 +60,6 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="enable_micloud">Registrati o crea un account</string>
     <string name="micloud_more">Info aggiuntive</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="micloud_intro_01_part_01">Ottimizza il trasferimento dei dati!</string>
-    <string name="micloud_intro_01_part_02">Messaggi gratis via Wi-Fi</string>
-    <string name="micloud_intro_02_part_01">"Non usare più unità esterne o l'email per spostare i tuoi file."</string>
-    <string name="micloud_intro_02_part_02">Sincronizza contatti, messaggi, foto, ed altro tra diversi dispositivi.</string>
-    <string name="micloud_intro_03_part_01">Metti al sicuro il contenuto del tuo dispositivo</string>
-    <string name="micloud_intro_03_part_02">Rintraccia, blocca o cancella il contenuto del tuo dispositivo da remoto tramite i.xiaomi.com"</string>
     <string name="micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="cmcc_micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="micloud_sec_dspt">e condividere cose con i tuoi amici.</string>

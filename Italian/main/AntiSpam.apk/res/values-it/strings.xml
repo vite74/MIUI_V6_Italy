@@ -152,7 +152,10 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_back_sound_stop">Numero fuori servizio</string>
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
     <string name="st_title_call_wait">Chiamata in attesa</string>
+    <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+    <string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
+    <string name="sim_not_ready">SIM non pronta</string>
     <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
     <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
     <string name="st_antispam_bw_pick_add">Seleziona un contatto</string>

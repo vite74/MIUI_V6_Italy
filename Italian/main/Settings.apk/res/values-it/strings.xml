@@ -45,6 +45,7 @@
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
     <string name="status_bar_settings_show_notificationBar_notification">Mostra nella barra notifiche</string>
     <string name="status_bar_settings_show_statusBar_notification">Mostra nel keyguard</string>
+    <string name="status_bar_settings_show_statusBar_notification_summary">La notifica comparirà sullo schermo in alto e scomparirà automaticamente</string>
     <string name="status_bar_filter_item_preview_image">Anteprima</string>
     <string name="status_bar_filter_item_description">Per configurare le notifiche, vai su Impostazioni Generali > Notifiche > Gestione notifiche</string>
     <string name="status_bar_settings_notification_bar">Barra notifiche</string>
@@ -1736,6 +1737,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
 Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
+    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2154,6 +2156,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono di messaggio ricevuto</string>
     <string name="sms_delivered_sound_dialog_title">Scegli suono di messaggio inviato</string>
+    <string name="ringtone_uniform_setting_title">Impostazioni doppia scheda</string>
+    <string name="ringtone_slot_setting_title">Impostazioni scheda singola</string>
     <string name="haptic_feedback_level">Livello vibrazione</string>
     <string name="privacy_protect_title">Protezione privacy</string>
     <string name="privacy_mode_enable_title">Modalità Ospite</string>

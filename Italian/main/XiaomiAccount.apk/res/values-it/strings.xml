@@ -136,7 +136,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="privacy_policy">Accordo sulla Privacy</string>
     <string name="user_agreement">Accordo Utente</string>
     <string name="loading">Caricamento…</string>
-    <string name="license_host_unreachable"Impossibile collegarsi alla rete. PEr vedere adesso questa informazione vai su %s."</string>
+    <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per vedere adesso questa informazione vai su %s."</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">Un solo account per tutti i servizi Xiaomi</string>

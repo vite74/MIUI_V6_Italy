@@ -35,6 +35,7 @@
     <string name="pref_video_quality_default">5</string>
     <string name="pref_video_quality_pad_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
+    <string name="pref_video_quality_entry_4kuhd">4K</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
@@ -340,12 +341,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
     <string name="pref_camera_zsl_value_off">off</string>
     <string name="pref_camera_zsl_value_on">on</string>
-    <string name="pref_camera_facedetection_default">on</string>
-    <string name="pref_camera_facedetection_title">Riconoscimento Viso</string>
-    <string name="pref_camera_facedetection_entry_off">Disattivato</string>
-    <string name="pref_camera_facedetection_entry_on">Attivato</string>
-    <string name="pref_camera_powermode_default">Normal_Power</string>
-    <string name="pref_camera_redeyereduction_default">disable</string>
+    <string name="pref_camera_facedetection_title">Rilevamento viso</string>
     <string name="error_app_unsupported_raw_wavelet">La riduzione di onde non funzionerà scattando foto normalmente</string>
     <string name="pref_camera_redeyereduction_title">Occhi Rossi</string>
     <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
@@ -485,7 +481,7 @@ ed esci dall'inquadratura"</string>
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
     <string name="simple_mode_button_text_audio_capture">Esci dalla modalità scatto vocale</string>
     <string name="simple_mode_button_text_fast_video">Esci dalla modalità fast-motion</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
+    <string name="simple_mode_button_text_fast_video">Esci dall amodalità slow-motion</string>
     <string name="simple_mode_title">Modalità semplice</string>
     <string name="pref_settings_mode">Modalità fotocamera</string>
     <string name="pref_video_captrue_ability_title">Modalità cattura</string>
@@ -555,11 +551,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_setting_title">Impostazioni</string>
     <string name="pref_camera_raw_data_title">RAW</string>
     <string name="pref_scan_qrcode_title">Scansiona QR Code</string>
-    <string name="pref_scan_qrcode_entry_off">Disattivato</string>
-    <string name="pref_scan_qrcode_entry_on">Attivato</string>
-    <string name="pref_scan_qrcode_default">on</string>
-    <string name="pref_scan_qrcode_value_off">off</string>
-    <string name="pref_scan_qrcode_value_on">on</string>
     <string name="pref_manual_exposure_title">Esposizione manuale</string>
     <string name="pref_camera_exposuretime_title">Tempo si esposizione</string>
     <string name="pref_camera_exposuretime_default">0</string>
@@ -639,4 +630,13 @@ ed esci dall'inquadratura"</string>
     <string name="pref_capture_settings">Impostazioni fotocamera</string>
     <string name="pref_camcorder_settings">Impostazioni videocamera</string>
     <string name="pref_advance_settings">Impostazioni avanzate</string>
+    <string name="pref_camera_front_fb_title">Migliora tono pelle</string>
+    <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
+    <string name="pref_camera_ubifocus_title">Ubifocus</string>
+    <string name="simple_mode_button_text_ubifocus">Chiudi ubifocus</string>
+    <string name="cannot_move_warning_message">Mantieni il terminale fermo</string>
+    <string name="ubifocus_capture_warning_message">Per risultati migliori, il tuo soggetto deve contenere oggetti vicini (meno di 1 metro dalle lenti) e lontani</string>
+    <string name="ubi_focus_capture_fail">Non è stato possibile scattare la foto</string>
+    <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
 </resources>

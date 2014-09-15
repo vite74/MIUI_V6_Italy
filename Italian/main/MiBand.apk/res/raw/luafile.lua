@@ -546,7 +546,6 @@ function unbindHint(listDao,ConfigInfo)
     t.t2 = ""
     t.stype = "1005"
 
-
     t.strScript = "function doAction(context, luaAction) \
         if luaAction:getIsBind() then\
             return\
@@ -625,7 +624,6 @@ function dayComplete(listDao,ConfigInfo)
     t1 = getString('today_goal_reached')
     t2 = ""
     stype = "2002"
-
 
 --    uniqueMsg(listDao,ConfigInfo,t1,t2,stype)
     t = {}
@@ -804,7 +802,7 @@ function activityRun(listDao,ConfigInfo)
         activeTime = string.format(getString('active_time_format_2'), h, m);
     end
 
-    timestring = getTimeString2(activityItem:getStart(),activityItem:getStop()).." "
+    timestring = getTimeString2(activityItem:getStart(), activityItem:getStop()).." "
     msgTable = {
         string.format(getString('activie_run_format_0'), getDistanceString(activityItem:getDistance())),
         string.format(getString('activie_run_format_1'), getDistanceString(activityItem:getDistance())),

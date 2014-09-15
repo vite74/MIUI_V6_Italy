@@ -7,7 +7,7 @@
     <string name="onscreen_audio_mode_handset">Kit mani libere</string>
     <string name="onscreen_audio_mode_headset">Cuffie</string>
     <string name="onscreen_audio_mode">Rispondi tramite</string>
-    <string name="onscreen_audio_mode_speaker">Altoparlando</string>
+    <string name="onscreen_audio_mode_speaker">Vivavoce</string>
     <string name="onscreen_audio_switch_mode">Scambia audio</string>
     <string name="onscreen_call_record">Registra</string>
     <string name="onscreen_dialer">Tastiera</string>

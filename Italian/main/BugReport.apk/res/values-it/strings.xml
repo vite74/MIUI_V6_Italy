@@ -80,4 +80,5 @@
     <string name="suggestion_problem1">Dovreste aggiungere questa funzione perchè…</string>
     <string name="screen_lock">Lockscreen</string>
     <string name="systemui">Pannello delle notifiche</string>
+    <string name="hot_problem_empty">Vuoto</string>
 </resources>

@@ -61,8 +61,11 @@
     <string name="cant_remove_system_app">"Impossibile rimuovere l'applicazione di sistema"</string>
     <string name="cant_remove_retained_app">Impossibile rimuovere questa applicazione</string>
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
+    <string name="disable_auto_start_message">"Disattiva il lancio autoamtico all'avvio."</string>
     <string name="uninstall_dialog_title_format">Disinstalla applicazione \"%s\"?</string>
+    <string name="disable_auto_start_format">"Disattiva %s dall'avvio automatico"</string>
     <string name="uninstall">Disinstalla</string>
+    <string name="disable">Disattiva</string>
     <string name="starting_preset_app">Inizio…</string>
     <string name="install">Installa</string>
     <string name="cant_remove_folder">Non puoi rimuovere questa cartella</string>

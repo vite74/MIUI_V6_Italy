@@ -317,8 +317,8 @@
     <string name="share_album">Condividi album</string>
     <string name="share_album_owner">Proprietario</string>
     <string name="loading_members">Caricamento membri…</string>
-    <string name="scan_qr_code_buttom_text">Scansiona il QR code per vedere questo album.</string>
-    <string name="request_qr_code_failed">Richiesta QR code fallita, premi per riprovare</string>
+    <string name="scan_qr_code_buttom_text">Scansiona il codice QR per vedere questo album.</string>
+    <string name="request_qr_code_failed">Richiesta codice QR fallita, premi per riprovare</string>
     <string name="retry_to_request_qr_code">Riprova</string>
     <string name="album_member">Membro album %s</string>
     <string name="add_sharer">Aggiungi partecipante alla condivisione</string>
@@ -371,8 +371,8 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="cloud_tab_albums">Album</string>
     <string name="cloud_tab_locations">Posizioni</string>
     <string name="cloud_album_set_create">Nuovo</string>
-    <string name="cloud_album_set_scan_qr_code">QR code</string>
-    <string name="scan_qr_code_failure">Impossibile scansionare QR code.</string>
+    <string name="cloud_album_set_scan_qr_code">codice QR</string>
+    <string name="scan_qr_code_failure">Impossibile scansionare codice QR.</string>
     <string name="alert_init_merged_title">Tutte le tue foto finalmente insieme.</string>
     <string name="alert_init_merged_message">Adesso le foto sul tuo dispositivo e quelle sul tuo MiCloud verranno visualizzate insieme.</string>
     <string name="by_sms">SMS</string>
@@ -461,9 +461,9 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="error_socket_timeout">Timeout di rete, riprovare più tardi</string>
     <string name="error_share_with_creator">Sei già membro di questo album</string>
     <string name="error_cloud_not_active">Album MiCloud non utilizzato</string>
-    <string name="scan_barcode_to_join">Scansiona QR code per entrare in un album</string>
-    <string name="where_is_barcode">"Dov'è il QR code?"</string>
-    <string name="scan_barcode_guide">"Per aprire un album con QR code, tocca l'icona di condivisione nell'angolo in alto a destra."</string>
+    <string name="scan_barcode_to_join">Scansiona codice QR per entrare in un album</string>
+    <string name="where_is_barcode">"Dov'è il codice QR?"</string>
+    <string name="scan_barcode_guide">"Per aprire un album con codice QR, tocca l'icona di condivisione nell'angolo in alto a destra."</string>
     <string name="confirm">OK</string>
     <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
     <string name="cloud_camera_display_name">Non ordinati</string>

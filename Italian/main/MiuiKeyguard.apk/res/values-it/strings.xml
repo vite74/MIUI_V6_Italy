@@ -76,6 +76,6 @@ Prego disattivare la modalità aereo."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Hai eseguito %d tentativi errati di sbloccare il telefono. Il telefono sarà ripristinato alle impostazioni di fabbrica.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato con dispositivo Bluetooth</string>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Dispositivo Bluetooth troppo lontano per sbloccare</string>
-    <string name="missed_call_text">%d chiamat eperse</string>
+    <string name="missed_call_text">%d chiamate perse</string>
     <string name="wrong_password">Password non corretta</string>
    </resources>

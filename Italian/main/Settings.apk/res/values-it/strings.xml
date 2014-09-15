@@ -1737,7 +1737,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
 Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
-    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
+    <string name="time_zone_auto_stub">Seleziona fuso orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>

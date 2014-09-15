@@ -36,7 +36,7 @@
     <string name="action_clear_memory">Cancella memoria RAM</string>
     <string name="action_capture_video">Registra Video</string>
     <string name="action_lock_screen">Blocca schermo</string>
-    <string name="action_qrcode">Scansiona QR code</string>
+    <string name="action_qrcode">Scansiona codice QR</string>
     <string name="action_zero_volume">Silenzioso</string>
     <string name="action_open_sound_recorder">Registra suono</string>
     <string name="action_open_or_close_motion">Rotazione Attiva/Disattiva</string>

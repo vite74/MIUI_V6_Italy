@@ -227,7 +227,7 @@ Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="today">Oggi</string>
     <string name="app_exit_press_again">Premi ancora per uscire</string>
     <string name="set_goal_step">Imposta obiettivo</string>
-    <string name="hour_1">Ora</string>
+    <string name="hour_1" />
     <string name="wait">Attendere…</string>
     <string name="content_too_short">il campo non può essere vuoto</string>
     <string name="help">Aiuto</string>
@@ -298,7 +298,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="dynamic_tip_sync_time">Ultima sincronizzazione %s</string>
     <string name="dynamic_detail_modify_sleep_start_time">"Correggi l'orario"</string>
     <string name="dynamic_detail_modify_sleep_end_time">"Correggi l'orario"</string>
-    <string name="time_format_hour_min">" %1$s Ore %2$s Min"</string>
+    <string name="time_format_hour_min">" %1$s ore %2$s min"</string>
     <string name="time_format_min">%s Min</string>
     <string name="action_pop_my_bracelet">Il mio MiBand</string>
     <string name="action_pop_smart_alarms">Sveglia intelligente</string>
@@ -335,7 +335,7 @@ Da Lunedì a Domenica, dalle 8:00 alle 18:00"</string>
     <string name="bracelet_not_connected_bat_unknown">MiBand non è collegato</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="week">Settimana</string>
+    <string name="week" />
     <string name="alarm_ring">Sveglia</string>
     <string name="alarm_repeat">Ripeti Allarme</string>
     <string name="alarm_repeat_title_format">%s OGGETTI?! selezionati</string>
@@ -387,7 +387,7 @@ Il miglior record è stato il %5$s, camminato %6$s passi."</string>
     <string name="share_sleep_description">"Sonno profondo: %1$s ore e %2$s minuti.
 Sonno leggero: %3$s ore %4$s minuti.
 Sonno: %5$s. Sveglio: %6$s."</string>
-    <string name="share_sleep_description_average">"Media sonno profondo %1$s Ore %2$s Minuti, Media sonno leggero %3$s Ore %4$s Minuti
+    <string name="share_sleep_description_average">"Media sonno profondo %1$s ore %2$s minuti, Media sonno leggero %3$s ore %4$s minuti
 Media di sonno %5$s, Media sveglio %6$s"</string>
     <string name="smart_alarm_notify">Risveglio intelligente</string>
     <string name="battery_charge_full">Carica batteria completata</string>
@@ -527,4 +527,13 @@ attenzione al numero di MiBand, vota con gli amici"</string>
 avvia automaticamente l'aggiornamento"</string>
     <string name="fw_low_battery_view_help">Aiuto</string>
     <string name="in">In </string>
+    <string name="main_ui_share_tips">Oggi ti sei esercitato per %1$s%2$s.
+%3$s"</string>
+    <string name="ran">corso </string>
+    <string name="main_ui_sleep_share_tips">"Sonno leggero %1$s%2$s
+Addormentato alle %3$s, svegliato alle %4$s."</string>
+    <string name="awake_format">, risvegliato %1$s volte.</string>
+    <string name="awake_format_1">, risvegliato una volta.</string>
+    <string name="discard">Annulla</string>
+    <string name="discard_alarm_change">Annullare le modifiche?</string>
 </resources>

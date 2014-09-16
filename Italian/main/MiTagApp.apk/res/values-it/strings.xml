@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PonPonTile</string>
+    <string name="app_name">MiTag</string>
     <string name="btn_write">Scrivi</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="diselect_all">Deseleziona tutto</string>
@@ -29,7 +29,7 @@
     <string name="sound_voice">Volume chiamata</string>
     <string name="sound_media">Media</string>
     <string name="meeting_mode">Modalità riunione</string>
-    <string name="sleep_mode">Non disturbare</string>
+    <string name="sleep_mode">Riposo</string>
     <string name="user_configs">Le mie operazioni</string>
     <string name="tag_history">Cronologia</string>
     <string name="alarm_config_12h">Sveglia alle 8:00(AM)</string>
@@ -208,7 +208,7 @@ Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzione alla versione %1$s
 Dimensione update differenziale: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Memoria non disponibile, si prega di verificare la scheda SD.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
 </resources>

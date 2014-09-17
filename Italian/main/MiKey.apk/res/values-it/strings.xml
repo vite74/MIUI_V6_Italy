@@ -136,18 +136,18 @@
     <string name="action_key_direction">Direzione</string>
     <string name="action_key_enter">Invio</string>
     <string name="action_key_back">Indietro</string>
-    <string name="action_key_back_long">Invio (long pres)</string>
+    <string name="action_key_back_long">Invio (press. lunga)</string>
     <string name="action_key_home">Home</string>
-    <string name="action_key_home_long">Home (long press)）</string>
+    <string name="action_key_home_long">Home (press. lunga)</string>
     <string name="action_key_menu">Menu</string>
-    <string name="action_key_menu_long">Menu (long press)</string>
+    <string name="action_key_menu_long">Menu (press. lunga)</string>
     <string name="action_key_power">Accensione</string>
-    <string name="action_key_power_long">Accensione (long press)</string>
-    <string name="action_key_play_pause">Play/Pausa</string>
+    <string name="action_key_power_long">Accensione (press. lunga)</string>
+    <string name="action_key_play_pause">Riproduci/Pausa</string>
     <string name="action_key_play_next">Successivo</string>
     <string name="action_key_play_prev">Precedente</string>
     <string name="action_key_call">Chiama</string>
-    <string name="action_key_end_call">TErmina chiamata</string>
+    <string name="action_key_end_call">Termina chiamata</string>
     <string name="message_photo_end">Immagini salvate</string>
     <string name="select_camera">Selezionare fotocamera</string>
     <string name="select_direction">Selezionare la direzione</string>
@@ -231,7 +231,7 @@ per eseguire lo scatto"</string>
     <string name="faq_stat_text">Il ranking viene azzerato ogni notte, per cui ogni risveglio è un nuovo inizio</string>
     <string name="faq_vsm_title">Precauzioni</string>
     <string name="faq_vsm_text">Assicurati di togliere il MiKey prima di rimuovere la cover posteriore!</string>
-    <string name="hint_long_press_del">Long press per eliminare</string>
+    <string name="hint_long_press_del">Premi a lungo per eliminare</string>
     <string name="hint_mikey_sprite">"Premi MiKey per eseguire molte operazioni come 
 invio di audio, scattare foto, giocare... 
 Utilizzando MiKey per alcune funzioni non sarà possibile utilizzare i tasti per certe operazioni"</string>

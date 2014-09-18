@@ -65,7 +65,7 @@
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
     <string name="alarm_list_title">Sveglie</string>
-    <string name="add_alarm">Aggiungi sveglia</string>
+    <string name="add_alarm">Aggiungi</string>
     <string name="menu_desk_clock">Orologio</string>
     <string name="delete_alarm">Cancella sveglia</string>
     <string name="delete_alarm_confirm">Questa sveglia sarà cancellata.</string>

@@ -344,10 +344,10 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="quicklinks_most_visited">Aggiungi i siti più visitati alla pagina iniziale</string>
     <string name="quicklinks_most_visited_title">Aggiungi alla pagina iniziale</string>
     <string name="quicklinks_most_visited_subtitle">Mostra i siti visitati di recente in una nuova scheda</string>
-    <string name="quicklinks_group_default_subtitle">Nessuno</string>   
+    <string name="quicklinks_group_default_subtitle">Nessuno</string>
     <string name="add_quicklink_to_popular">Aggiungi alla pagina iniziale</string>
     <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
-    <string name="add_to_quicklink">Aggiungi alla pagina iniziale</string>    
+    <string name="add_to_quicklink">Aggiungi alla pagina iniziale</string>
     <string name="add_to_bookmark">Aggiungi ai segnalibri</string>
     <string name="edit_quicklink">Modifica</string>
     <string name="quicklink_saved">Aggiunto alla pagina iniziale</string>
@@ -393,7 +393,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="sub_sync_item_browser_title_history">Cronologia di sincronizzazione</string>
     <string name="sub_sync_item_browser_title_history_summary">Cronologia di sincronizzazione del browser</string>
     <string name="sub_sync_item_browser_title_novel">Sincronizza storie</string>
-    <string name="sub_sync_item_browser_title_novel_summary">Sincronizza storia del browser</string>  
+    <string name="sub_sync_item_browser_title_novel_summary">Sincronizza storia del browser</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Sincronizza schede</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Sincronizza le schede aperte su dispositivi diversi</string>
     <string name="sub_sync_item_browser_title_webapp">Sincronizza webapp</string>
@@ -451,6 +451,10 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="router_download_failed">Download fallito</string>
     <string name="router_download_exist">Questo file scaricato esiste già</string>
     <string name="select_download_device">Scegli dispositivo</string>
+    <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"L'indirzzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
+    <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
+    <string name="pref_check_security_url_summary">Invia ai server Xiaomiper verificarne la sicurezza</string>
     <string name="pref_video_preload_title">Precarica video</string>
     <string name="pref_video_preload_dialogtitle">Video in precaricamento</string>
     <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>

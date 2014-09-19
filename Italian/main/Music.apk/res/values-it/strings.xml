@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="music_browser_label">Musica</string>
-    <string name="mediaplaybacklabel">Musica</string>
-    <string name="music_picker_title">Seleziona brano</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="music_browser_label">Music</string>
     <string name="mi_effect">Impostazioni audio</string>
-    <string name="find_ktv">Trova KTV</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
@@ -60,7 +60,6 @@
     <string name="fragment_title_artist">Artisti</string>
     <string name="fragment_title_artist_album">Album</string>
     <string name="like">Mi piace</string>
-    <string name="dislike">Non mi piace</string>
     <string name="all_tracks">Tutte le canzoni</string>
     <string name="all_tracks_short">Tutte</string>
     <string name="favorite_playlist">I miei preferiti</string>
@@ -74,7 +73,6 @@
     <string name="track_list_control_edit_add_tracks">Aggiungi brano</string>
     <string name="track_list_control_edit_delete_playlist">Elimina</string>
     <string name="track_list_control_edit_rename_playlist">Rinomina</string>
-    <string name="track_list_descript_cover">Copertina</string>
     <string name="search_hint">Artista, brano o album</string>
     <string name="tab_track_list">Traccie</string>
     <string name="tab_artist_list">Artisti</string>
@@ -214,6 +212,12 @@
     <string name="empty_page_no_artist">Nessun artista.</string>
     <string name="empty_page_no_album">Nessun album.</string>
     <string name="empty_page_no_document">Nessun documento.</string>
+    <string name="set_as_ring">Imposta come suoneria</string>
+    <string name="ringtone_not_support">Il formato del brano non è supportato.</string>
+    <string name="please_download_first">Prima scarica il file.</string>
+    <string name="set_ringtones_successful">%s impostato come suoneria.</string>
+    <string name="set_ringtones_failed">Impossibile impostare suoneria.</string>
+    <string name="sleep_mode_canceled">Modalità sleep annullata</string>
     <string name="max_sleep_time">90</string>
     <string name="min_sleep_time">1</string>
 </resources>

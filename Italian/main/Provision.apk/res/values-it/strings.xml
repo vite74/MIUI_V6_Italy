@@ -3,6 +3,8 @@
     <string name="welcome">Benvenuto</string>
     <string name="input_method_setting">Scegli tastiera</string>
     <string name="input_method_category">"Scegli il metodo d'immissione predefinito che verrà utilizzato durante la scrittura delle email, note, e tutto il resto. Si nota che potrai installare tastiere di terze parti."</string>
+    <string name="provision_inputmethod_policy_description">"Leggi questo documento per la tastiera:"</string>
+    <string name="provision_inputmethod_policy_description1">Privacy</string>
     <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
     <string name="multisim_settings_category">Impostazioni preferite SIM</string>
     <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
@@ -25,4 +27,12 @@
     <string name="pref_title_data_slot">Scheda SIM per i dati</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="summary_sim_card">Scheda SIM %1$d%2$s</string>
+    <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
+    <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i termini della Privacy per questa tastiera su %s.</string>
+    <string name="terms_of_use">Condizioni del Servizio</string>
+    <string name="terms_of_use_label">Devi accettare i Termini per l'Utente e i Termini sulla Privacy prima di utilizzare MIUI.</string>
+    <string name="user_agreement">Condizioni del Servizio</string>
+    <string name="privacy_policy">Termini sulla Privacy</string>
+    <string name="agree">OK</string>
+    <string name="disagree">Anulla</string>
 </resources>

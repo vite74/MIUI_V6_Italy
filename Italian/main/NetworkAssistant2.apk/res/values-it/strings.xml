@@ -130,7 +130,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="pref_more_traffic_settings">Impostazioni aggiuntive</string>
     <string name="pref_add_traffic_pkg">Dati aggiuntivi acquistati</string>
     <string name="pref_free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
-    <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
+    <string name="pref_data_usage_ignore_settings">Ignora utilizzo dati</string>
     <string name="pref_data_usage_ignore_settings_summary">"Non tiene traccia dell'uso dei dati da parte di un gruppo di applicazioni scelte"</string>
     <string name="pref_specified_traffic_settings">Impostazioni limite dati</string>
     <string name="input_traffic_pkg">Inserisci utilizzo dati</string>
@@ -251,6 +251,11 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_pkglist_nodata">"C'è un conflitto tra il tuo piano dati attivo e il tuo attuale ordine. Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="datausage_purchase_pkglist_networkerror">Impossibile connettersi alla rete. Verifica la tua connessioni dati e riprova</string>
     <string name="datausage_purchase_pkglist_servererror">Errore lato server</string>
+    <string name="datausage_purchase_order_history">Cronologia</string>
+    <string name="datausage_purchase_none_history">Vuoto</string>
+    <string name="datausage_purchase_time_in">" il "</string>
+    <string name="datausage_purchase_order_failure">Acquisto fallito</string>
+    <string name="datausage_purchase_order_failure_cause">Il tuo acquisto è fallito perchè...</string>
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiati in questo mese</string>
@@ -272,7 +277,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_money">Denaro</string>
     <string name="traffic_saving_history_total_money_unit" />
-    <string name="traffic_saving_history_total_month">"Hai risparmaito l'equivalente di traffico in questo mese"</string>
+    <string name="traffic_saving_history_total_month">"Hai risparmiato l'equivalente di traffico in questo mese"</string>
     <string name="traffic_saving_history_total_month_default">Risparmio mensile medio di traffico</string>
     <string name="traffic_saving_history_total_month_value">"Ascolto &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> canzoni / Chat &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ore / Letti &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> articoli"</string>
     <string name="traffic_saving_history_total_month_value_default">"Ascolto &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> canzoni / Chat &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> Ore / Letti &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> articoli"</string>
@@ -307,4 +312,27 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="mi_service_traffic_detail">Dettagli framework</string>
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+    <string name="tc_sms_report_title">"Segnala bug nell'utilizzo dei dati"</string>
+    <string name="tc_sms_report_summary">"Aiutaci a migliorare questa funzione inviandoci una segnalazione quando le informazioni sull'utilizzo dei tuoi dati non è corretto o non si aggiorna"</string>
+    <string name="tc_sms_report_direction">"Codice di richiesta (comando nell'SMS all'operatore)"</string>
+    <string name="tc_sms_report_send_num">Numero operatore</string>
+    <string name="tc_sms_report_receive_num">Numero destinatario</string>
+    <string name="tc_sms_report_receive_content">Contenuti SMS segnalazione utilizzo dati</string>
+    <string name="tc_sms_report_receive_content_null">"Devi ricevere dal tuo operatore un SMS sull'utilizzo dei dati"</string>
+    <string name="tc_sms_report_get_sms">Ricevi SMS</string>
+    <string name="tc_sms_report_get_sms2">Ricevi SMS</string>
+    <string name="tc_sms_report_geting_sms">Ricezione SMS utilizzo dati</string>
+    <string name="tc_sms_report_get_sms_again">Aggiorna SMS</string>
+    <string name="tc_sms_report_do_report">Invia</string>
+    <string name="tc_sms_report_get_success">"Ricevuto SMS sull'utilizzo dei dati dall'operatore. Assicurati che sia corretto ed invialo a MIUI."</string>
+    <string name="tc_sms_report_get_success_notify_title">"Ricevuto SMS sull'utilizzo dei dati"</string>
+    <string name="tc_sms_report_get_success_notify_body">Assicurati che sia corretto ed invialo a MIUI.</string>
+    <string name="tc_sms_report_upload_success">"SMS sull'utilizzo dei dati inviato. Ci lavoreremo!"</string>
+    <string name="tc_sms_report_upload_when_net">Grazie per il feedback!</string>
+    <string name="tc_sms_report_notify_get_timeout_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
+    <string name="tc_sms_report_notify_get_timeout_body">"Operazione scaduta. Conferma tramite il tuo operatore che il codice si richiesta dell'SMS sia corretto."</string>
+    <string name="tc_sms_report_notify_get_failure_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
+    <string name="tc_sms_report_notify_get_failure_body">Il tuo operatore non offre questo servizio</string>
+    <string name="tc_sms_report_notify_correction_failure_title">Impossibile aggiornare informazioni sul traffico dati</string>
+    <string name="tc_sms_report_notify_correction_body">"Vai nell'applicazione Utilizzo dati di Sicurezza e prova manualmente."</string>
 </resources>

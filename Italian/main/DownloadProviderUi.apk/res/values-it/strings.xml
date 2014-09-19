@@ -9,7 +9,10 @@
     <string name="menu_preferences">Impostazioni</string>
     <string name="menu_all_task_pause">Metti tutti in pausa</string>
     <string name="menu_all_task_start">Avvia tutti</string>
-    <string name="menu_enter_edit_mode">Editor</string>
+    <string name="menu_title_resume_all">Avvia tutti</string>
+    <string name="menu_title_pause_all">Tutti in pausa</string>
+    <string name="menu_title_settings">Impostazioni</string>
+    <string name="menu_enter_edit_mode">Seleziona</string>
     <string name="delete_downloads_records">Elimina download</string>
     <string name="pause_download">Pausa</string>
     <string name="resume_download">Riprendi</string>
@@ -89,6 +92,10 @@
     <string name="get_order_fail_msg">Recupero ordine fallito</string>
     <string name="get_order_dialog_msg">"Recupero info sull'ordine"</string>
     <string name="get_account_dialog_msg">"Recupero info sull'account"</string>
+    <string name="display_expire_netiv1">Proprietario mese</string>
+    <string name="add_flow_success_msg">Ricezione di %s di traffico ad alta velocità completata</string>
+    <string name="add_flow_fail_vip_msg">Caro Vip Thunder, Il canale ad alta velocità è stato aperto</string>
+    <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità epr questo mese</string>
     <string name="download_list_open_xl_title">Apri il motore di download Xunlei</string>
     <string name="download_list_open_xl_message">Apri il motore di download Xunlei，servizio di accelerazione download,  immediatamente.</string>
     <string name="download_list_open_xl_ok">Ok</string>

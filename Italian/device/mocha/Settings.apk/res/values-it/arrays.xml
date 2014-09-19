@@ -189,7 +189,7 @@
         <item>Non specificato</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Nessuno</item>
+        <item>None</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -504,7 +504,7 @@
         <item>Mostra i menù</item>
     </string-array>
 	 <string-array name="screen_key_long_press_timeout">
-        <item>0.5 secondi</item>
+        <item>0.5 secondo</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
         <item>2 secondi</item>
@@ -520,6 +520,7 @@
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
+        <item>Bassi consumi</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP e versioni precedenti di Windows</item>
@@ -531,41 +532,6 @@
         <item>Caldo</item>
         <item>Naturale</item>
         <item>Freddo</item>
-    </string-array>
-    <string-array name="perm_hips_action">
-        <item>Consenti</item>
-        <item>Chiedi</item>
-        <item>Nega</item>
-    </string-array>
-    <string-array name="startup_hips_action">
-        <item>Consenti</item>
-        <item>Nega</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
-    </string-array>
-    <string-array name="phone_call_noise_suppression_title">
-     <item>Riduzione rumore a singolo microfono</item>
-    <item>Riduzione rumore a doppio microfono</item>
-    </string-array>
-    <string-array name="change_security_lock_picker">
-        <item>Sblocca col sorriso</item>
-        <item>Sequenza</item>
-        <item>Password numerica</item>
-        <item>Password mista</item>
-    </string-array>
-    <string-array name="wifi_connect_type_entries">
-        <item>Connetti automaticamente</item>
-        <item>Connetti manualmente</item>
-        <item>Chiedi sempre</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>Illiminato</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -582,13 +548,8 @@
         <item>La rete è lenta per via del segnale debole</item>
         <item>In movimento…</item>
     </string-array>
-    <string-array name="priority_storage_entries">
+	    <string-array name="priority_storage_entries">
         <item>Memoria interna</item>
         <item>Memoria esterna</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Minimo ritardo</item>
-        <item>Normale</item>
-        <item>Migliore qualità</item>
     </string-array>
 </resources>

@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="menu_theme_setting">
-        <item>Bianco</item>
-        <item>Giallo</item>
-        <item>Grigio</item>
-        <item>Marrone</item>
-        <item>Verde</item>
-        <item>Blu</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-	<item>Pagina iniziale di default</item>
-        <item>Personalizzata</item>
-    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Sempre attivo</item>
         <item>Su richiesta</item>
         <item>Non attivo</item>
     </string-array>
+
     <string-array name="pref_text_size_choices">
         <item>Molto piccolo</item>
         <item>Piccolo</item>
@@ -49,4 +38,20 @@
         <item>Solo su Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Pagina iniziale di default</item>
+        <item>Personalizzata</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Piccolo</item>
+        <item>Default</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Bianco</item>
+        <item>Giallo</item>
+        <item>Nero</item>
+    </string-array>
+
 </resources>

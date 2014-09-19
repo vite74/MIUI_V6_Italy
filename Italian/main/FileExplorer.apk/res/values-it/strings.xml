@@ -254,7 +254,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
 2. Caricare (aggiornamento del file remoto)"</string>
     <string name="ui_filechange_btn_upload">Carica file</string>
     <string name="folder_exist">Cartella già esistente</string>
-    <string name="unmount_inform_text">"L'archivio uSB verrà smontato.</string>
+    <string name="unmount_inform_text">"L'archivio USB verrà smontato.</string>
     <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>

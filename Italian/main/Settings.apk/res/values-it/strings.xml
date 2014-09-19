@@ -830,7 +830,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Versione di Android</string>
-    <string name="model_number">Numero modello</string>
+    <string name="model_number">Modello</string>
     <string name="fcc_equipment_id">ID attrezzatura</string>
     <string name="baseband_version">Versione banda di base</string>
     <string name="kernel_version">Versione kernel</string>

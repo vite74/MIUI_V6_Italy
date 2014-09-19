@@ -117,7 +117,7 @@
     <string name="download_error_insufficient_space">Spazio insufficiente</string>
     <string name="dialog_title_not_available">Download fallito</string>
     <string name="dialog_failed_body">Desideri riprovare a scaricare il file più tardi o vuoi rimuoverlo dalla coda?</string>
-    <string name="dialog_title_queued_body">File not ancora disponibile</string>
+    <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_queued_body">Questo file è accodato per essere scaricato in futuro.</string>
     <string name="dialog_file_missing_body">Impossibile trovare il file scaricato.</string>
     <string name="dialog_insufficient_space_on_external">"Imposibile terminare il download. Non c'è abbastanza spazio sulla memoria esterna."</string>

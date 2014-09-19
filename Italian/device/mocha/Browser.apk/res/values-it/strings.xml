@@ -109,6 +109,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="readmode_pay">Iscriviti per il capitolo</string>
     <string name="readmode_recommend">Mostra i suggerimenti</string>
     <string name="readmode_refresh">Aggiorna</string>
+	<string name="miui_startpage">Pagina iniziale</string>
     <string name="readmode_battery">Batteria </string>
     <string name="accessibility_button_clear">Cancella testo inserito</string>
     <string name="pref_content_block_float_popups">Blocca pop-up</string>

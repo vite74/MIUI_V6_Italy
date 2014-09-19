@@ -30,7 +30,7 @@
     <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
     <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i termini della Privacy per questa tastiera su %s.</string>
     <string name="terms_of_use">Condizioni del Servizio</string>
-    <string name="terms_of_use_label">Devi accettare i Termini per l'Utente e i Termini sulla Privacy prima di utilizzare MIUI.</string>
+    <string name="terms_of_use_label">"Devi accettare i Termini per l'Utente e i Termini sulla Privacy prima di utilizzare MIUI."</string>
     <string name="user_agreement">Condizioni del Servizio</string>
     <string name="privacy_policy">Termini sulla Privacy</string>
     <string name="agree">OK</string>

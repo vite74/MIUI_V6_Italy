@@ -91,7 +91,7 @@
     <string name="repeat">Riprova</string>
     <string name="user_begin">Scarica</string>
     <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
-    <string name="validate_pkg_failed_msg">L'aggiornamento che hai scaricato non corrisponde con i nostri dati.Prova a scaricarlo di nuovo."</string>
+    <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati.Prova a scaricarlo di nuovo."</string>
     <string name="user_intertup_download_title">Downlaod aggiornamento in pausa</string>
     <string name="user_intertup_download_msg">"Il download è stato messo in pausa. Puoi riavviarli in qualsiasi momento dall'applicazione Updater."</string>
     <string name="new_updates_found_notification_title">Aggiornamento di sistema rilevato!</string>

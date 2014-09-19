@@ -103,7 +103,6 @@
     <string name="networkView_notConnected">rete non disponibile</string>
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
-    <string name="user_guide">Scopri di più su KuaiPan</string>
     <string name="user_guide">Guida Utente</string>
     <string name="rename_failed">Impossibile rinominare %1$s</string>
     <string name="directory_no_item">Cartella vuota</string>

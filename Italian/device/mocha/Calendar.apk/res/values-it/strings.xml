@@ -153,14 +153,14 @@
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">Nessun evento</string>
     <string name="tardis">TARDIS</string>
-    <string name="preferences_experimental_category">Experimental</string>
-    <string name="preferences_reminders_category">Reminders</string>
-    <string name="preferences_reminders_responded_label">Skip Reminders</string>
-    <string name="preferences_reminders_responded_dialog">Skip Reminders</string>
-    <string name="preferences_reminders_quiet_hours_label">Quiet hours</string>
-    <string name="preferences_reminders_quiet_hours_description">Silence event reminders during specified time.</string>
-    <string name="preferences_reminders_quiet_hours_start">Quiet hours start time</string>
-    <string name="preferences_reminders_quiet_hours_end">Quiet hours end time</string>
+    <string name="preferences_experimental_category">Sperimentale</string>
+    <string name="preferences_reminders_category">Promemoria</string>
+    <string name="preferences_reminders_responded_label">Ignora promemoria</string>
+    <string name="preferences_reminders_responded_dialog">Ignora promemoria</string>
+    <string name="preferences_reminders_quiet_hours_label">Relax</string>
+    <string name="preferences_reminders_quiet_hours_description">Silenzia i promemoria in orari specifici.</string>
+    <string name="preferences_reminders_quiet_hours_start">Ora inizio Relax</string>
+    <string name="preferences_reminders_quiet_hours_end">Ora fine Relax</string>
     <string name="preferences_debug_category">Debugging</string>
     <string name="copy_db">Invia database</string>
     <string name="directory_searching_fmt">Ricerca %s…</string>
@@ -170,7 +170,7 @@
     <string name="accessibility_pick_end_date">Data fine</string>
     <string name="accessibility_pick_end_time">Ora fine</string>
     <string name="accessibility_pick_time_zone">Fuso orario</string>
-    <string name="accessibility_pick_recurrence">Repeat event</string>
+    <string name="accessibility_pick_recurrence">Ripeti evento</string>
     <string name="accessibility_add_reminder">Aggiungi promemoria</string>
     <string name="accessibility_remove_reminder">Rimuovi promemoria</string>
     <string name="accessibility_add_attendee">Aggiungi partecipate</string>
@@ -183,7 +183,7 @@
     <string name="accessibility_reminder_privacy">Privacy</string>
     <string name="acessibility_cal_notification">Notifiche Calendario</string>
     <string name="acessibility_snooze_notification">Sospendi Notifiche</string>
-    <string name="accessibility_email_notification">Email guests</string>
+    <string name="accessibility_email_notification">Richieste Email</string>
     <string name="day_view_new_event_hint">+ Nuovo evento</string>
     <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
     <string name="acessibility_selected_marker_description">Evento selezionato</string>
@@ -201,7 +201,7 @@
     <string name="lunar_yue" />
     <string name="year_label" />
     <string name="blank_space">"  "</string>
-    <string name="local_calendar_display_name">Local calendar</string>
+    <string name="local_calendar_display_name">Calendario locale</string>
     <string name="local_owner_account_name">Account locale</string>
     <string name="month_medium_january">Gen</string>
     <string name="month_medium_february">Feb</string>
@@ -215,10 +215,10 @@
     <string name="month_medium_october">Ott</string>
     <string name="month_medium_november">Nov</string>
     <string name="month_medium_december">Dic</string>
-    <string name="hint_time_zone_search">Type country name</string>
-    <string name="searchview_description_clear">Clear query</string>
-    <string name="no_results_found">No results found</string>
-    <string name="palestine_display_name">Palestine</string>
+    <string name="hint_time_zone_search">Nazione</string>
+    <string name="searchview_description_clear">Cancella</string>
+    <string name="no_results_found">Nessun risultato</string>
+    <string name="palestine_display_name">Palestina</string>
     <item type="string" name="circle_radius_multiplier">0.82</item>
     <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
     <item type="string" name="selection_radius_multiplier">0.16</item>
@@ -230,29 +230,29 @@
     <item type="string" name="text_size_multiplier_inner">0.14</item>
     <item type="string" name="text_size_multiplier_outer">0.11</item>
     <string name="done_label">Fatto</string>
-    <string name="hour_picker_description">Hours circular slider</string>
-    <string name="minute_picker_description">Minutes circular slider</string>
-    <string name="select_hours">Select hours</string>
-    <string name="select_minutes">Select minutes</string>
-    <string name="day_picker_description">Month grid of days</string>
-    <string name="year_picker_description">Year list</string>
-    <string name="select_day">Select month and day</string>
-    <string name="select_year">Select year</string>
-    <string name="item_is_selected">%1$s selected</string>
-    <string name="deleted_key">%1$s deleted</string>
+    <string name="hour_picker_description">"Slider per l'ora"</string>
+    <string name="minute_picker_description">Slider per i minuti</string>
+    <string name="select_hours">"Seleziona l'ora"</string>
+    <string name="select_minutes">Seleziona i minuti</string>
+    <string name="day_picker_description">Griglia mensile</string>
+    <string name="year_picker_description">Anno</string>
+    <string name="select_day">Seleziona mese e giorno</string>
+    <string name="select_year">Seleziona anno</string>
+    <string name="item_is_selected">%1$s selezionato</string>
+    <string name="deleted_key">%1$s eliminato</string>
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="sans_serif">sans-serif</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
-    <string name="color_picker_default_title">Select a Color</string>
-    <string name="color_swatch_description">Color %1$d</string>
-    <string name="color_swatch_description_selected">Color %1$d selected</string>
+    <string name="color_picker_default_title">Seleziona un colore</string>
+    <string name="color_swatch_description">Colore %1$d</string>
+    <string name="color_swatch_description_selected">Colore %1$d selezionato</string>
     <string name="more_string">+%1$s</string>
-    <string name="copy_email">Copy email address</string>
-    <string name="copy_number">Copy phone number</string>
-    <string name="done">Return</string>
-    <string name="daily">Daily</string>
-    <string name="weekly">Weekly (every %s)</string>
+    <string name="copy_email">Copia indirizzo email</string>
+    <string name="copy_number">Copia numero di telefono</string>
+    <string name="done">Fatto</string>
+    <string name="daily">Tutti i giorni</string>
+    <string name="weekly">Ogni settimana (ogni %s)</string>
     <string name="query_empty">" "</string>
 </resources>

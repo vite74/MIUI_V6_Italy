@@ -145,5 +145,5 @@
     <string name="key_btn_ok">OK</string>
     <string name="no_notification_tips">Nessuna notifica</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivato</string>
-    <string name="softap_notifif_summary">%d connected</string>
+    <string name="softap_notifif_summary">%d collegato(i)</string>
 </resources>

@@ -39,12 +39,12 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pagina iniziale di default</item>
+        <item>Pagina iniziale predefinita</item>
         <item>Personalizzata</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Piccolo</item>
-        <item>Default</item>
+        <item>Predefinito</item>
         <item>Grande</item>
         <item>Molto grande</item>
     </string-array>

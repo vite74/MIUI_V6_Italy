@@ -7,7 +7,6 @@
         <item>Allarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-
         <item>0 minuti</item>
         <item>1 minuto</item>
         <item>5 minuti</item>
@@ -25,7 +24,6 @@
         <item>2 giorni</item>
         <item>1 settimana</item>
     </string-array>
-
     <string-array name="preferences_default_reminder_labels">
         <item>Mai</item>
         <item>0 minuti</item>
@@ -45,14 +43,11 @@
         <item>2 giorni</item>
         <item>1 settimana</item>
     </string-array>
-    
     <string-array name="preferences_week_start_day_labels">
         <item>Preferenza default</item>
         <item>Sabato</item>
         <item>Domenica</item>
         <item>Lunedì</item>
-    </string-array>
-    
     </string-array>
     <string-array name="availability">
         <item>Occupato</item>
@@ -106,5 +101,4 @@
         <item>Vai pure ed inizia senza di me.</item>
         <item>"Mi dispiace, non ce la faccio. Dovremo rimandare."</item>
     </string-array>
-   
 </resources>

@@ -9,8 +9,14 @@
     <string name="menu_item_search">Ricerca</string>
     <string name="operation_create_folder">Nuova cartella</string>
     <string name="menu_item_sort">Ordina</string>
+	<string name="menu_item_sort_name_asc">Nome (descending)</string>
+    <string name="menu_item_sort_name_desc">Nome (ascending)</string>
+    <string name="menu_item_sort_size_asc">Dimens. (ascending)</string>
+    <string name="menu_item_sort_size_desc">Dimens. (descending)</string>
+    <string name="menu_item_sort_date_asc">Data (ascending)</string>
+    <string name="menu_item_sort_date_desc">Data (descending)</string>
     <string name="menu_item_sort_name">Nome</string>
-    <string name="menu_item_sort_size">Dimensione</string>
+    <string name="menu_item_sort_size">Dimens.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_type">Tipo</string>
     <string name="operation_favorite">Aggiungi ai Preferiti</string>

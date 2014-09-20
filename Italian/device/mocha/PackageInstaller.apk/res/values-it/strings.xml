@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Installazione pacchetti</string>
+    <string name="install">Installa</string>
+    <string name="done">Fine</string>
+    <string name="cancel">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">Installazione…</string>
+    <string name="install_done">Applicazione installata.</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
+    <string name="install_failed">Applicazione non installata.</string>
+    <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
+    <string name="install_failed_inconsistent_certificates">È già installato un pacchetto con lo stesso nome e con una firma in conflitto.</string>
+    <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con la CPU di questo dispositivo.</string>
+    <string name="install_failed_msg">Impossibile installare %1$s sul cellulare.</string>
+    <string name="launch">Apri</string>
+    <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il telefono è impostato per bloccare le applicazioni non provenienti da Google Play Store. Rimuovendo questo blocco potrai installare applicazioni provenienti da altre fonti ma il telefono ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Impostazioni</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
+
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
+    <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
+
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
+    <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco di applicazioni installate."</string>
+    <string name="uninstall_application_title">Disinstalla applicazione</string>
+    <string name="uninstall_update_title">Disinstalla aggiornamento</string>
+    <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
+    <string name="uninstall_confirm_question">Vuoi disinstallare questa applicazione?</string>
+    <string name="uninstall_application_text">Questa app verrà disinstallata.</string>
+    <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione di fabbrica?</string>
+    <string name="uninstalling">Disinstallazione…</string>
+    <string name="uninstall_done">Disinstallazione completata.</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita.</string>
+    <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
+    <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
+    <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
+    <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
+    <string name="all">Tutti i permessi</string>
+    <string name="safe_relative">Permessi sicurezza</string>
+    <string name="privacy_relative">Permessi privacy</string>
+    <string name="other_relative">Altri permessi</string>
+    <string name="perm_action_accept">Accetta</string>
+    <string name="perm_action_prompt">Chiedi</string>
+    <string name="perm_action_reject">Nega</string>
+    <string name="main_title">Installazione</string>
+    <string name="installer_name">Fonte%1$s</string>
+    <string name="warn_title">Il pacchetto di installazione potrebbe essere una copia contraffatta</string>
+    <string name="warn_message">"L'applicazione potrebbe contenere messaggi pubblicitari, consumare traffico dati in modo anomalo, sottrarre dati personali o arrecare altri tipi di danni"</string>
+    <string name="progress_verifying">Verifica sicurezza in corso...</string>
+    <string name="update_title">%1$s è stata aggiornata</string>
+    <string name="update_time">%1$s anno %2$s mese %3$s rilasciata %4$s edizione</string>
+    <string name="update_log_default">Nessun aggiornamento</string>
+    <string name="permission_warn_title">"Potrebbero essere rischioso installare applicazioni provenienti da fonti non sicure"</string>
+    <string name="permission_warn_hint">"L'applicazione avrà i seguenti permessi:"</string>
+    <string name="button_continue_install">Continua</string>
+    <string name="button_install_lastest">Scarica ed aggiorna alla nuova versione</string>
+    <string name="button_install_official">Scarica ed aggiorna alla versione ufficiale</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="button_next">Avanti</string>
+    <string name="button_continue">Continua</string>
+    <string name="button_remove">Elimina</string>
+    <string name="virus_scan_install"><u>Installa comunque</u></string>
+    <string name="virus_scan_is_virus">Questa applicazione contiene dei virus.</string>
+    <string name="virus_scan_is_risk">Questa applicazione presenta dei rischi!</string>
+    <string name="virus_scan_clear">Rimuovi</string>
+</resources>

@@ -17,7 +17,7 @@
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
     <string name="error_not_acceptable">Errore del server: sincronizzazione disattivata.</string>
-    <string name="error_data_in_transfer_title">Cloud Service non è attualmente disposnibile.</string>
+    <string name="error_data_in_transfer_title">Cloud Service non è attualmente disponibile.</string>
     <string name="error_data_in_transfer">Trasferimento dei tuoi dati in corso. Si prega di attendere %s ore.</string>
     <string name="activate">Attiva</string>
     <string name="no_sim">SIM non rilevata</string>
@@ -30,7 +30,7 @@
     <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
     <string name="title_reg">Crea un account</string>
     <string name="unactivated_user">Disattivato</string>
-    <string name="error_network">Imposssibile connettersi alla rete</string>
+    <string name="error_network">Impossibile connettersi alla rete</string>
     <string name="error_server">Errore del server</string>
     <string name="error_unknown">"Impossibile eseguire l'accesso"</string>
     <string name="sync_dspt">Abilita sincronizzazione</string>
@@ -89,14 +89,14 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
     <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
     <string name="micloud_warn_full_title">Spazio esaurito</string>
-    <string name="micloud_warn_full_sum">"Nessun nuovo contenuto sarà sincronizzaziono con il Mi Cloud."</string>
+    <string name="micloud_warn_full_sum">"Nessun nuovo contenuto sarà sincronizzazione con il Mi Cloud."</string>
     <string name="micloud_full_influence_dspt">"Tutte le tue foto, i video, le note e le app rimarranno nel backup sul cloud. 
 
 In questo modo, se smarrisci o danneggi il tuo dispositivo, i tuoi dati saranno ancora al sicuro.. 
 
 Quando il tuo cloud è pieno, i tuoi vecchi dati non andranno da nessuna parte. Comunque, qualsiasi nuovo contenuto che aggiungerai (ad es. foto, video, note, e app) non sarà sincronizzato.
 
-Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per quelli nuovi, oppure comprare spazione aggiuntivo."</string>
+Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per quelli nuovi, oppure comprare spazio aggiuntivo."</string>
     <string name="micloud_upgrade_space">Ottieni spazio aggiuntivo</string>
     <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
     <string name="enable_sync">Attiva</string>
@@ -110,48 +110,48 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="sync_sub_2_sms">Verranno inviati due SMS per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionali e uno nazionale per associare la tua carta SIM a questo account. Ti saranno addebitati i costi previsti dal tuo contratto.</string>
-    <string name="sync_setting">Sync settings</string>
-    <string name="less_flow_mode">Data saver</string>
-    <string name="sync_standard">Sync the small stuff</string>
-    <string name="only_in_wlan">Only use WLAN to sync</string>
-    <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
-    <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
-    <string name="sync_item_calllog_title">Sync call logs</string>
-    <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
-    <string name="storage">Storage</string>
-    <string name="data_syncing">Always sync</string>
-    <string name="wifi_sync">Wait for WLAN</string>
-    <string name="setting">Settings</string>
-    <string name="current">Current</string>
-    <string name="flight_mode">Airplane mode</string>
-    <string name="internet_disconnected">No data connection</string>
+    <string name="sync_setting">Sincronizza impostazioni</string>
+    <string name="less_flow_mode">Risparmio dati</string>
+    <string name="sync_standard">Sincronizza le piccole cose</string>
+    <string name="only_in_wlan">Utilizza solo Wi-Fi per sincronizzare</string>
+    <string name="cloud_sync_setting_summary_standard">Utilizza la connessione dati mobile per sincronizzare SMS, informazioni dei Contatti e Registro Chiamate. Utilizza la rete Wi-Fi per sincronizzare Foto, Video, MMS, dai applicazioni, Foto profilo dei contatti ed altro.</string>
+    <string name="cloud_sync_setting_summary_wlan">Sincronizza solo quando collegato a Wi-Fi</string>
+    <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
+    <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo telefono</string>
+    <string name="storage">Archiviazione</string>
+    <string name="data_syncing">Sincronizza sempre</string>
+    <string name="wifi_sync">Solo con rete Wi-Fi</string>
+    <string name="setting">Impostazioni</string>
+    <string name="current">Attuale</string>
+    <string name="flight_mode">Modalità Aereo</string>
+    <string name="internet_disconnected">Nessuna connessione dati</string>
     <string name="internet">Internet</string>
-    <string name="full_space">Not enough space</string>
-    <string name="space">Storage</string>
-    <string name="system_sync_off">System sync off</string>
-    <string name="sync">Sync</string>
-    <string name="app_sync_off">App sync off</string>
-    <string name="micloud">Mi Cloud</string>
-    <string name="wifi_disconnected">No WLAN</string>
-    <string name="wifi">WLAN</string>
-    <string name="detail">Details</string>
-    <string name="normal">Normal</string>
-    <string name="finish">Finish</string>
-    <string name="remind_later">Remind me later</string>
-    <string name="enable_cloud_service_notification">"You haven't enabled Mi Cloud"</string>
-    <string name="contact">Contacts</string>
+    <string name="full_space">Spazio insufficiente</string>
+    <string name="space">Archiviazione</string>
+    <string name="system_sync_off">Sincronizzazione di sistema disattivata</string>
+    <string name="sync">Sincronizza</string>
+    <string name="app_sync_off">Sincronizzazione applicazioni disattivata</string>
+    <string name="micloud">MiCloud</string>
+    <string name="wifi_disconnected">Nessuna rete Wi-Fi</string>
+    <string name="wifi">W-Fi</string>
+    <string name="detail">Dettagli</string>
+    <string name="normal">Normale</string>
+    <string name="finish">Completato</string>
+    <string name="remind_later">Ricordami più tardi</string>
+    <string name="enable_cloud_service_notification">"Non hai attivato MiCloud</string>
+    <string name="contact">Contatti</string>
     <string name="sms">SMS</string>
-    <string name="photo">Photos</string>
+    <string name="photo">Foto</string>
     <string name="micloud_first_login_title" />
     <string name="micloud_first_login_summary" />
-    <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
+    <string name="micloud_unlogin_for_time_title">Attiva MiCloud</string>
     <string name="micloud_unlogin_for_time_summary" />
-    <string name="micloud_main_sync_stop">Stop sync</string>
-    <string name="micloud_main_stop_sync">Stop sync</string>
-    <string name="micloud_main_suggest_sync">Some items need to be synced with your Mi Cloud.</string>
-    <string name="micloud_main_sync_now">Sync now</string>
-    <string name="micloud_main_network_error">"Can't connect to the network. Check your network settings and try again."</string>
-    <string name="micloud_main_sync_on_wifi">Use WLAN</string>
-    <string name="micloud_main_data_unsynced">%d not synced</string>
-    <string name="micloud_main_last_sync_time">Last sync</string>
+    <string name="micloud_main_sync_stop">Interrompi sincronizzazione</string>
+    <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>
+    <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo MiCloud.</string>
+    <string name="micloud_main_sync_now">Sincronizza adesso</string>
+    <string name="micloud_main_network_error">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>
+    <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
+    <string name="micloud_main_last_sync_time">Ultima sincronizzazione</string>
 </resources>

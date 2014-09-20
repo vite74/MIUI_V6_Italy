@@ -30,7 +30,7 @@
     <string name="direction_south_east">SE</string>
     <string name="direction_south_west">SO</string>
     <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
-    <string name="menu_calibrate_altitude">Calibra altitudine</string>
+    <string name="calibrate_altitude">Calibrazione</string>
     <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
     <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
     <string name="do_not_show_next_time">Non mostrare più</string>

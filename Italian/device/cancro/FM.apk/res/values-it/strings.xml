@@ -155,7 +155,7 @@
     <string name="toast_fm_not_stated">"FM hasn't started yet"</string>
     <string name="toast_fm_error_startfailed">"Registrazione fallita, un'altra applicazione potrebbe utilizzare la funzione di registrazione. Verifica e controlla di nuovo."</string>
     <string name="toast_fm_recorder_access_error">Impossibile registrare in modalità Ospite</string>
-    <string name="fm_has_turned_off">La Radio è spenta</string>
+    <string name="fm_has_turned_off">La radio FM è spenta</string>
     <string name="msg_fm_starting">Starting…</string>
     <string name="txt_sleep_mode">Modalità sospensione</string>
     <string name="txt_divider">" | "</string>

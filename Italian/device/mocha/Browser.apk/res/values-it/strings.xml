@@ -500,10 +500,10 @@
     <string name="miui_startpage">Pagina iniziale</string>
     <string name="dont_remind_again">Non ricordare di nuovo</string>
     <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"L'indirzzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"L'indirzzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzionalità nelle Impostazioni."</string>
     <string name="pref_check_security_url">Sicurezza URL</string>
     <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
-    <string name="pref_check_security_url_summary">Invia ai server Xiaomiper verificarne la sicurezza</string>
+    <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_complete">Download completato</string>
     <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
@@ -527,9 +527,9 @@
     <string name="cloud_time_tips">Ultima sincronizzazione</string>
     <string name="cloud_tab">Scheda Cloud</string>
     <string name="cloud_no_new_data_toast">Nessun nuovo dato, riprovare più tardi</string>
-    <string name="cloud_sync_failed_toast">Update failed, please retry later</string>
-    <string name="cloud_sync_closed_toast">Cloud sync is switched off, unable to update</string>
-    <string name="close_cloud_tab_tip">Close cloud tabs on %s ?</string>
+    <string name="cloud_sync_failed_toast">Aggiornamento fallito, si prega di riprova più tardi</string>
+    <string name="cloud_sync_closed_toast">Sincronizzazione cloud disattivata, impossibile aggiornare</string>
+    <string name="close_cloud_tab_tip">Chiudere le schede cloud su %s ?</string>
     <string name="webview_js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="webview_js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="webview_js_dialog_before_unload_negative_button">Resta su questa pagina</string>

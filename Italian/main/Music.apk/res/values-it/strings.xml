@@ -3,7 +3,7 @@
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-    <string name="music_browser_label">Music</string>
+    <string name="music_browser_label">Musica</string>
     <string name="mi_effect">Impostazioni audio</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_album_name">Album sconosciuto</string>

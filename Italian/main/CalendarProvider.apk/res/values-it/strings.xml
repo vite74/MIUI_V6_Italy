@@ -3,11 +3,11 @@
     <string name="holiday_update_title">Nei giorni lavorativi è necessaria una connessione dati per aggiornare</string>
     <string name="holiday_update_summary">Tocca per cercare aggiornamenti</string>
     <string name="holiday_data_updating">Aggiornamento in corso…</string>
-    <string name="holiday_data_update_failed">Cerca errori di aggiornamento e riprova più tardi.</string>
+    <string name="holiday_data_update_failed">"Errore nell'eseguire l'aggiornamento, riprova più tardi."</string>
     <string name="holiday_data_update_succeed">Cerca aggiornamenti completi</string>
     <string name="holiday_data_no_network">Rete non disponibile, riprova più tardi</string>
     <string name="calendar_storage">Archiviazione calendario</string>
-    <string name="upgrade_msg">Upgrade del database di Calendario.</string>
+    <string name="upgrade_msg">Aggiornamento della base dati di Calendario.</string>
     <string name="calendar_default_name">Predefinito</string>
     <string name="calendar_info">Info calendario</string>
     <string name="calendar_info_error">Errore</string>

@@ -29,7 +29,7 @@
     <string name="search">Cerca</string>
     <string name="hide_controls">Nascondi controlli</string>
     <string name="show_controls">Mostra controlli</string>
-    <string name="select_visible_calendars_title">Calendari da Mostrare</string>
+    <string name="select_visible_calendars_title">Calendari da mostrare</string>
     <string name="synced">Sincronizzato</string>
     <string name="not_synced">Non sincronizzato</string>
     <string name="acct_not_synced">Questo account non è stato sincronizzato e i tuoi calendari potrebbero non essere aggiornati.</string>
@@ -48,7 +48,7 @@
     <string name="create_event_dialog_save">Salva</string>
     <string name="alert_title">Notifiche calendario</string>
     <string name="event_info_title">Visualizza evento</string>
-    <string name="event_info_title_invite">Invito Incontro</string>
+    <string name="event_info_title_invite">Invito incontro</string>
     <string name="edit_event_to_label">A</string>
     <string name="edit_event_from_label">Da</string>
     <string name="edit_event_all_day_label">Tutto il giorno</string>
@@ -60,7 +60,7 @@
     <string name="reminders_label">Promemoria</string>
     <string name="no_syncable_calendars">Nessun calendario</string>
     <string name="no_calendars_found">Non sono presenti calendari.</string>
-    <string name="create_an_account_desc">"Il Calendario funziona meglio con un Account Google.
+    <string name="create_an_account_desc">"Il Calendario funziona meglio con un account Google.
 
 • Accedi da qualunque web browser
 • Salva i tuoi eventi in tutta sicurezza"</string>
@@ -88,7 +88,7 @@
     <string name="quick_response_settings_summary">Modifica le risposte rapide predefinite</string>
     <string name="quick_response_settings_title">Modifica risposte rapide</string>
     <string name="quick_response_settings_edit_title">Risposte rapide</string>
-    <string name="quick_response_dialog_title">Scegli risposte rapide</string>
+    <string name="quick_response_dialog_title">Scegli risposta rapide</string>
     <string name="quick_response_email_failed">Impossibile trovare programma email</string>
     <string name="quick_response_custom_msg">Messaggio personalizzato…</string>
     <string name="event_info_organizer">Agenda:</string>
@@ -117,7 +117,7 @@
     <string name="yearly">Annuale (%s)</string>
     <string name="custom">Personalizzato… (non sul telefono)</string>
     <string name="modify_event">Cambia solo questo evento.</string>
-    <string name="modify_all">Cambia tutti gli eventi in serie.</string>
+    <string name="modify_all">Cambia tutti gli eventi della serie.</string>
     <string name="modify_all_following">Cambia questo e tutti gli eventi futuri.</string>
     <string name="new_event_dialog_label">Nuovo evento</string>
     <string name="new_event_dialog_option">Nuovo evento</string>
@@ -173,7 +173,7 @@
     <string name="accessibility_pick_recurrence">Ripeti evento</string>
     <string name="accessibility_add_reminder">Aggiungi promemoria</string>
     <string name="accessibility_remove_reminder">Rimuovi promemoria</string>
-    <string name="accessibility_add_attendee">Aggiungi partecipate</string>
+    <string name="accessibility_add_attendee">Aggiungi partecipante</string>
     <string name="accessibility_sync_cal">Sincronizza calendario</string>
     <string name="accessibility_all_day">Tutto il giorno</string>
     <string name="accessibility_repeats">Ripetizione</string>
@@ -182,8 +182,8 @@
     <string name="accessibility_reminder_showmeas">Mostra come</string>
     <string name="accessibility_reminder_privacy">Privacy</string>
     <string name="acessibility_cal_notification">Notifiche Calendario</string>
-    <string name="acessibility_snooze_notification">Sospendi Notifiche</string>
-    <string name="accessibility_email_notification">Richieste Email</string>
+    <string name="acessibility_snooze_notification">Sospendi notifiche</string>
+    <string name="accessibility_email_notification">Richieste via email</string>
     <string name="day_view_new_event_hint">+ Nuovo evento</string>
     <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
     <string name="acessibility_selected_marker_description">Evento selezionato</string>

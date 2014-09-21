@@ -11,7 +11,7 @@
     <string name="nonsystemapp_description">Descrivi il problema</string>
     <string name="btn_send">Invia</string>
     <string name="err_type">Tipo di bug</string>
-    <string name="err_type_reboot">Riavvio di Sistema</string>
+    <string name="err_type_reboot">Riavvio di sistema</string>
     <string name="err_type_power_consuming">Consumo</string>
     <string name="err_type_signal">Problemi di rete</string>
     <string name="err_type_wifi">Wi-Fi</string>

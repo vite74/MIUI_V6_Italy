@@ -510,7 +510,7 @@ Non ti fermare, continua così!"</string>
     <string name="continue_reach_goal_new_record">Nuovo record</string>
     <string name="bind_weixin_new_tips">"Premi su "Accesso al micro-canale"，
 per avviare il micro-canale nella pagina account MiBand"</string>
-    <string name="bind_weixin_new_now">Accesso in corso, attendere prego...</string>
+    <string name="bind_weixin_new_now">Accesso in corso, attendere prego…</string>
     <string name="bind_weixin_new_disable_tips">"Accesso al micro-canale
 attenzione al numero di MiBand, vota con gli amici"</string>
     <string name="weather_aqi">Qualità aria %s</string>

@@ -44,7 +44,7 @@
         <item>1 settimana</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Preferenza default</item>
+        <item>Predefinito</item>
         <item>Sabato</item>
         <item>Domenica</item>
         <item>Lunedì</item>
@@ -55,7 +55,7 @@
         <item>Incerto</item>
     </string-array>
     <string-array name="visibility">
-        <item>Default</item>
+        <item>Predefinito</item>
         <item>Privato</item>
         <item>Pubblico</item>
     </string-array>
@@ -82,7 +82,7 @@
         <item>Tutti gli eventi</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Solo questa istanza</item>
+        <item>Solo questa occorrenza</item>
         <item>Tutti gli eventi della serie</item>
     </string-array>
     <string-array name="buttons_list">

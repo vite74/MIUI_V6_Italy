@@ -498,7 +498,7 @@
     <string name="readmode_recommend">Mostra i suggerimenti</string>
     <string name="readmode_refresh">Aggiorna</string>
     <string name="miui_startpage">Pagina iniziale</string>
-    <string name="dont_remind_again">Non ricordare di nuovo</string>
+    <string name="dont_remind_again">Non chiedermi di nuovo</string>
     <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
     <string name="show_check_security_url_check_tip_dialog_description">"L'indirzzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzionalità nelle Impostazioni."</string>
     <string name="pref_check_security_url">Sicurezza URL</string>
@@ -517,9 +517,9 @@
     <string name="sub_sync_item_browser_title_history">Cronologia di sincronizzazione</string>
     <string name="sub_sync_item_browser_title_history_summary">Cronologia di sincronizzazione del browser</string>
     <string name="sub_sync_item_browser_title_bookmark">Sincronizza segnalibri</string>
-    <string name="sub_sync_item_browser_title_bookmark_summary">SIncronizza i segnalibri del browser</string>
+    <string name="sub_sync_item_browser_title_bookmark_summary">Sincronizza i segnalibri del browser</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Sincronizza schede</string>
-    <string name="sub_sync_item_browser_title_cloud_tab_summary">SIncronizza le schede aperte su dispositivi diversi</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Sincronizza le schede aperte su dispositivi diversi</string>
     <string name="loading_tips">Trascina in basso per aggiornare</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
     <string name="cloud_loading_tips">Trascina in basso per sincronizzare</string>

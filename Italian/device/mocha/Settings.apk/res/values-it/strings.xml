@@ -746,8 +746,8 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="sim_lock_settings_category">Impostazioni blocco SIM</string>
     <string name="sim_lock_settings_title">Blocco della SIM</string>
     <string name="sim_pin_toggle">Blocca SIM</string>
-    <string name="sim_lock_on">"Richiedi il PIN per l'uso del tablet"</string>
-    <string name="sim_lock_off">"Richiedi il PIN per l'uso del tablet"</string>
+    <string name="sim_lock_on">"Richiedi il PIN per l'uso del dispositivo"</string>
+    <string name="sim_lock_off">"Richiedi il PIN per l'uso del dispositivo"</string>
     <string name="sim_pin_change">Cambia PIN SIM</string>
     <string name="sim_enter_pin">PIN della SIM</string>
     <string name="sim_enable_sim_lock">Blocca la SIM</string>

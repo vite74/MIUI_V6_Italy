@@ -255,7 +255,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_none_history">Vuoto</string>
     <string name="datausage_purchase_time_in">" il "</string>
     <string name="datausage_purchase_order_failure">Acquisto fallito</string>
-    <string name="datausage_purchase_order_failure_cause">Il tuo acquisto è fallito perchè...</string>
+    <string name="datausage_purchase_order_failure_cause">Il tuo acquisto è fallito perchè…</string>
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiati in questo mese</string>
@@ -313,7 +313,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
     <string name="tc_sms_report_title">"Segnala bug nell'utilizzo dei dati"</string>
-    <string name="tc_sms_report_summary">"Aiutaci a migliorare questa funzione inviandoci una segnalazione quando le informazioni sull'utilizzo dei tuoi dati non è corretto o non si aggiorna"</string>
+    <string name="tc_sms_report_summary">"Aiutaci a migliorare questa funzionalità inviandoci una segnalazione quando le informazioni sull'utilizzo dei tuoi dati non è corretto o non si aggiorna"</string>
     <string name="tc_sms_report_direction">"Codice di richiesta (comando nell'SMS all'operatore)"</string>
     <string name="tc_sms_report_send_num">Numero operatore</string>
     <string name="tc_sms_report_receive_num">Numero destinatario</string>
@@ -330,7 +330,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="tc_sms_report_upload_success">"SMS sull'utilizzo dei dati inviato. Ci lavoreremo!"</string>
     <string name="tc_sms_report_upload_when_net">Grazie per il feedback!</string>
     <string name="tc_sms_report_notify_get_timeout_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
-    <string name="tc_sms_report_notify_get_timeout_body">"Operazione scaduta. Conferma tramite il tuo operatore che il codice si richiesta dell'SMS sia corretto."</string>
+    <string name="tc_sms_report_notify_get_timeout_body">"Operazione scaduta. Conferma tramite il tuo operatore che il codice di richiesta dell'SMS sia corretto."</string>
     <string name="tc_sms_report_notify_get_failure_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_notify_get_failure_body">Il tuo operatore non offre questo servizio</string>
     <string name="tc_sms_report_notify_correction_failure_title">Impossibile aggiornare informazioni sul traffico dati</string>

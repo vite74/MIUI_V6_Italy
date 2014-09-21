@@ -94,8 +94,8 @@
     <string name="get_account_dialog_msg">"Recupero info sull'account"</string>
     <string name="display_expire_netiv1">Proprietario mese</string>
     <string name="add_flow_success_msg">Ricezione di %s di traffico ad alta velocità completata</string>
-    <string name="add_flow_fail_vip_msg">Caro Vip Thunder, Il canale ad alta velocità è stato aperto</string>
-    <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità epr questo mese</string>
+    <string name="add_flow_fail_vip_msg">Caro Vip Thunder, il canale ad alta velocità è stato aperto</string>
+    <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità per questo mese</string>
     <string name="download_list_open_xl_title">Apri il motore di download Xunlei</string>
     <string name="download_list_open_xl_message">Apri il motore di download Xunlei，servizio di accelerazione download,  immediatamente.</string>
     <string name="download_list_open_xl_ok">Ok</string>

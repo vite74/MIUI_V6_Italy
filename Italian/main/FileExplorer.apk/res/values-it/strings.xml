@@ -304,11 +304,11 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="open_file_failed">Apertura fallita</string>
     <string name="file_already_downlaoded">File salvato in \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Copia file su Kuaipan</string>
-    <string name="downloading_in_3g">Download in 3G...</string>
+    <string name="downloading_in_3g">Download in 3G…</string>
     <string name="operate_confirm_in_3g">Utilizzare la connessione 3G per scaricare questo file di grande dimensioni?</string>
     <string name="system_alert">Ricordamelo</string>
-    <string name="network_connect_confirm_des">"L'utilizzo di Kuaipan richiede l'accesso alla rete dati, ok?"</string>
+    <string name="network_connect_confirm_des">"L'utilizzo di Kuaipan richiede l'accesso alla rete dati, continuare?"</string>
     <string name="operation_agree">OK</string>
-    <string name="never_notify_network_connect">Non mostrare più</string>
-    <string name="connect_network_setting_des">Chiedilo quando accedo alla rete</string>
+    <string name="never_notify_network_connect">Non chiedermi più</string>
+    <string name="connect_network_setting_des">Chiedi quando accedo alla rete</string>
 </resources>

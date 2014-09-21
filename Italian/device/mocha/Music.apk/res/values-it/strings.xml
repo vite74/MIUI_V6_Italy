@@ -31,12 +31,12 @@
     <string name="eq_preset_create">Crea</string>
     <string name="eq_preset_rename">Rinomina</string>
     <string name="eq_preset_format">Preselezione utente %d</string>
-    <string name="eq_preset_hint">nserire nome preselezione</string>
+    <string name="eq_preset_hint">Inserire nome preselezione</string>
     <string name="eq_preset_select">Scegli una preselezione</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">La sincronizzazione è stata disattivata a causa di troppi tentativi di accesso.</string>
-    <string name="error_forbidden">La sincronizzazione è stata disattivata a causa di problemi con il tuo MiAccount.</string>
-    <string name="error_not_acceptable">La sincronizzazione è stato disabilitata.</string>
+    <string name="error_forbidden">La sincronizzazione è stata disattivata a causa di problemi con il tuo account Mi.</string>
+    <string name="error_not_acceptable">La sincronizzazione è stata disattivata.</string>
     <string name="action_item_add">Aggiungi</string>
     <string name="action_item_send">Invia</string>
     <string name="action_item_remove">Rimuovi</string>
@@ -100,7 +100,7 @@
     <string name="network_traffic">Traffico di rete</string>
     <string name="allow_to_use_traffic_summary">"Non attivandolo si può avere costi elevati di traffico dati,si consiglia l'attivazione"</string>
     <string name="allow_to_use_traffic_title">"Consenti l'uso della rete Wi-Fi per ascoltare le canzoni online"</string>
-    <string name="use_traffic_toast">"Non consente l'uso di una rete Wi-Fi a pagamento per ascoltare le canzoni online.Modificare le impostazioni, se necessario"</string>
+    <string name="use_traffic_toast">"Non consentire l'uso di una rete Wi-Fi a pagamento per ascoltare le canzoni online. Modificare le impostazioni, se necessario"</string>
     <string name="download_method">Download</string>
     <string name="download_while_playing_summary">Scarica automaticamente le canzoni che hai ascoltato online</string>
     <string name="download_while_playing_title">Ascolta mentre scarichi</string>

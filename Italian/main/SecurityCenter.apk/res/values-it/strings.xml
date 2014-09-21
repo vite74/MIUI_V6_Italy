@@ -538,7 +538,7 @@
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Vuoto</string>
     <string name="hints_apps_perm_count">%d permessi</string>
-    <string name="permission_group_title_charges_related">Telefono</string>
+    <string name="permission_group_title_charges_related">Costi</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_settings_related">Impostazioni</string>

@@ -52,7 +52,7 @@
     <string name="menu_item_disable_audio_enhance">Disattiva miglioramento audio</string>
     <string name="menu_item_enable_3d_mode">Attiva 3D</string>
     <string name="menu_item_disable_3d_mode">Disattiva 3D</string>
-    <string name="toast_message_set_misound">Configura MiAudio</string>
+    <string name="toast_message_set_misound">Configura Mi Audio</string>
     <string name="vp_next_ci">Avanti</string>
     <string name="vp_standard_definition">SD</string>
     <string name="vp_high_definition">HD</string>

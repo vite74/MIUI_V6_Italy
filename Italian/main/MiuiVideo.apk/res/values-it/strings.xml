@@ -8,7 +8,7 @@
     <string name="vp_VideoView_error_button">OK</string>
     <string name="menu_item_about_label">Informazioni</string>
     <string name="about_title">Informazioni</string>
-    <string name="about_app_name">MiPlayer</string>
+    <string name="about_app_name">Mi Player</string>
     <string name="about_version">1.0.1</string>
     <string name="video_info_length_label">Lunghezza:</string>
     <string name="video_info_resolution_label">Risoluzione video:</string>

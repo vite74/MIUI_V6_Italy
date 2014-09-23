@@ -19,7 +19,7 @@
     <string name="get_auto">Ricevi mod. auto.</string>
     <string name="set_only_wifi">Cerca solo con Wi-Fi</string>
     <string name="test">Test</string>
-    <string name="miui_summary_has_new_version">" E' disponibile n aggiornamento  "</string>
+    <string name="miui_summary_has_new_version">" E' disponibile un aggiornamento  "</string>
     <string name="miui_summary_now_version">"Versione attuale "</string>
     <string name="miui_summary_no_new_version">Nessun aggiornamento disponibile</string>
     <string name="button_text_check">Cerca</string>

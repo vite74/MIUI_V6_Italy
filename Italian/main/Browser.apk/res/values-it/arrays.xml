@@ -39,6 +39,18 @@
         <item>Giapponese (EUC-JP)</item>
         <item>Coreano (EUC-KR)</item>
     </string-array>
+	 <string-array name="pref_images_preload_choices">
+        <item>Mai</item>
+        <item>Solo su Wi-Fi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Mai</item>
         <item>Solo su Wi-Fi</item>

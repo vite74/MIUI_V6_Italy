@@ -2710,7 +2710,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="miui_screensaver_usage">"Le immagini nell'album dello screensaver saranno visualizzate dopo 5 secondi dallo spegnimento dello schermo."</string>
     <string name="alert_show_screensaver_when_not_charging_title">Uso della batteria</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Visualizzare lo screensaver aumenterà il consumo di batteria.</string>
-    <string name="toast_need_login">Accedi al tuo MiAccount</string>
+    <string name="toast_need_login">Accedi al tuo Mi Account</string>
     <string name="preferred_app_settings">Impostazioni app predefinite</string>
     <string name="preferred_app_settings_default">Predefinite</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>

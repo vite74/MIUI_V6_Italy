@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiAccount</string>
+    <string name="app_name">Mi Account</string>
     <string name="show_password">Mostra password</string>
     <string name="account">Account</string>
     <string name="account_hint_text">Email o numero di telefono</string>
@@ -20,7 +20,7 @@
     <string name="bad_authentication">Autenticazione fallita, nome utente o password errate</string>
     <string name="int_phone_user_notice">Aggiungi il tuo prefisso internazionale se usi il numero di cellulare per la registrazione.</string>
     <string name="micloud_welcome_skip_login"><u>Salta registrazione</u></string>
-    <string name="micloud_account_name">MiAccount</string>
+    <string name="micloud_account_name">Mi Account</string>
     <string name="micloud_reg_new">Nuova registrazione</string>
     <string name="micloud_error_empty_username">Campo nome utente vuoto</string>
     <string name="micloud_error_empty_pwd">Campo password vuoto</string>
@@ -47,7 +47,7 @@
     <string name="micloud_via_sms_alert">Il messaggio di attivazione è soggetto alle normali tariffe nazionali.</string>
     <string name="micloud_via_int_sms_alert">Il messaggio di attivazione è soggetto alle tariffe internazionali.</string>
     <string name="micloud_error_email">Email non valida</string>
-    <string name="micloud_account">MiAccount</string>
+    <string name="micloud_account">Mi Account</string>
     <string name="micloud_activing_account">Attivazione in corso…</string>
     <string name="micloud_activing_account_delayed">Quasi terminato…</string>
     <string name="micloud_activing_account_failed">Impossibile attivare il tuo account Mi.</string>

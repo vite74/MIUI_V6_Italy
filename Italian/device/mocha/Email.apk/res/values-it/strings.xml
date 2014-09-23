@@ -595,6 +595,7 @@ CC: %4$s
     <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Apportare la modifica ora?</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
+    <string name="from_label">Account di invio</string>   
     <string name="permission_access_provider_desc">Consente a questa applicazione di accedere al database della tua posta, inclusi i messaggi ricevuti e inviati, i nomi utente e le password.</string>
     <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>

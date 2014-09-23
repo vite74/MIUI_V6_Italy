@@ -797,7 +797,7 @@ Contatta il fornitore del tuo servizio wireless per ricevere un'altra scheda SIM
     <string name="lockscreen_transport_pause_description">Pulsante Pausa</string>
     <string name="lockscreen_transport_play_description">Pulsante Riproduci</string>
     <string name="lockscreen_transport_stop_description">Pulsante di arresto</string>
-    <string name="emergency_calls_only">Solo chiamate di emergenza</string>
+    <string name="emergency_calls_only">Chiamate di emergenza</string>
     <string name="lockscreen_sim_error_message_short">Carta non Valida.</string>
     <string name="lockscreen_sim_error_message">La carta SIM non è valida.</string>
     <string name="lockscreen_network_locked_message">Rete bloccata</string>

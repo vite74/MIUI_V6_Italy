@@ -20,7 +20,7 @@
     <string name="unlocking_sim_card">Sblocco carta SIM</string>
     <string name="short_pukcode_error_msg">Devi inserire almeno 8 cifre.</string>
     <string name="short_pincode_error_msg">Prego inserire da 4 a 8 cifre</string>
-    <string name="input_pin_code">Inserisci il PIN</string>
+    <string name="input_pin_code">Ins.il PIN</string>
     <string name="input_pin_code_to_unlock">Inserisci il codice PIN per sbloccare il dispositivo</string>
     <string name="pincode_set_to_default_msg">Il codice PIN attuale è 1234, puoi cambiarlo qui:</string>
     <string name="incorrect_pukcode_remaining_attempts">Codice PUK errato, hai ancora %d tentativi</string>

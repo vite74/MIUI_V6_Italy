@@ -773,7 +773,7 @@
     <string name="lockscreen_transport_pause_description">Pulsante Pausa</string>
     <string name="lockscreen_transport_play_description">Pulsante Riproduci</string>
     <string name="lockscreen_transport_stop_description">Pulsante di arresto</string>
-    <string name="emergency_calls_only">Solo chiamate di emergenza</string>
+    <string name="emergency_calls_only">Chiamate di emergenza</string>
     <string name="lockscreen_network_locked_message">Rete bloccata</string>
     <string name="lockscreen_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">"Consulta la Guida dell'utente o contatta il servizio clienti."</string>

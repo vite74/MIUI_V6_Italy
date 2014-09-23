@@ -72,7 +72,7 @@
     <string name="radioInfo_menu_getPDP">Ottieni elenco PDP</string>
     <string name="radioInfo_service_in">In servizio</string>
     <string name="radioInfo_service_out">Fuori servizio</string>
-    <string name="radioInfo_service_emergency">Solo chiamate di emergenza</string>
+    <string name="radioInfo_service_emergency">Chiamate di emergenza</string>
     <string name="radioInfo_service_off">Segnale radio disattivato</string>
     <string name="radioInfo_roaming_in">Roaming</string>
     <string name="radioInfo_roaming_not">Non roaming</string>

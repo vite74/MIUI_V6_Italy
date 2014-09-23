@@ -91,7 +91,7 @@
     <string name="sns_action_send">Invia</string>
     <string name="sns_hint_title">Soggetto (Opzionale)</string>
     <string name="sns_hint_content">Cosa hai in mente?</string>
-    <string name="sns_footer_text">Creata con MiNote</string>
+    <string name="sns_footer_text">Creata con Mi Note</string>
     <string name="sns_message_building">Creazione messaggio…</string>
     <string name="sns_message_sending">Invio…</string>
     <string name="sns_content_default">Condividi foto</string>

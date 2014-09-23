@@ -464,7 +464,7 @@
     <string name="clear_data_website_dataset">Archivio dati sito</string>
     <string name="pref_ua_title">Gestione user agent</string>
     <string name="pref_ua_string">Stringa user agent</string>
-    <string name="pref_ua_mione_entry">MiOne</string>
+    <string name="pref_ua_mione_entry">Mi One</string>
     <string name="pref_ua_mione_value">4</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_content_homepage">Imposta pagina iniziale</string>

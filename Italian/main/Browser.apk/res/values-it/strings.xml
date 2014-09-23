@@ -184,7 +184,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
     <string name="pref_ua_title">Gestione user agent</string>
     <string name="pref_ua_string">Stringa user agent</string>
-    <string name="pref_ua_mione_entry">MiOne</string>
+    <string name="pref_ua_mione_entry">Mi One</string>
     <string name="pref_ua_mione_value">4</string>
     <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
     <string name="dump_counters">Dump contatori V8</string>

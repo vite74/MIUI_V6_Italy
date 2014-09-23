@@ -95,7 +95,7 @@
     <string name="favorite_ringtone">Suoneria</string>
     <string name="file_loading">Caricamento…</string>
     <string name="multi_select_title">Seleziona %1$s elemento(i)</string>
-    <string name="tab_networkdisk">MiDrive</string>
+    <string name="tab_networkdisk">Mi Drive</string>
     <string name="operation_download_link">Genera li download</string>
     <string name="ui_filechange_btn_download">Scarica file</string>
     <string name="show_message">Il file non può essere aperto se non scaricato</string>
@@ -119,7 +119,7 @@
     <string name="login_reg_content0">Utilizza Kuaipan in qualsiasi luogo.</string>
     <string name="login_reg_content">Archivia file e sincronizzali con vari dispositivi, questa funzione necessita di una connessione di rete.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
-    <string name="pan_settting">Impostazioni MiDrive</string>
+    <string name="pan_settting">Impostazioni Mi Drive</string>
     <string name="xiaomi_account">Account Xiaomi</string>
     <string name="space_usage">Utilizzo</string>
     <string name="used">Utilizzato:\u0020</string>
@@ -127,17 +127,17 @@
     <string name="load_err">Caricamento fallito</string>
     <string name="local_cache_size">Dimensione locale della cache: %s</string>
     <string name="net_lose_connected">Rete non disponibile, impossibile determinare dimensione</string>
-    <string name="wangpan_root_path">MiDrive</string>
-    <string name="kuaipan_over_space">Il tuo MiDrive ha esaurito lo spazio.</string>
+    <string name="wangpan_root_path">Mi Drive</string>
+    <string name="kuaipan_over_space">Il tuo Mi Drive ha esaurito lo spazio.</string>
     <string name="kuaipan_tech_support">Supporto tecnico offerto da Kingsoft Kuaipan</string>
     <string name="no_tasks">Nessuna attività</string>
     <string name="no_more_space">Spazio esaurito</string>
     <string name="sd_full">La scheda SD è piena</string>
     <string name="file_too_large">Il file è troppo grande e non può essere caricato</string>
     <string name="create_new_folder_failed">Impossibile creare cartella %1$s</string>
-    <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando MiDrive</string>
-    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono, copia e incolla semplicemente nel MiDrive</string>
-    <string name="user_guide_download_other_version">"Puoi anche scaricare MiDrive per il tuo PC o Mac"</string>
+    <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando Mi Drive</string>
+    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono, copia e incolla semplicemente nel Mi Drive</string>
+    <string name="user_guide_download_other_version">"Puoi anche scaricare Mi Drive per il tuo PC o Mac"</string>
     <string name="user_guide_other_version">Scarica varie versioni di Kuaipan</string>
     <string name="upload_file_toolarge_message">%1$d file più grandi di 300M non possono essere caricati. Controlla Gestione Trasferimenti per maggiori dettagli.</string>
     <string name="cution">Suggerimenti</string>
@@ -151,9 +151,9 @@
     <string name="space_info">Spazio di rete: %1$s disponibile，totale: %2$s</string>
     <string name="trash_box_capacity">Spazio cestino: %1$s</string>
     <string name="data_capacity">Spazio: %1$s</string>
-    <string name="send_to_midrive">Invia a MiDrive</string>
+    <string name="send_to_midrive">Invia a Mi Drive</string>
     <string name="choose_upload_location">Scegli posizione upload</string>
-    <string name="send_to_midrive_failed_message">Impossibile inviare a MiDrive. Contenuto non supportato</string>
+    <string name="send_to_midrive_failed_message">Impossibile inviare a Mi Drive. Contenuto non supportato</string>
     <string name="operation_compress">Comprimi</string>
     <string name="compress_title">Comprimi</string>
     <string name="compress_message">Comprimi in:</string>
@@ -166,7 +166,7 @@
     <string name="decompress_to">Decomprimi in:</string>
     <string name="decompress_confirm">Decomprimere?</string>
     <string name="decompress_cancel">Annulla</string>
-    <string name="kuaipan_prompt">Aiuto MiDrive</string>
+    <string name="kuaipan_prompt">Aiuto Mi Drive</string>
     <string name="kuaipan_prompt_message">Il server è momentaneamente non accessibile, si prega di riprovare più tardi</string>
     
 
@@ -209,7 +209,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="rename_description">Rinominazione, attendere prego…</string>
     <string name="share_link_failed">Impossibile creare link di condivisione, provare di nuovo!</string>
     <string name="choose_send_type">Seleziona il tipo di invio</string>
-    <string name="download_link_completed">Ho condiviso %1$s via MiDrive. Clicca sul seguente link per vedere il file:</string>
+    <string name="download_link_completed">Ho condiviso %1$s via Mi Drive. Clicca sul seguente link per vedere il file:</string>
     <string name="transing">Trasferimento…</string>
     <string name="finished">Finito</string>
     <string name="uploading">In upload…</string>

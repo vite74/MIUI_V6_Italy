@@ -26,7 +26,7 @@
     <string name="share_title_to_mitalk_ellipsis">ecc…</string>
     <string name="share_title_to_sina_weibo">Invia a microblog Sina </string>
     <string name="share_content_to_sina_weibo">%1$s perr inviare %2$s，condividi con un buon amico.</string>
-    <string name="share_content_device_box_to_sina_weibo">MiBox</string>
+    <string name="share_content_device_box_to_sina_weibo">Mi Box</string>
     <string name="share_content_device_tv_to_sina_weibo">MiTV</string>
     <string name="share_content_device_other_to_sina_weibo">Xiaomi</string>
     <string name="share_content_type_video_to_sina_weibo">Video</string>
@@ -51,7 +51,7 @@
     <string name="app_clear">Vuoto</string>
     <string name="app_open">Apri</string>
     <string name="app_open_intv">Apri in TV</string>
-    <string name="app_open_inbox">Apri su MiBox</string>
+    <string name="app_open_inbox">Apri su Mi Box</string>
     <string name="app_update">Aggiorna</string>
     <string name="app_install_count">Download: %1$s</string>
     <string name="app_user_used">%1$s utenti lo stanno usando</string>
@@ -70,7 +70,7 @@
     <string name="search_no_result">Nessun risultato trovato</string>
     <string name="search_failed">Ricerca fallita</string>
     <string name="search_more_failed">Impossibile caricare i risultati</string>
-    <string name="gesture_pad_first_line_tips">I tasti volume degli auricolari possono regolare direttamente il volume di MiTv o MiBox</string>
+    <string name="gesture_pad_first_line_tips">I tasti volume degli auricolari possono regolare direttamente il volume di MiTv o Mi Box</string>
     <string name="gesture_pad_sencond_line_tips">Premere a lungo al centro dello schermo per visualizzare la regolazione del volume; scorrere su o giu per regolare</string>
     <string name="airkan_disconnect">Nessun dispositivo connesso</string>
     <string name="projection_failed_for_disconnect">Nessun dispositivo connesso</string>
@@ -98,7 +98,7 @@
     <string name="match_stb_seletion_des">Per favore, seleziona la tua città per abbinare correttamente il set-top-box</string>
     <string name="match_brand_selection_des">%1$s marche totali</string>
     <string name="circlepad_slide_tips">Esegui un movimento circolare per regolare il volume</string>
-    <string name="match_mibox_first">Trova MiBox!</string>
+    <string name="match_mibox_first">Trova Mi Box!</string>
     <string name="match_mibox_sencond">Telecomando su misura per MiTv per dare una esperienza di controllo più accurata e maggiori funzionalità</string>
     <string name="match_mibox_third">Dopo aver rilevato nuovi MiTv, il box ti aiuterà ad aggiungere il relativo telecomando</string>
     <string name="continue_to_add_other_rc">Prosegui per aggiungere un altro telecomando</string>
@@ -175,7 +175,7 @@
     <string name="ir_device_dvd">Lettore DVD</string>
     <string name="ir_device_fan">Ventilatore</string>
     <string name="ir_device_lamp">Lampada</string>
-    <string name="ir_device_mibox">MiBox</string>
+    <string name="ir_device_mibox">Mi Box</string>
     <string name="ir_device_mitv">MiTV</string>
     <string name="ir_device_sound">Stereo</string>
     <string name="ir_device_stb">Set-top-box</string>

@@ -219,7 +219,7 @@ Se il tuo dispositivo viene smarrito o danneggiato, potresti non recuperare più
     <string name="wrong_vcode">Il codice che hai inserito non è valido</string>
     <string name="input_vcode_prompt">Inserisci il codice di verifica</string>
     <string name="trust_device">Considera fidato questo dispositivo</string>
-    <string name="vcode_prompt_long">Inserisci il codice di verifica generato tramite MiSecurity</string>
+    <string name="vcode_prompt_long">Inserisci il codice di verifica generato tramite Mi Security</string>
     <string name="vcode_notification_title">La verifica non è completa</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione della tua SIM in corso</string>

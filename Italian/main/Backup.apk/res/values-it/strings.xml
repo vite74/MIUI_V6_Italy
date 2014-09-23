@@ -55,8 +55,8 @@
     <string name="local_backup_window_title">Locale</string>
     <string name="local_restore_window_title">Ripristino Locale</string>
     <string name="account_login">Login</string>
-    <string name="miliao_account_login">Login MiTalk</string>
-    <string name="miliao_account_guide">"MiTalk associato all'account Xiaomi Prova tutti i servizi online di Xiaomi"</string>
+    <string name="miliao_account_login">Login Mi Talk</string>
+    <string name="miliao_account_guide">"Mi Talk associato all'account Xiaomi Prova tutti i servizi online di Xiaomi"</string>
     <string name="auto_backup">Backup Automatico</string>
     <string name="contact_title">Contatti</string>
     <string name="call_title">Registro chiamate</string>
@@ -158,12 +158,12 @@
     <string name="cloud_item_info_summary">" (Locale : %1$s | Online : %2$s)"</string>
     <string name="total_num">%d elementi totali</string>
     <string name="cloud_restore_guide">"Premi Ripristina per recuperare i dati Puoi anche ripristinare %s in Backup"</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Installa MiTalk ed accedi.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Installa Mi Talk ed accedi.
 \u0009http://www.miliao.com
 
-2.\u0009Entra nelle impostazioni di MiTalk e seleziona ”Backup contatti su account Xiaomi”"</string>
+2.\u0009Entra nelle impostazioni di Mi Talk e seleziona ”Backup contatti su account Xiaomi”"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
-    <string name="import_from_xiaomi_account_hint_title">Usa MiTalk per il backup dei contatti su altri terminali, non MI-ONE</string>
+    <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su altri terminali, non MI-ONE</string>
     <string name="guarded_mode_dialog_title">Modalità Guard</string>
     <string name="guarded_mode_dialog_message">Impossibile eseguire backup e ripristino in modalità Guard</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>

@@ -860,9 +860,9 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="miui_capture_screen_folder_display_name">Screenshot</string>
     <string name="internal_camera_folder_display_name">Foto Intere</string>
     <string name="internal_miui_capture_screen_folder_display_name">Screenshot interni</string>
-    <string name="miliao_folder_display_name">MiTalk</string>
-    <string name="miliao_painting_folder_display_name">Disegni MiTalk</string>
-    <string name="miliao_saved_folder_display_name">MiTalk Salvato</string>
+    <string name="miliao_folder_display_name">Mi Talk</string>
+    <string name="miliao_painting_folder_display_name">Disegni Mi Talk</string>
+    <string name="miliao_saved_folder_display_name">Mi Talk Salvato</string>
     <string name="mishop_saved_folder_display_name">Salvataggi MiShop</string>
     <string name="demo_video_folder_display_name">Video demo</string>
     <string name="ucdownloads_screenshot">UC Browser</string>
@@ -870,7 +870,7 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="androidesk_wallpapers">Android Desk Wallpapers</string>
     <string name="dcim_opaipic">Opaipic</string>
     <string name="mtxx">MTXX</string>
-    <string name="miliao_saved">MiTalk</string>
+    <string name="miliao_saved">Mi Talk</string>
     <string name="tencent_qq_hd_pic">QQ HD</string>
     <string name="immomo_camera">Immomo</string>
     <string name="weikan_weikan">Weikan TV</string>

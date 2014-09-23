@@ -47,8 +47,8 @@
     <string name="action_share_to_moment">Condividi momenti con WeChat</string>
     <string name="action_share_to_weibo">Condividi con Weibo</string>
     <string name="action_send_text_message">Invia messaggio</string>
-    <string name="action_share_to_miliao">MiTalk</string>
-    <string name="action_share_to_miliao_wall">Bacheca MiTalk</string>
+    <string name="action_share_to_miliao">Mi Talk</string>
+    <string name="action_share_to_miliao_wall">Bacheca Mi Talk</string>
     <string name="action_toolbox">Strumenti</string>
     <string name="action_phone">Telefono</string>
     <string name="category_app">Applicazioni</string>

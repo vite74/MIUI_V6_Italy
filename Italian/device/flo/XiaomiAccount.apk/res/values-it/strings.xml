@@ -124,7 +124,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">Un solo account per tutti i servizi Xiaomi</string>
-    <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , MiTalk</string>
+    <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , Mi Talk</string>
     <string name="account_sec_dspt2" />
     <string name="remove_unactivated_account_notice">"L'account Xiaomi non è attivato, rimuoverlo adesso ?"</string>
     <string name="remove_confirm">Elimina</string>

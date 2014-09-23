@@ -503,7 +503,7 @@ Non ti fermare, continua così!"</string>
     <string name="find_bracelet_warning">La ricerca di MiBand comporta un alto consumo di batteria.</string>
     <string name="second">Secondi</string>
     <string name="move_and_capture">Sposta e cattura</string>
-    <string name="share_miliao_too_old">Versione di MiTalk troppo vecchia.</string>
+    <string name="share_miliao_too_old">Versione di Mi Talk troppo vecchia.</string>
     <string name="first_use_days_today_format">Meno di un giorno dal primo utilizzo.</string>
     <string name="first_use_remain_days_format">%s giorni dal primo utilizzo</string>
     <string name="until_hit_goals">Continua a seguire obbiettivi fino al %s</string>

@@ -161,7 +161,7 @@
     <string name="skip_setup_account_title">Salta configurazione</string>
     <string name="skip_setup_account_msg">Puoi configurare il tuo account più tardi in Impostazioni.</string>
     <string name="account_dspt">Un solo account per tutti i servizi Xiaomi</string>
-    <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , MiTalk</string>
+    <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , Mi Talk</string>
     <string name="remove_unactivated_account_notice">Il tuo account non è stato attivato.</string>
     <string name="remove_confirm">Esci</string>
     <string name="find_password_on_web_msg">Visita account.xiaomi.com per recuperare la tua password.</string>

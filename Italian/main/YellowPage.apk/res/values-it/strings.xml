@@ -124,7 +124,7 @@
     <string name="recharge_charge_value">Prezzo:¥%s</string>
     <string name="recharge_pay">Ricarica adesso</string>
     <string name="recharge_pay_hint">Supporto fornito da Xiaomi</string>
-    <string name="mishop_web_payment_title">Pagamento MiStore</string>
+    <string name="mishop_web_payment_title">Pagamento Mi Store</string>
     <string name="recharge_pay_hint_license">Notifica ricarica</string>
     <string name="recharge_title">Ricarica</string>
     <string name="recharge_payment_result_ok_title">Aggiunti RMB%s.</string>

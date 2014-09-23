@@ -156,7 +156,7 @@
     <string name="fail_feedback">Feedback</string>
     <string name="bullet_hint">Invia una raffica di video da guardare!</string>
     <string name="mitv_assistant_setting_version">Assistente Mi Tv v. %1$s</string>
-    <string name="mibox">NiBox</string>
+    <string name="mibox">Mi Box</string>
     <string name="mitv">Mi Tv</string>
     <string name="airkan_disconnect_display_name">Nessun dispositino connesso</string>
     <string name="management_video_recent_watch">Visti di recente</string>

@@ -123,7 +123,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="success_copy_to_clipboard">Copia negli appunti eseguita</string>
   <string name="success_reset_password">Password reimpostata</string>
   <string name="success_set_password">Password impostata</string>
-  <string name="summary_lockpattern">Richiedi un blocco tramite sequenza univoca per i MiCredit</string>
+  <string name="summary_lockpattern">Richiedi un blocco tramite sequenza univoca per i Mi Credit</string>
   <string name="terms_page_url">http://m.xiaomi.com/tospage</string>
   <string name="terms_preference_title">Condizioni di servizio</string>
   <string name="timesync_about_feature_preference_title">Informazioni su questa feature</string>

@@ -6,7 +6,7 @@
     <string name="resource_app_name">Ricerca Browser</string>
     <string name="resource_delete">Elimina</string>
     <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit"> MiCredit</string>
+    <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
     <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora.
@@ -247,7 +247,7 @@
     <string name="basic_info">Informazioni base</string>
     <string name="account_info">Il mio account</string>
     <string name="purchased_list">Temi acquistati</string>
-    <string name="payment_info">MiCredit</string>
+    <string name="payment_info">Mi Credit</string>
     <string name="theme_batch_has_update_text">%1$d temi hanno aggiornamenti disponibili</string>
     <string name="theme_batch_updating_text">%1$d temi sono stati aggiornati</string>
     <string name="theme_batch_update_all">Aggiorna tutto</string>

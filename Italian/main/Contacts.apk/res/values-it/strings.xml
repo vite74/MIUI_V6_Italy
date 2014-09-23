@@ -5,7 +5,7 @@
     <string name="resource_app_name">Sfoglia risorse</string>
     <string name="resource_delete">Elimina</string>
     <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit">" MiCredits"</string>
+    <string name="resource_price_unit">" Mi Credits"</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Nessuna scheda SD rilevata</string>
     <string name="sdcard_not_mounted_dialog_message">"Inserisci la scheda SD ora.

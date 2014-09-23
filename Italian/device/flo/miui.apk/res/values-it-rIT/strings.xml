@@ -38,7 +38,7 @@
     <string name="copyright">Copyright</string>
     <string name="user_agreement">Accordo utente</string>
     <string name="privacy_policy">Accordo privacy</string>
-    <string name="mibi_license">Accordo MiCredit</string>
+    <string name="mibi_license">Accordo Mi Credit</string>
     <string name="user_manual">Guida utente</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Tper leggere queste informazioni vai su %s.</string>
     <string name="perm_payment_lab">Servizio di pagamento Xiaomi</string>

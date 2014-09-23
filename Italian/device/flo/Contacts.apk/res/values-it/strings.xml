@@ -1054,7 +1054,7 @@ Saranno cancellati i dati dei contatti anche dal tuo account Mi Cloud."</string>
     <string name="resource_present">Regalo</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit">" MiCredits"</string>
+    <string name="resource_price_unit">" Mi Credits"</string>
     <string name="resource_purchase_getting_order">Recupero info ordine in corso…</string>
     <string name="resource_purchase_verifying_payment">Verifica info pagamento in corso…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle info di pagamento…</string>

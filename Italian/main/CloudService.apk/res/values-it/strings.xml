@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xmpp_server_addr" />
-    <string name="app_name">MiCloud</string>
+    <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza SMS</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
@@ -59,12 +59,12 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="button_cancel">Annulla</string>
     <string name="enable_micloud">Registrati o crea un account</string>
     <string name="micloud_more">Info aggiuntive</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
-    <string name="cmcc_micloud_dspt">Usa MiCloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
+    <string name="cmcc_micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo,</string>
     <string name="micloud_sec_dspt">e condividere cose con i tuoi amici.</string>
     <string name="micloud_dspt_provision">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo, e condividere cose con i tuoi amici.</string>
-    <string name="start_micloud">Avvia MiCloud</string>
+    <string name="start_micloud">Avvia Mi Cloud</string>
     <string name="micloud_proceed">Continua</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
@@ -131,24 +131,24 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="system_sync_off">Sincronizzazione di sistema disattivata</string>
     <string name="sync">Sincronizza</string>
     <string name="app_sync_off">Sincronizzazione applicazioni disattivata</string>
-    <string name="micloud">MiCloud</string>
+    <string name="micloud">Mi Cloud</string>
     <string name="wifi_disconnected">Nessuna rete Wi-Fi</string>
     <string name="wifi">W-Fi</string>
     <string name="detail">Dettagli</string>
     <string name="normal">Normale</string>
     <string name="finish">Completato</string>
     <string name="remind_later">Ricordami più tardi</string>
-    <string name="enable_cloud_service_notification">"Non hai attivato MiCloud"</string>
+    <string name="enable_cloud_service_notification">"Non hai attivato Mi Cloud"</string>
     <string name="contact">Contatti</string>
     <string name="sms">SMS</string>
     <string name="photo">Foto</string>
     <string name="micloud_first_login_title" />
     <string name="micloud_first_login_summary" />
-    <string name="micloud_unlogin_for_time_title">Attiva MiCloud</string>
+    <string name="micloud_unlogin_for_time_title">Attiva Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">Interrompi sincronizzazione</string>
     <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>
-    <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo MiCloud.</string>
+    <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo Mi Cloud.</string>
     <string name="micloud_main_sync_now">Sincronizza adesso</string>
     <string name="micloud_main_network_error">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>

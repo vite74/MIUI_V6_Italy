@@ -1054,7 +1054,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="add_xiaomi_account_dialog_btn">Usa account Xiaomi</string>
     <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
     <string name="batch_delete">Eliminazione multipla</string>
-    <string name="batch_delete_msg">"Cancellare %d contatti? Saranno cancellati i dati dei contatti anche dal tuo account MiCloud."</string>
+    <string name="batch_delete_msg">"Cancellare %d contatti? Saranno cancellati i dati dei contatti anche dal tuo account Mi Cloud."</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="other_contacts">Altri contatti</string>
     <string name="set_photo_failed_msg">"Impossibile assegnare l'immagine."</string>

@@ -111,7 +111,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="micloud_area_code_hot">Hot</string>
     <string name="activate_phone_send_sms_fail">Impossibile inviare il messaggio di attivazione</string>
     <string name="activate_phone_server_error">Errore del server</string>
-    <string name="activate_phone_failed_notif_title">Impossibile avviare MiCloud</string>
+    <string name="activate_phone_failed_notif_title">Impossibile avviare Mi Cloud</string>
     <string name="activate_phone_send_sms_failed_notif">Impossibile inviare il messaggio di attivazione</string>
     <string name="activate_phone_server_error_notif">Errore del server</string>
     <string name="user_agreement_p1">"Accedendo accetti
@@ -158,7 +158,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="trust_device">Autorizza dispositivo</string>
     <string name="vcode_prompt_long">Inserisci il codice di verifica generato tramite il sistema di sicurezza Xiaomi</string>
     <string name="vcode_notification_title">Il tuo accesso di verifica è incompleto</string>
-    <string name="activate_phone_failed_notif_title_msim">Impossibile avviare MiCloud per SIM %s</string>
+    <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
     <string name="activate_status_desc_getting_device_info">Recupero info dispositivo</string>

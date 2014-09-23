@@ -95,7 +95,7 @@ E' necessario Android 4.4 o superiore. "</string>
     <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="bind_bracelet">Trova MiBand</string>
     <string name="bracelet_login_title">Benvenuto in MiBand</string>
-    <string name="bracelet_login_info">"L'accesso consentirà a MiCloud di analizzare le attività e il sonno per darti suggerimenti scientifici"</string>
+    <string name="bracelet_login_info">"L'accesso consentirà a Mi Cloud di analizzare le attività e il sonno per darti suggerimenti scientifici"</string>
     <string name="male">Maschio</string>
     <string name="female">Femmina</string>
     <string name="cm">" Cm"</string>

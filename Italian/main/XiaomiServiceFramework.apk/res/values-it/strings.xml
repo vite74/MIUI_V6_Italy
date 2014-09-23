@@ -3,7 +3,7 @@
     <string name="app_name">Servizi Xiaomi</string>
     <string name="xmsf_activate_info">Attiva informazioni XMSF</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
-    <string name="activate_phone_failed_notif_title_msim">Impossibile avviare MiCloud per la SIM %s</string>
+    <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
     <string name="activate_status_desc_wait_for_phone_service">In attesa di servizio telefonico</string>

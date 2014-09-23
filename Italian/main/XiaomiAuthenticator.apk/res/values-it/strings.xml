@@ -8,9 +8,9 @@
   <string name="activation_page_btn_txt">Attiva</string>
   <string name="activation_page_info">Esegui il login su https://account.xiaomi.com per attivarlo</string>
   <string name="add_account_menu_item">Aggiungi account</string>
-  <string name="app_name">MiAuthenticator</string>
+  <string name="app_name">Mi Authenticator</string>
   <string name="app_name_lockpattern">LockPattern</string>
-  <string name="app_name_short">MiAuthenticator</string>
+  <string name="app_name_short">Mi Authenticator</string>
   <string name="authenticator_page_reactivation">Riattiva</string>
   <string name="button_add_account">Aggiungi account</string>
   <string name="button_add_account_manual_entry">Aggiungi account manualmente</string>

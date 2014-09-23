@@ -70,7 +70,7 @@
     <string name="search_no_result">Nessun risultato trovato</string>
     <string name="search_failed">Ricerca fallita</string>
     <string name="search_more_failed">Impossibile caricare i risultati</string>
-    <string name="gesture_pad_first_line_tips">I tasti volume degli auricolari possono regolare direttamente il volume di MiTv o Mi Box</string>
+    <string name="gesture_pad_first_line_tips">I tasti volume degli auricolari possono regolare direttamente il volume di Mi Tv o Mi Box</string>
     <string name="gesture_pad_sencond_line_tips">Premere a lungo al centro dello schermo per visualizzare la regolazione del volume; scorrere su o giu per regolare</string>
     <string name="airkan_disconnect">Nessun dispositivo connesso</string>
     <string name="projection_failed_for_disconnect">Nessun dispositivo connesso</string>
@@ -99,8 +99,8 @@
     <string name="match_brand_selection_des">%1$s marche totali</string>
     <string name="circlepad_slide_tips">Esegui un movimento circolare per regolare il volume</string>
     <string name="match_mibox_first">Trova Mi Box!</string>
-    <string name="match_mibox_sencond">Telecomando su misura per MiTv per dare una esperienza di controllo più accurata e maggiori funzionalità</string>
-    <string name="match_mibox_third">Dopo aver rilevato nuovi MiTv, il box ti aiuterà ad aggiungere il relativo telecomando</string>
+    <string name="match_mibox_sencond">Telecomando su misura per Mi Tv per dare una esperienza di controllo più accurata e maggiori funzionalità</string>
+    <string name="match_mibox_third">Dopo aver rilevato nuovi Mi Tv, il box ti aiuterà ad aggiungere il relativo telecomando</string>
     <string name="continue_to_add_other_rc">Prosegui per aggiungere un altro telecomando</string>
     <string name="respond">"C'è una reazione"</string>
     <string name="not_respond">Nessuna reazione</string>
@@ -155,9 +155,9 @@
     <string name="fail_add_controller_photo">Aggiungi una foto del telecomando</string>
     <string name="fail_feedback">Feedback</string>
     <string name="bullet_hint">Invia una raffica di video da guardare!</string>
-    <string name="mitv_assistant_setting_version">Assistente MiTv v. %1$s</string>
+    <string name="mitv_assistant_setting_version">Assistente Mi Tv v. %1$s</string>
     <string name="mibox">NiBox</string>
-    <string name="mitv">MiTv</string>
+    <string name="mitv">Mi Tv</string>
     <string name="airkan_disconnect_display_name">Nessun dispositino connesso</string>
     <string name="management_video_recent_watch">Visti di recente</string>
     <string name="management_video_favor">Cronologia e preferiti</string>

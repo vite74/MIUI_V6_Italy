@@ -91,7 +91,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Sequenza dimenticata&lt;/u&gt;</string>
   <string name="login">Login</string>
   <string name="main_preference_screen_title">Impostazioni</string>
-  <string name="mycard_scan_barcode">Scanner MiID Code</string>
+  <string name="mycard_scan_barcode">Scanner Mi ID Code</string>
   <string name="new_pattern_tip">Inserisci una &lt;font color=#fb3500&gt;Nuova&lt;/font&gt; sequenza di movimenti da usare come password, con almeno 4 punti connessi.</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
@@ -114,8 +114,8 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="rename_message">Rinomina %1$s</string>
   <string name="resetbtn_patternforgotten">Reimposta ora</string>
   <string name="save_key_message">Salva chiave per</string>
-  <string name="scan_barcode">Scansiona MiID</string>
-  <string name="scan_barcode_info">Posiziona e scansiona un codice a barre MiID nel mirino.</string>
+  <string name="scan_barcode">Scansiona Mi ID</string>
+  <string name="scan_barcode_info">Posiziona e scansiona un codice a barre Mi ID nel mirino.</string>
   <string name="secret_saved">Password salvata</string>
   <string name="security_setting">Impostazioni sicurezza</string>
   <string name="settings_menu_item">Impostazioni</string>

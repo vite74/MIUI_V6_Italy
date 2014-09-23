@@ -24,7 +24,7 @@
     <string name="mipay_button_ok">Conferma</string>
     <string name="mipay_button_finish">Fine</string>
     <string name="mipay_loading">Caricamento in corso…</string>
-    <string name="mipay_update_title">Mipay è stato aggiornato!</string>
+    <string name="mipay_update_title">Mi Pay è stato aggiornato!</string>
     <string name="mipay_button_update">Aggiornato</string>
     <string name="mipay_check_order_title">Contatore</string>
     <string name="mipay_create_order_progress">Creazione ordine…</string>

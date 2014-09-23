@@ -155,7 +155,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="giftcard_title">Carta Regalo Mi Credit</string>
     <string name="giftcard_define_detail">Usa questa carta regalo proprio come normali Mi Credit. Potresti ricevere carte regalo partecipando a eventi o promozioni di Xiaomi.</string>
     <string name="progress_mipay_creating">Generazione ordine…</string>
-    <string name="mipay_error">Mipay fallito</string>
+    <string name="mipay_error">Mi Pay fallito</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>

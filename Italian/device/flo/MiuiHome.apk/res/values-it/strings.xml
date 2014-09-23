@@ -126,7 +126,7 @@
     <string name="gadget_photo_22_label">Cornice 2x2</string>
     <string name="gadget_photo_24_label">Cornice 2x4</string>
     <string name="gadget_google_search_label">Ricerca Google</string>
-    <string name="gadget_mtz_label">MiGadget</string>
+    <string name="gadget_mtz_label">Mi Gadget</string>
     <string name="gadget_load_error">Errore caricamento widget…</string>
     <string name="invalid_contact_shortcut">Collegamento non valido</string>
     <string name="guide_tips_editing_mode">Tocca e tieni premuto per prendere un widget</string>

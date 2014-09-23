@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xmpp_server_addr" />
-    <string name="app_name">MiCloud</string>
+    <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza SMS</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>

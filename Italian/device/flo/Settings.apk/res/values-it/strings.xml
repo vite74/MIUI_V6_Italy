@@ -2428,11 +2428,11 @@ ed esegui il software."</string>
     <string name="msd_install_status_undo">Installla driver</string>
     <string name="msd_install_status_done">Driver installato.</string>
     <string name="msd_driver_download">Scarica driver</string>
-    <string name="msd_driver_download_xp">"Per i PC, scarica MiPhoneManager per il rilevamento dell'unità di memoria USB"</string>
+    <string name="msd_driver_download_xp">"Per i PC, scarica Mi Phone Manager per il rilevamento dell'unità di memoria USB"</string>
     <string name="msd_driver_download_xp_url">Ottieni i driver da http://zhushou.xiaomi.com/</string>
     <string name="msd_driver_download_mac">Per i Mac, scarica il driver e clicca su AndroidFileTransfer.dmg per installarli</string>
     <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
-    <string name="msd_install_download_zhushou">MiPhoneManager scaricato</string>
+    <string name="msd_install_download_zhushou">Mi Phone Manager scaricato</string>
     <string name="vpn_settings_password">VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>

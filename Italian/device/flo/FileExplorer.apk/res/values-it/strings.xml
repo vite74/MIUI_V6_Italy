@@ -43,7 +43,7 @@
     <string name="category_favorite">Preferiti</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Log</string>
-    <string name="category_mirouter">MiRouter</string>
+    <string name="category_mirouter">Mi Router</string>
     <string name="operation_rename_message">Inserire un nome</string>
     <string name="operation_create_folder_message">Inserire nome cartella</string>
     <string name="operation_delete_confirm_message">"Confermare l'eliminazione?"</string>

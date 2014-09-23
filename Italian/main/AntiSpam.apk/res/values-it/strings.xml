@@ -226,7 +226,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_antispam_mode_smart">Blocco intelligente</string>
     <string name="st_antispam_mode_blacklist">Usa solo lista blocco</string>
     <string name="st_antispam_mode_only_contacts">Consenti solo contatti</string>
-    <string name="st_antispam_mode_only_whitelist">Consenti solo esclusioni</string>
+    <string name="st_antispam_mode_only_whitelist">Consenti solo eccezioni</string>
     <string name="st_antispam_mode_only_all_deny">Blocca tutto</string>
     <string name="st_antispam_mode_add_new">Aggiungi modalità</string>
     <string name="st_antispam_title_whitelist">eccezioni</string>

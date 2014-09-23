@@ -205,7 +205,7 @@
     <string name="resource_exchange_success">Transazione completata</string>
     <string name="resource_exchange_share_code_dlg_title">Invia codice</string>
     <string name="resource_exchange_share_code_dlg_content">Il codice acquistato con successo per %1$s è: %2$s. Adesso puoi condividerlo con i tuoi amici.</string>
-    <string name="resource_exchange_share_code_content">Hai ricevuto un codice per %1$s nello store temi MIUI. Il tuo saldo MiCredt è: %2$s. Tocca %3$s per utilizzarlo adesso.</string>
+    <string name="resource_exchange_share_code_content">Hai ricevuto un codice per %1$s nello store temi MIUI. Il tuo saldo Mi Credit è: %2$s. Tocca %3$s per utilizzarlo adesso.</string>
     <string name="resource_exchange_purchase_unkown_error">Si è verificato un errore sconosciuto. Accedi a http://market.xiaomi.com per vedere lo stato del tuo pagamento.</string>
     <string name="resource_comment_all_comments">Tutti i commenti</string>
     <string name="resource_comment_good_comments">Positivi</string>

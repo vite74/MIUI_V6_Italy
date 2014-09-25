@@ -2,13 +2,15 @@
 <resources>
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Siamo spiacenti, il formato video selezionato non può essere riprodotto in streaming sul dispositivo.</string>
-    <string name="vp_error_get_play_url_back_to_continue">"Impossibile ottenere la riproduzione dall'url, torna indietro per continuare."</string>
     <string name="vp_VideoView_error_text_unknown">Siamo spiacenti, il formato video selezionato non può essere riprodotto.</string>
     <string name="vp_VideoView_error_title">Errore di riproduzione video!</string>
     <string name="vp_VideoView_error_button">OK</string>
-    <string name="menu_item_about_label">Informazioni</string>
     <string name="about_title">Informazioni</string>
     <string name="about_app_name">Mi Player</string>
+    <string name="ad_countdown">Pubblicità rimanente: %s secondi</string>
+    <string name="prefix_countdown">Pubblicità rimanente:</string>
+    <string name="suffix_countdown">secondi</string>
+    <string name="ad_moredetail">Altri dettagli</string>
     <string name="about_version">1.0.1</string>
     <string name="video_info_length_label">Lunghezza:</string>
     <string name="video_info_resolution_label">Risoluzione video:</string>
@@ -25,11 +27,7 @@
     <string name="loading_video_netplay_label">Caricamento, attendere prego…</string>
     <string name="buffering">Creazione buffer…</string>
     <string name="airkan_video_playing_in">Video in</string>
-    <string name="airkan_video_playing">riproduzione</string>
     <string name="airkan_tips">"Premi qui per trasmettere il video su box o TV"</string>
-    <string name="menu_item_orientation_auto_sensor_action">Abilita Rotazione</string>
-    <string name="menu_item_orientation_fixed_by_videosize_action">Disabilita Rotazione</string>
-    <string name="menu_item_sub_title">Sottotitoli</string>
     <string name="toast_message_continue_play_from">"Riprendi da "</string>
     <string name="toast_message_continue_play_hour">ore</string>
     <string name="toast_message_continue_play_minute">min</string>
@@ -42,17 +40,12 @@
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
     <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>
-    <string name="about_developer_label">Sviluppatore</string>
-    <string name="about_developer_name">MIUI</string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
     <string name="nowifi_alert_dialog_message">Stai per usare la rete mobile per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
     <string name="nowifi_alert_dialog_exit">Esci</string>
     <string name="menu_item_enable_audio_enhance">Attiva miglioramento audio</string>
     <string name="menu_item_disable_audio_enhance">Disattiva miglioramento audio</string>
-    <string name="menu_item_enable_3d_mode">Attiva 3D</string>
-    <string name="menu_item_disable_3d_mode">Disattiva 3D</string>
-    <string name="toast_message_set_misound">Configura Mi Audio</string>
     <string name="vp_next_ci">Avanti</string>
     <string name="vp_standard_definition">SD</string>
     <string name="vp_high_definition">HD</string>
@@ -62,7 +55,8 @@
     <string name="vp_get_url_error">"Impossibile ottenere l'indirizzo da riprodurre."</string>
     <string name="vp_exit">Esci</string>
     <string name="vp_back">Indietro</string>
-    <string name="vp_loading">Caricamento in corso…</string>
+    <string name="vp_newest_ep">Ultimo</string>
+    <string name="vp_loading_video">Caricamento…</string>
     <string name="vp_select_source">Seleziona sorgente</string>
     <string name="vp_select_ci">Seleziona ep.</string>
     <string name="vp_offline">Offline</string>
@@ -82,7 +76,21 @@
     <string name="vp_adapt_height">Adatta altezza</string>
     <string name="vp_using_16_9">Forza 16:9</string>
     <string name="vp_using_4_3">Forza 4:3</string>
-    <string name="local_media">Video locali</string>
+    <string name="vp_loading_download"><CDATA>in download </CDATA></string>
+    <string name="vp_install_title">Note di installazione</string>
+    <string name="vp_install">Installa</string>
+    <string name="vp_confirm">Conferma</string>
+    <string name="vp_retry">Riprova</string>
+    <string name="vp_cancel">Annulla</string>
+    <string name="vp_download_file_fail">Download fallito. Accertati di avere spazio sufficiente</string>
+    <string name="vp_download_connect_fail">Impossibile trovare URL. Controlla la tua connessione e riprova."</string>
+    <string name="vp_loading"><CDATA>in download </CDATA></string>
+    <string name="vp_client_message">Vuoi installare %1$s?</string>
+    <string name="vp_plugin_message">Goditi il suono in HD, installeremo un plugin HD per te, sei d'accordo?</string>
+    <string name="vp_closedialog">Conferma</string>
+    <string name="vp_hint">Suggerimento</string>
+    <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>
+    <string name="local_media">Locali</string>
     <string name="count_ge_favorite">preferito da %d</string>
     <string name="userdata_alert_title">YUtilizzo dati</string>
     <string name="userdata_alert_content">Attualmente stai usando la rete dati, potrebbe comportare dei costi elevati, sei certo di voler proseguire?</string>
@@ -244,6 +252,7 @@
     <string name="select_tvs">Seleziona tv</string>
     <string name="forecasts">Previsioni</string>
     <string name="key_back_down_toast">Premi di nuovo Indietro per uscire</string>
+    <string name="vp_support_by">Supportato da %1$s</string>
     <string name="app_name">Video</string>
     <string name="xiaomi_account_type_unsupported">Il sistema non supporta gli account Xiaomi.</string>
     <string name="no_login_xiaomi_account">Accedi con il tuo account Xiaomi per lasciare un commento</string>
@@ -314,4 +323,5 @@
     <string name="clarity_supper">Chiarezza superiore</string>
     <string name="clarity_high">Chiarezza elevata</string>
     <string name="clarity_standard">Chiarezza standard</string>
+    <string name="vp_unknown_source">Fonte sconosciuta</string>
 </resources>

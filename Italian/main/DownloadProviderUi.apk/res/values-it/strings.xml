@@ -102,6 +102,8 @@
     <string name="download_list_open_xl_cancel">Annulla</string>
     <string name="download_list_intoAuth">Accesso alla pagina di autorizzazione MIUI</string>
     <string name="download_list_intoAuthAlert">Attendere</string>
+    <string name="unbind_xunlei_success">Scollegamento account Xunlei completato</string>
+    <string name="unbind_xunlei_2_success">Modifica account Xunlei completato</string>
     <string name="app_label">Download</string>
     <string name="download_title">Download</string>
     <string name="download_title_sorted_by_date">Download - Ordinati per data</string>

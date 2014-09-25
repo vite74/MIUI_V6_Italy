@@ -152,15 +152,26 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="checking_account">Verifica account…</string>
     <string name="button_cancel">Annulla</string>
     <string name="mili_center">Mi Credit</string>
-    <string name="mipay_center">Bank Account</string>
+    <string name="loading_mili_center">Caricamento…</string>
+    <string name="mipay_center">Account bancari</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
-    <string name="add_weibo_account">Aggiungi account</string>
+    <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
+    <string name="add_account">Aggiungi account</string>
+    <string name="qq">QQ</string>
+    <string name="bind_qq">Aggiungi il tuo account QQ</string>
+    <string name="facebook">Facebook</string>
+    <string name="bind_facebook">Aggiungi il tuo account Facebook</string>
     <string name="binded">Associato</string>
     <string name="nobind">Non autorizzato</string>
     <string name="unbind">Revoca autorizzazione</string>
-    <string name="button_unbind"><u>Dissocia</u></string>
+    <string name="button_unbind">Dissocia</string>
+    <string name="unbind_weibo_description">Dopo lo scollegamento non potrai sincronizzare i contatti e non potrai accedere al tuo Mi Account tramite Sina Weibo</string>
+    <string name="unbind_sns_description">Dopo lo scollegamento non potrai accedere al tuo Mi Account tramite Sina Weibo</string>
+    <string name="confirm_unbind">Confermi lo scollegamento?</string>
+    <string name="binded_description" formatted="false">"%s collegato correttamente 
+ Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
     <string name="update_contacts">Aggiorna contatti</string>
     <string name="update_contacts_description">"Sina Weibo userà il tuo account Mi per sincronizzare i tuoi dati tra le varie piattaforme."</string>
     <string name="updated_contacts">%s contatti aggiornati</string>
@@ -226,7 +237,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="account_settings">Impostazioni account</string>
     <string name="opening_page">Apertura…</string>
     <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona il codice QR di nuovo dopo aver eseguito l'accesso."</string>
-    <string name="scan_barcode_title">"Esegui l'accesso sicuro all'account Xiaomi, scansioando il codice QR dalla pagina web o dalla TV"</string>
+    <string name="scan_barcode_title">"Esegui l'accesso sicuro all'account Xiaomi, scansionato il codice QR dalla pagina web o dalla TV"</string>
     <string name="micloud_sync_info">Ci sono %d contenuti da sincronizzare</string>
     <string name="micloud_sync_info_synced">Tutti i contenuti sono aggiornati</string>
     <string name="micloud_space_info">Rimanente: %s</string>

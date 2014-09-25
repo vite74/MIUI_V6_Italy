@@ -19,7 +19,6 @@
     <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione della fotocamera?</string>
     <string name="save">Si</string>
     <string name="no_save">No</string>
-    <string name="review_cancel">Annulla</string>
     <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_recordlocation_title">Rileva posizione</string>
     <string name="pref_camera_recordlocation_default">false</string>
@@ -480,7 +479,7 @@ ed esci dall'inquadratura"</string>
     <string name="simple_mode_button_text_panorama">Esci dalla modalità panorama</string>
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
     <string name="simple_mode_button_text_audio_capture">Esci dalla modalità scatto vocale</string>
-	<string name="simple_mode_button_text_slow_video">Esci dalla modalità fast-motion</string>
+    <string name="simple_mode_button_text_slow_video">Esci dalla modalità fast-motion</string>
     <string name="simple_mode_button_text_fast_video">Esci dalla modalità slow-motion</string>
     <string name="simple_mode_title">Modalità semplice</string>
     <string name="pref_settings_mode">Modalità fotocamera</string>
@@ -630,7 +629,8 @@ ed esci dall'inquadratura"</string>
     <string name="pref_capture_settings">Impostazioni fotocamera</string>
     <string name="pref_camcorder_settings">Impostazioni videocamera</string>
     <string name="pref_advance_settings">Impostazioni avanzate</string>
-    <string name="pref_camera_front_fb_title">Migliora tono pelle</string>
+    <string name="accessibility_video_pause_button">VideoPauseButton</string>
+    <string name="accessibility_video_capture_button">VideoCaptureButton</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
     <string name="pref_camera_ubifocus_title">Ubifocus</string>
     <string name="simple_mode_button_text_ubifocus">Chiudi ubifocus</string>
@@ -639,4 +639,5 @@ ed esci dall'inquadratura"</string>
     <string name="ubi_focus_capture_fail">Non è stato possibile scattare la foto</string>
     <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
+    <string name="accessibility_panorama_review_cancel">Controllo annullamento panorama</string>
 </resources>

@@ -1073,9 +1073,9 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="lockpattern_change_lock_pattern_label">Cambia sequenza sblocco</string>
     <string name="lockpattern_change_lock_pin_label">Cambia PIN di sblocco</string>
     <string name="lockpattern_need_to_unlock">Conferma sequenza salvata</string>
+    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_need_to_unlock_wrong">Riprova:</string>
-
-   
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Inserisci una sequenza di sblocco</string>
     <string name="lockpattern_recording_intro_footer">Premi Menu per visualizzare la guida.</string>
     <string name="lockpattern_recording_inprogress">Solleva il dito al termine</string>
@@ -2116,7 +2116,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_tether">Tethering</string>
     <string name="search_brightness">Luminosità</string>
     <string name="search_wallpaper">Sfondo</string>
-    <string name="search_launcher">Launcher</string>
     <string name="search_accelerometer">Accelerometro</string>
     <string name="search_screen_timeout">Disattivazione schermo</string>
     <string name="search_ring_volume">Volume suoneria</string>
@@ -2177,7 +2176,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="access_control_app_entry_multiple">Apri %s</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_general">Generale</string>
-    <string name="launcher_settings_title">Launcher</string>
     <string name="screen_timeout_title">Disattivazione schermo</string>
     <string name="touch_title">Touch</string>
     <string name="touch_sensitive_title">Modalità guanti</string>
@@ -2189,7 +2187,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="screen_never_timeout_title">Non disattivare mai</string>
     <string name="screen_on_proximity_sensor_title">Prevenzione chiamate dalla tasca</string>
     <string name="screen_on_proximity_sensor_summary">Il dispositivo si bloccherà automaticamente quando riposto in una tasca</string>
-    <string name="preferred_launcher_title">Launcher preferito</string>
     <string name="preferred_application_title">Preferito %s</string>
     <string name="preferred_application_warning_title">Sostituisci il predefinito %s</string>
     <string name="preferred_application_warning_message">La sostituzione di %1$s come predefinito può aumentare il consumo di batteria, ridurre la velocità, e mettere a rischio i contenuti nel dispositivo. Usa invece %2$s.</string>
@@ -2797,17 +2794,22 @@ Disabilitare le finestre flottanti?"</string>
     <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della schermata di blocco.</string>
     <string name="translation_contributors_title">Collaboratori</string>
     <string name="lock_intro_message">Lock_intro_message</string>
-    <string name="wifi_type_approval_title">Aprrovazione tipologia</string>
+    <string name="wifi_type_approval_title">Approvazione tipologia</string>
     <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
     <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata,i dati saranno salvati automaticamente nella memoria interna del dispositivo</string>
     <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Abilitare la connessione dati?</string>
+    <string name="free_wifi_agreement_remind_never">Non chiedere più</string>
+    <string name="free_wifi_user_agreement">Quando utilizzi WiWide per collegarti ad una rete, verrà utilizzato il tuo numero telefonico per verificare la tua identità.</string>
+    <string name="free_wifi_user_agreement_allow">OK</string>
+    <string name="free_wifi_user_agreement_title">Termini di utilizzo</string>
+    <string name="translation_contributors_summary" />
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_display_category">Display</string>
     <string name="miracast_menu_search">Ricerca</string>
     <string name="miracast_menu_searching">Ricerca</string>
-    <string name="miracast_menu_teardown">Teardown</string>
+    <string name="miracast_menu_teardown">Scollega</string>
     <string name="miracast_menu_connect">Avvia la trasmissione</string>
     <string name="miracast_menu_disconnect">Ferma la trasmissione</string>
     <string name="miracast_menu_forget">Dimentica display</string>
@@ -2829,7 +2831,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="miracast_dialog_title">%1$s</string>
     <string name="miracast_error_cancelconnect">La connessione è attualmente occupata</string>
     <string name="miracast_search_for_displays">Ricerca di display wireless in corso…</string>
-    <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perchè un PC sta trasmettendo a questo dispositivo.</string>
+    <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perché un PC sta trasmettendo a questo dispositivo.</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>
 </resources>

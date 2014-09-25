@@ -767,6 +767,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="cfu_title">Inoltra tutte le chiamate</string>
     <string name="cfb_title">Inoltra se sei in conversazione</string>
     <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
+    <string name="cfnrc_title">Inoltra quando non raggiungbile</string>
     <string name="cfnry_title">Inoltra se non hai risposto</string>
     <string name="disable_all_cf">Disabilita tutti gli intoltri di chiamate</string>
     <string name="call_settings_category">Chiamate</string>
@@ -840,6 +841,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_sim_lock">Bloccata</string>
     <string name="msim_sim_radio_off">Disattivata</string>
     <string name="msim_enable_sim">Attivata</string>
+    <string name="msim_set_icc_card_error">Errore carta ICC</string>
     <string name="msim_info_editor_name">Modifica nome SIM</string>
     <string name="msim_info_editor_number">Modifica numero SIM</string>
     <string name="msim_info_editor_set_name_error">Si è verificato un errore, riprova più tardi</string>

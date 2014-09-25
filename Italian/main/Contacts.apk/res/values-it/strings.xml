@@ -917,7 +917,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_antispam_mark">Segnala come spam</string>
     <string name="antispam_mark_my_contribution">Mostra ad altri utenti che ho segnalato questo numero</string>
     <string name="antispam_provider_format">Segnalato come spam da %s</string>
-    <string name="type_mx_msg">Messaggi Cloud</string>
+    <string name="type_mx_msg">Mi Message</string>
+    <string name="qr_card_card">Il mio QR Code</string>
     <string name="menu_new_favorite_action_bar">Nuovo</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Primario</string>
@@ -1121,4 +1122,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="menu_edit_mode">Modalità modifica</string>
     <string name="clip_dialog_title">Comporre il numero copiato?</string>
     <string name="edit_contact_photo">Modifica immagine del contatto</string>
+    <string name="qrcode_card_title">Scheda QR code</string>
+    <string name="scan_qrcode_card_hint1">Scansiona QR Code</string>
+    <string name="scan_qrcode_card_hint2">Aggiungi le mie informazioni ai tuoi contatti</string>
+    <string name="create_qrcode_fail_message">Creazione QR Code fallita</string>
 </resources>

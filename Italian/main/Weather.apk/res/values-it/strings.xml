@@ -9,6 +9,7 @@
     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="view_indexes_wind_unit">km/h</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
@@ -59,7 +60,6 @@
     <string name="view_indexes_item_tommorrow">Domani</string>
     <string name="view_aqi_main_no_data">Nessuno</string>
     <string name="activity_main_refresh_time">Ultimo aggiornamento %1$s</string>
-    <string name="view_indexes_wind_unit">km/h</string>
     <string name="activity_main_update_time">Aggiornato alle %1$s</string>
     <string name="activity_main_update_time_right_now">Ora</string>
     <string name="activity_main_refresh_timeout">Timeout aggiornamenti</string>
@@ -67,4 +67,5 @@
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
+    <string name="view_sun_titile">Alba e tramonto</string>
 </resources>

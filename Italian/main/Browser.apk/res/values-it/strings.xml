@@ -235,10 +235,10 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="search_shipin">Video</string>
     <string name="search_tupian">Immagine</string>
     <string name="MIUI_startpage">Pagina iniziale</string>
-    <string name="find_on_page">Cerca nella pagina</string>   
+    <string name="find_on_page">Cerca nella pagina</string>
     <string name="url_copy_done">URL copiato negli appunti</string>
     <string name="empty_history">Nessuna cronologia del browser.</string>
-    <string name="pref_setting_title">Impostazioni pagina</string>    
+    <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_extras_website_settings">Impostazioni siti web</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Modifica questa impostazione nella schermata Impostazioni > Avanzate > Sito web.</string>
@@ -295,7 +295,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="download_complete">Download completato</string>
     <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
     <string name="app_new_version">"Hai già l'ultima versione"</string>
-    <string name="clip_dialog_title">"Aprire l'URL copiato?"</string>    
+    <string name="clip_dialog_title">"Aprire l'URL copiato?"</string>
     <string name="quicklinks_management">Siti utili</string>
     <string name="download">Download</string>
     <string name="downloading">In download…</string>
@@ -354,6 +354,8 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="quicklink_not_saved">Impossibile aggiungerlo alla pagina iniziale</string>
     <string name="add_quicklinks">Aggiungi</string>
     <string name="add_ql_bm_title">Salva</string>
+    <string name="add_to_desk">Aggiungi alla Home</string>
+    <string name="add_to_desk_success">Aggiungi alla Home</string>
     <string name="save_image_success">Immagine salvata</string>
     <string name="save_image_failed">"Impossibile salvare l'immagine"</string>
     <string name="pref_version_summary">Versione:%s</string>

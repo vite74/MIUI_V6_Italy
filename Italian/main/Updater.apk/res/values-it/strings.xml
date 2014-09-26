@@ -132,9 +132,9 @@
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
-    <string name="update_feedback_end_sum">Puoi accedere ogni Martedì</string>
+    <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>
     <string name="update_feedback_expired">"Ti sei perso la griglia feedback di questa settimana.
-Ma puoi partecipar eil prossimo Martedì"</string>
+Ma puoi partecipare il prossimo martedì"</string>
     <string name="update_happy">Grandioso!</string>
     <string name="update_general">Così così</string>
     <string name="update_sad">Mah (non buono)</string>
@@ -148,7 +148,7 @@ Ma puoi partecipar eil prossimo Martedì"</string>
     <string name="my_expect_update">Aspettative</string>
     <string name="get_update_error">Impossibile recuperare informazioni di aggiornamento</string>
     <string name="active_xiaomi_account_title">Attiva Mi Account</string>
-    <string name="active_xiaomi_account_msg">PEr attivare il tuo Mi Account, vai su https://account.xiaomi.com/pass/serviceLogin.</string>
+    <string name="active_xiaomi_account_msg">Per attivare il tuo Mi Account, vai su https://account.xiaomi.com/pass/serviceLogin.</string>
     <string name="active_xiaomi_account">Attiva</string>
     <string name="update_comment_title">Commenta</string>
     <string name="update_comment_hint" />
@@ -165,7 +165,7 @@ Ma puoi partecipar eil prossimo Martedì"</string>
     <string name="comment_upload_success">Inviato</string>
     <string name="comment_invalid">Vota questo aggiornamento (tocca le stelle)</string>
     <string name="comment_upload_not_logined">Devi prima accedere al tuo Mi Account</string>
-    <string name="fourgrid_hint_text">Grazie per aver scelto la versione DEveloper di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
+    <string name="fourgrid_hint_text">Grazie per aver scelto la versione Developer di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
     <string name="fourgrid_notificaiont">Mostra nella barra di stato</string>
     <string name="fourgrid_no_notificaiont">Non mostrare nella barra di stato</string>
     <string name="submit_progress">Invio</string>

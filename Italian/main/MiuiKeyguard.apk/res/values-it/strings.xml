@@ -78,4 +78,5 @@ Prego disattivare la modalità aereo."</string>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Dispositivo Bluetooth troppo lontano per sbloccare</string>
     <string name="missed_call_text">%d chiamate perse</string>
     <string name="wrong_password">Password non corretta</string>
+	<string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
    </resources>

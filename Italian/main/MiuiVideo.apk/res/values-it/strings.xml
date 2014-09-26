@@ -86,7 +86,7 @@
     <string name="vp_download_connect_fail">Impossibile trovare URL. Controlla la tua connessione e riprova."</string>
     <string name="vp_loading"><CDATA>in download </CDATA></string>
     <string name="vp_client_message">Vuoi installare %1$s?</string>
-    <string name="vp_plugin_message">Goditi il suono in HD, installeremo un plugin HD per te, sei d'accordo?</string>
+    <string name="vp_plugin_message">"Goditi il suono in HD, installeremo un plugin HD per te, sei d'accordo?"</string>
     <string name="vp_closedialog">Conferma</string>
     <string name="vp_hint">Suggerimento</string>
     <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>

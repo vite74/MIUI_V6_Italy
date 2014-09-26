@@ -1122,8 +1122,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="menu_edit_mode">Modalità modifica</string>
     <string name="clip_dialog_title">Comporre il numero copiato?</string>
     <string name="edit_contact_photo">Modifica immagine del contatto</string>
-    <string name="qrcode_card_title">Scheda QR code</string>
-    <string name="scan_qrcode_card_hint1">Scansiona QR Code</string>
+    <string name="qrcode_card_title">Codice QR del profilo</string>
+    <string name="scan_qrcode_card_hint1">Scansiona codice QR</string>
     <string name="scan_qrcode_card_hint2">Aggiungi le mie informazioni ai tuoi contatti</string>
-    <string name="create_qrcode_fail_message">Creazione QR Code fallita</string>
+    <string name="create_qrcode_fail_message">Creazione codice QR fallita</string>
 </resources>

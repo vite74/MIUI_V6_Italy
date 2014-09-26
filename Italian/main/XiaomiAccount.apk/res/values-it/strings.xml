@@ -237,7 +237,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="account_settings">Impostazioni account</string>
     <string name="opening_page">Apertura…</string>
     <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona il codice QR di nuovo dopo aver eseguito l'accesso."</string>
-    <string name="scan_barcode_title">"Esegui l'accesso sicuro all'account Xiaomi, scansionato il codice QR dalla pagina web o dalla TV"</string>
+    <string name="scan_barcode_title">"Esegui l'accesso sicuro all'account Xiaomi, scansionando il codice QR dalla pagina web o dalla TV"</string>
     <string name="micloud_sync_info">Ci sono %d contenuti da sincronizzare</string>
     <string name="micloud_sync_info_synced">Tutti i contenuti sono aggiornati</string>
     <string name="micloud_space_info">Rimanente: %s</string>

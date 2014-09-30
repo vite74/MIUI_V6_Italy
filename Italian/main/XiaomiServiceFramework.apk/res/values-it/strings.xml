@@ -38,7 +38,7 @@
     <string name="activate_status_desc_getting_sim_info_fail">Non puoi ottenere le informazioni della scheda SIM</string>
     <string name="sim_unactivated_title">La tua scheda SIM non è attiva</string>
     <string name="activate_popup_title_manual">Attivazione scheda SIM</string>
-    <string name="activate_popup_desc_sim_card">Ti verrà inviato un SMS per attivare la tua scheda SIM, in modo da poter attivare funzioni come %s (costi dipendenti dall'operatore)</string>
+    <string name="activate_popup_desc_sim_card">"Ti verrà inviato un SMS per attivare la tua scheda SIM, in modo da poter attivare funzioni come %s (costi dipendenti dall'operatore)"</string>
     <string name="activate_popup_desc_intl_sim_card">"Verrà inviato un SMS internazionale per attivare la tua scheda SIM in modo da abilitare funzioni come %s (costi dipendenti dall'operatore)"</string>
     <string name="activate_popup_desc_mixed_sim_cards">"Verrà inviato un SMS internazionale per attivare le tue 2 schede SIM in modo da abilitare funzioni come %s (costi dipendenti dall'operatore)"</string>
     <string name="activate_popup_desc_2_sim_cards">"2 SMS verranno inviati per attivare le tue 2 schede SIM in modo da abilitare funzioni come %s (costi dipendenti dall'operatore)"</string>

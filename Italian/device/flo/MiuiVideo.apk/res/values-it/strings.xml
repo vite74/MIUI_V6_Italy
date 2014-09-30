@@ -10,10 +10,10 @@
     <string name="about_title">Informazioni</string>
     <string name="about_app_name">Mi Player</string>
     <string name="about_version">1.0.1</string>
-    <string name="video_info_length_label">Lunghezza:</string>
+    <string name="video_info_length_label">Durata:</string>
     <string name="video_info_resolution_label">Risoluzione video:</string>
-    <string name="video_info_video_coding_label">Codifica formato video:</string>
-    <string name="video_info_audio_coding_label">Codifica formato audio:</string>
+    <string name="video_info_video_coding_label">Formato video:</string>
+    <string name="video_info_audio_coding_label">Formato audio:</string>
     <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
     <string name="video_info_audio_null">Nessuno</string>
     <string name="video_info_frame_rate_label">Framerate:</string>

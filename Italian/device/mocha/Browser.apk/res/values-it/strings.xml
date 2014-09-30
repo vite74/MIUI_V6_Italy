@@ -500,7 +500,7 @@
     <string name="miui_startpage">Pagina iniziale</string>
     <string name="dont_remind_again">Non chiedermi di nuovo</string>
     <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"L'indirzzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzionalità nelle Impostazioni."</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzionalità nelle Impostazioni."</string>
     <string name="pref_check_security_url">Sicurezza URL</string>
     <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
     <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>

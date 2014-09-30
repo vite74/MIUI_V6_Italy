@@ -75,7 +75,7 @@
     <string name="back">Indietro</string>
     <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
     <string name="record_download">Scarica da Mi Cloud</string>
-    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completaemnte scaricate.</string>
+    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completamente scaricate.</string>
     <string name="record_download_msg_reload">Questa registrazione non esiste</string>
     <string name="record_download_complete">Completato</string>
     <string name="record_download_paused">In pausa</string>

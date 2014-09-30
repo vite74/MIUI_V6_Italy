@@ -40,10 +40,10 @@
         <item>30 minuti</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Piccole</item>
-        <item>Normali</item>
-        <item>Grandi</item>
-        <item>Molto grandi</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lenta</item>
@@ -302,11 +302,11 @@
         <item>Monospace</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Molto piccole</item>
-        <item>Piccole</item>
-        <item>Medie</item>
-        <item>Grandi</item>
-        <item>Molto grandi</item>
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Nessuno</item>
@@ -532,6 +532,10 @@
         <item>Caldo</item>
         <item>Naturale</item>
         <item>Freddo</item>
+    </string-array>
+	    <string-array name="screen_saturation_title">
+        <item>Brillante</item>
+        <item>Normale</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

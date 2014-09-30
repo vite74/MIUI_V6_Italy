@@ -509,7 +509,7 @@
     <string name="orientation">Orientamento</string>
     <string name="duration">Durata</string>
     <string name="mimetype">Tipo MIME</string>
-    <string name="file_size">Dimensioni file</string>
+    <string name="file_size">Dimensione</string>
     <string name="maker">Autore</string>
     <string name="device_model">Dispositivo</string>
     <string name="flash">Flash</string>

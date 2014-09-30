@@ -120,9 +120,9 @@
     <string name="radioInfo_cid">Sistema di identificazione contenuti</string>
     <string name="sdcard_unmount">Smonta archivio USB</string>
     <string name="sdcard_format">Cancella archivio USB</string>
-    <string name="small_font">Piccole</string>
-    <string name="medium_font">Medie</string>
-    <string name="large_font">Grandi</string>
+    <string name="small_font">Piccolo</string>
+    <string name="medium_font">Medio</string>
+    <string name="large_font">Grande</string>
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Archivio USB</string>
     <string name="battery_info_status_label">Stato batteria:</string>
@@ -913,10 +913,10 @@ Il PIN potrebbe essere errato."</string>
     <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
     <string name="error_mnc_not23">Il campo MNC deve contenere 2 o 3 cifre.</string>
     <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite.</string>
-    <string name="menu_restore">Ripristina impostazioni predefinite</string>
+    <string name="menu_restore">Ripristina imp.predefinite</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
-    <string name="master_clear_summary">Cancella tutti i dati sul tablet</string>
+    <string name="master_clear_summary">Cancella tutti i dati del dispositivo</string>
     <string name="master_clear_desc">"Questa operazione cancellerà tutti i dati memorizzati nell'"<b>archivio interno</b>" del tablet, compresi:
 
 "<li>Il tuo account Google</li>"
@@ -2475,7 +2475,7 @@ ed esegui il software."</string>
     <string name="device_name">Nome dispositivo</string>
     <string name="device_edit_title">Rinomina dispositivo</string>
     <string name="device_name_input_hint">Inserisci il nome</string>
-    <string name="device_name_usage_point">Questo nome sarà visibile altri dispositivi con il Bluetooh abiltiato nelle vicinanze</string>
+    <string name="device_name_usage_point">Questo nome sarà visibile ad altri dispositivi con il Bluetooth abilitato nelle vicinanze</string>
     <string name="device_name_input_error">Impossbiile salvare il nome del dispositivo</string>
     <string name="drive_mode">Modalità auto</string>
     <string name="enable_drive_mode">Modalità auto</string>
@@ -2653,7 +2653,7 @@ ed esegui il software."</string>
     <string name="free_wifi_confirm">Ho capito</string>
 	<string name="manage_xiaomi_router">Gestisci router Xiaomi</string>
     <string name="xiaomi_router_notif_title">Notifica router Xiaomi</string>
-    <string name="xiaomi_router_notif_summary">Avvisami quando un router Xiaomi è disponibile</string>
+    <string name="xiaomi_router_notif_summary">Avvisa quando un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_available_notif_summary">Tocca per visualizzare</string>
     <string name="restrict_background_data_title">Limita dati in background</string>

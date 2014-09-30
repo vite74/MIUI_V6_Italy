@@ -261,7 +261,7 @@
     <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
     <string name="apply_theme_with_ringtones">Utilizza la suoneria del tema</string>
     <string name="settings">Impostazioni</string>
-    <string name="theme_user_agreement_content1">"Toccando D'accordo, accetti i termini indicati nella nostra "</string>
+    <string name="theme_user_agreement_content1">"Toccando D'accordo, accetti i termini indicati nel nostro "</string>
     <string name="theme_user_agreement_content2">Accordo utente</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Condizioni privacy</string>

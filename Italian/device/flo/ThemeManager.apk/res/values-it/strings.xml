@@ -7,7 +7,7 @@
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
     <string name="backup_theme_dialog_ok">Backup</string>
-    <string name="backup_theme_dialog_message">Backup tema corrente in %1$s</string>
+    <string name="backup_theme_dialog_message">Vuoi effettuare il backup del tema?</string>
     <string name="backup_theme_progress_message">Backup in corso, attendere prego…</string>
     <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
     <string name="backup_theme_name">Mio backup</string>

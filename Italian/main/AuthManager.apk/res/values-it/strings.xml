@@ -169,7 +169,7 @@
     <string name="Generic_Update">Aggiornamento Software</string>
     <string name="Generic_Shortcut">Menu contestuale</string>
     <string name="HIPS_SecurityPrompt_Caption">Avviso di Sicurezza</string>
-    <string name="HIPS_SecurityPrompt_Title">%1$s sta tentando di %2$s</string>
+    <string name="HIPS_SecurityPrompt_Title">%1$s sta tentando di accedere a %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Ricorda la selezione</string>
     <string name="HIPS_SecurityPrompt_Accept">Consenti (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject">Nega (%d)</string>

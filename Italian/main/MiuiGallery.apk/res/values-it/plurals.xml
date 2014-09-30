@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Cancellare %s foto dal &amp;lt;b>cloud&amp;lt;/b>?</item>
-        <item quantity="one">Cancellare %s foto dal &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="other">Cancellare %s foto dal cloud?</item>
+        <item quantity="one">Cancellare %s foto dal cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Cancellare %s foto?</item>

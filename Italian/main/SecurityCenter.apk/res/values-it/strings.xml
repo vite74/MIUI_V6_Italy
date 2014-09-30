@@ -534,7 +534,7 @@
     <string name="activity_title_apps_manager">App</string>
     <string name="activity_title_permissions_manager">Permessi</string>
     <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
-    <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente the MIUI sta impedendo alle app di avviarsi. Per verificare i permessi che sono stati concessi alle singole app, vai in Impostazioni -> Applicazioni</string>
+    <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi che sono stati concessi alle singole app, vai in Impostazioni -> Applicazioni</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Vuoto</string>
     <string name="hints_apps_perm_count">%d permessi</string>
@@ -555,7 +555,7 @@
     <string name="root_apply_title">Avviso importante</string>
     <string name="root_apply_step_1">"Concedere a %s l'accesso come root?"</string>
     <string name="root_apply_step_2">"Concedere l'accesso di root può portare il tuo dispositivo a diventare instabile."</string>
-    <string name="root_apply_step_3">La sicurezza dei tuoi dati utente(account, password e messaggi) potrebbe essere compromessa.</string>
+    <string name="root_apply_step_3">La sicurezza dei tuoi dati utente potrebbe essere compromessa.</string>
     <string name="root_apply_step_4">"Concedi l'accesso di root a tuo rischio."</string>
     <string name="root_apply_step_5">"Concedere a %s l'accesso come root?"</string>
     <string name="button_text_accept">Accetta</string>

@@ -63,10 +63,10 @@
     <string name="xunlei_switch">Motore di download Xunlei</string>
     <string name="turn_off_xunlei_title">Disabilita il motore di download Xunlei</string>
     <string name="turn_off_xunlei_message">Potresti riscontrare una minore velocità in download.</string>
-    <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
+    <string name="vip_auto_speedup">I membri Xunlei possono scaricare direttamente</string>
     <string name="xunlei_gaosu">Servizio Xunlei Highspeed</string>
     <string name="free_speedup_exp">Servizio gratuito Xunlei Highspeed</string>
-    <string name="valid_in_this_month">valido solamente questo mese</string>
+    <string name="valid_in_this_month">valido solo questo mese</string>
     <string name="xunlei_speed_service">Servizio di accelerazione Xunlei</string>
     <string name="open_xunlei_speed_service">Avvia il servizio Xunlei Highspeed</string>
     <string name="bind_xunlei_account">Associa un account Xunlei</string>
@@ -74,7 +74,7 @@
     <string name="experience_xunlei_account_speed">Xunlei members to accelerate service experience</string>
     <string name="high_speed_channel">Canale Highspeed</string>
     <string name="free_high_speed_channel">Canale gratuito Highspeed</string>
-    <string name="dredge_xunlei_account">Apertura del membro Xunlei</string>
+    <string name="dredge_xunlei_account">Accedi come utente Xunlei</string>
     <string name="immediately_a_renewal">Immediatamente un rinnovo</string>
     <string name="period_of_validity">Validità:</string>
     <string name="determine">Conferma</string>

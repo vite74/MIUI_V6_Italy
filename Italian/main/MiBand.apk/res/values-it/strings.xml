@@ -5,7 +5,7 @@
     <string name="about_copyright"/>
     <string name="accept">Accetta</string>
     <string name="action_exit">Esci</string>
-    <string name="action_local_ota">Aggiorna da SD card</string>
+    <string name="action_local_ota">Aggiorna da scheda SD</string>
     <string name="action_pop_about">Info</string>
     <string name="action_pop_my_bracelet">Il mio Mi Band</string>
     <string name="action_pop_person_info">Informazioni personali</string>
@@ -15,10 +15,10 @@
     <string name="age">Età</string>
     <string name="ages">Anni</string>
     <string name="alarm">Allarme</string>
-    <string name="alarm_cycle">Ripetizione Allarme</string>
+    <string name="alarm_cycle">Ripetizione allarme</string>
     <string name="alarm_device_not_connect">Prima di modificare le sveglie collega Mi Band</string>
     <string name="alarm_once">Solo una volta</string>
-    <string name="alarm_repeat">Ripeti Allarme</string>
+    <string name="alarm_repeat">Ripeti allarme</string>
     <string name="alarm_repeat_title_format">%s OGGETTI?! selezionati</string>
     <string name="alarm_ring">Sveglia</string>
     <string name="alarm_setting">Impostazioni sveglia</string>
@@ -33,7 +33,7 @@ Condizioni: %2$s"</string>
     <string name="awake_format_1">, risvegliato una volta.</string>
     <string name="back">Indietro</string>
     <string name="battery_charge_full">Carica batteria completata</string>
-    <string name="battery_charging">Carica in corso…</string>
+    <string name="battery_charging">Carica in corso\u2026</string>
     <string name="battery_low_info">Batteria scarica, ricaricare…</string>
     <string name="before_min">%s minuti fa</string>
     <string name="bin_weixin_device_not_connect">Mi Band non connesso.</string>
@@ -44,15 +44,15 @@ Condizioni: %2$s"</string>
     <string name="bind_weixin_new_disable_tips">"Accesso al micro-canale
 attenzione al numero di Mi Band, vota con gli amici"</string>
     <string name="bind_weixin_new_now">Accesso in corso, attendere prego…</string>
-    <string name="bind_weixin_new_tips">"Premi su "Accesso al micro-canale"，
+    <string name="bind_weixin_new_tips">"Premi su \"Accesso al micro-canale\"，
 per avviare il micro-canale nella pagina account Mi Band"</string>
-    <string name="bind_weixin_now">Sto generando il QR-Code, attendi…</string>
-    <string name="bind_weixin_qrcode_name">Mi Band codice QR</string>
+    <string name="bind_weixin_now">Sto generando il QR-Code, attendi\u2026</string>
+    <string name="bind_weixin_qrcode_name">Codice QR Mi Band</string>
     <string name="bind_weixin_save">"Salvato nell'album:"</string>
     <string name="bind_weixin_succ">Associazione completata, puoi usare WeChat</string>
     <string name="bind_weixin_tips_1">Tocca Crea codice QR e salva nella Galleria.</string>
     <string name="bind_weixin_tips_2">"Tocca Apri Wechat, poi Scansiona codice QR e seleziona l'immagine dall'Album."</string>
-    <string name="bind_weixin_title">"Dopo aver cliccato su \"connetti a Wechat\" sarà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti "</string>
+    <string name="bind_weixin_title">"Dopo aver cliccato su \"Connetti a Wechat\" verrà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti "</string>
     <string name="blue">Blu</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bmenu_device">Dispositivo</string>
@@ -74,17 +74,17 @@ indirizzo :%2$s"</string>
     <string name="cal">Kcal</string>
     <string name="cancel">Annulla</string>
     <string name="check_upgrade">Cerca aggiornamenti</string>
-    <string name="checking_new_apk">Verifica in corso…</string>
+    <string name="checking_new_apk">Verifica in corso\u2026</string>
     <string name="clock_closed">disattiva</string>
     <string name="cm">" Cm"</string>
     <string name="come_from_xiaomi_bracelet">Da Xiaomi Mi Band</string>
     <string name="confirm">OK</string>
     <string name="congrats">Congratulazioni</string>
-    <string name="connect_bracelet_now">In collegamento..</string>
+    <string name="connect_bracelet_now">In collegamento\u2026</string>
     <string name="content_too_short">Il campo non può essere vuoto</string>
     <string name="continue_reach_goal">Continui a raggiungere i tuoi obiettivi</string>
     <string name="continue_reach_goal_new_record">Nuovo record</string>
-    <string name="continue_tips_format">"Record continuo %1$s giorni al raggiungimento dell'obiettivo"</string>
+    <string name="continue_tips_format">"Record continuo, %1$s giorni al raggiungimento dell'obiettivo"</string>
     <string name="daily_sporty">Obiettivo giornaliero di passi</string>
     <string name="date_from_to">dalle %1$s alle %2$s</string>
     <string name="date_from_to_short">%1$s - %2$s</string>
@@ -123,7 +123,7 @@ indirizzo :%2$s"</string>
     <string name="dynamic_detail_step_title_today">Dati di oggi</string>
     <string name="dynamic_pull_connect_failed">Errore di connessione, riprova</string>
     <string name="dynamic_pull_connect_failed_hint">Assicurati di avere il telefono completamente carico</string>
-    <string name="dynamic_pull_connecting_bracelet">Collegamento a Mi Band…</string>
+    <string name="dynamic_pull_connecting_bracelet">Collegamento a Mi Band\u2026</string>
     <string name="dynamic_pull_last_sync_time">Sincronizzato</string>
     <string name="dynamic_pull_not_sync_today">Oggi non ho ancora sincronizzato</string>
     <string name="dynamic_pull_pull_to_sync">Trascina per sincronizzare</string>
@@ -146,11 +146,11 @@ indirizzo :%2$s"</string>
     <string name="dynamic_tip_step_sync_time_min">%d minuti fa</string>
     <string name="dynamic_tip_step_unsynced">Passi non sincronizzati</string>
     <string name="dynamic_tip_sync_progress">Sincronizzazione %d%%</string>
-    <string name="dynamic_tip_sync_time">SIncronizzato %s</string>
+    <string name="dynamic_tip_sync_time">Sincronizzato %s</string>
     <string name="dynamic_tip_unweared">Mi Band non indossato</string>
     <string name="dynamic_title_sleep">Ultimo sonno</string>
     <string name="dynamic_title_step">Eventi di oggi</string>
-    <string name="enable_debug_log">Debug log attivato!</string>
+    <string name="enable_debug_log">Registro di debug attivato!</string>
     <string name="error_code">"Codici d' errore"</string>
     <string name="everyday">Tutti i giorni</string>
     <string name="exit_app">Esci</string>
@@ -163,7 +163,7 @@ indirizzo :%2$s"</string>
     <string name="female">Femmina</string>
     <string name="find_bracelet">Trova Mi Band</string>
     <string name="find_bracelet_warning">La ricerca di Mi Band comporta un alto consumo di batteria.</string>
-    <string name="finding_bracelet">Ricerca Mi Band …</string>
+    <string name="finding_bracelet">Ricerca Mi Band\u2026</string>
     <string name="firmware_upgrade">Aggiornamento Firmware</string>
     <string name="firmware_version">Versione firmware</string>
     <string name="first_use_days_today_format">Meno di un giorno dal primo utilizzo.</string>
@@ -246,7 +246,7 @@ Ricarica presto!</string>
     <string name="light_color_title">Imposta il colore dei LED</string>
     <string name="local_app_failed">"Errore nella verifica dell'aggiornamento"</string>
     <string name="login">Accedi</string>
-    <string name="login_failed">Errore in login, provare di nuovo</string>
+    <string name="login_failed">Errore di accesso, provare di nuovo</string>
     <string name="login_failed_check_sys_time">"Accesso fallito, controlla l'ora e utilizza l'ora dalla rete"</string>
     <string name="logining">Accesso in corso</string>
     <string name="look_device_list">Cerco Mi Band nelle vicinanze</string>
@@ -257,8 +257,8 @@ Addormentato alle %3$s, svegliato alle %4$s."</string>
     <string name="male">Maschio</string>
     <string name="marathon_format_0">Equivale %1$s ad una maratona</string>
     <string name="marathon_format_1">Più %1$s una maratona</string>
-    <string name="mili_exit_login_info">"Uscire dall'account Mi corrente.
-Confermi?"</string>
+    <string name="mili_exit_login_info">Uscita dal Mi Account corrente.
+Confermi?</string>
     <string name="mili_exit_login_info_continue">"Sincronizzazione fallita, controlla il collegamento ad internet.
 Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="mili_exit_login_info_continue_tip">"Confermare l'uscita con ESCI"</string>
@@ -268,8 +268,8 @@ Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="mili_name">Nome Mi Band</string>
     <string name="mili_name_too_long">Hai inserito un nome troppo lungo, assegnane un altro più corto</string>
     <string name="mili_rename_fail">Rinomina fallito</string>
-    <string name="mili_reset_info">" Cancella tutte le informazioni sul Mi Band e ripristina i dati di fabbrica.
-Confermi il ripristino?"</string>
+    <string name="mili_reset_info">Cancella tutte le informazioni sul Mi Band e ripristina i dati di fabbrica.
+Confermi il ripristino?</string>
     <string name="mili_unbind_question">Dopo la dissociazione, il telefono non potrà ottenere le informazioni da Mi Band</string>
     <string name="mili_unbind_question_content">Dopo la disconnessione puoi usare un altro telefono per connetterti al Mi Band o sostituirlo con un altro.</string>
     <string name="mili_unbind_question_content_1">" Se hai impostato Mi Band per sbloccare il telefono e lo dissoci, perderai questa funzione."</string>
@@ -320,7 +320,7 @@ Non ti fermare, continua così!"</string>
     <string name="person_info_finished_info">Impostazione Mi Band completata</string>
     <string name="person_info_goal_info">"Secondo l'OMS (Organizzazione Mondiale della Sanità), dovresti esercitarti moderatamente per 40 minuti ogni giorno, equivalenti a circa 8,000 passi"</string>
     <string name="person_info_goal_info_young">"Secondo l'OMS (Organizzazione Mondiale della Sanità), dovresti esercitarti moderatamente per 60 minuti ogni giorno, equivalenti a circa 12,000 passi"</string>
-    <string name="personal_info">Informazioni Personali</string>
+    <string name="personal_info">Informazioni personali</string>
     <string name="please_input_age">La tua età</string>
     <string name="please_input_gender">Seleziona il tuo sesso</string>
     <string name="please_knock_bracelet">Tocca delicatamente Mi Band</string>
@@ -333,7 +333,7 @@ Non ti fermare, continua così!"</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
-    <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
+    <string name="pull_to_refresh_refreshing_label">Caricamento\u2026</string>
     <string name="pull_to_refresh_release_label">Rilascia</string>
     <string name="ran">corso </string>
     <string name="red">Rosso</string>
@@ -346,7 +346,7 @@ Non ti fermare, continua così!"</string>
     <string name="right_hand">Destro</string>
     <string name="runed">Corso</string>
     <string name="s_mili">Mi Band</string>
-    <string name="search_bracelet">Ricerca Mi Band..</string>
+    <string name="search_bracelet">Ricerca Mi Band\u2026</string>
     <string name="search_bracelet_again">Cerca ancora</string>
     <string name="search_bracelet_ok">Trovato!</string>
     <string name="search_devices_info">Avvicina Mi Band al telefono</string>
@@ -354,7 +354,7 @@ Non ti fermare, continua così!"</string>
     <string name="second">Secondi</string>
     <string name="select_from_camera">Immagini</string>
     <string name="select_from_local">"Scegli dall'album"</string>
-    <string name="select_image">Modifica Avatar</string>
+    <string name="select_image">Modifica avatar</string>
     <string name="set_goal_step">Imposta obiettivo</string>
     <string name="set_mili_name">Imposta nome Mi Band</string>
     <string name="set_mili_name_fail">Impostazione del nome Mi Band fallita</string>
@@ -368,7 +368,7 @@ Non ti fermare, continua così!"</string>
     <string name="setting_feedback_send">Invia</string>
     <string name="share">Condividi</string>
     <string name="share_blog_cancel">Annulla</string>
-    <string name="share_blog_message_hint">Parla…</string>
+    <string name="share_blog_message_hint">Parla\u2026</string>
     <string name="share_blog_other">Condividi tramite</string>
     <string name="share_blog_pengyouquan">Momenti</string>
     <string name="share_blog_qq">QQ</string>
@@ -494,7 +494,7 @@ E' necessario Android 4.4 o superiore. "</string>
     <string name="unbind">Scollega Mi Band</string>
     <string name="unbind_mili">Dissocia Mi Band</string>
     <string name="unbind_short">Scollegamento</string>
-    <string name="unbinding">Scollegamento, attendi…</string>
+    <string name="unbinding">Scollegamento, attendi\u2026</string>
     <string name="unit_calorie">" Kcal"</string>
     <string name="unit_hour">" ore  "</string>
     <string name="unit_kilometer">Km</string>
@@ -529,7 +529,7 @@ apri Impostazioni -> Sicurezza e Privacy -> Sicurezza schermo"</string>
     <string name="upgrade_tip">Aggiorna Suggerimenti</string>
     <string name="user_agreement">"Licenza d'utilizzo e trattamento dei dati"</string>
     <string name="visit_micom">Visita il sito ufficiale</string>
-    <string name="wait">Attendere…</string>
+    <string name="wait">Attendere\u2026</string>
     <string name="walked">camminato</string>
     <string name="wear_hand">Polso utilizzato per Mi Band</string>
     <string name="weared_days">Indossato per giorni</string>

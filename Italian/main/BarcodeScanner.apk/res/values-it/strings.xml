@@ -75,5 +75,5 @@
     <string name="cancel">Annulla</string>
     <string name="tips_message">Devi essere connesso ad Internet per verificare se il sito che stai visitando è sicuro</string>
     <string name="tips_title">Connessione Internet</string>
-    <string name="not_tips">Non mostrare più</string>
+    <string name="not_tips">Non chiedere più</string>
 </resources>

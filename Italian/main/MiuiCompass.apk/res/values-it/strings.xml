@@ -33,5 +33,5 @@
     <string name="calibrate_altitude">Calibrazione</string>
     <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
     <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
-    <string name="do_not_show_next_time">Non mostrare più</string>
+    <string name="do_not_show_next_time">Non chiedere più</string>
 </resources>

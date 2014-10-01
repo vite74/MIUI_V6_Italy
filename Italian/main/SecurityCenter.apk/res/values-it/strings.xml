@@ -167,7 +167,7 @@
     <string name="menu_item_uninstall">Disinstalla</string>
     <string name="menu_item_app_details">Dettagli</string>
     <string name="hints_power_percent_title">Batteria</string>
-    <string name="details_subtitle">Use details</string>
+    <string name="details_subtitle">Dettagli di utilizzo</string>
     <string name="packages_subtitle">Pacchetti inclusi</string>
     <string name="battery_desc_standby">Utilizzo batteria quando il telefono è inattivo</string>
     <string name="battery_desc_radio">Batteria utilizzata da segnale cellulare</string>

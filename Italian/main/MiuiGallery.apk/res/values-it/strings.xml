@@ -921,5 +921,9 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="ubifocus_guide_text">Tocca e rilascia per riorientare</string>
     <string name="priority_storage">Salva sulla scheda SD</string>
     <string name="priority_storage_summary">Quando la scheda SD è inserita, scarica automaticamente i file sulla SD.</string>
-
+    <string name="impunity_declaration_title">Notizie di rete</string>
+    <string name="impunity_declaration">La galleria può connettersi alla rete dati per fornire alcuni servizi. Vuoi continuare?</string>
+    <string name="impunity_declaration_ignore">Non chiedere più</string>
+    <string name="impunity_declaration_settings">Mostra notizie di rete</string>
+    <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
 </resources>

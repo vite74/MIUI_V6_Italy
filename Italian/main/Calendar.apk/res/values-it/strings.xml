@@ -265,7 +265,7 @@
     <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="cta_notice_title">Avvisa</string>
     <string name="cta_notice_message">"\"Avviso compleanno\" nel Calendario ti ricorderà il giorno del compleanno dei tuoi contatti in anticipo. La funzione deve accedere ai tuoi contatti, sei d'accordo?"</string>
-    <string name="cta_notice_checkbox">Non mostrare più</string>
+    <string name="cta_notice_checkbox">Non chiedere più</string>
     <string name="cta_notice_ok">Sì</string>
     <string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
     <string name="local_calendar_display_name">Calendario locale</string>

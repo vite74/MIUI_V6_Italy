@@ -268,7 +268,7 @@
     <string name="theme_user_agreement_content5">.</string>
     <string name="theme_user_agreement_title">Termini di utilizzo</string>
     <string name="theme_user_agreement_allow">"D'accordo"</string>
-    <string name="theme_user_agreement_remind_never">Non mostrare più</string>
+    <string name="theme_user_agreement_remind_never">Non chiedere più</string>
     <string name="theme_user_agreement_remind_again">Mostra Condizioni di utilizzo</string>
     <string name="theme_user_agreement_remind_summary">"Mostra l'avviso sulle Condizioni di utilizzo ogni volta. Questa impostazione avrà effetto dopo il riavvio del dispositivo."</string>
 </resources>

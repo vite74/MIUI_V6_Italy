@@ -113,7 +113,7 @@ Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="share_qq">Posta tramite Tencent weibo</string>
     <string name="install_qq">Installa app QQ</string>
     <string name="upgrade_kernel">La versione attuale del kernel deve essere aggiornata</string>
-    <string name="upgrade_kernel_msg">"La versione attuale del kernel non corrisponde alla ROM MIUI.Devi aggiornare il kernel manualmente.Fai riferimento al tutorial di aggiornamento:
+    <string name="upgrade_kernel_msg">"La versione attuale del kernel non corrisponde alla ROM MIUI.Devi aggiornare il kernel manualmente. Fai riferimento al tutorial di aggiornamento:
 "</string>
     <string name="view_upgrade_tutorial">Tutorial</string>
     <string name="upgrade_close">Chiudi</string>

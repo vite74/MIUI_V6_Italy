@@ -913,7 +913,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
     <string name="error_mnc_not23">Il campo MNC deve contenere 2 o 3 cifre.</string>
     <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite.</string>
-    <string name="menu_restore">Ripristina imp.predefinite</string>
+    <string name="menu_restore">Ripristina imp. predefinite</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_summary">Cancella tutti i dati del dispositivo</string>

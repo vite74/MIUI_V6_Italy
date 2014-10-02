@@ -314,7 +314,7 @@
     <string name="title_virus_yes">Nessun virus rilevato</string>
     <string name="summary_virus">Trovati %2$d virus</string>
     <string name="title_permission_no">Monitor permessi disattivato</string>
-    <string name="title_permission_yes">Monitor permessi sattivato</string>
+    <string name="title_permission_yes">Monitor permessi attivato</string>
     <string name="summary_permission">Proteggi la mia privacy da app di terze parti potenzialmente malevoli my</string>
     <string name="title_mms_no">Filtro messaggi disattivato</string>
     <string name="title_mms_yes">Filtro messaggi attivato</string>

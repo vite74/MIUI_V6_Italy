@@ -2031,7 +2031,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
-    <string name="dndm_summary">"Quando l'Anti-disturbo è attivo le chiamate e le notifiche che arrivano quando il tuo telefono è in blocco saranno silenziate."</string>
+    <string name="dndm_summary">"Quando l'Anti-disturbo è attivo le chiamate e le notifiche che arrivano quando il tuo telefono è in blocco saranno silenziate"</string>
     <string name="dndm_auto_setting_group">Programmato</string>
     <string name="dndm_auto_button_title">Ora</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>

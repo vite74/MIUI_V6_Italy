@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
-    <string name="app_name">Mi Anti-fake</string>
+    <string name="app_name">Mi AntiFake</string>
     <string name="action_settings">Impostazioni</string>
     <string name="mobile_is_not_check">Non identificato</string>
     <string name="unknown_mobile">Telefono sconosciuto</string>
@@ -9,25 +9,25 @@
     <string name="mobile_checking">Identificazione in corso</string>
     <string name="cancel_check">Annulla identificazione</string>
     <string name="check_again">Identifica di nuovo</string>
-    <string name="hardware_compare">Analisi hardware</string>
-    <string name="performance_compare">Analisi prestazioni</string>
-    <string name="order_check">Verifica ordine</string>
+    <string name="hardware_compare">Hardware</string>
+    <string name="performance_compare">Prestazioni</string>
+    <string name="order_check">Ordine</string>
     <string name="detail_info">Dettagli</string>
     <string name="detail_info_content">Questo dispositivo non è stato prodotto da Xiaomi.</string>
     <string name="not_xiaomi">Non è un dispositivo Xiaomi</string>
     <string name="help_adults">Assistenza</string>
     <string name="person_check">Identificazione persona</string>
-    <string name="share_result">Condividi i risultati</string>
+    <string name="share_result">Condividi</string>
     <string name="maybe_xiaomi">Probabile dispositivo Xiaomi</string>
     <string name="xiaomi_desc">Stai utilizzando un MI3</string>
-    <string name="detail_config">Configurazione dettagliata</string>
+    <string name="detail_config">Dettagli</string>
     <string name="detail_config_unechecked">Configurazione dettagliata - non identificato</string>
     <string name="detail_info_model">Modello</string>
     <string name="detail_info_produce_time">Data di produzione</string>
     <string name="detail_info_capacity">Capacità</string>
     <string name="detail_info_sell_time">Data di vendita</string>
     <string name="detail_info_serial_number">Seriale</string>
-    <string name="detail_info_guarantee_time">Data garanzia</string>
+    <string name="detail_info_guarantee_time">Scadenza garanzia</string>
     <string name="detail_info_buy_channel">Canale di vendita</string>
     <string name="detail_info_service_record">Registri di manutenzione ufficiali</string>
     <string name="error_denifiton">Canale non supportato</string>
@@ -61,7 +61,7 @@
     <string name="tip_help_adults">Si prega di inserire le tue informazioni di contatto, ti contatteremo telefonicamente per assisterti con i diritti e i venditori per investigare, e se le informazioni che fornisci sono vere, provvederemo, quando appropriato, certi incentivi.</string>
     <string name="tip_input_complete">Si prega di inserire le informazioni complete</string>
     <string name="capture_tip">Si prega di scansionare il codice a barre posizionandolo dentro la cornice</string>
-    <string name="tip_set_cpu_modle">"Mantenere il profilo attuale del tuo telefono in Alte prestazioni, altrimenti potrebbe seriamente compromettere l'accuratezza dei risultati di identificazione"</string>
+    <string name="tip_set_cpu_modle">"Mantenere il profilo di consumo attuale impostato su Alte prestazioni per evitare la compromissione dei risultati di analisi."</string>
     <string name="tip_skip_set_cpu_modle">Salta questo passaggio</string>
     <string name="tip_contact">Tue info di contatto:</string>
     <string name="tip_name">Nome</string>
@@ -73,10 +73,10 @@
     <string name="tip_seller_phone">Telefono azienda</string>
     <string name="commit">Invia per ottenere aiuto</string>
     <string name="near_last_center">Centro vendite a te più vicino:</string>
-    <string name="set_cpu_mode">Questo è un passaggio molto importante</string>
-    <string name="mobile_set_cpu_mode">Imposta manualmente la modalità operativa</string>
+    <string name="set_cpu_mode">Attenzione!</string>
+    <string name="mobile_set_cpu_mode">Imposta il profilo</string>
     <string name="xiaomi_checker">Identificazione Mi</string>
-    <string name="tip_loading">Caricamento, prego attendere</string>
+    <string name="tip_loading">Caricamento...</string>
     <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
     <string name="tai">Taiwan</string>
     <string name="alread_check_num">Identificazione effettuata</string>
@@ -96,7 +96,7 @@
     <string name="charge_up_battery">"Per assicurare l'accuratezza dell'identificazione, assicurati che la batteria del telefono sia carica almeno al 50%, si prega di collegare il caricabatteria"</string>
     <string name="msg_unsupport_device">A partire dal 1 gennaio 2013, i dispositivi prodotti da Xiaomi sono dotati di fabbrica di un sistema che supporta questo software, se hai comprato questo dispositivo di recente, potrebbe essere un falso. Si prega di prendere maggiori precauzioni!</string>
     <string name="tip_skip_set_cpu_model">Desideri davvero saltare il passaggio?</string>
-    <string name="msg_skip_set_cpu_model">"Il dispositivo attuale non è attualmente in modalità Alte prestazioni, se salti il passaggio potersti seriamente compromettere l'accuratezza dei risultati del test."</string>
+    <string name="msg_skip_set_cpu_model">"Il dispositivo attuale non è attualmente in modalità Alte prestazioni, se salti il passaggio potresti seriamente compromettere l'accuratezza dei risultati del test."</string>
     <string name="skip_right_now">Salta ora</string>
     <string name="tip_update_right_now">Si prega di aggiornare immediatamente</string>
     <string name="msg_update_right_now">La versione attuale non è più disponibile, si prega di aggiornare immediatamente</string>

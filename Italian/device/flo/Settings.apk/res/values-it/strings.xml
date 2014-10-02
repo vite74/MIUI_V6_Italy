@@ -1751,7 +1751,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
     <string name="show_hw_screen_updates">Aggiornamenti visualizz. GPU</string>
     <string name="show_hw_screen_updates_summary">Flash delle visualizzazioni dentro le finestre se disegnate con GPU</string>
-    <string name="show_hw_layers_updates">Aggiornam. livelli hardware</string>
+    <string name="show_hw_layers_updates">Aggiornamenti livelli hardware</string>
     <string name="show_hw_layers_updates_summary">Lampeggia verde se aggiornam. livelli hardware</string>
     <string name="debug_hw_overdraw">Debug overdraw GPU</string>
     <string name="disable_overlays">Disabilita overlay HW</string>

@@ -51,7 +51,7 @@
     <string name="action_open_other_app">Applicazioni</string>
     <string name="action_open_mi_route">Lista dei dispositivi</string>
     <string name="action_open_camera">Fotocamera</string>
-    <string name="action_open_camera2">Fotocamera</string>
+    <string name="action_open_camera2">Scatto rapido</string>
     <string name="action_screen_shot">Screenshot</string>
     <string name="action_clear_sms_inbox">Cancella messaggi</string>
     <string name="action_clear_call_list">Cancella registro chiamate</string>

@@ -6,7 +6,7 @@
     <string name="mobile_is_not_check">Non identificato</string>
     <string name="unknown_mobile">Telefono sconosciuto</string>
     <string name="start_check">Identifica adesso</string>
-    <string name="mobile_checking">Identificazione in corso</string>
+    <string name="mobile_checking">Identificazione in corso...</string>
     <string name="cancel_check">Annulla identificazione</string>
     <string name="check_again">Identifica di nuovo</string>
     <string name="hardware_compare">Hardware</string>
@@ -79,7 +79,7 @@
     <string name="tip_loading">Caricamento...</string>
     <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
     <string name="tai">Taiwan</string>
-    <string name="alread_check_num">Identificazione effettuata</string>
+    <string name="alread_check_num">Identificazione completata</string>
     <string name="copycat_num">Xiaomi falso</string>
     <string name="tip_update">Nuova versione disponibile, aggiornare?</string>
     <string name="tip_error_username">Si prega di inserire il nome correttamente</string>

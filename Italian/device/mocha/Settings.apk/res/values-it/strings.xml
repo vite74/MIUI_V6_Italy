@@ -808,7 +808,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="device_info_not_available">Non disponibile</string>
     <string name="device_status_activity_title">Stato</string>
     <string name="device_status">Stato</string>
-    <string name="device_status_summary">Stato delle batteria, della rete e altre informazioni</string>
+    <string name="device_status_summary">Stato della batteria, della rete e altre informazioni</string>
     <string name="storage_settings">Memoria</string>
     <string name="storage_settings_title">Impostazioni di archiviazione</string>
     <string name="storage_settings_summary">"Smonta l'archivio USB, visualizza lo spazio di archiviazione disponibile"</string>

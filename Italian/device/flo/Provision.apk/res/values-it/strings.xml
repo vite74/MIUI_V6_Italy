@@ -7,5 +7,5 @@
     <string name="other_settings_location">Accedi alla posizione</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di segnalare la tua posizione</string>
     <string name="other_settings_user_experience">Feedback utente</string>
-    <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
+    <string name="other_settings_user_experience_summary">Contribuisci a migliorare MIUI inviando dati anonimi</string>
 </resources>

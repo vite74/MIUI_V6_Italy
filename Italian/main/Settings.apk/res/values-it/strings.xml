@@ -1107,7 +1107,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
     <string name="install_all_warning">"Il tablet e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al tablet o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
-    <string name="verify_applications">Verifica app</string>
+    <string name="verify_applications">Verifica applicazioni</string>
     <string name="verify_applications_summary">"Non consentire o avvisa prima dell'installazione di applicazioni che potrebbero causare danni"</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>

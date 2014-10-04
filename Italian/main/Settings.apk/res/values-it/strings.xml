@@ -986,7 +986,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="tether_settings_title_wifi">Hotspot portatile</string>
     <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_all">Tethering/hotspot portatile</string>
+    <string name="tether_settings_title_all">Tethering</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">Tethering USB</string>
     <string name="usb_tethering_available_subtext">USB collegata, seleziona per impostare tethering</string>

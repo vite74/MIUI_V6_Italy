@@ -187,7 +187,7 @@
     <string name="pref_security_remember_passwords">Memorizza le password</string>
     <string name="pref_security_remember_passwords_summary">Salva nomi utente e password per i siti web</string>
     <string name="pref_security_save_form_data">Memorizza dati moduli</string>
-    <string name="pref_security_save_form_data_summary">Memorizza i dati che digito nei moduli per usi futuri</string>
+    <string name="pref_security_save_form_data_summary">Memorizza i dati che digiti nei moduli per usi futuri</string>
     <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>
     <string name="pref_security_show_security_warning_summary">Mostra un avviso se esiste un problema di sicurezza con un sito</string>
     <string name="pref_security_accept_cookies">Accetta cookie</string>

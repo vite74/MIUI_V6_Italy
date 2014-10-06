@@ -525,7 +525,7 @@
     <string name="flash_off">Senza flash</string>
     <string name="taken_time">Creato</string>
     <string name="modified_time">Modificato</string>
-    <string name="photo_size">Dimensione</string>
+    <string name="photo_size">Risoluzione</string>
     <string name="set_label_all_albums">Tutti gli album</string>
     <string name="set_label_local_albums">Album locali</string>
     <string name="cloud_media_set_set">Album cloud</string>

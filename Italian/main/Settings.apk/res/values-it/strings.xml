@@ -617,7 +617,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="wifi_signal">Intensità segnale</string>
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
-    <string name="wifi_ip_address">Indirizzo IP</strin
+    <string name="wifi_ip_address">Indirizzo IP</string>
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Phase 2 authentication</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -728,7 +728,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="wifi_state_enabled">Attivato</string>
     <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configurazione Wi-Fi</string>
-    <string name="config_list_label">Reti configurate</string
+    <string name="config_list_label">Reti configurate</string>
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>

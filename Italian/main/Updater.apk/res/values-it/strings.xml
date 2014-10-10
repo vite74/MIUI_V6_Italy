@@ -25,6 +25,7 @@
     <string name="button_text_check">Cerca</string>
     <string name="button_text_update">Aggiorna</string>
     <string name="button_text_reboot">Riavvia adesso</string>
+    <string name="button_text_reboot_hm">Dopo il riavvio</string>
     <string name="button_text_later_reboot">Riavvia dopo</string>
     <string name="download_title_first">Ricezione informazioni di aggiornamento…</string>
     <string name="download_title_full_download">Ricezione informazioni pacchetto…</string>
@@ -130,6 +131,8 @@
     <string name="autosetmode">Impostazioni aggiornamento</string>
     <string name="on_checking">Cerca aggiornamento</string>
     <string name="auto_update">Aggiorna automaticamente</string>
+    <string name="update_downfull_no_info_title">Impossibile scaricare</string>
+    <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornaemnto.</string>
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>

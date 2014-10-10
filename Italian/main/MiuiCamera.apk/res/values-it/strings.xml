@@ -624,6 +624,8 @@ ed esci dall'inquadratura"</string>
     <string name="pref_video_speed_slow_title">Lento</string>
     <string name="pref_camera_countdown_title">Autoscatto</string>
     <string name="simple_mode_button_text_countdown">Chiudi autoscatto</string>
+    <string name="pref_camera_manual_mode_title">Manuale</string>
+    <string name="simple_mode_button_text_manual_mode">Esci da manuale</string>
     <string name="effect_setting_top_text">Filtri fotocamera</string>
     <string name="pref_camera_settings">Impostazioni dispositivo</string>
     <string name="pref_capture_settings">Impostazioni fotocamera</string>
@@ -640,4 +642,6 @@ ed esci dall'inquadratura"</string>
     <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
     <string name="accessibility_panorama_review_cancel">Controllo annullamento panorama</string>
+    <string name="simple_mode_button_text_manual">Esci da modalità Manuale</string>
+    <string name="pref_qc_focus_position_title">Focus</string>
 </resources>

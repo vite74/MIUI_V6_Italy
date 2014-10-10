@@ -150,6 +150,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
     <string name="declaration_dialog_msg">"Questa funzione può aiutarti a tenere sotto controllo l'utilizzo dei dati, ma non garantisce la prevenzione di costi aggiuntivi. Per un risultato migliore si consiglia di impostare un margine abbondante."</string>
     <string name="input_used_hint">Inserisci utilizzo dati</string>
+    <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
     <string name="text_day" />
     <string name="settings">Impostazioni utilizzo dati</string>
     <string name="adjust_traffic_data">Imposta utilizzo dati</string>
@@ -174,9 +175,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="data_usage_warning_body">"Tocca per vedere i dettagli dell'utilizzo dati."</string>
     <string name="data_usage_mobile_limit_title">I dati su rete mobile sono stati disattivati</string>
     <string name="data_usage_limit_body">Tocca per attivare i dati su rete mobile.</string>
-    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dati. 
-
-Utilizzare ulteriormente i dati oltre i limiti del tuo piano potrebbe comportare costi aggiuntivi."</string>
+    <string name="data_usage_disabled_dialog">Hai raggiunto il limite di utilizzo dati. Utilizzare ulteriormente i dati oltre i limiti del tuo piano potrebbe comportare costi aggiuntivi.</string>
     <string name="data_usage_disabled_dialog_enable">Attiva dati</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite utilizzo dati superato</string>
     <string name="data_usage_limit_snoozed_body">Hai superato il tuo limite di utilizzo dati.</string>
@@ -255,7 +254,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_none_history">Vuoto</string>
     <string name="datausage_purchase_time_in">" il "</string>
     <string name="datausage_purchase_order_failure">Acquisto fallito</string>
-    <string name="datausage_purchase_order_failure_cause">Il tuo acquisto è fallito perchè…</string>
+    <string name="datausage_purchase_order_failure_cause">Il tuo acquisto è fallito perché\u2026</string>
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiati in questo mese</string>

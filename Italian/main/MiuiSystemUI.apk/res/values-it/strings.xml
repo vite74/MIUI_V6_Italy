@@ -231,5 +231,6 @@
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
     <string name="usb_share_net_info">Utilizza la connessione Internet del computer</string>
+    <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
 
 </resources>

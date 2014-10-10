@@ -28,6 +28,7 @@
     <string name="vcode">Codice di verifica</string>
     <string name="bad_authentication">Nome utente o password non validi</string>
     <string name="header_data_and_synchronization">Dati e sincronizzazione</string>
+    <string name="header_other_settings">Altro</string>
     <string name="title_reg">Crea un account</string>
     <string name="unactivated_user">Disattivato</string>
     <string name="error_network">Impossibile connettersi alla rete</string>
@@ -39,6 +40,33 @@
     <string name="access_denied">Accesso negato</string>
     <string name="sync_on">Attivata</string>
     <string name="sync_off">Disattivata</string>
+    <string name="mx_dspt">Mi Message</string>
+    <string name="mx_sub_dspt_provision">Mi Message</string>
+    <string name="sync_dspt_provision">"Mi Cloud sincronizza le tue foto, SMS, note e molto alo su ttutti i tuoi dispositivi Mi. Puoi accedere ai tuoi dati anche da "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">mi.com/micloud</string>
+    <string name="sync_dspt_provision3">".
+
+Puoi disattivare questa funzione in qualsiasi momento nele Impostazioni.
+"</string>
+    <string name="find_device_dspt_provision">"Se perdi il tuo dispositivo puoi andare su "</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+    <string name="find_device_dspt_provision_3">" pèer ocalizzarlo, bloccarlo o resettarlo.
+
+Puoi attivare e disattivare questa funzione in qualsiasi momento nele Impostazioni.
+"</string>
+    <string name="find_device_send_sms_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questo servizio.</string>
+    <string name="mx_dspt_provision">"Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi.
+
+Puoi attivare e disattivare questa funzione in qualsiasi momento nele Impostazioni."</string>
+    <string name="user_agreement_p6">"L'utilizzo di questa funziopne è soggetto a "</string>
+    <string name="user_agreement_p7">"Condizioni di Utilizzo Mi Cloud"</string>
+    <string name="user_agreement_p8">.</string>
+    <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="loading">Caricamento\u2026</string>
+    <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per vedere queste informazioni adesso, vai su %s.</string>
+    <string name="user_agreement">Accordo Utente</string>
     <string name="activating">Attivazione…</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="find_device">Trova dispositivo abilitato</string>
@@ -78,6 +106,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="sub_alert_notif_dspt_no">Non è stato sincronizzato nulla.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_full_influence"><u>Cosa accade quando esaurisco lo spazio?</u></string>
+    <string name="micloud_storage_usage" formatted="false">Utilizzato %s / Totale %s</string>
     <string name="micloud_title_dspt" formatted="false">"%s totale
  %s in uso | %s rimasti"</string>
     <string name="micloud_title_dspt_remain">%s rimasti</string>
@@ -118,6 +147,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="cloud_sync_setting_summary_wlan">Sincronizza solo quando collegato a Wi-Fi</string>
     <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
     <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo telefono</string>
+    <string name="view_storage_title">Mostra spazio cloud</string>
     <string name="storage">Archiviazione</string>
     <string name="data_syncing">Sincronizza sempre</string>
     <string name="wifi_sync">Solo con rete Wi-Fi</string>

@@ -617,8 +617,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="wifi_signal">Intensità segnale</string>
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
-    <string name="wifi_ip_address">Indirizzo IP</string>
-   
+    <string name="wifi_ip_address">Indirizzo IP</strin
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Phase 2 authentication</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -729,7 +728,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="wifi_state_enabled">Attivato</string>
     <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configurazione Wi-Fi</string>
-    <string name="config_list_label">Reti configurate</string>   
+    <string name="config_list_label">Reti configurate</string
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>
@@ -2073,6 +2072,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_image_choose_photo">Scegli la foto dalla Galleria</string>
     <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
+    <string name="cmcc_dm_settings_title">Gestione Permessi Dispositivo</string>
+    <string name="cmcc_dm_settings_enable_summary">Attiva avvio automatico</string>
+    <string name="cmcc_dm_settings_disable_summary">Disattiva avvio automatico</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">memoria di massa</string>
@@ -2201,6 +2203,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
+    <string name="screen_key_press">Tocca i tasti di navigazione</string>
+    <string name="screen_key_press_action">Attivazione</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Esegui funzionalità</string>
     <string name="app_switch_key">Recenti</string>
@@ -2805,6 +2809,11 @@ Disabilitare le finestre flottanti?"</string>
     <string name="free_wifi_user_agreement_allow">OK</string>
     <string name="free_wifi_user_agreement_title">Termini di utilizzo</string>
     <string name="translation_contributors_summary" />
+    <string name="status_sim">Stato SIM</string>
+    <string name="status_sim_1">SIM1</string>
+    <string name="status_sim_2">SIM2</string>
+    <string name="status_summary">Tocca per vedere i dettagli</string>
+    <string name="wifi_subnet_mask">Subnet mask</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_display_category">Display</string>
     <string name="miracast_menu_search">Ricerca</string>

@@ -766,6 +766,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_forwarding_number_hint">Inserisci il numero a cui inoltrare le chiamate in arrivo</string>
     <string name="cfu_title">Inoltra tutte le chiamate</string>
     <string name="cfb_title">Inoltra se sei in conversazione</string>
+    <string name="cfnrc_title_cta">Inoltra se non sei raggiungibile</string>
     <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
     <string name="cfnry_title">Inoltra se non hai risposto</string>
     <string name="disable_all_cf">Disabilita tutti gli intoltri di chiamate</string>
@@ -852,6 +853,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_pref_title_voice">Chiamata</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Non impostato</string>
+    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Intenret, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="select_voice_call_sim">Prego scegliere</string>
     <string name="general_setting">Impostazioni</string>
     <string name="call_record_setting">Impostazioni registrazione chiamata</string>

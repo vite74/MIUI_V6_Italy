@@ -90,6 +90,7 @@
     <string name="vp_closedialog">Conferma</string>
     <string name="vp_hint">Suggerimento</string>
     <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>
+    <string name="vp_toast_downloadapk">"Download dell'apk in background\u2026"</string>
     <string name="local_media">Locali</string>
     <string name="count_ge_favorite">preferito da %d</string>
     <string name="userdata_alert_title">YUtilizzo dati</string>
@@ -108,7 +109,8 @@
     <string name="online_video">Online</string>
     <string name="my_video">Locali</string>
     <string name="search_online_video">Ricerca video online</string>
-    <string name="declaration_content">Vuoi accettare  i termini della Sohu Video, iQiyi, e altri fornitori video?</string>
+    <string name="declaration_content_td_custom">"Consentire la connessione ad Internet durante l'utilizzo dell'applicazione?"</string>
+    <string name="declaration_content">Vuoi accettare  le <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Condizioni di Utilizzo</a> di Sohu Video, iQiyi, e altri fornitori video?</string>
     <string name="declaration">"Termini d'uso"</string>
     <string name="no_longer_tips">"Ricorda la mia scelta"</string>
     <string name="more">Altro</string>

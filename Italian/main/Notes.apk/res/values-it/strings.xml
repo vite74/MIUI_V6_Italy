@@ -5,6 +5,7 @@
     <string name="sina_share_fail">Invio fallito</string>
     <string name="sina_token_expired_warning">Account Weibo è scaduto: si prega di riassociare</string>
     <string name="sina_token_invalid_warning">Account Weibo  non è valido: si prega di riassociare</string>
+    <string name="sina_share_fail_content_repeat">Impossibile condividere, contenuto già esistente\u2026</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
@@ -66,10 +67,11 @@
     <string name="alarm_bar_title">Promemoria</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
     <string name="toast_folder_privacy_mode">Impossibile modificare cartella in modalità Guard</string>
+    <string name="toast_note_privacy_mode">Impossibile creare note in modalità Ospite</string>
     <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
-    <string name="snippet_image_stub">[Immagine]</string>
-    <string name="snippet_image_template">[Immagine %1$s]</string>
+    <string name="snippet_image_stub">[Image]</string>
+    <string name="snippet_image_template">[Image %1$s]</string>
     <string name="select_account_prompt">Abilita sincronizzazione note</string>
     <string name="enable_sync_desc">Sincronizzare le note con il tuo Mi Account (%1$s)?</string>
     <string name="add_account_desc">Sincronizzare le note con il tuo Mi Account?</string>

@@ -40,6 +40,7 @@
     <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>
     <string name="toast_feedback_submitted">Il tuo feedback è stato inviato correttamente</string>
     <string name="toast_feedback_pending_wlan">Il tuo feedback sarà invato quando la conessione WLAN sarà pronta</string>
+    <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>
     <string name="discard_draft_dialog_title">Elimina bozza</string>
     <string name="discard_draft_dialog_content">Il rapporto è stato modificato, premi il pulsante OK per eliminare la bozza.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
@@ -81,4 +82,9 @@
     <string name="screen_lock">Lockscreen</string>
     <string name="systemui">Pannello delle notifiche</string>
     <string name="hot_problem_empty">Vuoto</string>
+    <string name="cta_dialog_title">Connessione Internet</string>
+    <string name="cta_dialog_content">Questa applicazione deve connettersi ad Internet regolarmente.</string>
+    <string name="cta_not_show_again">Non chiedere più</string>
+    <string name="cta_cancel">Annulla</string>
+    <string name="cta_confirm">OK</string>
 </resources>

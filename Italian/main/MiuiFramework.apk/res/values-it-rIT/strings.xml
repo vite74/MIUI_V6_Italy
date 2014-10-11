@@ -117,7 +117,7 @@
     <string name="cut">Taglia</string>
     <string name="copy">Copia</string>
     <string name="paste">Incolla</string>
-    <string name="replace">Cambia</string>
+    <string name="replace">Sostituisci</string>
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
     <string name="call_record_sample_prefix_miui">Chiamata</string>
     <string name="fm_record_smaple_prefix_miui">Registrazione FM</string>

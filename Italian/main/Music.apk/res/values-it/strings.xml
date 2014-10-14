@@ -74,7 +74,7 @@
     <string name="track_list_control_edit_delete_playlist">Elimina</string>
     <string name="track_list_control_edit_rename_playlist">Rinomina</string>
     <string name="search_hint">Artista, brano o album</string>
-    <string name="tab_track_list">Traccie</string>
+    <string name="tab_track_list">Tracce</string>
     <string name="tab_artist_list">Artisti</string>
     <string name="tab_album_list">Album</string>
     <string name="buffering">Creazione buffer in corso…</string>
@@ -135,7 +135,7 @@
     <string name="download_auto_cancel">Lo scaricamento dei preferiti è disattivato</string>
     <string name="download_auto_message">I brani che hai segnato come preferiti saranno scaricati automaticamente quando sei connesso via Wi-Fi. Puoi cambiare questa impostazione nelle impostazioni Account nella scheda Locale"</string>
     <string name="i_know">Ho capito</string>
-    <string name="list_item_play_all_tracks">Tocca per riprodurre tutte le traccie</string>
+    <string name="list_item_play_all_tracks">Tocca per riprodurre tutte le tracce</string>
     <string name="go_to_add_music">Agginggi brani~</string>
     <string name="button_add">Aggiungi</string>
     <string name="find_music">Copertine brani</string>

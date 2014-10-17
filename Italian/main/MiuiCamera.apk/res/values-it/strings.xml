@@ -16,6 +16,7 @@
     <string name="confirm_change_mode_title">Cambia modalità</string>
     <string name="confirm_change_to_expert_mode_message">Passare alla modalità professionale?</string>
     <string name="confirm_change_to_simple_mode_message">Passare alla modalità semplice?</string>
+    <string name="confirm_location_title">Registra posizione</string>
     <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione della fotocamera?</string>
     <string name="save">Si</string>
     <string name="no_save">No</string>
@@ -644,4 +645,9 @@ ed esci dall'inquadratura"</string>
     <string name="accessibility_panorama_review_cancel">Controllo annullamento panorama</string>
     <string name="simple_mode_button_text_manual">Esci da modalità Manuale</string>
     <string name="pref_qc_focus_position_title">Focus</string>
+    <string name="pref_front_mirror_entry_auto">Auto</string>
+    <string name="pref_front_mirror_entry_on">On</string>
+    <string name="pref_front_mirror_entry_off">Off</string>
+    <string name="pref_burst_shoot_title">Scatto Continuo</string>
+    <string name="burst_shoot_exit_button_text">Chiudi Scatto Continuo</string>
 </resources>

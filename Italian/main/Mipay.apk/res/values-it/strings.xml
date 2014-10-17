@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mipay_app_name">Carte di credito</string>
-    <string name="mipay_error_network">Impossibile collegarsi alla rete</string>
-    <string name="mipay_error_auth">Errore di login, prego riprovare.</string>
-    <string name="mipay_error_server">Errore lato server. Prego riprovare.</string>
-    <string name="mipay_error_common">Errore di sistema. Prego riprovare..</string>
-    <string name="mipay_error_account_changed">"Le informazioni sul tuo account sono cambiate.
-Prego rieseguire il login."</string>
-    <string name="mipay_error_cert_date">"Errore data certificato.
-Prego verificare la data locale e riprovare."</string>
+    <string name="mipay_wallet_app_name">Carte di credito</string>
+    <string name="mipay_bank_cards">Carte di credito</string>
+    <string name="mipay_bank_cards_title">Le mie carte di credito</string>
+    <string name="mipay_bank_cards_add">Aggiungi carta di credito</string>
+    <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
+    <string name="mipay_bank_cards_item_bank_number">**** **** **** %1$s</string>
+    <string name="mipay_button_unbind_bank_card">Disassocia</string>
+    <string name="mipay_pay_record">Registro pagamenti</string>
+    <string name="mipay_pay_record_title">Registro pagamenti</string>
+    <string name="mipay_pay_record_empty">Nessun pagamento registrato</string>
+    <string name="mipay_setting_title">Impostazioni sicurezza</string>
+    <string name="mipay_setting_title_password">Password per il pagameno</string>
+    <string name="mipay_setting_modify_password">Modifica la password per il pagamento</string>
+    <string name="mipay_setting_forget_password">Password per il pagamento dimenticata</string>
+    <string name="mipay_counter_app_name">Carte di credito</string>
     <string name="mipay_format_time">dd MMM yyyy HH:mm</string>
     <string name="mipay_format_date">dd MMM. yyyy</string>
     <string name="mipay_denom_unit">RMB</string>
@@ -18,10 +24,9 @@ Prego verificare la data locale e riprovare."</string>
     <string name="mipay_button_ok">Conferma</string>
     <string name="mipay_button_finish">Fine</string>
     <string name="mipay_loading">Caricamento in corso…</string>
-    <string name="mipay_agreement">Accetto le condizioni %1$s</string>
-    <string name="mipay_common_license">"Accordo con l'utente"</string>
-    <string name="mipay_update_title">Mipay è stato aggiornato!</string>
+    <string name="mipay_update_title">Mi Pay è stato aggiornato!</string>
     <string name="mipay_button_update">Aggiornato</string>
+    <string name="mipay_check_order_title">Contatore</string>
     <string name="mipay_create_order_progress">Creazione ordine…</string>
     <string name="mipay_order_title">Prodotto:</string>
     <string name="mipay_order_id">Ordine:</string>
@@ -68,25 +73,13 @@ Prego verificare la data locale e riprovare."</string>
     <string name="mipay_pay_order_denom_summary">Prezzo: ￥%1$s</string>
     <string name="mipay_pay_sms_captcha_summary">Il codice di controllo è stato inviato a %1$s</string>
     <string name="mipay_pay_cvv2_error">Prego verificare il CVV2</string>
+    <string name="mipay_result_title">Pagamento</string>
     <string name="mipay_query_wait">Pagamento in corso</string>
     <string name="mipay_query_success">Pagamento fallito</string>
     <string name="mipay_query_failed">Pagamento completato</string>
     <string name="mipay_query_timeout">Tempo scaduto durante il pagamento</string>
     <string name="mipay_query_timeout_contact">"Prego contattare l'assistenza clienti"</string>
     <string name="mipay_button_count_down">Segnala dopo %1$s secondi</string>
-    <string name="mipay_bank_cards">Carte di credito</string>
-    <string name="mipay_bank_cards_title">Le mie carte di credito</string>
-    <string name="mipay_bank_cards_add">Aggiungi carta di credito</string>
-    <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
-    <string name="mipay_bank_cards_item_bank_number">**** **** **** %1$s</string>
-    <string name="mipay_button_unbind_bank_card">Disassocia</string>
-    <string name="mipay_pay_record">Registro pagamenti</string>
-    <string name="mipay_pay_record_title">Registro pagamenti</string>
-    <string name="mipay_pay_record_empty">Nessun pagamento registrato</string>
-    <string name="mipay_setting_title">Impostazioni sicurezza</string>
-    <string name="mipay_setting_title_password">Password per il pagameno</string>
-    <string name="mipay_setting_modify_password">Modifica la password per il pagamento</string>
-    <string name="mipay_setting_forget_password">Password per il pagamento dimenticata</string>
     <string name="mipay_check_personal_info_name">Nome</string>
     <string name="mipay_check_personal_info_name_hint">Il tuo nome</string>
     <string name="mipay_check_personal_info_id_card">Numero ID carta</string>
@@ -94,7 +87,6 @@ Prego verificare la data locale e riprovare."</string>
     <string name="mipay_check_personal_info_phone">Telefono</string>
     <string name="mipay_check_personal_info_phone_hint">Numero di telefono associato al conto bancario</string>
     <string name="mipay_check_personal_info_error">Prego verificare le informazioni personali</string>
-    <string name="mipay_process_expired">"Tempo scaduto per l'operazione, prego ripartire da capo"</string>
     <string name="mipay_cancel_pay">"Rinunciare all'acquisto"</string>
     <string name="mipay_cancel_bind_bank_card">Rimuovere la carta di credito?</string>
     <string name="mipay_cancel_unbind_bank_card">Annullare la disassociazione della carta di credito?</string>
@@ -105,6 +97,18 @@ Prego verificare la data locale e riprovare."</string>
     <string name="mipay_process_unbind_bank_card">Disassocia carta di credito</string>
     <string name="mipay_process_modify_password">Modifica password di pagamento</string>
     <string name="mipay_process_forget_password">Recupera password di pagamento</string>
+    <string name="mipay_error_network">Impossibile collegarsi alla rete</string>
+    <string name="mipay_error_auth">Errore di login, prego riprovare.</string>
+    <string name="mipay_error_server">Errore lato server. Prego riprovare.</string>
+    <string name="mipay_error_common">Errore di sistema. Prego riprovare..</string>
+    <string name="mipay_error_account_changed">"Le informazioni sul tuo account sono cambiate.
+Prego rieseguire il login."</string>
+    <string name="mipay_error_cert_date">"Errore data certificato.
+Prego verificare la data locale e riprovare."</string>
+    <string name="mipay_button_done">Fatto</string>
+    <string name="mipay_agreement">Accetta %1$s</string>
+    <string name="mipay_common_license">Accordo utente</string>
     <string name="mipay_date_picker_label_year" />
     <string name="mipay_date_picker_label_month" />
+    <string name="mipay_process_expired">"L'operazione è scaduto, si prega di riavviare"</string>
 </resources>

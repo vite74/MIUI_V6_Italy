@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Cancellare %s foto dal cloud?</item>
+        <item quantity="one">Cancellare %s foto dal cloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Cancellare %s foto?</item>
+        <item quantity="one">Cancellare %s foto?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Cancellare %s video dal &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="one">Cancellare %s video dal &amp;lt;b>cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Cancellare %s video?</item>
+        <item quantity="one">Cancellare %s video?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Cancellare %s foto sia in &amp;lt;b>locale che dal cloud&amp;lt;/b>?</item>
+        <item quantity="one">Cancellare %s foto sia in &amp;lt;b>locale che dal cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Cancellare %s video sia in &amp;lt;b>locale che dal cloud&amp;lt;/b>?</item>
+        <item quantity="one">Cancellare %s video sia in &amp;lt;b>locale che dal cloud&amp;lt;/b>?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d elementi</item>
         <item quantity="zero">%1$d elementi</item>

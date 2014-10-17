@@ -1,47 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="traffic_uints">
-        <item>" Byte"</item>
-        <item>KB</item>
         <item>MB</item>
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Traffico di ieri\u0020</item>
-        <item>Traffico di oggi\u0020</item>
-        <item>Traffico mensile\u0020</item>
+        <item>"Ieri "</item>
+        <item>"Oggi "</item>
+        <item>"Mese "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>Ieri:</item>
-        <item>Oggi:</item>
-        <item>Mese:</item>
+        <item>"Ieri "</item>
+        <item>"Oggi "</item>
+        <item>"Mese "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ieri in 2G/3G</item>
-        <item>Oggi in 2G/3G</item>
-        <item>Mese in 2G/3G</item>
+        <item>Ieri (dati)</item>
+        <item>Oggi (dati)</item>
+        <item>Mese (dati)</item>
         <item>Ieri in Wi-Fi</item>
         <item>Oggi in Wi-fi</item>
         <item>Mese in Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Ieri 2G/3G</item>
-        <item>Oggi 2G/3G</item>
-        <item>Mese 2G/3G</item>
+        <item>Ieri (dati)</item>
+        <item>Oggi (dati)</item>
+        <item>Mese (dati)</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3s</item>
-        <item>4s</item>
-        <item>5s</item>
-        <item>6s</item>
-        <item>7s</item>
-        <item>8s</item>
-        <item>9s</item>
+        <item>3 sec.</item>
+        <item>4 sec.</item>
+        <item>5 sec.</item>
+        <item>6 sec.</item>
+        <item>7 sec.</item>
+        <item>8 sec.</item>
+        <item>9 sec.</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>\u00203G\u0020</item>
-        <item>\u0020Wi-Fi\u0020</item>
-        <item>\u0020Traffico risparmiato\u0020</item>
+        <item>"Rete dati "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Dati risparmiati "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Rete dati "</item>
@@ -50,7 +48,7 @@
     <string-array name="traffic_sort_type">
         <item>"Rete dati "</item>
         <item>"Wi-Fi "</item>
-        <item>"Totale</item>
+        <item>"Dati risparmiati "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Usa modello messaggio automaticamente</item>

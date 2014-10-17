@@ -11,13 +11,17 @@ zh_CN = 'zh_CN'
 zh_TW = 'zh_TW'
 en_US = 'en_US'
 en_GB = 'en_GB'
-it_IT = 'it_IT'
 en = 'en'
 g_CurLocale = ""
+DEBUG = false
 -------------Globals----------------
 
 __log = nil
 function log(msg, right)
+    if DEBUG == false then
+        return
+    end
+
     if __log == nil then __log = luajava.bindClass("android.util.Log") end
 
     if right == 'w' then
@@ -42,11 +46,19 @@ localization_table = {
     en = localization_English_table,
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
-	it_IT = localization_Italian_table,
-	
 }
+
 function getString(string_locale)
-    curTable = localization_table[en]
+    curTable = localization_table[zh_CN]
+
+    if (getCurLocale() == zh_CN) then
+        curTable = localization_table[zh_CN];
+    elseif (getCurLocale() == en_US or getCurLocale() == en_GB) then
+        curTable = localization_table[en];
+    elseif (getCurLocale() == zh_TW) then
+        curTable = localization_table[zh_TW];
+    end
+
     return curTable[string_locale];
 end
 
@@ -54,29 +66,29 @@ function getEnglishMonthStr(month)
     log("getEngishMonthStr month="..month)
 
     if (month == "01") then
-        str =  "Jan."
+        str =  "Gen"
     elseif (month == "02") then
-        str = "Feb."
+        str = "Feb"
     elseif (month == "03") then
-        str = "Mar."
+        str = "Mar"
     elseif (month == "04") then
-        str = "Apr."
+        str = "Apr"
     elseif (month == "05") then
-        str = "May"
+        str = "Mag"
     elseif (month == "06") then
-        str = "Jun."
+        str = "Giu"
     elseif (month == "07") then
-        str = "Jul."
+        str = "Lug"
     elseif (month == "08") then
-        str = "Aug."
+        str = "Ago"
     elseif (month == "09") then
-        str = "Sept."
+        str = "Set"
     elseif (month == "10") then
-        str = "Oct."
+        str = "Ott"
     elseif (month == "11") then
-        str = "Nov."
+        str = "Nov"
     elseif (month == "12") then
-        str = "Dec."
+        str = "Dic"
     else
         str = month;
     end

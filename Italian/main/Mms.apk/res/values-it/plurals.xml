@@ -7,7 +7,12 @@
     <plurals name="slide_duration">
         <item quantity="other">%s sec</item>
         <item quantity="one">%s sec</item>
-        <item quantity="few">%s secs</item>
+        <item quantity="few">%s sec</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s sec</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s risultati per \"%2$s\"</item>
@@ -18,6 +23,6 @@
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messaggi</item>
-        <item quantity="one">%1$s messaggio</item>  
+        <item quantity="one">%1$s messaggio</item>
     </plurals>
 </resources>

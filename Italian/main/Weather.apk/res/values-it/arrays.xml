@@ -1,297 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="send_item">
-        <item>SMS</item>
-        <item>Email</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_json_key">
-        <item>Vento</item>
-        <item>Indice UV</item>
-        <item>Abbigliamento</item>
-        <item>Confort</item>
-        <item>Lavaggio auto</item>
-        <item>Asciugatura</item>
-        <item>Mattino</item>
-        <item>Turismo</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_key">
-        <item>Velocità vento:</item>
-        <item>Indice UV:　</item>
-        <item>Abbigliamento:</item>
-        <item>Sensibilità:</item>
-        <item>Livello pioggia:</item>
-        <item>Indice umidità:</item>
-        <item>Esercizi mattutini:</item>
-        <item>Piacere:</item>
-    </string-array>
-    <string-array name="weather_image">
-        <item>Sereno</item>
+    <string-array name="weather_type">
+        <item>Soleggiato</item>
+        <item>Parzialmente nuvoloso</item>
         <item>Nuvoloso</item>
-        <item>Foschia</item>
         <item>Nebbia</item>
+        <item>Violento temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
         <item>Forte temporale</item>
-        <item>Temporale</item>
-        <item>Pioggia abbondante</item>
-        <item>Temporale</item>
+        <item>Rovescio di pioggia</item>
+        <item>Pioggia intensa</item>
         <item>Pioggia moderata</item>
-        <item>Pioggia molto forte</item>
-        <item>Pioggia</item>
-        <item>Piogge leggere</item>
-        <item>Nevischio</item>
-        <item>Forti nevicate</item>
-        <item>Nevicate sparse</item>
-        <item>Forti nevicate</item>
+        <item>Pioggia leggera</item>
+        <item>Alternanza di pioggia e sole</item>
+        <item>Bufera di neve</item>
         <item>Neve</item>
-        <item>Nevicate leggere</item>
-        <item>Forte tempesta di sabbia</item>
+        <item>Nevicata pesante</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Violenta tempesta di sabbia</item>
         <item>Tempesta di sabbia</item>
-        <item>Tempesta di sabbia leggera</item>
-        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventilato</item>
         <item>Grandine</item>
-        <item>Pulviscolo</item>
+        <item>Polvere</item>
         <item>Foschia</item>
+        <item>Pioggia gelata</item>
+        <item>Nessun dato</item>
     </string-array>
-    <string-array name="weather_details_key">
-        <item>Non disponibile</item>
-        <item>Non male</item>
-        <item>Buono</item>
-        <item>Evita se puoi</item>
-        <item>Non consigliato</item>
-        <item>Ideale</item>
-        <item>Moderato</item>
+    <string-array name="weather_indexes_uv_level">
+        <item>Molto debole</item>
         <item>Debole</item>
         <item>Medio</item>
         <item>Forte</item>
         <item>Molto forte</item>
-        <item>Fresco</item>
-        <item>Piacevole</item>
-        <item>Molto caldo</item>
-        <item>Caldo</item>
-        <item>Caldo</item>
-        <item>Fresco</item>
-        <item>Molto fresco</item>
-        <item>Freddo</item>
-        <item>Gelo</item>
-        <item>Alta</item>
-        <item>Media</item>
-        <item>Bassa</item>
-        <item>Cielo sereno</item>
-        <item>Nuvoloso</item>
-        <item>Pioggia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Neve</item>
-        <item>Condizioni relativamente adeguate</item>
-        <item>Condizioni adeguate</item>
-        <item>Nuvoloso</item>
-        <item>Non ottimali</item>
-        <item>Condizioni ottimali</item>
-        <item>Condizioni non ottimali</item>
-        <item>Condizioni medie</item>
     </string-array>
-    <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
-        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
-        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
-        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
-        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
-        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
-        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
-        <item>"Sta piovendo leggermente, dovresti prendere l'ombrello!"</item>
-        <item>"Fuori c'è un misto di pioggia e neve, ricordati di portare con te un ombrello!"</item>
-        <item>"Sta nevicando pesantemente, ricordati di indossare berretta e sciarpa!"</item>
-        <item>Oggi nevicherà, ricordati di portare con te berretta e sciarpa!</item>
-        <item>"Sta nevicando molto, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"Sta nevicando leggermente, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"C'una leggera nevicata, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"Piove un po', ricorda di prendere l'ombrello!"</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"Non capita tutti i giorni di vedere la grandine! Cammina con attenzione!"</item>
-    </string-array>
-    <string-array name="weather_sms_content">
-        <item>Ricorda di usare la protezione solare.</item>
-        <item>Oggi sarà nuvoloso.</item>
-        <item>"Il tempo sta per peggiorare. Cerca di stare all'interno."</item>
-        <item>Guida con prudenza :)</item>
-        <item>"Piove forte, ricordati di portare con te un ombrello."</item>
-        <item>"Piove forte, ricordati di portare con te un ombrello."</item>
-        <item>"Piove forte, ricordati di portare con te un ombrello."</item>
-        <item>Portati un ombrello!</item>
-        <item>Portati un ombrello!</item>
-        <item>Portati un ombrello! :)</item>
-        <item>Portati un ombrello!</item>
-        <item>"Fuori piovvigina, portati l'ombrello!"</item>
-        <item>"Fuori c'è un misto di pioggia e neve, ricordati di portare con te un ombrello!"</item>
-        <item>"Sta nevicando pesantemente"</item>
-        <item>Oggi nevicherà, ricordati di portare con te berretta e sciarpa!</item>
-        <item>"Sta nevicando pesantemente, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"Sta nevicando leggermente, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"Sta nevicando, ricordati di indossare berretta e sciarpa!"</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>"Non capita tutti i giorni di vedere la grandine! Cammina con attenzione!"</item>
-        <item>"La qualità dell'aria è pessima, cerca di rimanere in casa."</item>
-        <item>"La qualità dell'aria è pessima, cerca di rimanere in casa."</item>
-    </string-array>
-    <string-array name="weather_sms_addons">
-        <item>"Previsioni per oggi a @: $."</item>
-        <item>Min~Max: %.</item>
-        <item>"Rircorda di prendere l'ombrello!"</item>
-        <item></item>
-        <item>Se hai i panni stesi ricordati di rimetterli dentro più tardi! :)</item>
-        <item>Se puoi evita di guidare.</item>
-        <item>Guida con prudenza!</item>
-        <item>Fai attenzione perché è molto scivoloso!</item>
-        <item></item>
-        <item>Fai attenzione.</item>
-        <item>Non uscire se non è necessario.</item>
-        <item>Metti una protezione solare e indossa gli occhiali da sole.</item>
-        <item>Metti una protezione solare e indossa gli occhiali da sole.</item>
-        <item>"Fuori c'è molto vento, ricorda di indossare un giacchetto"</item>
-        <item>"La qualità dell'aria è scarsa, ricorda di indossare la mascherina."</item>
-        <item>Ricorda di prendere il giacchetto.</item>
-        <item>Ricorda di indossare la mascherina :)</item>
-        <item>Ricorda di prendere guanti e cappello.</item>
-        <item>Fuori è caldo!</item>
-        <item>Fuori è caldo!</item>
-        <item>Copriti bene!</item>
-        <item>"E' in arrivo un'ondata di freddo…"</item>
-        <item>Copriti bene!</item>
-        <item>Indossa dei copri orecchie se li hai :)</item>
-        <item>"Vai un po' a correre!"</item>
-        <item>"Vai a correre e prendi un po' di sole! :)"</item>
-        <item>Il tempo è ideale per stendere i panni!</item>
-        <item>Sta diventando fresco, ricorda di indossare un giacchetto.</item>
-    </string-array>
-    <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>6</item>
-        <item>"Usa una protezione solare ed indossa cappello e occhiali da sole all'esterno."</item>
-        <item>7</item>
-        <item>"Usa una protezione solare ed indossa cappello e occhiali da sole all'esterno"</item>
-        <item>8</item>
-        <item>"Usa una protezione solare ed indossa cappello e occhiali da sole all'esterno"</item>
-        <item>9</item>
-        <item>Evita il sole se ti è possibile. Usa una protezione solare se proprio devi uscire!</item>
-        <item>10</item>
-        <item>Evita il sole se ti è possibile. Usa una protezione solare se proprio devi uscire!</item>
-    </string-array>
-    <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>11</item>
-        <item>Giacca leggera</item>
-        <item>12</item>
-        <item>Giacca leggera</item>
-        <item>13</item>
-        <item>Abiti estivi</item>
-        <item>14</item>
-        <item>Abiti estivi</item>
-        <item>15</item>
-        <item>Giacca leggera</item>
-        <item>16</item>
-        <item>Ricorda di portare con te degli strati aggiuntivi!</item>
-        <item>17</item>
-        <item>Portati un giubino!</item>
-        <item>18</item>
-        <item>Infagottati</item>
-        <item>19</item>
-        <item>Infagottati!</item>
-    </string-array>
-    <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>1</item>
-        <item>"E' un buon giorno per fare esercizi al mattino!"</item>
-        <item>2</item>
-        <item>Porta con te qualche strato aggiuntivo!</item>
-        <item>3</item>
-        <item>"Il tempo non è l'ideale; porta con te qualche strato aggiuntivo!"</item>
-        <item>4</item>
-        <item>Fai gli esercizi in casa!</item>
-    </string-array>
-    <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>20</item>
-        <item>La temperatura sarà stabile</item>
-        <item>21</item>
-        <item>Caldo e gradevole</item>
-        <item>22</item>
-        <item>La temperatura sarà variabile</item>
-        <item>23</item>
-        <item>Cielo sereno e temperatura non gradevole</item>
-        <item>24</item>
-        <item>Caldo e umido! :(</item>
-    </string-array>
-    <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>1</item>
-        <item>"E' un buon giorno per lavare la tua auto!"</item>
-        <item>2</item>
-        <item>"E' un buon giorno per lavare la tua auto!"</item>
-        <item>3</item>
-        <item>"Pioverà, per cui aspetta a lavare la tua auto."</item>
-        <item>25</item>
-        <item>"Pioverà, per cui aspetta a lavare la tua auto."</item>
-        <item>26</item>
-        <item>"E' prevista un tempesta di sabbia, per cui aspetta a lavare la tua auto."</item>
-        <item>27</item>
-        <item>"Nevicherà, per cui aspetta a lavare la tua auto."</item>
-        <item>4</item>
-        <item>Rinuncia a lavare la tua auto.</item>
-    </string-array>
-    <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>28</item>
-        <item>Appendi i vestiti ad asciugare nel pomeriggio.</item>
-        <item>29</item>
-        <item>Appendi i vestiti ad asciugare in qualsiasi momento.</item>
-        <item>30</item>
-        <item>"E' nuvoloso, ma la temperatura è elevata, i tuoi vestiti si asciugheranno comunque."</item>
-        <item>1</item>
-        <item>"E' un gran giorno per asciugare i vestiti."</item>
-        <item>3</item>
-        <item>Piovera a intermittenza durante il giorno.</item>
-        <item>5</item>
-        <item>"Buone condizioni per l'asciugatura."</item>
-        <item>4</item>
-        <item>Asciuga i tuoi vesiti in casa.</item>
-        <item>31</item>
-        <item>Asciuga i tuoi vesiti in casa.</item>
-    </string-array>
-    <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Non disponibile</item>
-        <item>32</item>
-        <item>Sereno e soleggiato con una buona temperatura.</item>
-        <item>2</item>
-        <item>Temperatura mite e stabile.</item>
-        <item>1</item>
-        <item>Temperatura mite e stabile.</item>
-        <item>3</item>
-        <item>"Oggi il tempo sarà variabile."</item>
-        <item>33</item>
-        <item>"Oggi il tempo sarà variabile."</item>
-        <item>34</item>
-        <item>Cielo sereno, vento lieve</item>
-    </string-array>
-    <string-array name="weather_info_fl">
-        <item></item>
-        <item>Vestiti a strati!</item>
-        <item>Brezza leggera</item>
-        <item>Confortevole</item>
-        <item>Niente</item>
-        <item>Non disponibile</item>
+    <string-array name="wind_direction">
+        <item>Vento N</item>
+        <item>Vento NE</item>
+        <item>Vento E</item>
+        <item>Vento SE</item>
+        <item>Vento S</item>
+        <item>Vento SO</item>
+        <item>Vento O</item>
+        <item>Vento NO</item>
     </string-array>
 </resources>

@@ -7,11 +7,11 @@
     <string name="menu_attach_screenshot">Allega screenshot</string>
     <string name="menu_discard">Elimina</string>
     <string name="description">Descrizione (opzionale)</string>
-    <string name="suggestion_description">Spero che aggiungerete la funzione X perché…</string>
+    <string name="suggestion_description">Spero che aggiungerete la funzione X perchè…</string>
     <string name="nonsystemapp_description">Descrivi il problema</string>
     <string name="btn_send">Invia</string>
     <string name="err_type">Tipo di bug</string>
-    <string name="err_type_reboot">Riavvio di Sistema</string>
+    <string name="err_type_reboot">Riavvio di sistema</string>
     <string name="err_type_power_consuming">Consumo</string>
     <string name="err_type_signal">Problemi di rete</string>
     <string name="err_type_wifi">Wi-Fi</string>
@@ -40,6 +40,7 @@
     <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>
     <string name="toast_feedback_submitted">Il tuo feedback è stato inviato correttamente</string>
     <string name="toast_feedback_pending_wlan">Il tuo feedback sarà invato quando la conessione WLAN sarà pronta</string>
+    <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>
     <string name="discard_draft_dialog_title">Elimina bozza</string>
     <string name="discard_draft_dialog_content">Il rapporto è stato modificato, premi il pulsante OK per eliminare la bozza.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
@@ -48,7 +49,7 @@
     <string name="network_unavailable_dialog_content">Il tuo feedback verrà inviato appena la rete sarà disponibile</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="wlan_unavailable_dialog_title">WLAN non disponibile</string>
-    <string name="wlan_unavailable_dialog_content">Sono richiesti %s di dati 2G/3G, premere OK per inviare solo con rete WLAN</string>
+    <string name="wlan_unavailable_dialog_content">Sono richiesti %s di dati 2G/3G , premere OK per inviare solo con rete WLAN</string>
     <string name="wlan_unavailable_dialog_button_sent">Invia subito</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Generazione rapporto, si prega di attendere…</string>
@@ -77,9 +78,13 @@
     <string name="camera_problem3">Chiusura forzata Fotocamera</string>
     <string name="camera_problem4">Impossibile cambiare tra fotocamera frontale a posteriore</string>
     <string name="camera_problem5">La fotocamera ha smesso di funzionare</string>
-    <string name="suggestion_problem1">DOvreste aggiungere questa funzione perché…</string>
+    <string name="suggestion_problem1">Dovreste aggiungere questa funzione perchè…</string>
     <string name="screen_lock">Lockscreen</string>
     <string name="systemui">Pannello delle notifiche</string>
-    <string name="no_userbook_toast">File di istruzioni non presente</string>
-    <string name="userbook_name">Guida utente</string>
+    <string name="hot_problem_empty">Vuoto</string>
+    <string name="cta_dialog_title">Connessione Internet</string>
+    <string name="cta_dialog_content">Questa applicazione deve connettersi ad Internet regolarmente.</string>
+    <string name="cta_not_show_again">Non chiedere più</string>
+    <string name="cta_cancel">Annulla</string>
+    <string name="cta_confirm">OK</string>
 </resources>

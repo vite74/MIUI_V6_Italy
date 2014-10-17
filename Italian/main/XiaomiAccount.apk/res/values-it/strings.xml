@@ -245,6 +245,7 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="micloud_sync_info">Ci sono %d contenuti da sincronizzare</string>
     <string name="micloud_sync_info_synced">Tutti i contenuti sono aggiornati</string>
     <string name="micloud_space_info">Rimanente: %s</string>
+    <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="sim_index_info">SIM %1$d - %2$s</string>
     <string name="choose_which_one_sim">Scegli un numero di telefono</string>
     <string name="account_learn_more_title">Crea un Mi Account</string>

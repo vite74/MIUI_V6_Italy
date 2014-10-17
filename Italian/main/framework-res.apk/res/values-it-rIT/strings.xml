@@ -1058,11 +1058,11 @@ Vuoi chiuderla?"</string>
     <string name="volume_alarm">Volume allarme</string>
     <string name="volume_notification">Volume notifiche</string>
     <string name="volume_unknown">Volume</string>
-    <string name="volume_icon_description_bluetooth">Volume Bluetooth</string>
-    <string name="volume_icon_description_ringer">Volume suoneria</string>
-    <string name="volume_icon_description_incall">Volume chiamate</string>
-    <string name="volume_icon_description_media">Volume contenuti multimediali</string>
-    <string name="volume_icon_description_notification">Volume notifiche</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_ringer">Suoneria</string>
+    <string name="volume_icon_description_incall">Chiamate</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Notifiche</string>
     <string name="ringtone_default">Suoneria predefinita</string>
     <string name="ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="ringtone_silent">Silenzioso</string>

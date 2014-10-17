@@ -129,7 +129,7 @@
     <string name="search_history_cleared">Cronologia cancellata</string>
     <string name="preferences_alerts_title">Notifiche</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
-    <string name="preferences_alerts_ringtone_title">Scegli suoneria</string>
+    <string name="preferences_alerts_ringtone_title">Suoneria</string>
     <string name="preferences_alerts_popup_title">Notifica pop-up</string>
     <string name="preferences_default_reminder_title">Promemoria predefinito</string>
     <string name="preferences_default_reminder_dialog">Promemoria predefinito</string>
@@ -137,10 +137,10 @@
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
     <string name="preferences_home_tz_title">Orario predefinito</string>
-    <string name="preferences_home_tz_default">Europe/Rome</string>
+    <string name="preferences_home_tz_default">Europa/Roma</string>
     <string name="preferences_show_week_num_title">Mostra numero settimana</string>
     <string name="preferences_about_title">Informazioni</string>
-    <string name="preferences_build_version">Versione N.</string>
+    <string name="preferences_build_version">Versione n.</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">Nessun evento</string>
@@ -169,6 +169,7 @@
     <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
     <string name="acessibility_selected_marker_description">Evento selezionato</string>
     <string name="do_not_check">Non spuntare -></string>
+    <string name="chinese_leap" />
     <string name="event_lunar_month" />
     <string name="huangli_label">Calendario cinese</string>
     <string name="holiday_label">Festività cinese</string>
@@ -187,7 +188,9 @@
     <string name="add_calendar">Aggiungi</string>
     <string name="exist_calendar">Esistente</string>
     <string name="delete_calendar">Elimina</string>
-    <string name="delete_topic_dialog_title">Cancellare la sottoscrizione al  calendario\"%s\"？</string>
+    <string name="adding_calendar" />
+    <string name="deleting_calendar" />
+    <string name="delete_topic_dialog_title">Cancellare la sottoscrizione al calendario\"%s\"？</string>
     <string name="add_topic_success">Accesso a \"%s\" completato</string>
     <string name="delete_topic_success">Cancellazione per \"%s\" completata</string>
     <string name="calendar_server_error">Errore del server</string>
@@ -201,6 +204,7 @@
     <string name="enter_calendar">Accedi</string>
     <string name="button_online">Online</string>
     <string name="topic_event_list_header_label">Prossimi eventi</string>
+    <string name="topic_list_header_label">Lista</string>
     <string name="setting_online_calendar">Iscriviti</string>
     <string name="setting_wifi_mode">Iscriviti solo sotto copertura Wi-Fi</string>
     <string name="user_notice_online_agreement">Stai per accedere ad un calendario tramite MIUI, questo è un servizio per cui è richiesta una connessione Internet. Utilizzando questo servizio dichiari di accettare %1$ e 2$s.</string>
@@ -211,12 +215,14 @@
     <string name="online_reminder_slider_text">Attiva avviso</string>
     <string name="online_reminder_minutes_text">Orario avviso</string>
     <string name="online_reminder_change_text">Modifica avviso</string>
+    <string name="action_text_online">Online</string>
     <string name="text_year">Anno</string>
     <string name="view_all_matches">Mostra tutto</string>
     <string name="button_day">G</string>
     <string name="button_week">S</string>
     <string name="button_month">M</string>
-    <string name="action_bar_today">O</string>
+    <string name="action_text_today">Oggi</string>
+    <string name="action_text_new_event">Nuovo evento</string>
     <string name="week_view_today_toast">Già presente in questa settimana</string>
     <string name="account_and_calendar">Account e calendario</string>
     <string name="account_and_calendar_to_display">Account e calendario da visualizzare</string>
@@ -231,6 +237,8 @@
     <string name="event_info_repeat">"Ripetizione: "</string>
     <string name="event_info_where">"Dove: "</string>
     <string name="event_info_descrip">"Descrizione: "</string>
+    <string name="event_action_delete">Elimina</string>
+    <string name="event_action_edit">Modifica</string>
     <string name="lunar_date">Data lunare</string>
     <string name="widget_select_style">Seleziona uno stile</string>
     <string name="widget_events">Prossimi eventi</string>
@@ -257,7 +265,7 @@
     <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="cta_notice_title">Avvisa</string>
     <string name="cta_notice_message">"\"Avviso compleanno\" nel Calendario ti ricorderà il giorno del compleanno dei tuoi contatti in anticipo. La funzione deve accedere ai tuoi contatti, sei d'accordo?"</string>
-    <string name="cta_notice_checkbox">Non mostrare più</string>
+    <string name="cta_notice_checkbox">Non chiedere più</string>
     <string name="cta_notice_ok">Sì</string>
     <string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
     <string name="local_calendar_display_name">Calendario locale</string>

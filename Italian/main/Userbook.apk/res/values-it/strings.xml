@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leggimi</string>
+    <string name="loading_userbook">Caricamento in corso…</string>
+    <string name="bakc_key_toast_txt">Per uscire, tocca nuovamente il pulsante Indietro</string>
+    <string name="non_wifi_not_download_data">Non puoi utilizzare la tua connessione dati per scaricare questo pacchetto, Prova di nuovo quando sei connesso a una rete Wi-Fi</string>
+    <string name="downloading_data">Download in corso…</string>
+    <string name="downloading_error">Errore download,si prega di provare più tardi!</string>
+</resources>

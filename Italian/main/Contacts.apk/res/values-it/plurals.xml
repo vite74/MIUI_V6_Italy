@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contatti con numeri di telefono</item>
+        <item quantity="other">%d contatti con numero di telefono</item>
         <item quantity="one">1 contatto con numero di telefono</item>
     </plurals>
     <plurals name="listTotalAllContacts">
@@ -17,28 +17,28 @@
         <item quantity="one">1 trovato</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">uniti da %0$d origini</item>
-        <item quantity="one">non uniti</item>
+        <item quantity="other">unito con %0$d fonti</item>
+        <item quantity="one">non unito</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d gruppi</item>
         <item quantity="one">1 gruppo</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d persone di %2$s</item>
-        <item quantity="one">%1$d persona di %2$s</item>
+        <item quantity="other">%1$d contatti da %2$s</item>
+        <item quantity="one">%1$d contatto da %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d persone</item>
-        <item quantity="one">%1$d persona</item>
+        <item quantity="other">%1$d contatti</item>
+        <item quantity="one">%1$d contatto</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d numeri</item>
-        <item quantity="one">%1$d numero</item>
+        <item quantity="other">%1$d contatti</item>
+        <item quantity="one">%1$d contatto</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d messaggi in segreteria</item>
-        <item quantity="one">Un messaggio in segreteria</item>
+        <item quantity="other">%1$d Voicemail</item>
+        <item quantity="one">Voicemail</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selezionati</item>
@@ -61,8 +61,8 @@
         <item quantity="one">%1$d numero</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d email di contatto</item>
-        <item quantity="one">1 email di contatto</item>
+        <item quantity="other">%1$d contatti email</item>
+        <item quantity="one">1 contatto email</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d preferiti</item>
@@ -73,12 +73,12 @@
         <item quantity="one">%1$d contatto recente</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d contatti aggiunti"</item>
-        <item quantity="one">%1$d contatto aggiunto</item>
+        <item quantity="other">%1$d contatti aggiunti correttamente</item>
+        <item quantity="one">%1$d contatti aggiunti correttamente</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d persone</item>
-        <item quantity="one">1 persona</item>
+        <item quantity="other">%d contatti</item>
+        <item quantity="one">1 contatto</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contatti importati</item>

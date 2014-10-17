@@ -19,7 +19,7 @@
         <item>Riassunto</item>
     </string-array>
     <string-array name="addon_list_tabs">
-        <item>Tutti gli speciali</item>
-        <item>I miei speciali</item>
+        <item>Tutti gli Speciali</item>
+        <item>I Miei Speciali</item>
     </string-array>
 </resources>

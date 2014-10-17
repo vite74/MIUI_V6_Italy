@@ -2,23 +2,24 @@
 <resources>
     <string name="app_label">Bussola</string>
     <string name="getting_location">Ricerca posizione…</string>
-    <string name="cannot_get_location">--</string>
+    <string name="cannot_get_location">Impossibile definire posizione</string>
     <string name="location_north">N</string>
     <string name="location_south">S</string>
     <string name="location_east">E</string>
     <string name="location_west">O</string>
     <string name="menu_calibrate">Calibrazione</string>
+    <string name="menu_calibrate_altitude">Calibra altitudine</string>
     <string name="calibrate_success">Calibrazione completata</string>
-    <string name="calibrate_failed_no_location">Non è stato possibile effettuare la calibrazione</string>
-    <string name="calibrate_failed_timeout">Non è stato possibile connettersi al server</string>
+    <string name="calibrate_failed_no_location">Calibrazione fallita: impossibile determinare latitudine e longitudine</string>
+    <string name="calibrate_failed_timeout">Calibrazione fallita: timout del server</string>
     <string name="pressure_title">Pressione</string>
     <string name="altitude_title">Altitudine</string>
     <string name="pressure">%.1f</string>
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
-    <string name="altitude_unit">M</string>
-    <string name="dialog_title_no_network">Non è stato possibile connettersi alla rete</string>
-    <string name="dialog_calibrat_altitude">Calibrazione…</string>
+    <string name="altitude_unit">m</string>
+    <string name="dialog_title_no_network">Nessuna rete trovata, connettere via Wi-Fi o abilitare la rete dati mobile</string>
+    <string name="dialog_calibrat_altitude">Calibrazione altitudine tramite connessione internet.</string>
     <string name="latitude">LAT</string>
     <string name="longitude">LON</string>
     <string name="direction_north">N</string>
@@ -30,8 +31,4 @@
     <string name="direction_south_east">SE</string>
     <string name="direction_south_west">SO</string>
     <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
-    <string name="calibrate_altitude">Calibrazione</string>
-    <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
-    <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
-    <string name="do_not_show_next_time">Non chiedere più</string>
 </resources>

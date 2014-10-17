@@ -6,10 +6,11 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Browser</item>
+        <item>Galleria</item>
         <item>Permessi</item>
         <item>Fotocamera</item>
-        <item>Utilizzo dati</item>
-        <item>Dati meteo</item>
+        <item>Monitor di Rete</item>
+        <item>Archivio Meteo</item>
         <item>Meteo</item>
     </string-array>
     <string-array name="system_data_label">
@@ -19,7 +20,7 @@
         <item>Messaggi Multimediali</item>
         <item>Impostazioni di sistema</item>
         <item>Impostazioni Wi-Fi</item>
-        <item>Layout home</item>
+        <item>Layout Desktop</item>
         <item>Sveglie</item>
         <item>Note</item>
         <item>Impostazioni Anti-disturbo</item>

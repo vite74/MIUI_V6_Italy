@@ -5,24 +5,23 @@
     <string name="recording_stopped">Registrazione interrotta</string>
     <string name="button_ok">Ok</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Impossibile accedere alla memoria interna o alla scheda SD</string>
-    <string name="error_app_internal">"Forse un'altra applicazione sta usando le funzionalità di registrazione. Verifica e riprova."</string>
+    <string name="error_sdcard_access">Impossibile accedere alla scheda SD</string>
+    <string name="error_app_internal">"Errore interno dell'applicazione"</string>
     <string name="error_app_internal_title">Errore Registratore</string>
-    <string name="delete_dialog_message">Vuoi eliminare questa registrazione?</string>
-    <string name="notification_recording">Registrazione…</string>
-    <string name="notification_recording_ticker">Telefono muto. Registrazione…</string>
+    <string name="delete_dialog_message">Vuoi eliminare questa registrazione ?</string>
+    <string name="notification_recording">Registrazione</string>
     <string name="notification_playback">Riproduzione in corso…</string>
     <string name="notification_stopped">Registrazione interrotta</string>
-    <string name="notification_warning">Spazio in esaurimento,restano meno di %d minuti di registrazione</string>
+    <string name="notification_warning">Spazio in esaurimento, restano meno di %d minuti di registrazione</string>
     <string name="record_list">Elenco registrazioni</string>
     <string name="record_list_fm">Registrazioni FM</string>
     <string name="record_list_call">Registrazioni chiamate</string>
-    <string name="record_list_cloud">Registrazioni su Cloud</string>
-    <string name="record_list_cloud_fm">Registrazioni FM su Cloud</string>
-    <string name="record_list_cloud_call">Registrazioni chiamate su Cloud</string>
-    <string name="call_record">Registrazione chiamata (%d)</string>
+    <string name="record_list_cloud">Registrazioni Cloud</string>
+    <string name="record_list_cloud_fm">Registrazioni FM Cloud</string>
+    <string name="record_list_cloud_call">Registrazioni Chiamate Cloud</string>
+    <string name="call_record">Registrazione chiamata</string>
     <string name="fm_record">Registrazione FM (%d)</string>
-    <string name="cloud_record">Registrazione su cloud (%d)</string>
+    <string name="cloud_record">Registrazione in cloud(%d)</string>
     <string name="no_file">Nessuna registrazione</string>
     <string name="loading_recording">Caricamento registrazioni</string>
     <string name="second">%d secondi</string>
@@ -36,22 +35,23 @@
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
     <string name="record_picker_title">Registrazione</string>
-    <string name="dialog_title_storage_full">Spazio insufficiente</string>
-    <string name="dialog_content_storage_full">"Registrazione interrotta perchè non c'è suffciente spazio sulla memoria interna del tuo dispositivo."</string>
+    <string name="dialog_title_storage_full">Mancanza di spazio di archiviazione, eliminare alcuni file ?</string>
+    <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
+    <string name="status_bar_anti_disturb">Il telefono è stato silenziato, modifica il volume per riattivarlo.</string>
     <string name="status_bar_recording">Registrazione…</string>
-    <string name="status_bar_back">Per tornare indietro, tocca questa barra</string>
-    <string name="status_bar_recording_pause">Registrazione in pausa.</string>
-    <string name="record_saving">Salvataggio in corso…</string>
-    <string name="record_loading">Caricamento in corso…</string>
+    <string name="status_bar_back">Premi per tornare al Registratore</string>
+    <string name="status_bar_recording_pause">"Registrazione in pausa."</string>
+    <string name="record_saving">Salvataggio registrazione, attendere prego!</string>
+    <string name="record_loading">Caricamento registrazione, attendere prego!</string>
     <string name="low_battery_message_title">Batteria scarica</string>
     <string name="low_battery_warning">Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
-    <string name="low_battery_error">Rimane meno del 5% della batteria. Per essere certo che la tua registrazione non vada persa, Registratore ha interrotto e salvato la registrazione.</string>
+    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="access_error">Impossibile registrare in modalità Ospite</string>
     <string name="record_name_hour">.</string>
-    <string name="sound_recorder_settings">Impostazioni</string>
+    <string name="sound_recorder_settings">Impostazioni di registrazione</string>
     <string name="menu_settings">Impostazioni</string>
-    <string name="preference_led_indicator">Registrazione nella schemata di blocco</string>
-    <string name="preference_led_indicator_prompt">Durante una registrazione dalla schermata di blocco, compare una notifica nella barra di stato e la luce di notifica lampeggia</string>
+    <string name="preference_led_indicator">Notifica a schermo spento</string>
+    <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
     <string name="preference_record_type_title">Tipo di registrazione</string>
     <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
@@ -75,15 +75,14 @@
     <string name="back">Indietro</string>
     <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
     <string name="record_download">Scarica da Mi Cloud</string>
-    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completamente scaricate.</string>
+    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completaemnte scaricate.</string>
     <string name="record_download_msg_reload">Questa registrazione non esiste</string>
     <string name="record_download_complete">Completato</string>
     <string name="record_download_paused">In pausa</string>
     <string name="record_download_failed">Fallito</string>
     <string name="record_download_progress">%d%%</string>
-    <string name="record_download_pending">In attesa</string>
     <string name="record_download_activity">Downloader registrazioni</string>
-    <string name="retry">Riprova</string>
+    <string name="retry">Reiprova</string>
     <string name="start">Riprendi</string>
     <string name="record_download_manager">Download manager</string>
     <string name="record_downloading_notification">Download in corso…</string>
@@ -93,18 +92,11 @@
     <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
-    <string name="wifi_recommended_body" formatted="false">"Avviare ora questo download (%s) può accorciare la durata della tua batteria e/o comportare un uso eccessivo della tua connessione dati mobile, il ché può comportare addebiti da parte del tuo operatore mobile in base al tuo piano dati.
-
- Tocca %s per avviare questo download la prossima volta che sarai connesso ad una rete Wi-Fi."</string>
+    <string name="wifi_recommended_body">"Scaricamento da rete dati mobile：
+ potrebbe comportare costi aggiuntivi."</string>
     <string name="button_queue_for_wifi">Coda</string>
     <string name="button_start_now">Download</string>
     <string name="notification_title_all_paused">Download in pausa</string>
     <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizo dei dati su rete mobile."</string>
     <string name="toast_file_is_downloading">Questo file è in download, attendere prego</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="data_connection_title">Suggerimento</string>
-    <string name="data_connection_body">"Suggerimento:
-Sulla rete mobile, scaricare può costare molto."</string>
-    <string name="data_connection_button_text">OK</string>
-    <string name="error_sdcard_unmounted">La scheda SD non è montata, si prega di inserire una scheda SD</string>
 </resources>

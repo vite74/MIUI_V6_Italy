@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="exchange_name">Società</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="meeting_accepted">Accettato: %s</string>
     <string name="meeting_declined">Rifiutato: %s</string>
@@ -17,7 +18,7 @@
     <string name="exception_updated">I dettagli di questo evento sono cambiati per la data: %s</string>
     <string name="policy_dont_allow_storage_cards">Non consentire schede di memoria</string>
     <string name="policy_dont_allow_unsigned_apps">Non consentire applicazioni non firmate</string>
-    <string name="policy_dont_allow_unsigned_installers">Non consentire installer app. non firmate</string>
+    <string name="policy_dont_allow_unsigned_installers">Non consentire applicazioni di installazione non firmate</string>
     <string name="policy_dont_allow_wifi">Non consentire Wi-Fi</string>
     <string name="policy_dont_allow_text_messaging">Non consentire messaggi di testo</string>
     <string name="policy_dont_allow_pop_imap">Non consentire account POP3 o IMAP</string>
@@ -26,17 +27,17 @@
     <string name="policy_dont_allow_browser">Non consentire browser</string>
     <string name="policy_dont_allow_consumer_email">Non consentire email di livello consumer</string>
     <string name="policy_dont_allow_internet_sharing">Non consentire condivisione Internet</string>
-    <string name="policy_require_smime">Richiedi messaggi SMIME</string>
+    <string name="policy_require_smime">Necessita di messaggi SMIME</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
     <string name="policy_app_blacklist">Non consentire applicazioni specificate</string>
     <string name="policy_app_whitelist">Consenti solo applicazioni specificate</string>
     <string name="policy_text_truncation">Limita dimensioni testo email</string>
     <string name="policy_html_truncation">Limita dimensioni email HTML</string>
-    <string name="policy_require_sd_encryption">Richiedi crittografia scheda SD</string>
+    <string name="policy_require_sd_encryption">Richiesta crittografia scheda SD</string>
     <string name="policy_dont_allow_attachments">Non consentire allegati</string>
-    <string name="policy_max_attachment_size">Limita dimensioni allegati</string>
-    <string name="policy_require_manual_sync_roaming">Consenti solo sincr. manuale in roaming</string>
-    <string name="policy_require_encryption">Richiedi crittografia dispositivo</string>
+    <string name="policy_max_attachment_size">Limite dimensione allegati</string>
+    <string name="policy_require_manual_sync_roaming">Consenti solo sincronizzazione manuale in roaming</string>
+    <string name="policy_require_encryption">Require device encryption</string>
     <string name="account_setup_options_mail_window_auto">Automatico</string>
     <string name="account_setup_options_mail_window_1day">Un giorno</string>
     <string name="account_setup_options_mail_window_3days">Tre giorni</string>
@@ -44,6 +45,4 @@
     <string name="account_setup_options_mail_window_2weeks">Due settimane</string>
     <string name="account_setup_options_mail_window_1month">Un mese</string>
     <string name="account_setup_options_mail_window_all">Tutto</string>
-    <string name="auth_error_notification_title">Errore di autenticazione</string>
-    <string name="auth_error_notification_text">"Tocca per modificare le impostazioni dell'account %s"</string>
 </resources>

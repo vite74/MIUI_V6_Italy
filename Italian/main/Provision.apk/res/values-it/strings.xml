@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcome">Benvenuto</string>
-    <string name="input_method_setting">Scegli tastiera</string>
-    <string name="input_method_category">"Scegli il metodo d'immissione predefinito che verrà utilizzato durante la scrittura delle email, note, e tutto il resto. Si nota che potrai installare tastiere di terze parti."</string>
-    <string name="provision_inputmethod_policy_description">"Leggi questo documento per la tastiera:"</string>
-    <string name="provision_inputmethod_policy_description1">Privacy</string>
-    <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
-    <string name="multisim_settings_category">Impostazioni preferite SIM</string>
-    <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
-    <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo MIAccount.</string>
-    <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>
-    <string name="other_settings">Impostazioni aggiuntive</string>
-    <string name="other_settings_location">Accedi alla posizione</string>
-    <string name="other_settings_location_summary">Consenti alle applicazioni di segnalare la tua posizione</string>
-    <string name="other_settings_user_experience">Feedback utente</string>
-    <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
-    <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
     <string name="next">Avanti</string>
-    <string name="sim_dectection_next">Continua</string>
-    <string name="shut_down">Spegni</string>
-    <string name="sim_redetection">Verifica nuovamente la presenza della scheda SIM</string>
-    <string name="logo_congratulation">Hai finito!</string>
-    <string name="congratulation_label">Goditi il tuo nuovo telefono :)</string>
-    <string name="congratulation_next">Inizia a utilizzare MIUI</string>
-    <string name="pref_title_voice_slot">Scheda SIM per le chiamate vocali</string>
-    <string name="pref_title_data_slot">Scheda SIM per i dati</string>
-    <string name="summary_not_set">Non impostato</string>
-    <string name="summary_sim_card">Scheda SIM %1$d%2$s</string>
-    <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
-    <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
-    <string name="terms_of_use">Condizioni del Servizio</string>
-    <string name="terms_of_use_label">"Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di utilizzare MIUI."</string>
-    <string name="user_agreement">Condizioni del Servizio</string>
-    <string name="privacy_policy">Termini sulla Privacy</string>
-    <string name="agree">OK</string>
-    <string name="disagree">Anulla</string>
+    <string name="continues">Continua</string>
+    <string name="shutdown">Spegni</string>
+    <string name="other_service_label">Altri servizi</string>
+    <string name="other_service_location">Servizi di localizzazione</string>
+    <string name="other_service_location_summary">I servizi di localizzazione consentono alle mappe e ad altre applicazioni di recuperare i dettagli sulla la tua posizione tramite GPS</string>
+    <string name="other_service_google_location">Servizi di localizzazione Google</string>
+    <string name="other_service_google_location_use">Localizzazione e ricerca Google</string>
+    <string name="other_service_google_location_use_help">"Consenti al servizio di localizzazione di Google di raccogliere dati anonimi sulla posizione. La raccolta si verifica anche quando le applicazioni sono aperte. Per modificare questa impostazione, passare a Impostazioni &gt; Servizi di localizzazione"</string>
+    <string name="other_service_google_location_use_summary">Lascia che Google utilizzi la tua posizione per migliorare i risultati di ricerca e gli altri servizi</string>
+    <string name="other_service_permission_manager">Gestisci i permessi delle App</string>
+    <string name="other_service_permission_manager_summary">Monitora le applicazioni per la sicurezza e la privacy</string>
+    <string name="other_service_user_experience">Fornisci i tuoi feedback</string>
+    <string name="other_service_user_experience_summary0">Contiamo sul tuo uso del nostro prodotto e delle sue caratteristiche e speriamo che tu possa aiutarci fornendoci il tuo feedback. Il tuo feedback sarà tutelato dalla nostra </string>
+    <string name="other_service_user_experience_summary1">\u0020Privacy policy</string>
+    <string name="sim_card_detection_dialog_message">Rilevamento SIM. Attendere prego.</string>
+    <string name="sim_card_detection_label">Rilevamento SIM</string>
+    <string name="terms_label">Termini e COndizioni</string>
+    <string name="sim_card_detection_info">Non possiamo impostare un account Xiaomi senza una SIM. Avrai bisogno di una SIM per utilizzare alcuni servizi come la sincronizzazione account, tracciamento telefono etc.</string>
+    <string name="sim_card_detection_status_absent">SIM non rilevata. Inserire una SIM e riavviare o continuare.</string>
+    <string name="setup_complete_label">Grazie</string>
+    <string name="setup_complete_info" />
+    <string name="setup_complete_start">Inizia ad utilizzare il telefono</string>
+ <string name="terms_description">"La tua privacy per noi è molto importante. PLeggi %1$s e %2$s per sapere quali informazioni raccogliamo, come le utilizziamo e quali sono le tue possibilità di scelta in merito.
+
+L'utilizzo di MIUI e dei relativi è soggetto alle regolamentazioni sopra indicate."</string>
+    <string name="terms_of_service">Termini del Servizio</string>
+    <string name="privacy_policy">Privacy</string>
+    <string name="terms_agree">Acconsento</string>
+    <string name="terms_disagree">Annulla</string>
 </resources>

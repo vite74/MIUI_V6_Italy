@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
     <string name="caller_app">Richiedente:%1$s</string>
     <string name="safe_guard_support">Supporto tecnico fornito da %1$s</string>
     <string name="safe_relative">Permessi sicurezza</string>
     <string name="privacy_relative">Permessi privacy</string>
     <string name="other_relative">Altri permessi</string>
+    <string name="ad_relative">Adware</string>
+    <string name="ad_block_button_title">Blocca adware</string>
+    <string name="adware_title">AdWare</string>
+    <string name="adware_hint">Questi plugin vengono utilizzati da applicazioni di terze parti per visualizzare pubblicità sul tuo dispositivo</string>
+    <string name="adware_count">Contiene %d plugin</string>
     <string name="perm_notice">Avviso di sicurezza</string>
-    <string name="trust_switch_dialog_msg">"L'applicazione non ti chiederà nulla quando accederà ai tuoi contatti, messaggi, password o altre parti del sistema."</string>
-    <string name="auto_startup_dialog_msg">Questa applicazione inizierà senza il tuo permesso.</string>
+    <string name="trust_switch_dialog_msg">"MIUI non chiederà l'autorizzazione per operazioni relative a sicurezza o privacy per questa applicazione. Vuoi rendere l'applicazione attendibile?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI consentirà all'applicazione di avviarsi automaticamente senza domandare all'utente. Questo può portare a consumo di batteria e/o di traffico dati. Consentire l'avvio automatico ?"</string>
     <string name="low_risk_perms">Permessi a basso rischio</string>
     <string name="high_risk_perms">Permessi ad alto rischio</string>
     <string name="perm_privacy_app_finish">Chiudi</string>
@@ -15,24 +21,15 @@
     <string name="perm_privacy_app_installed">Installazione completata!</string>
     <string name="perm_sysopt_boost_auto_start">Permessi avvio automatico</string>
     <string name="perm_sysopt_boost_auto_start_summary">"L'applicazione verrà avviata automaticamente!"</string>
-    <string name="perm_privacy_app_trust">Richiesta di autorizzazione</string>
-    <string name="perm_privacy_app_trust_summary">Avvisa quando questa applicazione sta tentando di accedere ad altre parti del sistema</string>
+    <string name="perm_privacy_app_trust">Mi fido di questa applicazione</string>
+    <string name="perm_privacy_app_trust_summary">MIUI controllerà questa applicazione</string>
     <string name="perm_action_accept">Accetta</string>
     <string name="perm_action_prompt">Chiedi</string>
     <string name="perm_action_reject">Nega</string>
     <string name="unknown_installer">Installazione sconosciuta</string>
-    <string name="install_failed_system_incompatible">Questa applicazione non è compatibile con MIUI!</string>
-    <string name="permission_group_title_charges_related">Telefono</string>
-    <string name="permission_group_title_privacy_related">Privacy</string>
-    <string name="permission_group_title_media_related">Multimedia</string>
-    <string name="permission_group_title_settings_related">Impostazioni</string>
-    <string name="permission_group_title_others">Altri</string>
-    <string name="permission_action_accept">Accetta</string>
-    <string name="permission_action_prompt">Chiedi</string>
-    <string name="permission_action_reject">Nega</string>
-    <string name="permission_send_sms_descx">Applicazione in grado di inviare SMS e MMS</string>
-    <string name="virus_scan_install"><u>Installa comunque</u></string>
-    <string name="virus_scan_is_virus">Questa applicazione contiene dei virus.</string>
+    <string name="install_failed_system_incompatible">Questa applicazione non è compatibile con MIUI ROM!</string>
+    <string name="virus_scan_install">Installa comunque</string>
+    <string name="virus_scan_is_virus">Questa applicazione contiene dei virus, rimuovili subito!</string>
     <string name="virus_scan_is_risk">Questa applicazione presenta dei rischi!</string>
     <string name="virus_scan_clear">Rimuovi</string>
     <string name="virus_scan_caller_unknown">Sconosciuto</string>
@@ -43,35 +40,29 @@
     <string name="cancel">Annulla</string>
     <string name="unknown">Sconosciuto</string>
     <string name="installing">Installazione…</string>
-    <string name="install_done">Applicazione installata.</string>
-    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
-    <string name="install_failed">Applicazione non installata.</string>
+    <string name="install_done">Applicazione installata</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione?</string>
+    <string name="install_failed">Applicazione non installata</string>
     <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
     <string name="install_failed_inconsistent_certificates">È già installato un pacchetto con lo stesso nome e con una firma in conflitto.</string>
     <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con la CPU di questo dispositivo.</string>
+    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con la CPU del telefono.</string>
     <string name="install_failed_file_not_found">"Il pacchetto specificato è stato eliminato prima del completamento dell'installazione."</string>
     <string name="install_failed_verify_failed">Il pacchetto non ha superato la verifica e non può essere installato.</string>
     <string name="install_failed_verify_timeout">Timeout durante il tentativo di verificare questo pacchetto. Prova a reinstallarlo più tardi.</string>
     <string name="install_failed_msg">Impossibile installare %1$s sul cellulare.</string>
     <string name="launch">Apri</string>
-    <string name="unknown_apps_dlg_title">Blocca installazioni</string>
+    <string name="unknown_apps_dlg_title">Installazione bloccata</string>
     <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il telefono è impostato per bloccare le applicazioni non provenienti da Google Play Store. Rimuovendo questo blocco potrai installare applicazioni provenienti da altre fonti ma il telefono ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
     <string name="ok">OK</string>
     <string name="settings">Impostazioni</string>
-    <string name="allow_source_dlg_title">Consenti applicazioni da altre fonti?</string>
-    <string name="allow_source_dlg_text">%1$s può installare altre applicazioni. 
-
-Consenti ora e in futuro?</string>
+    <string name="allow_source_dlg_title">Consentire nuova origine per applicazioni?</string>
+    <string name="allow_source_dlg_text">%1$s chiede di installare altre applicazioni. Consentirlo ora e in futuro?</string>
     <string name="manage_applications">Gestisci applicazioni</string>
     <string name="dlg_app_replacement_title">Sostituisci applicazione</string>
-    <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione da installare sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
-    <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="dlg_sys_app_replacement_statement">"Applicazione di sistema. Sostituirla comunque? Tutti i dati utente precedenti verranno salvati.</string>
     <string name="lift_ban">Rimuovi divieto</string>
     <string name="out_of_space_dlg_title">Spazio esaurito</string>
     <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
@@ -81,16 +72,15 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_application_title">Disinstalla applicazione</string>
     <string name="uninstall_update_title">Disinstalla aggiornamento</string>
     <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
-    <string name="uninstall_confirm_question">Vuoi disinstallare questa applicazione?</string>
-    <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>tutti</b>" gli utenti? L'applicazione e i relativi dati verranno rimossi da "<b>tutti</b> gli utenti configurati sul dispositivo.</string>
-    <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione di fabbrica?</string>
+    <string name="uninstall_confirm_question">"Vuoi disinstallare l'applicazione?"</string>
+    <string name="uninstall_application_text">Questa applicazione verrà disinstallata.</string>
+    <string name="uninstall_update_text">"L'applicazione verrà sostituita con la versione di fabbrica."</string>
     <string name="uninstalling">Disinstallazione…</string>
-    <string name="uninstall_done">Disinstallazione completata.</string>
-    <string name="uninstall_failed">Disinstallazione non riuscita.</string>
+    <string name="uninstall_done">Disinstallazione completata</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita</string>
     <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
     <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
-    <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
+    <string name="uninstall_failed_msg">Impossibile disinstallare %1$s</string>
     <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
     <string name="Parse_error_dlg_title">Errore di analisi</string>
-    <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
 </resources>

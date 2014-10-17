@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Posizione di rete</string>
+    <string name="location_warning_title">Localizzazione consentita</string>
+    <string name="location_warning_message">Consenti al servizio di localizzazione AutoNavi di raccogliere informazioni anonime sulla tua posizione. Alcuni dati potrebbero essere archiviati sul tuo telefono, anche quando non ci sono applicazioni in esecuzione. Potrebbero venire addebitati dei costi durante questo processo.</string>
+    <string name="agree">Acconsento</string>
+    <string name="disagree">Non acconsento</string>
+</resources>

@@ -330,8 +330,6 @@ Non ti fermare, continua così!"</string>
     <string name="points_exchange">Riscatta credito</string>
     <string name="prev_step">Indietro</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Altro</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
-    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento\u2026</string>
     <string name="pull_to_refresh_release_label">Rilascia</string>

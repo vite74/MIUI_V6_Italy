@@ -2202,7 +2202,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
-    <string name="screen_key_press">Tocca i tasti di navigazione</string>
+    <string name="screen_key_press">Pressione semplice tasti</string>
     <string name="screen_key_press_action">Attivazione</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Esegui funzionalità</string>

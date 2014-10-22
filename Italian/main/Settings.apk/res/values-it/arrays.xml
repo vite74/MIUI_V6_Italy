@@ -503,6 +503,10 @@
         <item>Chiudi applicazione corrente</item>
         <item>Mostra i menù</item>
     </string-array>
+	    <string-array name="screen_key_press_action">
+        <item>Mostra task manager</item>
+        <item>Mostra menu</item>
+    </string-array>
 	 <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>

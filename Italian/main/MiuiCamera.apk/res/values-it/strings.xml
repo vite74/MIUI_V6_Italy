@@ -575,7 +575,7 @@ ed esci dall'inquadratura"</string>
     <string name="face_beauty_simple_mode_title">Reg.viso</string>
     <string name="camera_face_beauty_simple_mode_close">i:0</string>
     <string name="camera_face_beauty_simple_mode_open">i:2</string>
-    <string name="face_beauty_intelligent_level_0">Disattivato</string>
+    <string name="face_beauty_intelligent_level_0">Disatt.</string>
     <string name="face_beauty_intelligent_level_1">Basso</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>

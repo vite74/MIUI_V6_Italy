@@ -30,9 +30,6 @@
     <string name="config_datause_iface">rmnet0</string>
     <string name="config_default_dns_server">8.8.8.8</string>
     <string name="gsm_alphabet_default_charset" />
-    <string name="db_default_journal_mode">PERSIST</string>
-    <string name="db_default_sync_mode">FULL</string>
-    <string name="db_wal_sync_mode">FULL</string>
     <string name="config_useragentprofile_url" />
     <string name="config_isoImagePath" />
     <string name="config_ntpServer">2.android.pool.ntp.org</string>

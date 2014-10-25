@@ -238,8 +238,6 @@
     <string name="offline_setting">Video offline</string>
     <string name="use_cellular_network">Usa la rete cellulare</string>
     <string name="use_cellular_network_summary">Utilizza la rete cellulare per scaricare i video, questo comporterà costi molto elevati di traffico dati.</string>
-    <string name="use_cellular_network">Utilizza connessione dati su rete mobile</string>
-    <string name="use_cellular_network_summary">Utilizza connessione dati su rete mobile per guardare i video</string>
     <string name="mipush_setting">Xiaomi push</string>
     <string name="receive_mipush">Ricezione push Xiaomi</string>
     <string name="receive_mipush_summary">Riceve notifiche di contenuti online nuovi o aggiornati</string>

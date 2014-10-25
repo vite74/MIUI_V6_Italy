@@ -362,8 +362,6 @@ CC: %4$s
     <string name="compose_sent">Inviato correttamente</string>
     <string name="contact_select">Seleziona contatti</string>
     <string name="formatted_subject">%1$s%2$s</string>
-    <string name="reply_subject_label">Re:</string>
-    <string name="forward_subject_label">I:</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------&lt;br>Da: %1$s&lt;br>Data: %2$s&lt;br>Oggetto: %3$s&lt;br>A: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>

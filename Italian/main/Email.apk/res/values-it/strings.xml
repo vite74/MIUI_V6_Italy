@@ -15,7 +15,6 @@
     <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Account duplicato</string>
     <string name="account_folder_list_summary_drafts">Bozze</string>
@@ -273,7 +272,6 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
-    <string name="compose_help_context">Scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -416,7 +414,6 @@
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
-    <string name="forward_subject_label">I:</string>
     <string name="from">Da</string>
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
@@ -685,14 +682,9 @@ CC: %4$s
     <string name="reply">Rispondi</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="replyto_heading">"Rispondi a: "</string>
     <string name="report">Rapporto</string>
     <string name="report_phishing">Segnala phishing</string>
-    <string name="report_rendering_improvement">Sembra buono</string>
-    <string name="report_rendering_improvement_desc">Questo messaggio sembra buono.</string>
-    <string name="report_rendering_problem">Non sembra buono</string>
-    <string name="report_rendering_problem_desc">Questo messaggio non sembra buono.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="require_manual_sync_message">Sincronizzazione dello sfondo per questo account disattivata durante il roaming.</string>
@@ -814,7 +806,6 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">"Scorri dall'alto per leggere le notifiche. Premi per concludere le impostazioni di sicurezza."</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-    <string name="wait_help_context">attendi</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>

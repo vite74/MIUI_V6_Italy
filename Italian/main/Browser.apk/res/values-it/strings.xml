@@ -184,7 +184,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_ua_title">Gestione user agent</string>
     <string name="pref_ua_string">Stringa user agent</string>
     <string name="pref_ua_mione_entry">Mi One</string>
-    <string name="pref_ua_mione_value">4</string>
     <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
     <string name="dump_counters">Dump contatori V8</string>
     <string name="dump_dom_tree">Dump albero DOM su file</string>
@@ -242,9 +241,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Modifica questa impostazione nella schermata Impostazioni > Avanzate > Sito web.</string>
     <string name="pref_video_preload_summary">: Conseti al browser di precaricare i video se il server lo consente</string>
     <string name="pref_images_preload_summary">: Consenti al browser di precaricare le immagini se il server lo consente</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_title">Precaricamento immagini</string>
     <string name="pref_images_preload_dialogtitle">Precaricamento immagini</string>
     <string name="pref_images_preload_value_never_summary">Non precaricare mai le immagini</string>
@@ -617,7 +613,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_privacy_clear_form_data_summary">Cancella tutti i dati dei moduli salvati</string>
     <string name="pref_privacy_clear_form_data_dlg">Eliminare tutti i dati dei moduli salvati?</string>
     <string name="pref_privacy_clear_passwords">Cancella password</string>
-    <string name="pref_privacy_clear_passwords_dlg">Eliminare tutte le password salvate?</string>
     <string name="pref_privacy_clear_passwords_dlg">Eliminare tutte le password salvate?</string>
     <string name="pref_privacy_location_title">Posizione</string>
     <string name="pref_privacy_enable_geolocation">Attiva posizione</string>

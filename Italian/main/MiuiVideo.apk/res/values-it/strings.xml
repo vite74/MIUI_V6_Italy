@@ -40,6 +40,8 @@
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
     <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>
+    <string name="vp_datastream_alert_hint">Puoi disattivare le notifiche in qualsiasi momento nelle Impostazioni.</string>
+    <string name="vp_datastream_alert_play">Utilizzando la tua connesisone dati su rete mobile per vedere i video consumerai un grande quantitativo di dati. Superando la soglia prevista dal tuo piano potresti incorrere in addebiti aggiuntivi.</string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
     <string name="nowifi_alert_dialog_message">Stai per usare la rete mobile per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
@@ -217,6 +219,11 @@
     <string name="offline_alert_title">Notifiche cache</string>
     <string name="good">OK</string>
     <string name="offline_alert_wifi">"Stai utilizzando la rete cellulare, per salvare l'utilizzo dei dati, le attività di cache sono state messe in pausa e riprenderanno quando sarai sotto rete Wi-Fi."</string>
+    <string name="datastream_alert_download">Utilizzando la tua connesisone dati su rete mobile per scaricare i video consumerai un grande quantitativo di dati. Superando la soglia prevista dal tuo piano potresti incorrere in addebiti aggiuntivi.</string>
+    <string name="datastream_alert_hint">Puoi disattivare le notifiche in qualsiasi momento nelle Impostazioni.</string>
+    <string name="datastream_alert_positive_button">Download</string>
+    <string name="datastream_alert_negative_button">Annulla</string>
+    <string name="datastream_alert_title">Avviso utilizzo dati</string>
     <string name="select_offline_media">Seleziona cache multimediale offline</string>
     <string name="manage_offline_media">Gestione cache multimediale offline</string>
     <string name="manage">Gestisci</string>
@@ -231,6 +238,8 @@
     <string name="offline_setting">Video offline</string>
     <string name="use_cellular_network">Usa la rete cellulare</string>
     <string name="use_cellular_network_summary">Utilizza la rete cellulare per scaricare i video, questo comporterà costi molto elevati di traffico dati.</string>
+    <string name="use_cellular_network">Utilizza connessione dati su rete mobile</string>
+    <string name="use_cellular_network_summary">Utilizza connessione dati su rete mobile per guardare i video</string>
     <string name="mipush_setting">Xiaomi push</string>
     <string name="receive_mipush">Ricezione push Xiaomi</string>
     <string name="receive_mipush_summary">Riceve notifiche di contenuti online nuovi o aggiornati</string>
@@ -238,6 +247,8 @@
     <string name="clear_cache">Cancella la cache delle immagini</string>
     <string name="clear_cache_summary">Cancella le immagini memorizzate nella cache dal browser Video</string>
     <string name="clear_cache_success">Cache cleared</string>
+    <string name="priority_storage">Use external SD card</string>
+    <string name="priority_storage_summary">Automatically save to external SD card if available</string>
     <string name="loading"><CDATA>Caricamento </CDATA></string>
     <string name="reloading_tip">"Impossibile connettersi alla rete"</string>
     <string name="retry">Riprova</string>

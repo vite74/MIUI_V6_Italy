@@ -89,9 +89,6 @@
     <string name="accessibility_clear_all">Cancella tutte le notifiche.</string>
     <string name="status_bar_notification_inspect_item_title">Informazioni app</string>
     <string name="status_bar_date_format">d/M,E</string>
-    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata</string>
-    <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
-    <string name="screen_button_enabled_message">I tasti funzione in basso sono abilitati</string>
     <string name="status_bar_recent_guide_all">Scorri in alto per chiudere, scorri in basso per bloccare</string>
     <string name="status_bar_recent_guide_top">Scorri in alto per chiudere</string>
     <string name="status_bar_recent_guide_bottom">Scorri in basso per bloccare</string>
@@ -204,5 +201,4 @@
     <string name="headset_custom">Personalizza</string>
     <string name="usb_share_net_info">Utilizza la connessione Internet del computer</string>
     <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
-
 </resources>

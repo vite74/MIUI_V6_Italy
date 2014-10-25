@@ -247,7 +247,8 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_result_failed">"Impossibile completare l'acquisto"</string>
     <string name="datausage_purchase_backto_ns">Indietro</string>
     <string name="datausage_purchase_goto_monthsetting">Risistema limite dati</string>
-    <string name="datausage_purchase_pkglist_nodata">"C'è un conflitto tra il tuo piano dati attivo e il tuo attuale ordine. Contatta il tuo provider di servizi per maggiori informazioni."</string>
+    <string name="datausage_purchase_pkglist_nodata">"C'è un conflitto tra il tuo piano dati attivo e il tuo attuale ordine.
+Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="datausage_purchase_pkglist_networkerror">Impossibile connettersi alla rete. Verifica la tua connessioni dati e riprova</string>
     <string name="datausage_purchase_pkglist_servererror">Errore lato server</string>
     <string name="datausage_purchase_order_history">Cronologia</string>
@@ -339,4 +340,6 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="tc_sms_report_get_sms_failure">Impossibile ricevere dati sul formato SMS</string>
     <string name="tc_sms_report_get_sms_timeout">Impossibile ricevere dati sul formato SMS: tempo scaduto</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
+    <string name="privacy_declare_dialog_title">Termini e Condizioni</string>
+    <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i &lt;a href=http://max.oupeng.com/eula.html> Termini e Condizioni&lt;/a> di Opera."</string>
 </resources>

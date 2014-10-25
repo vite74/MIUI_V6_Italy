@@ -160,6 +160,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">Preferisci reti 4G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Preferisci reti 3G</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferisci reti 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G (risparmia batteria)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>

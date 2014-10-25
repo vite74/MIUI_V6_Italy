@@ -172,6 +172,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="SMS_MODENAME">Predefinito lista blocco</string>
     <string name="SMS_KEYWORDS">Parole lista blocco</string>
     <string name="SMS_ADRESS">Località lista blocco</string>
+    <string name="SMS_SERVICE">Servizio lista di blocco</string>
     <string name="Call_BLACKLIST">Chiamata lista blocco</string>
     <string name="Call_PREFIX">Prefisso lista blocco</string>
     <string name="Call_MODENAME">Predefinito lista blocco</string>
@@ -179,6 +180,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="Call_PRIVATE_CALL">Chiamate private</string>
     <string name="Call_DEFAULT">Lista blocco intelligente</string>
     <string name="PAST_BLOCK">Bloccato in precedenza</string>
+    <string name="STRANGER_BLOCK">Lista blocco sconosciuti</string>
     <string name="AD_AntiSpam">Blocco pubblicità</string>
     <string name="AD_SCANNING">Scansione…</string>
     <string name="AD_BLOCK_ALL">Blocca tutto</string>
@@ -235,6 +237,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_antispam_title_anoy_sms">Messaggi da sconosciuti</string>
     <string name="st_antispam_title_anoy_incoming">Chiamate da sconosciuti</string>
     <string name="st_antispam_title_null_incoming">Chiamate private</string>
+    <string name="st_antispam_title_service_sms">Notifiche di servizio</string>
     <string name="st_antispam_mode_smart_sum">Applica il blocco per alcuni numeri sconosciuti</string>
     <string name="st_antispam_mode_blacklist_sum">Blocca messaggi e chiamate da numeri presenti nella lista blocco</string>
     <string name="st_antispam_mode_only_contacts_sum">Consenti solo chiamate e messaggi da numeri dai contatti</string>
@@ -264,4 +267,20 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="note_preference_delete">Modalità in uso, impossibile eliminare</string>
     <string name="block_message_number">Messaggi spam: %d</string>
     <string name="block_phone_number">Chiamate spam: %d</string>
+    <string name="mark_fraud">Truffa</string>
+    <string name="mark_agent">Venditore</string>
+    <string name="mark_sell">Telemarketing</string>
+    <string name="mark_meal">Cibo a domicilio</string>
+    <string name="mark_express">Corriere</string>
+    <string name="mark_fraud_block">Segnalato come truffa</string>
+    <string name="mark_agent_block">Segnalato come venditore</string>
+    <string name="mark_sell_block">Segnalato come telemarketing</string>
+    <string name="mark_meal_block">Segnalato come cibo a domicilio</string>
+    <string name="mark_express_block">Segnalato come corriere</string>
+    <string name="st_title_markednumber_group">Segnalato come lista blocco</string>
+    <string name="mark_number_info">"
+Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate."</string>
+    <string name="dlg_title_not_open_stranger_identify">Attiva Identificazione numeri sconosciuti</string>
+    <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'Identificazione dei numeri sconosciuti in TelefonoPhone >Impostazioni, prima di segnalare un numero."</string>
+    <string name="button_to_setting">Impostazioni</string>
 </resources>

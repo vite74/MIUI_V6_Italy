@@ -110,7 +110,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="readmode_recommend">Mostra i suggerimenti</string>
     <string name="readmode_refresh">Aggiorna</string>
     <string name="readmode_battery">Batteria </string>
-    <string name="accessibility_button_clear">Cancella testo inserito</string>
     <string name="pref_content_block_float_popups">Blocca pop-up</string>
     <string name="webpage_title">Segnalibri e cronologia</string>
     <string name="video_title">Video</string>
@@ -207,7 +206,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="is_first_history_item">Questa è la prima voce in cronologia</string>
     <string name="is_last_history_item">"Questa è l'ultima voce in cronologia"</string>
     <string name="warning">Attenzione</string>
-    <string name="share_page">Condividi pagina</string>
     <string name="menu_exit">Uscita</string>
     <string name="exit_browser_warning">Esci dal browser?</string>
     <string name="not_remind_again">Ricorda la mia scelta</string>
@@ -218,7 +216,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="recover">Ripristino</string>
     <string name="pref_autologin_progress_in_background">Accedi ai siti di Google usando %s sullo sfondo</string>
     <string name="menu_enable_night_mode">Attiva modalità Notte</string>
-    <string name="menu_disable_night_mode">Disattiva modalità Notte</string>  
+    <string name="menu_disable_night_mode">Disattiva modalità Notte</string>
     <string name="search_cancel">Annulla</string>
     <string name="search">Cerca</string>
     <string name="clear_search_history">Cancella cronologia</string>
@@ -242,8 +240,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_extras_website_settings">Impostazioni siti web</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Modifica questa impostazione nella schermata Impostazioni > Avanzate > Sito web.</string>
-    <string name="pref_data_preload_summary">Consenti al browser di precaricare i risultati di ricerca affidabili in background</string>
-    <string name="pref_link_prefetch_summary">Consenti al browser di precaricare in background le pagine web con link</string>
     <string name="pref_video_preload_summary">: Conseti al browser di precaricare i video se il server lo consente</string>
     <string name="pref_images_preload_summary">: Consenti al browser di precaricare le immagini se il server lo consente</string>
     <string name="pref_images_preload_value_never">0</string>
@@ -461,16 +457,8 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="block_ads_message">Vuoi bloccare i messaggi da questo sito?</string>
     <string name="block_ads_choice_continue">Continua</string>
     <string name="block_ads_choice_block">Blcca</string>
-    <string name="pref_video_preload_title">Precarica video</string>
+    <string name="quicklink_bookmark_save">Salva in</string>
     <string name="pref_video_preload_dialogtitle">Video in precaricamento</string>
-    <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>
-    <string name="tab_history">Cronologia</string>
-    <string name="create_shortcut_bookmark">Aggiungi scorciatoia nella Home</string>
-    <string name="pref_text_zoom">Ridimensionamento testo</string>
-    <string name="pref_zoom_on_double_tap">Zoom con doppio tocco</string>
-    <string name="pref_min_font_size">Dimensioni minime caratteri</string>
-    <string name="pref_inverted_summary">Il nero diventa bianco e viceversa</string>
-    <string name="pref_privacy_clear_passwords_summary">Cancella tutte le password salvate</string>
     <string name="webapp_app_name">Light Web Apps Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>
@@ -534,6 +522,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="save_to_bookmarks">Salva nei segnalibri</string>
     <string name="remove">Rimuovi</string>
     <string name="edit_bookmark">Modifica segnalibro</string>
+    <string name="create_shortcut_bookmark">Aggiungi collegamento in home</string>
     <string name="open_bookmark">Apri</string>
     <string name="remove_bookmark">Elimina segnalibro</string>
     <string name="remove_from_bookmarks">Rimuovi dai segnalibri</string>
@@ -543,9 +532,9 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="bookmark_not_saved">Impossibile salvare il segnalibro.</string>
     <string name="homepage_set">Pagina iniziale impostata.</string>
     <string name="bookmark_needs_title">Inserisci un nome per il segnalibro.</string>
+    <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>
     <string name="bookmark_url_not_valid">Questo URL non è valido.</string>
     <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
-    <string name="bookmark_page">Aggiungi ultima pagina visualizzata ai segnalibri</string>
     <string name="bookmark_list_view">Elenco</string>
     <string name="delete_bookmark_warning">Eliminare il segnalibro \"%s\"?</string>
     <string name="select_dot">Seleziona testo</string>
@@ -629,6 +618,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_privacy_clear_form_data_dlg">Eliminare tutti i dati dei moduli salvati?</string>
     <string name="pref_privacy_clear_passwords">Cancella password</string>
     <string name="pref_privacy_clear_passwords_dlg">Eliminare tutte le password salvate?</string>
+    <string name="pref_privacy_clear_passwords_dlg">Eliminare tutte le password salvate?</string>
     <string name="pref_privacy_location_title">Posizione</string>
     <string name="pref_privacy_enable_geolocation">Attiva posizione</string>
     <string name="pref_privacy_enable_geolocation_summary">"Consenti ai siti di richiedere l'accesso alla tua posizione"</string>
@@ -645,6 +635,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_security_accept_cookies">Accetta cookie</string>
     <string name="pref_security_accept_cookies_summary">Consenti ai siti di salvare e leggere i dati dei cookie</string>
     <string name="pref_min_font_size_value">%d pt</string>
+    <string name="pref_zoom_on_double_tap">Zoom con doppio tap</string>
     <string name="pref_force_userscalable">Attivazione forzata zoom</string>
     <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
     <string name="pref_inverted_category">Rendering schermo invertito</string>
@@ -657,7 +648,6 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_extras_title">Avanzate</string>
     <string name="pref_extras_website_settings_summary">Impostazioni avanzate dei singoli siti web</string>
     <string name="pref_extras_reset_default_summary">Ripristina impostazioni predefinite</string>
-    <string name="pref_development_title">Debug</string>
     <string name="pref_development_viewport">Utilizza visuale allargata</string>
     <string name="pref_development_single_column_rendering">Rendering a singola colonna</string>
     <string name="pref_development_normal_rendering">Rendering normale</string>
@@ -731,4 +721,8 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="empty_snapshots_folder">Nessuna pagina salvata.</string>
     <string name="remove_snapshot">Elimina pagina salvata</string>
     <string name="snapshot_go_live">Carica pagina live</string>
+    <string name="accessibility_button_clear">Cancella</string>
+    <string name="pref_data_preload_summary">: consenti al browser di precaricare i risultati in background</string>
+    <string name="pref_link_prefetch_summary">: consenti al browser di precaricare le pagine linkate</string>
+    <string name="share_page">Share page</string>
 </resources>

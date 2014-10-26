@@ -519,9 +519,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="no_vt_allowed">Per eseguire una videochiamata, disattivare la modalità TTY</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="domain_address">Dominio SIP</string>
     <string name="username">Nome utente</string>
     <string name="password">Password</string>

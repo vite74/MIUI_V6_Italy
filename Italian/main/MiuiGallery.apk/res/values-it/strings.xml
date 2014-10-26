@@ -904,7 +904,6 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">Nuovo dispositivo trovato. Premi per visualizzare</string>
-    <string name="time_line_view">Linea temporale</string>
     <string name="home_page_tab_photo">Foto</string>
     <string name="home_page_tab_cloud">Cloud</string>
     <string name="home_page_tab_local">Locale</string>

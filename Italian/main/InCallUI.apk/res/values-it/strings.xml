@@ -557,10 +557,6 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="no_voip">Chiamate internet non supportate</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Invia sempre</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
-    <string name="domain_address">SipDomain</string>
     <string name="username">UserName</string>
     <string name="password">Password</string>
     <string name="display_name">DisplayName</string>
@@ -618,7 +614,6 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibra</string>
     <string name="voicemail_notification_ringtone_title">Suoneria</string>
     <string name="default_notification_description">Suoneria principale (%1$s)</string>
-    <string name="voicemail_notification_vibrate_when_default">mai</string>
     <string name="ringtone_title">Suoneria telefono</string>
     <string name="vibrate_on_ring_title">Vibra mentre squilla</string>
     <string name="dtmf_tone_enable_title">Toni tastiera</string>

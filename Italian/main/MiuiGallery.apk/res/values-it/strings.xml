@@ -840,7 +840,7 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="album_quota_fulfiled">"Impossibile creare l'album; è stato raggiunto il numero massimo.."</string>
     <string name="image_quota_fulfiled">Impossibile creare immagine, è stato raggiunto il limite di spazio a disposizione.</string>
     <string name="sharer_quota_fulfiled">"Impossibile aggiungere partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
-    <string name="gallery_setting">Impostazioni Galleria</string>
+    <string name="gallery_setting">Galleria</string>
     <string name="error_unknown_host">Hostname sconosciuto, controlla la tua connessione di rete!</string>
     <string name="error_repeat_apply">Partecipi già alla condivisione di questo album</string>
     <string name="error_album_not_exist">Album inesistente.</string>

@@ -56,8 +56,8 @@
     <string name="pref_video_time_lapse_frame_interval_entry_450">Intervallo di 15 secondi(450 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">Intervallo di 30 secondi(900 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">Intervallo di 60 secondi(1800 volte)</string>
-    <string name="pref_camera_settings_category">Impostazioni Fotocamera</string>
-    <string name="pref_camcorder_settings_category">Impostazioni Videocamera</string>
+    <string name="pref_camera_settings_category">Fotocamera</string>
+    <string name="pref_camcorder_settings_category">Videocamera</string>
     <string name="pref_camera_picturesize_title">Dimensione foto</string>
     <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
@@ -281,8 +281,8 @@ ed esci dall'inquadratura"</string>
     <string name="hdr_exit_button_text">Esci dalla modalità HDR</string>
     <string name="raw_data_exit_button_text">Esci dall modalità RAW</string>
     <string name="hand_night_exit_button_text">Esci dalla modalità Notte</string>
-    <string name="videocamera_settings_label">Impostazioni Fotocamera</string>
-    <string name="camera_settings_label">Impostazioni Fotocamera</string>
+    <string name="videocamera_settings_label">Videocamera</string>
+    <string name="camera_settings_label">Fotocamera</string>
     <string name="pref_grp_picture_settings">Impostazioni Immagini</string>
     <string name="pref_grp_capture_settings">Impostazioni Scatto</string>
     <string name="pref_advanced_settings">Avanzate</string>

@@ -2806,4 +2806,5 @@ ed esegui il software."</string>
     <string name="move_app_progress_to_sdcard">Spostamento di %1$s sulla scheda SD…</string>
     <string name="tnhwrevision_settings_list_item_title">Revisione HW Mocha</string>
     <string name="tnhwrevision_settings_list_item_summary">Sommario revisione HW Mocha</string>
+	<string name="security_keyguard_category_name">Schermata di blocco</string>
 </resources>

@@ -51,6 +51,7 @@
     <string name="status_bar_settings_toggle_collapse_after_clicked">Collassa dopo il tocco</string>
     <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="status_bar_settings_status_bar">Barra di stato</string>
+	<string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
     <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
     <string name="status_bar_settings_expandable_under_keyguard">Abilita nella schermata di blocco</string>
     <string name="status_bar_settings_basic_settings">Impostazioni base</string>
@@ -309,7 +310,7 @@
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
     <string name="airplane_mode">Modalità aereo</string>
-    <string name="radio_controls_title">Altro…</string>
+    <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
@@ -2713,6 +2714,8 @@ ed esegui il software."</string>
     <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
     <string name="add_auto_startup_application">Aggiungi applicazione</string>
     <string name="power_autorun_apps_empty">Nessuno</string>
+	<string name="other_personal_settings">Impostazioni aggiuntive</string>
+    <string name="other_advanced_settings">Impostazioni aggiuntive</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">Le applicazioni seguenti richiedono di vedere le informazioni sulla tua posizione</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>

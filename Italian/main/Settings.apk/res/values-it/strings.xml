@@ -313,7 +313,7 @@
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
     <string name="airplane_mode">Modalità aereo</string>
-    <string name="radio_controls_title">Altro…</string>
+    <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
@@ -2767,7 +2767,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="system_backup_section_title">Backup</string>
     <string name="local_backup_section_title">Backup in locale</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
-    <string name="recent_location_requests_title">Accesso alla posizione</string>
+    <string name="other_personal_settings">Impostazioni aggiuntive</string>
+    <string name="other_advanced_settings">Impostazioni aggiuntive</string>
+	<string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">Le app seguenti richiedono di vedere le informazioni sulla tua posizione</string>
     <string name="permission_manager">Permessi</string>
     <string name="security_keyguard_category_name">Schermata di blocco</string>

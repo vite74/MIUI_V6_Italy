@@ -109,7 +109,7 @@
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">Attivato</string>
     <string name="pref_camera_flashmode_entry_off">Disattivato</string>
-    <string name="pref_camera_whitebalance_title">Bilanciamento bianco</string>
+    <string name="pref_camera_whitebalance_title">Bil.bianco</string>
     <string name="pref_camera_whitebalance_k_value_title">Bilanciamento bianco K</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Incand.</string>
@@ -447,7 +447,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_scan_qrcode_title">Scansiona codice QR</string>
     <string name="pref_scan_qrcode_entry_off">Disattivato</string>
     <string name="pref_scan_qrcode_entry_on">Attivato</string>
-    <string name="pref_manual_exposure_title">Esposizione manuale</string>
+    <string name="pref_manual_exposure_title">Esp.manuale</string>
     <string name="pref_camera_exposuretime_title">Tempo si esposizione</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
     <string name="pref_camera_exposuretime_entry_0.5">2s</string>

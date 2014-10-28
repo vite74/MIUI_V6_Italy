@@ -124,7 +124,7 @@
     <string name="pref_camera_flashmode_entry_off">Disattivato</string>
     <string name="pref_camera_video_flashmode_default">off</string>
     <string name="pref_camera_whitebalance_default">auto</string>
-    <string name="pref_camera_whitebalance_title">Bilanciamento bianco</string>
+    <string name="pref_camera_whitebalance_title">Bil.bianco</string>
     <string name="pref_camera_whitebalance_k_value_title">Bilanciamento bianco K</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Incand.</string>
@@ -551,7 +551,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_setting_title">Impostazioni</string>
     <string name="pref_camera_raw_data_title">RAW</string>
     <string name="pref_scan_qrcode_title">Scansiona codice QR</string>
-    <string name="pref_manual_exposure_title">Esposizione manuale</string>
+    <string name="pref_manual_exposure_title">Esp.manuale</string>
     <string name="pref_camera_exposuretime_title">Tempo si esposizione</string>
     <string name="pref_camera_exposuretime_default">0</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
@@ -575,7 +575,7 @@ ed esci dall'inquadratura"</string>
     <string name="face_beauty_simple_mode_title">Reg.viso</string>
     <string name="camera_face_beauty_simple_mode_close">i:0</string>
     <string name="camera_face_beauty_simple_mode_open">i:2</string>
-    <string name="face_beauty_intelligent_level_0">Disatt.</string>
+    <string name="face_beauty_intelligent_level_0">Disat.</string>
     <string name="face_beauty_intelligent_level_1">Basso</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>

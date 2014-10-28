@@ -2755,7 +2755,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="status_serialno">Numero di serie</string>
     <string name="provision_next">Avanti</string>
     <string name="privacy_mode_dialog_title">Modalità ospite</string>
-    <string name="privacy_mode_dialog_message">"Chiamate, note, immagini, messaggi e impostazioni del launcher saranno nascoste all'utentea"</string>
+    <string name="privacy_mode_dialog_message">"Chiamate, note, immagini, messaggi e impostazioni del launcher saranno nascoste all'utente"</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>

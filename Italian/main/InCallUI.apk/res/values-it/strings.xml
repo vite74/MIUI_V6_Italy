@@ -640,7 +640,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="ivr_menu_dialing_msg_no_mute">Passaggio al servizio selezionato… [Correzione automatica errori attivata]</string>
     <string name="ivr_menu_list_sub_menu_count_format">Premi %s</string>
     <string name="non_ivr_menu_view_menu">Mostra menù</string>
-    <string name="non_ivr_menu_collapse_menu">Collassa menu</string>
+    <string name="non_ivr_menu_collapse_menu">Chiudi menu</string>
     <string name="fraud_call_answer">Rispondi</string>
     <string name="fraud_call_decline">Rifiuta</string>
     <string name="fraud_call_waring">"Sii produente: dovresti sempre verificare l'identica del contatto per telefono o tramite videochiamata prima di rispondere a qualsiasi messaggio riguardo i tuoi dati personali."</string>

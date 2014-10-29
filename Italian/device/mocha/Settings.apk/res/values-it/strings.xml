@@ -48,7 +48,7 @@
     <string name="status_bar_filter_item_preview_image">Anteprima</string>
     <string name="status_bar_filter_item_description">Per configurare le notifiche, vai su Impostazioni Generali > Notifiche > Gestione notifiche</string>
     <string name="status_bar_settings_notification_bar">Barra notifiche</string>
-    <string name="status_bar_settings_toggle_collapse_after_clicked">Collassa dopo il tocco</string>
+    <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
     <string name="status_bar_settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="status_bar_settings_status_bar">Barra di stato</string>
 	<string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>

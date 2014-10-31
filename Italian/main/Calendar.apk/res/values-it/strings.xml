@@ -185,6 +185,7 @@
     <string name="tab_local">Locale</string>
     <string name="tab_online">Online</string>
     <string name="tab_category">Categoria</string>
+	<string name="tab_path">CARTELLE</string>
     <string name="add_calendar">Aggiungi</string>
     <string name="exist_calendar">Esistente</string>
     <string name="delete_calendar">Elimina</string>

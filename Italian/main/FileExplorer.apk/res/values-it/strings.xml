@@ -96,7 +96,7 @@
     <string name="favorite_ringtone">Suoneria</string>
     <string name="file_loading">Caricamento…</string>
     <string name="multi_select_title">Seleziona %1$s elemento(i)</string>
-    <string name="operation_download_link">Genera li download</string>
+    <string name="operation_download_link">Genera link download</string>
     <string name="ui_filechange_btn_download">Scarica file</string>
     <string name="show_message">Il file non può essere aperto se non scaricato</string>
     <string name="ui_main_progress_txt_open_file">Download in corso…</string>

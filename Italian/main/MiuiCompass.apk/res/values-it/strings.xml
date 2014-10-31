@@ -11,6 +11,7 @@
     <string name="calibrate_success">Calibrazione completata</string>
     <string name="calibrate_failed_no_location">Non è stato possibile effettuare la calibrazione</string>
     <string name="calibrate_failed_timeout">Non è stato possibile connettersi al server</string>
+    <string name="calibrate_failed">Calibrazione altitudine fallita</string>
     <string name="pressure_title">Pressione</string>
     <string name="altitude_title">Altitudine</string>
     <string name="pressure">%.1f</string>
@@ -34,4 +35,13 @@
     <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
     <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
     <string name="do_not_show_next_time">Non chiedere più</string>
+    <string name="location_not_enabled_title">Servizi di loalizzazione</string>
+    <string name="location_not_enabled_summary">Il servizio necessita della tua posizione per fnzionare correttaemnte.</string>
+    <string name="location_enable">Consenti</string>
+    <string name="location_enable_later">Dopo</string>
+    <string name="location_enabled">Puoi disattivare i servizi di localizzazione in qualsiasi momento dalle Impostazioni.</string>
+    <string name="using_camera_confirm_title">Accesso alla fotocamera</string>
+    <string name="using_camera_confirm_message">La Bussola deve utilizzare la fotocamera per funzionare correttaemnte</string>
+    <string name="using_camera_confirm_ok">OK</string>
+    <string name="using_camera_confirm_cancel">Esci</string>
 </resources>

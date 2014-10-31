@@ -218,4 +218,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="cloud_space_upgrade_message">Tocca per aggiungere %s GB al tuo spazio cloud</string>
     <string name="cloud_space_upgrade_no_quota_info">Impossibile caricare. Attendi un minuto o due poi riprova.</string>
     <string name="micloud_other_product_price">Confronta prezzi</string>
+    <string name="loading_hint">Caricamento</string>
+    <string name="buy_space_expire">Lo spazio acquistato scadrà tra %s</string>
+    <string name="buy_space_expire_concat">%1$s al %2$s</string>
 </resources>

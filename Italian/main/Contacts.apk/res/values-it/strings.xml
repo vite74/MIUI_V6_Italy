@@ -883,6 +883,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="ic_menu_done">Fatto</string>
     <string name="cloud_antispam_title">Indentifica numeri sconosciuti</string>
+    <string name="share_over_limit">Limite superato, impossibile condividere</string>
     <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>
@@ -1106,6 +1107,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_search_result_network_error">Impossibile collegarsi alla rete</string>
     <string name="yellowpage_navigation_search_result_service_error">Servizio attualmente non disponibile</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Si è verificato un errore sconosciuto!</string>
+    <string name="yellowpage_navigation_search_result_average_price">Media %d RMB</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova</string>

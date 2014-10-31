@@ -454,7 +454,10 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="block_ads_choice_continue">Continua</string>
     <string name="block_ads_choice_block">Blcca</string>
     <string name="quicklink_bookmark_save">Salva in</string>
-    <string name="pref_video_preload_dialogtitle">Video in precaricamento</string>
+    <string name="empty_history_hint">Vuoto</string>
+    <string name="enter_developer_mode">Modalità sviluppatore</string>
+    <string name="empty_snapshot_hint">Vuoto</string>
+    <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="webapp_app_name">Light Web Apps Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>
@@ -474,10 +477,13 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_webapp_settings_fontsize">Dimensione caratteri</string>
     <string name="pref_webapp_settings_savewidth">Non usare connessioni dati 2G/3G per scaricare le immagini</string>
     <string name="pref_webapp_settings_hidebottombar">Nascondi barra inferiore</string>
+    <string name="webapp_bottom_bar_addtodesk">Aggiungi al desktop</string>
+    <string name="webapp_splashview_loading">Caricamento...</string>
     <string name="application_name">Browser</string>
     <string name="choose_upload">Scegli il file per da caricare</string>
     <string name="uploads_disabled">Il caricamento dei file è disabilitato.</string>
     <string name="tab_most_visited">I più visitati</string>
+    <string name="tab_history">Cronologia</string>
     <string name="tab_snapshots">Pagine salvate</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
     <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
@@ -613,7 +619,8 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="pref_privacy_clear_form_data_summary">Cancella tutti i dati dei moduli salvati</string>
     <string name="pref_privacy_clear_form_data_dlg">Eliminare tutti i dati dei moduli salvati?</string>
     <string name="pref_privacy_clear_passwords">Cancella password</string>
-    <string name="pref_privacy_clear_passwords_dlg">Eliminare tutte le password salvate?</string>
+    <string name="pref_privacy_clear_passwords_summary">Cancellare tutte le password salvate?</string>
+    <string name="pref_privacy_clear_passwords_dlg">Cancellare tutte le password salvate?</string>
     <string name="pref_privacy_location_title">Posizione</string>
     <string name="pref_privacy_enable_geolocation">Attiva posizione</string>
     <string name="pref_privacy_enable_geolocation_summary">"Consenti ai siti di richiedere l'accesso alla tua posizione"</string>

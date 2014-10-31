@@ -271,6 +271,10 @@
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="birthday_calendar_display_name">Promemoria compleanno</string>
     <string name="local_owner_account_name">Account locale</string>
+    <string name="birthday_term">Compleanno</string>
+    <string name="anniversary_term">Anniversario</string>
+    <string name="birthday_metric" />
+    <string name="anniversary_metric" />
     <string name="birthday_notification_title_today">Compleanno di %1$s</string>
     <string name="birthday_notification_text_today">Oggi è il suo compleanno!</string>
     <string name="birthday_notification_title_three_days_later">Si avvicina il compleanno di %1$s</string>

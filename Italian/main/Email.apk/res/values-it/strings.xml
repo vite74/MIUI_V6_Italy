@@ -210,7 +210,8 @@
     <string name="archived">Archiviata</string>
     <string name="att_download_failed_content">Download fallito</string>
     <string name="att_download_failed_title">Download allegato fallito</string>
-    <string name="att_mgr_no_attachment">Nessun allegato!</string>
+    <string name="att_file_not_exists">File %s non trovato</string>
+    <string name="att_mgr_no_attachment">Nessun allegato</string>
     <string name="att_mgr_title_order_mime">Formato</string>
     <string name="att_mgr_title_order_name">Nome</string>
     <string name="att_mgr_title_order_rev_date">Data</string>
@@ -222,8 +223,11 @@
     <string name="attachment_application_vnd_ms_excel">Foglio di calcolo</string>
     <string name="attachment_application_vnd_ms_powerpoint">Presentazione</string>
     <string name="attachment_audio">Audio</string>
+    <string name="attachment_canceling">Annullamento in corso, attendere prego!</string>
+    <string name="attachment_decoding">Allegato scaricato completamente, decodificazione in corso, attendere prego.</string>
     <string name="attachment_image">Immagine</string>
     <string name="attachment_mgr_name">Allegato</string>
+    <string name="attachment_not_exists">Allegato non disponibile</string>
     <string name="attachment_not_found">"Impossibile scaricare l'allegato."</string>
     <string name="attachment_text">Testo</string>
     <string name="attachment_type_blocked">Purtroppo, non puoi salvare o aprire questo tipo di allegato.</string>
@@ -255,7 +259,7 @@
     <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s</string>
-    <string name="cc_bcc">Cc/Ccn</string>    
+    <string name="cc_bcc">Cc/Ccn</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_account_confirm">"L'account "%1$s" verrà rimosso da WPSMail."</string>
     <string name="change_account_type">Modifica tipo di account</string>
@@ -272,6 +276,7 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
+    <string name="compose_help_context">scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -358,6 +363,7 @@
     <string name="downlaod_nonWifi_confirm_message">Il download consumerà traffico, confermare</string>
     <string name="download_again">Scarica di nuovo</string>
     <string name="download_before_sharing">" non è ancora stato scaricato, scaricalo prima di condividerlo!"</string>
+    <string name="download_before_view">Non ancora scaricato, prima esegui il download</string>
     <string name="download_cancel_confirm_title">Annullare il download?</string>
     <string name="download_complete_not_cancel">Download completato, annullamento fallito!</string>
     <string name="download_confirm_message">"Per aprire questo file devi scaricare l'allegato da 180K %1$s"</string>
@@ -388,6 +394,7 @@
     <string name="failed">"Impossibile caricare immagine"</string>
     <string name="feedback">Invia feedback</string>
     <string name="feedback_body">Feedback information</string>
+    <string name="feedback_sent">Grazie per il tuo feedback</string>
     <string name="fetching_attachment">Recupero allegato</string>
     <string name="file_deleted_success">File eliminato correttamente!</string>
     <string name="file_not_found">File non trovato sul server di posta!</string>
@@ -512,6 +519,7 @@
     <string name="menu_search">Cerca</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_show_original">Ripristina ridim. autom.</string>
+    <string name="merged_mailbox_compose_select_account">Seleziona account</string>
     <string name="message_body_auto_download_complete">Scarica email in automatico tramite Wi-Fi</string>
     <string name="message_body_auto_download_tip">Stai utilizzando la rete WI-Fi. Le email verranno scaricate automaticamente</string>
     <string name="message_body_download_failed">Tempo per il downlaod delle email scaduto</string>
@@ -533,7 +541,6 @@ CC: %4$s
     <string name="message_invite_accept">Sì</string>
     <string name="message_invite_calendar_view">Mostra nel calendario</string>
     <string name="message_invite_decline">No</string>
-    <string name="message_invite_label_attending">Parteciperai?</string>
     <string name="message_invite_tentative">Forse</string>
     <string name="message_invite_title">Invito calendario</string>
     <string name="message_saved">Messaggio salvato come bozza.</string>
@@ -579,9 +586,13 @@ CC: %4$s
     <string name="outbox_alert_button_resend">Invia di nuovo</string>
     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
     <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
-    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string> 
+    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
     <string name="outbox_alert_description_sent_failed">"Causa: Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
+    <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
+    <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
+    <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
     <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
+    <string name="outbox_alert_select_operation">Selezionare operazione</string>
     <string name="outbox_alert_title_sent_failed">Impossibile inviare email</string>
     <string name="outbox_no_mails">Nessuna mail in uscita</string>
     <string name="parase_setup_data">Recupero dati di configurazione…</string>
@@ -594,6 +605,9 @@ CC: %4$s
     <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Apportare la modifica ora?</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
+    <string name="perference_change_pw">Aggiorna password</string>
+    <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
+    <string name="perference_change_pw_ok_tips">Password aggiornata con successo</string>
     <string name="permission_access_provider_desc">Consente a questa applicazione di accedere al database della tua posta, inclusi i messaggi ricevuti e inviati, i nomi utente e le password.</string>
     <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
@@ -647,6 +661,7 @@ CC: %4$s
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_summary_not_set">Non impostato</string>
     <string name="preferences_signature_title">Firma</string>
+    <string name="prefetched_got_it">OK</string>
     <string name="preview_attachment">Anteprima</string>
     <string name="previous_action">Indietro</string>
     <string name="prompt_title">Prompt</string>
@@ -784,6 +799,7 @@ CC: %4$s
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
     <string name="turn_auto_sync_on_dialog_title">Attivare sincro. automatica?</string>
     <string name="undo">Annulla</string>
+    <string name="unread_from_someone">Non letto da [%s]</string>
     <string name="unread_string">Conversazione non letta</string>
     <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
     <string name="updated_at">Ultimo aggiornamento %1$s</string>
@@ -806,6 +822,7 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">"Scorri dall'alto per leggere le notifiche. Premi per concludere le impostazioni di sicurezza."</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
+    <string name="wait_help_context">Attesa</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>

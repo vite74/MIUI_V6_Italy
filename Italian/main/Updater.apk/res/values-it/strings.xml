@@ -97,6 +97,12 @@
     <string name="user_intertup_download_msg">"Il download è stato messo in pausa. Puoi riavviarli in qualsiasi momento dall'applicazione Updater."</string>
     <string name="check_update_when_wifi_available_sum">Utilizza solo Wi-Fi per cercare aggiornaemnti</string>
     <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
+    <string name="updater_nonetwork">Connettiti alla rete per recuperare il log</string>
+    <string name="updater_nolog">Nessun log</string>
+    <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
+    <string name="notification_load_title_dev">Accedi al tuo Mi Account</string>
+    <string name="notification_load_body_dev">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
+    <string name="notification_load_body_alpha">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
     <string name="new_updates_found_notification_title">Aggiornamento di sistema rilevato!</string>
     <string name="network_error">Errore di connessione, provare di nuovo</string>
     <string name="monthly_build">Build Mensile</string>
@@ -136,6 +142,7 @@
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>
+    <string name="update_feedback_need_update">"Devi prima aggiornare il sistema all'ultima versione."</string>
     <string name="update_feedback_expired">"Ti sei perso la griglia feedback di questa settimana.
 Ma puoi partecipare il prossimo martedì"</string>
     <string name="update_happy">Grandioso!</string>

@@ -101,4 +101,7 @@
     <string name="sns_toast_over_limit">Invia come immagine (oltre il limite del testo)</string>
     <string name="sns_desc_preview_weibo">Anteprima messaggio Weibo</string>
     <string name="sns_desc_preview_wechat">Anteprima meggaggio WeChat</string>
+    <string name="sns_choose_quality_title">Scegli la qualità dell'immagine</string>
+    <string name="sns_choose_quality_high">Alta (%1$s)</string>
+    <string name="sns_choose_quality_low">Bassa</string>
 </resources>

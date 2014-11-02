@@ -2770,7 +2770,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">Le app seguenti richiedono di vedere le informazioni sulla tua posizione</string>
     <string name="permission_manager">Permessi</string>
-    <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Disattivato</string>

@@ -40,7 +40,7 @@ Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di u
     <string name="network_access_warning">Devi collegarti ad Internet per attivare i Servizi Mi.</string>
     <string name="setting_locale">Impostazione PAese…</string>
     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i Termini del Servizio su %s</string>
-    <string name="miui_privacy_policy_no_network">Nessuna connessione di rete. Leggi l'Informativa sulla Privacy su %s"</string>
+    <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'Informativa sulla Privacy su %s"</string>
     <string name="terms_of_service">Termini del Servizio</string>
     <string name="locale_picker_title">Scegli il tuo Paese</string>
     <string name="locale_picker_desc">Se vuoi modificare il tuo Paese successivamente, dovrai ripristinare le impostazioni di fabbrica."</string>

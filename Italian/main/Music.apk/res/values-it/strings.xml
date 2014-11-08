@@ -3,8 +3,9 @@
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="filter_by_size_max">2 MB</string>
+    <string name="filter_by_size_min">0 KB</string>
     <string name="music_browser_label">Musica</string>
-    <string name="mi_effect">Impostazioni audio</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
@@ -89,7 +90,8 @@
     <string name="file_not_found">File inesistente</string>
     <string name="format_unsupported">Formato non supportato</string>
     <string name="fail_to_play">Impossibile riprodurre</string>
-    <string name="my_music_empty">\"La mia musica\" è vuota. Scarica o imposta come preferito qualche brano in \"Online\"</string>
+    <string name="my_music_empty">Playlist vuota</string>
+    <string name="my_music_empty_goto_online">Nessun brano trovato</string>
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="send_to_title">Invia a (%1$s)</string>
     <string name="dialog_title_add_playlist">Aggiungi alla playlist</string>
@@ -220,6 +222,18 @@
     <string name="sleep_mode_canceled">Modalità sospensione annullata</string>
     <string name="priority_storage">Usa scheda SD esterna</string>
     <string name="priority_storage_summary">Scarica automaticamente su scheda SD esterna, se disponibile</string>
+    <string name="headset_settings">Impostazioni cuffie</string>
+    <string name="no_local_source_find">File non trovato</string>
+    <string name="music_filter">Filtra file audio</string>
+    <string name="filter_by_size">Per dimensione</string>
+    <string name="filter_by_size_summary">Non mostrare brevi file audio</string>
+    <string name="filter_by_size_prefix">"Dimensione minima: "</string>
+    <string name="filter_by_duration">Per durata</string>
+    <string name="filter_by_duration_summary">Non mostrare brevi file audio</string>
+    <string name="filter_by_duration_prefix">"Durata minima: "</string>
+    <string name="filter_by_duration_min">0 sec</string>
+    <string name="filter_by_duration_max">5 min</string>
+    <string name="filter_by_duration_format">%2$dm %5$2ds</string>
     <string name="max_sleep_time">90</string>
     <string name="min_sleep_time">1</string>
 </resources>

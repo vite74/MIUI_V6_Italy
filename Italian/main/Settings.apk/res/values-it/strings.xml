@@ -15,6 +15,7 @@
     <string name="music_headset_calibrate_confirm">Applicare queste impostazioni?</string>
     <string name="music_headset_no_contected">Auricolari non rilevati</string>
     <string name="music_headset_calibrate_wrong_key">Questo è il pulsante sbagliato</string>
+    <string name="music_HiFi_title">Audio Hi-Fi</string>
     <string name="music_mi_effect_title">Dirac HD Sound</string>
     <string name="music_mi_effect_summary">Abilita sempre Dirac HD Sound se ascolti tramite altoparlante</string>
     <string name="music_headphone_settings">Impostazione tipo di auricolari</string>
@@ -2244,6 +2245,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
+    <string name="lock_settings">Lockscreen</string>
     <string name="unlock_set_unlock_summary">Prego impostare un blocco schermo</string>
     <string name="lock_settings_picker_settings">Imposta blocco schermo</string>
     <string name="lock_screen_unlock_show">Disabilita swipe screen</string>
@@ -2364,7 +2366,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_restore">Reimposta livelli</string>
     <string name="volume_restore_alert">Reimpostando i livelli del volume ai valori predefiniti verranno cancellate le attuali impostazioni dei livelli</string>
-    <string name="sound_category_calls_and_notification_title">Notifiche e suoneria</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Cambia la dimensione del testo del sistema operativo</string>
     <string name="font_size_small">Piccolo</string>
@@ -2759,7 +2760,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
     <string name="lockscreen_glogin_checking_password">Verifica…</string>
     <string name="passwordIncorrect">La password inserita non è corretta</string>
-    <string name="app_feedback">Segnalazione bug</string>
     <string name="app_backup">Backup</string>
     <string name="google_backup_section_title">Backup e ripristino di Google</string>
     <string name="system_backup_section_title">Backup</string>
@@ -2770,6 +2770,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">Le app seguenti richiedono di vedere le informazioni sulla tua posizione</string>
     <string name="permission_manager">Permessi</string>
+    <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Disattivato</string>
@@ -2816,6 +2817,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="experimental_build">(Sperimentale)</string>
     <string name="wireless_on">Attivata</string>
     <string name="wireless_off">Disattivata</string>
+    <string name="whetstone_level_title">Ottimizzazione memoria di sistema</string>
+    <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>
+    <string name="whetstone_level_reboot_OK">Riavvia</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_display_category">Display</string>
     <string name="miracast_menu_search">Ricerca</string>
@@ -2845,6 +2849,4 @@ Disabilitare le finestre flottanti?"</string>
     <string name="miracast_PC2THOR_streaming_on">Il display wireless non è disponibile perché un PC sta trasmettendo a questo dispositivo.</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>
-    <string name="status_bar_toggle_arrangement">Gestione comandi</string>
-    <string name="security_keyguard_category_name">Schermata di blocco</string>
 </resources>

@@ -119,6 +119,10 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
     <string name="micloud_warn_full_title">Spazio esaurito</string>
     <string name="micloud_warn_full_sum">"Nessun nuovo contenuto verrà sincronizzato con il Mi Cloud."</string>
+    <string name="micloud_storage_expires_soon_title">Lo spazio Mi Cloud scadrà a breve</string>
+    <string name="micloud_storage_expires_very_soon_title">Lo spazio Mi Cloud scadrà a breve</string>
+    <string name="micloud_storage_expires_auto_renewal_sum">Devi rinnovare la tua iscrizione.</string>
+    <string name="micloud_storage_expires_manually_renewal_sum">Devi rinnovare la tua iscrizione.</string>
     <string name="micloud_full_influence_dspt">"Tutte le tue foto, i video, le note e le app rimarranno nel backup sul cloud. 
 
 In questo modo, se smarrisci o danneggi il tuo dispositivo, i tuoi dati saranno ancora al sicuro.. 

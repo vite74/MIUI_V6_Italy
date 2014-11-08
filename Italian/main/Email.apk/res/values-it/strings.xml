@@ -225,6 +225,7 @@
     <string name="attachment_audio">Audio</string>
     <string name="attachment_canceling">Annullamento in corso, attendere prego!</string>
     <string name="attachment_decoding">Allegato scaricato completamente, decodificazione in corso, attendere prego.</string>
+    <string name="attachment_download_all">Scarica tutto</string>
     <string name="attachment_image">Immagine</string>
     <string name="attachment_mgr_name">Allegato</string>
     <string name="attachment_not_exists">Allegato non disponibile</string>
@@ -466,6 +467,11 @@
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>    
     <string name="mail">Email</string>
     <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero da PC più tardi</string>
+    <string name="mail_header_downloading_message_body">In download…</string>
+    <string name="mail_header_message_body_auto_download_complete">Scarica tramite Wi-Fi.</string>
+    <string name="mail_header_message_body_auto_download_tip">Il contenuto della email verrà scsaricato tramite Wi-Fi.</string>
+    <string name="mail_header_message_body_download_failed">Connessione sc aduta.</string>
+    <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
     <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
     <string name="mailbox_name_display_drafts">Bozze</string>
     <string name="mailbox_name_display_inbox">In arrivo</string>
@@ -827,15 +833,6 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>
     <string name="wrong_password">Password sbagliata!</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_external_storage_unavailable">Archiviazione non disponibile, verificare la scheda SD.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
-Dimensione: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Introduzione della versione %1$s
-Dimensione aggiornamento delta: %2$s"</string>
-    <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="yes">Sì</string>
     <string name="zip_viewer_no_file">Nessun file!</string>
 </resources>

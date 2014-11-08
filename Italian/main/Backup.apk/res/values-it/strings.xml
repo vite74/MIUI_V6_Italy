@@ -190,4 +190,6 @@
     <string name="backup_data">Backup dati</string>
     <string name="sd_not_available">Nessuna scheda SD rilevata</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="never">Mai</string>
+    <string name="every_day">Tutti i giorni</string>
 </resources>

@@ -30,9 +30,20 @@
     <string name="ime_privacy_policy">Termini della privacy per la tastiera selezionata</string>
     <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
     <string name="terms_of_use">Condizioni del Servizio</string>
-    <string name="terms_of_use_label">"Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di utilizzare MIUI."</string>
+    <string name="terms_of_use_label">"La tua privacy ci sta molto a cuore. Leggi i nostri Termini di Servizio e l'Informativa sulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
+
+Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di utilizzare MIUI."</string>
     <string name="user_agreement">Condizioni del Servizio</string>
     <string name="privacy_policy">Termini sulla Privacy</string>
     <string name="agree">OK</string>
     <string name="disagree">Anulla</string>
+    <string name="network_access_warning">Devi collegarti ad Internet per attivare i Servizi Mi.</string>
+    <string name="setting_locale">Impostazione PAese…</string>
+    <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i Termini del Servizio su %s</string>
+    <string name="miui_privacy_policy_no_network">Nessuna connessione di rete. Leggi l'Informativa sulla Privacy su %s"</string>
+    <string name="terms_of_service">Termini del Servizio</string>
+    <string name="locale_picker_title">Scegli il tuo Paese</string>
+    <string name="locale_picker_desc">Se vuoi modificare il tuo Paese successivamente, dovrai ripristinare le impostazioni di fabbrica."</string>
+    <string name="locale_picker_confirm_dialog_title">Scegli il tuo paese</string>
+    <string name="locale_picker_confirm_dialog_desc">"Impostare %s come il tuo Paese? "</string>
 </resources>

@@ -2,13 +2,13 @@
 <resources>
     <string name="common_settings">Impostazioni Frequenti</string>
     <string name="alarm_settings">Impostazioni Sveglia</string>
+    <string name="edit_systemtime">Modifica ora di sistema</string>
     <string name="vibrate_pref_summary">"Vibra quando suona l'allarme"</string>
     <string name="label_pref_summary">Rinomina questa sveglia</string>
     <string name="worldclock_title">Orologio</string>
     <string name="stopwatch_title">Cronometro</string>
     <string name="timer_title">Timer</string>
     <string name="menu_add_worldclock">Fuso orario</string>
-    <string name="menu_edit_systemtime">Modifica orario sistema</string>
     <string name="menu_edit_timer_item">Modifica</string>
     <string name="delete_timer_item_title">Elimina operazione</string>
     <string name="delete_selected_timer_item">"Eliminare l'operazione selezionata?"</string>
@@ -19,6 +19,7 @@
     <string name="alarm_ascending_mode_title">Sveglia ascendente</string>
     <string name="alarm_ascending_mode_summary">"Il volume dell'allarme cresce progressivamente."</string>
     <string name="close_alarm">Disattiva sveglia</string>
+    <string name="timer_notify_text">Sospendi o disattiva.</string>
     <string name="start">Avvia</string>
     <string name="pause">Pausa</string>
     <string name="reset">Reset</string>
@@ -52,6 +53,7 @@
     <string name="lap_num">Giro</string>
     <string name="hour_unit">H</string>
     <string name="alarm_label_hint">Inserisci etichetta sveglia</string>
+    <string name="legal_workday">Giorni lavorativi</string>
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona da Luna Ven)</string>
     <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>
     <string name="legal_workday_message">(escluse le festività)</string>
@@ -86,7 +88,6 @@
     <string name="minute">1 minuto</string>
     <string name="minutes">%s minuti</string>
     <string name="every_day">tutti i giorni</string>
-    <string name="legal_workday">Giorni lavorativi</string>
     <string name="never">Mai</string>
     <string name="day_concat">". "</string>
     <string name="analog_gadget">Orologio</string>

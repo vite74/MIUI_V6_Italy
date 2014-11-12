@@ -6,7 +6,7 @@
     <string name="account_hint_text">Email o numero di telefono</string>
     <string name="phone_num_hint_text">Numero di telefono</string>
     <string name="login">Accedi</string>
-    <string name="login_with_email_or_id"><u>Accedi acon un alatro account</u></string>
+    <string name="login_with_email_or_id"><u>Accedi con un altro account</u></string>
     <string name="email_or_id_hint_text">Email o ID Mi Account</string>
     <string name="verify">Verifica</string>
     <string name="register">Crea un account</string>

@@ -656,6 +656,8 @@ CC: %4$s
     <string name="pop3_name">POP3</string>
     <string name="prefDialogTitle_conversationListIcon">Immagine mittente</string>
     <string name="prefDialogTitle_removal_action">Archivio e operazioni cancellate</string>
+	<string name="preference_head_load_description">Scarica solo i titoli delle email, quando stai utilizzano i dati mobili.</string>
+    <string name="preference_head_load_title">Riduci utilizzo dati</string>
     <string name="preference_removal_action_title">Archivio e operazioni cancellate</string>
     <string name="preference_sender_image_description">Mostra a fianco al nome nella lista</string>
     <string name="preference_sender_image_title">Immagine mittente</string>

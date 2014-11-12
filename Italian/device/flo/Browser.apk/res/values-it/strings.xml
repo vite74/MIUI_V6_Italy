@@ -542,7 +542,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="miuichromium_save_password_remember">Memorizza</string>
     <string name="miuichromium_save_password_never">Mai</string>
     <string name="actionbar_share">Condividi</string>
-    <string name="actionbar_web_search">RIcerca web</string>
+    <string name="actionbar_web_search">Ricerca web</string>
     <string name="accessibility_content_view">Vista web</string>
     <string name="date_picker_dialog_set">Imposta</string>
     <string name="date_picker_dialog_clear">Cancella</string>
@@ -554,7 +554,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="time_picker_dialog_hour_minute_separator">:</string>
     <string name="time_picker_dialog_minute_second_separator">:</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
-    <string name="month_picker_dialog_title">Impost amese</string>
+    <string name="month_picker_dialog_title">Imposta mese</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
     <string name="accessibility_datetime_picker_date">Data</string>
     <string name="accessibility_datetime_picker_time">Orario</string>

@@ -283,4 +283,5 @@ Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai 
     <string name="dlg_title_not_open_stranger_identify">Attiva Identificazione numeri sconosciuti</string>
     <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'Identificazione dei numeri sconosciuti in TelefonoPhone >Impostazioni, prima di segnalare un numero."</string>
     <string name="button_to_setting">Impostazioni</string>
+    <string name="button_text_delete">Elimina</string>
 </resources>

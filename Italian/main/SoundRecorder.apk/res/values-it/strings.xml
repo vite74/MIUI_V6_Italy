@@ -8,6 +8,7 @@
     <string name="error_sdcard_access">Impossibile accedere alla memoria interna o alla scheda SD</string>
     <string name="error_app_internal">"Forse un'altra applicazione sta usando le funzionalità di registrazione. Verifica e riprova."</string>
     <string name="error_app_internal_title">Errore Registratore</string>
+   <string name="error_file_access">File corrotto o non esistente</string>
     <string name="delete_dialog_message">Vuoi eliminare questa registrazione?</string>
     <string name="notification_recording">Registrazione…</string>
     <string name="notification_recording_ticker">Telefono muto. Registrazione…</string>
@@ -89,6 +90,7 @@
     <string name="record_downloading_notification">Download in corso…</string>
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_downloading_notification_complete">Download completato</string>
+    <string name="no_downloading_file">Nessun file in download.</string>
     <string name="sync_records">Sincronizza con Mi Cloud</string>
     <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
@@ -107,4 +109,5 @@
 Sulla rete mobile, scaricare può costare molto."</string>
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">La scheda SD non è montata, si prega di inserire una scheda SD</string>
+    <string name="record_back_pressed_hint">Tocca di nuovo Indietro per interrompere la registrazione</string>
 </resources>

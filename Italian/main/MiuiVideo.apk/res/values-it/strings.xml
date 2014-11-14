@@ -111,11 +111,13 @@
     <string name="online_video">Online</string>
     <string name="my_video">Locali</string>
     <string name="search_online_video">Ricerca video online</string>
+    <string name="declaration_allow">OK</string>
     <string name="declaration_content_td_custom">"Consentire la connessione ad Internet durante l'utilizzo dell'applicazione?"</string>
     <string name="declaration_content">Vuoi accettare  le <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Condizioni di Utilizzo</a> di Sohu Video, iQiyi, e altri fornitori video?</string>
     <string name="declaration">"Termini d'uso"</string>
     <string name="no_longer_tips">"Ricorda la mia scelta"</string>
     <string name="more">Altro</string>
+    <string name="partner_specials">COntenuto social</string>
     <string name="local_video">Locali</string>
     <string name="my_favorite">Preferiti</string>
     <string name="my_offline">Offline</string>
@@ -236,6 +238,8 @@
     <string name="select_count_xiang">%d selezionato</string>
     <string name="setting">Impostazioni</string>
     <string name="offline_setting">Video offline</string>
+    <string name="use_cellular_play_title">Notifica utilizzo dati</string>
+    <string name="use_cellular_play_summary">Mostra una notifica quando si utilizza la rete mobile per vedere o scaricare i video</string>
     <string name="use_cellular_network">Usa la rete cellulare</string>
     <string name="use_cellular_network_summary">Utilizza la rete cellulare per scaricare i video, questo comporterà costi molto elevati di traffico dati.</string>
     <string name="mipush_setting">Xiaomi push</string>
@@ -264,6 +268,15 @@
     <string name="forecasts">Previsioni</string>
     <string name="key_back_down_toast">Premi di nuovo Indietro per uscire</string>
     <string name="vp_support_by">Supportato da %1$s</string>
+    <string name="update_button">Aggiorna</string>
+    <string name="cancel_button">Annulla</string>
+    <string name="update_title">Aggiornamento disponibile</string>
+    <string name="update_version_prefix"><CDATA>Aggiorna alla versione:</CDATA></string>
+    <string name="update_size_prefix"><CDATA>Dimensione:</CDATA></string>
+    <string name="update_apk_statusbar">Download in corso…</string>
+    <string name="select_media_source">Scegli fonte</string>
+    <string name="hint_can_not_get_source_info">Impossibile recuperare info video</string>
+    <string name="hint_without_selected_set">Trova fonte automaticamente</string>
     <string name="app_name">Video</string>
     <string name="xiaomi_account_type_unsupported">Il sistema non supporta gli account Xiaomi.</string>
     <string name="no_login_xiaomi_account">Accedi con il tuo account Xiaomi per lasciare un commento</string>

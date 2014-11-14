@@ -847,6 +847,7 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
     <string name="error_socket_timeout">Timeout di rete, riprovare più tardi</string>
     <string name="error_share_with_creator">Sei già membro di questo album</string>
+    <string name="error_share_not_support">"Accesso all'album condiviso temporaneamente disponibile"</string>
     <string name="error_cloud_not_active">Album Mi Cloud non utilizzato</string>
     <string name="scan_barcode_to_join">Scansiona codice QR per entrare in un album</string>
     <string name="where_is_barcode">"Dov'è il codice QR?"</string>
@@ -903,7 +904,8 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="download_fail_confirm_continue">Download di %s fallito. Continuare?</string>
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
-    <string name="new_device_tips">Nuovo dispositivo trovato. Premi per visualizzare</string>
+    <string name="new_device_tips">"Tocca per visualizzare
+il dispositivo"</string>
     <string name="home_page_tab_photo">Foto</string>
     <string name="home_page_tab_cloud">Cloud</string>
     <string name="home_page_tab_local">Locale</string>

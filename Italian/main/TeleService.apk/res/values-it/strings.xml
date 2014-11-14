@@ -829,6 +829,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="uplmn_list_setting_add_plmn">Nuovo PLMN</string>
     <string name="gsm_umts_network_preferences_title">Modalità rete</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Modalità rete</string>
+    <string name="uplmn_numeric_is_empty">Inserisci ID rete</string>
     <string name="msim_setting_screen_title">SIM e reti mobili</string>
     <string name="msim_setting_categery_title">Informazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
@@ -853,6 +854,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Intenret, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="select_voice_call_sim">Prego scegliere</string>
     <string name="general_setting">Impostazioni</string>
     <string name="call_record_setting">Impostazioni registrazione chiamata</string>

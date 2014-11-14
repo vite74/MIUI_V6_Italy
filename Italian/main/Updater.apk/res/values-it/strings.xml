@@ -139,6 +139,11 @@
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="update_downfull_no_info_title">Impossibile scaricare</string>
     <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornaemnto.</string>
+    <string name="set_auto_update_title">Lancia aggiornamenti automaticamente</string>
+    <string name="set_auto_msg">Quando viene rilevata una nuova versione non devi aggiornare manualmente, il sistema sceglierà il momento migliore per aggiornare, sotto copertura rete Wi-Fi.</string>
+    <string name="open_now">Installa adesso</string>
+    <string name="not_open">Non installare</string>
+    <string name="title_toast_auto">Scarica aggiornamenti ed installa automaticamente</string>
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>

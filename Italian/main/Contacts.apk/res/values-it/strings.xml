@@ -788,7 +788,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="confirm_delete_contact_all_call_logs">Cancellare il registro chiamate?</string>
     <string name="confirm_delete_selected_all_call_logs">Cancellare i registri chiamate?</string>
     <string name="calllog_menu_blacklist">Blocca</string>
-    <string name="calllog_menu_edit_before_call">Notifica</string>
+    <string name="calllog_menu_edit_before_call">Modifica</string>
     <string name="calllog_menu_send_sms">Invia un messaggio</string>
     <string name="menu_call_ip_number">Effettua chiamata IP (al numero %s)</string>
     <string name="menu_dial_ip_number">Effettua una chiamata IP</string>    

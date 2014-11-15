@@ -276,7 +276,7 @@
     <string name="chat_view_description">Unisci la lista per visualizzare le conversazioni</string>
     <string name="chat_view_quote_text">-----Testo Citato-----</string>
     <string name="chat_view_retract_quote_text">---Nascondi Testo Citato---</string>
-    <string name="chat_view_title">Show conversation</string>
+    <string name="chat_view_title">Show conversazione</string>
     <string name="check_setup_data">Validazione impostazioni server…</string>
     <string name="checking_for_mail">Controlla email</string>
     <string name="choosertitle_sharevia">Condividi tramite</string>

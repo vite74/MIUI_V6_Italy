@@ -68,7 +68,7 @@
     <string name="status_bar_settings_show_carrier_summary">Mostra solo nella schermata di blocco</string>
     <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
-    <string name="status_bar_settings_toggle_position">Posizione comndi</string>
+    <string name="status_bar_settings_toggle_position">Posizione comandi</string>
     <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
     <string name="status_bar_screen_button_key">Tasti virtuali su schermo</string>
     <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>

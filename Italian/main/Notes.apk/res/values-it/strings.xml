@@ -82,7 +82,7 @@
     <string name="pref_title_common">Impostazioni frequenti</string>
     <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziosa</string>
     <string name="pref_desc_alarm_when_silent">La sveglia suonerà anche in modalità silenziosa</string>
-    <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
+    <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenz.?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="permlab_accessNote">Accedi agli appunti</string>
     <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere le tue informazioni personali.</string>

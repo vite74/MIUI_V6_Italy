@@ -868,5 +868,5 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
     <string name="preference_dial_pad_touch_tone_piano">Pianoforte</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
-    <string name="telephony_setting">Impostazioni di chiamata</string>
+    <string name="telephony_setting">Chiamata</string>
 </resources>

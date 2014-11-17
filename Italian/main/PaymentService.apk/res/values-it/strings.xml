@@ -232,7 +232,7 @@ Centro assistenza clienti：400-100-5678"</string>
     <string name="mibi_license_title">Accordo utente</string>
     <string name="mibi_license_message">Tocca OK se accetti i termini e le condizioni descritte in %1$s.</string>
     <string name="mibi_license_message_span">Accordo Utente Mi Credit</string>
-    <string name="btn_agree">"Sono d'accordo"</string>
+    <string name="btn_agree">OK</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
     <string name="lockscreen_forgot_pattern_button_text"><u>Sequenza dimenticata</u></string>
     <string name="lockpattern_recording_intro_header">Disegna sequenza di sblocco:</string>

@@ -2730,6 +2730,9 @@ ed esegui il software."</string>
     <string name="bluetooth_unlock_change_matched_device">Scegli un altro dispositivo</string>
     <string name="bluetooth_unlock_add_device">Aggiungi dispositivo</string>
     <string name="bluetooth_unlock_delete_device">Cancella questo dispositivo</string>
+	<string name="alpha_build">" | Alfa"</string>
+    <string name="developer_build">" | Sviluppatore"</string>
+    <string name="stable_build">" | Stabile"</string>
 	<string name="miracast_settings">Display wireless</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_add_sink_title">Aggiungi display wireless</string>

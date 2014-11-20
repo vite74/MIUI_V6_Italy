@@ -2822,6 +2822,9 @@ Disabilitare le finestre flottanti?"</string>
     <string name="whetstone_level_title">Ottimizzazione memoria di sistema</string>
     <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>
     <string name="whetstone_level_reboot_OK">Riavvia</string>
+    <string name="alpha_build">" | Alfa"</string>
+    <string name="developer_build">" | Sviluppatore"</string>
+    <string name="stable_build">" | Stabile"</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_display_category">Display</string>
     <string name="miracast_menu_search">Ricerca</string>

@@ -471,10 +471,12 @@
     <string name="intent_exchange_package">com.android.exchange</string>
     <string name="invalid_recipient">Indirizzo non valido.</string>
     <string name="kilobytes">%s KB</string>
+	<string name="load_from_remote">Continua a cercare sul server</string>
     <string name="load_more">Carica altro</string>
     <string name="loading_conversation">Caricamento…</string>
     <string name="loading_conversations">Caricamento…</string>
     <string name="local_search">Ricerca locale</string>
+	<string name="local_search_result">%s email trovate sul tuo dispositivo.</string>
     <string name="login">Accedi</string>
     <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
     <string name="login_failed_title">Accesso non riuscito</string>

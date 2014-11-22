@@ -687,7 +687,7 @@
     <string name="remove_from_secret_failed_message_with_count">%2$s elementi non possono essere rimossi: %1$s."</string>
     <string name="add_to_cloud_unfinished_message_with_count">%1$s elementi non aggiunti al cloud</string>
     <string name="add_to_secret_unfinished_message_with_count">"%1$s elementi non aggiunti all'album segreto"</string>
-    <string name="remove_from_secret_unfinished_message_with_count">%"1$s elementi non sono stati rimossi dall'album segreto"</string>
+    <string name="remove_from_secret_unfinished_message_with_count">"%1$s elementi non sono stati rimossi dall'album segreto"</string>
     <string name="alert_secret_album_title">Album Segreto</string>
     <string name="alert_secret_album_message">"Puoi scorrere l'album cloud nell'album segreto."</string>
     <string name="cant_delete_cloud_album">Impossibile eliminare: %s è un album di sistema oppure è condiviso con altri utenti.</string>

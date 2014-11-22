@@ -36,7 +36,7 @@
     <string name="reg_using_phone_number_prompt">Registrati tramite numero di telefono</string>
     <string name="reg_using_other_phone_number_prompt">Registrati tramite un altro numero di telefono</string>
     <string name="reg_using_other_phone">Registrati tramite un altro numero di telefono</string>
-    <string name="reg_via_sms_alert">"L'SMS di attivazione è soggetto ai normali costi previsi dal tuo operatore."</string>
+    <string name="reg_via_sms_alert">"L'SMS di attivazione è soggetto ai normali costi preavvisi dal tuo operatore."</string>
     <string name="reg_sms_send_prompt">Invia codice di verifica a %s</string>
     <string name="micloud_input_password_prompt">Inserisci password</string>
     <string name="micloud_password_confirm_hint">Conferma password</string>
@@ -58,7 +58,7 @@
     <string name="micloud_activate_retry_btn">Riprova</string>
     <string name="micloud_account_not_actived">"L'account non è stato attivato"</string>
     <string name="micloud_active_email_visit">Visita %s</string>
-    <string name="micloud_click_email_to_valid">Fare clic sul link di attivazione nel messaggio inviato alla tua casella di posta</string>
+    <string name="micloud_click_email_to_valid">Fare click sul link di attivazione nel messaggio inviato alla tua casella di posta</string>
     <string name="micloud_resend_active_email">Rispedisci email di attivazione</string>
     <string name="micloud_delete_account">Cancella account</string>
     <string name="micloud_active_email_sent_1">Un link di attivazione è stato inviato a </string>

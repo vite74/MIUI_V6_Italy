@@ -946,7 +946,5 @@ il dispositivo"</string>
     <string name="enable">Attiva</string>
     <string name="same_name_album_exists_alert">"E' già presente un album condiviso con lo stesso nome, vuoi caricare automaticamente le foto in quell'album?"</string>
     <string name="auto_upload_album_comfirm_to_share">Questo album verrà caricato automaticamente, confermi di volerlo condividere?</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
     <string name="paint_crop_tips">"Per ottenere un'immagine migliore, prova a posizionare le parti interessanti su di ua griglia di punti e sposta."</string>
 </resources>

@@ -292,7 +292,6 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
-    <string name="compose_help_context">scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -905,7 +904,6 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">"Scorri dall'alto per leggere le notifiche. Premi per concludere le impostazioni di sicurezza."</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-    <string name="wait_help_context">Attesa</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>

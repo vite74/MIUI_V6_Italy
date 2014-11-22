@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cache_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Frequenza di utilizzo</item>
+        <item>Dimensione</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
         <item>Dopo 5 minuti</item>
@@ -17,7 +29,12 @@
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Alte prestazioni</item>
-        <item>Bilanciato</item>
+        <item>Bilancato</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Disattiva</item>
+        <item>Attiva</item>
+        <item>Non modificare</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nessuna vibrazione</item>

@@ -706,6 +706,14 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="enter_developer_mode">Modalità sviluppatore</string>
     <string name="empty_snapshot_hint">Vuoto</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
+    <string name="close_ads_title">Suggerimento</string>
+    <string name="close_ads_message">Questo contenuto verrà chiuso. Bloccare automaticamente questo contenuto la prossima volta? Il contenuto bloccato sarà visibile in Ipostazioni -> Avanzate -> Regole personalzzate</string>
+    <string name="close_ads_choice_yes">Si</string>
+    <string name="close_ads_choice_no">No</string>
+    <string name="adblock_websites_settings_title">Regole personalizzate</string>
+    <string name="adblock_websites_settings_empyt_hint">Regole vuote</string>
+    <string name="adblock_rules_restore">Ripristina</string>
+    <string name="adblock_rules_number_text">%d elementi bloccati</string>
     <string name="webapp_app_name">Light Web Apps Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>

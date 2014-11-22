@@ -2080,7 +2080,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
-    <string name="config_mass_storage_function_name">memoria di massa</string>
+    <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
@@ -2816,7 +2816,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="status_sim_2">SIM2</string>
     <string name="status_summary">Tocca per vedere i dettagli</string>
     <string name="wifi_subnet_mask">Subnet mask</string>
-    <string name="experimental_build">(Sperimentale)</string>
     <string name="wireless_on">Attivata</string>
     <string name="wireless_off">Disattivata</string>
     <string name="whetstone_level_title">Ottimizzazione memoria di sistema</string>

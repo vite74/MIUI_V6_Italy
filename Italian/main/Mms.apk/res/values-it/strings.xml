@@ -359,9 +359,9 @@
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
-    <string name="mx_warning_notice">Verrò inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai normali costi previsti dal tuo operatore.</string>
-    <string name="mx_int_warning_notice">Verrà inviato un SMS internazionale per riattivare i messaggi cloud per la carta SIM corrente. Questo è soggetto ai normali costi previsti dal tuo operatore.</string>
-    <string name="mx_btn_enable">Attiva</string>    
+    <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
+    <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
+    <string name="mx_btn_enable">Attiva</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
@@ -516,4 +516,5 @@
     <string name="pref_title_festival_networking">Notifica connessione</string>
     <string name="hms_add_image_progress_message">Elaborazione…</string>
     <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
+    <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
 </resources>

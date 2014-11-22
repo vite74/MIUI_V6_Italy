@@ -94,8 +94,7 @@
     <string name="sns_hint_title">Soggetto (Opzionale)</string>
     <string name="sns_hint_content">Cosa hai in mente?</string>
     <string name="sns_footer_text">Creata con Mi Note</string>
-    <string name="sns_message_building">Creazione messaggio…</string>
-    <string name="sns_message_sending">Invio…</string>
+    <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlal la conenssione er prova di nuovo.</string>
     <string name="sns_content_default">Condividi foto</string>
     <string name="sns_toast_empty">Non puoi inviare un messaggio vuoto</string>
     <string name="sns_toast_over_limit">Invia come immagine (oltre il limite del testo)</string>

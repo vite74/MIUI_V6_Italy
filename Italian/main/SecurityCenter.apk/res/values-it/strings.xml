@@ -637,7 +637,7 @@
     <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
     <string name="summary_telecom_operator">Ottieni le statistiche mensili dal tuo operatore</string>
     <string name="title_flow_verify">Confronto</string>
-    <string name="summary_flow_verify">Non hai sincronizzato le statistiche dell'operatore da %d giorni</string>
+    <string name="summary_flow_verify">"Non hai sincronizzato le statistiche dell'operatore da %d giorni"</string>
     <string name="title_saving_switch">Risparmio dati</string>
     <string name="summary_saving_switch">Impedisci alle applicazioni di utilizzare la connessione dati mobile</string>
     <string name="title_flow_notification">Rapporto utilizzo dati</string>

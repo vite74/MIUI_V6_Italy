@@ -4,7 +4,7 @@
     <string name="com_sina_weibo_sdk_login">登录</string>
     <string name="com_sina_weibo_sdk_logout">注销</string>
     <string name="pull_to_refresh_pull_label">Tira per aggiornare…</string>
-    <string name="pull_to_refresh_release_label">Rilascia per aggionare…</string>
+    <string name="pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
     <string name="app_name">爱家康</string>
     <string name="action_settings">设置</string>
@@ -225,7 +225,7 @@
     <string name="current_env">当前环境：%s</string>
     <string name="official_env">线上环境</string>
     <string name="sandbox_env">沙箱环境</string>
-    <string name="register_success">Registrazione ocmpletata.</string>
+    <string name="register_success">Registrazione completata.</string>
     <string name="register_fail">Registrazione fallita.</string>
     <string name="recv_message">Messaggio ricevuto: \"%1$s\"</string>
     <string name="set_alias_success">Impostazione alias \"%1$s\" completata.</string>
@@ -309,7 +309,7 @@
     <string name="lovefamily_photo_tag">相亲相爱的一家人</string>
     <string name="get_more">Altro</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
-    <string name="pull_to_refresh">Trasina per aggiornare</string>
-    <string name="refreshing">Aggiornaemnto...</string>
+    <string name="pull_to_refresh">Trascina per aggiornare</string>
+    <string name="refreshing">Aggiornamento...</string>
     <string name="updating">Aggiornamento：</string>
 </resources>

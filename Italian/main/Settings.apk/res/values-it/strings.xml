@@ -183,7 +183,7 @@
     <string name="bluetooth_profile_details">Impostazioni profilo</string>
     <string name="bluetooth_name_not_set">"Nessun nome impostato, è in uso il nome dell'account"</string>
     <string name="bluetooth_scan_for_devices">Cerca dispositivi</string>
-    <string name="bluetooth_rename_device">Rinomina tablet</string>
+    <string name="bluetooth_rename_device">Rinomina il telefono</string>
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
@@ -209,10 +209,10 @@
     <string name="device_picker">Selettore dispositivo Bluetooth</string>
     <string name="bluetooth_permission_request">Richiesta autorizzazione Bluetooth</string>
     <string name="bluetooth_ask_enablement">"Un'app chiede di attivare il Bluetooth."</string>
-    <string name="bluetooth_ask_discovery">"Un'app chiede di rendere il tablet visualizzabile da altri dispositivi Bluetooth per %1$d secondi."</string>
-    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tablet visualizzabile da altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tablet visualizzabile da altri dispositivi per %1$d secondi."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il tablet visualizzabile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_discovery">"Un'app chiede di rendere il telefono visualizzabile da altri dispositivi Bluetooth per %1$d secondi."</string>
+    <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il telefono visualizzabile da altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il telefono visualizzabile da altri dispositivi per %1$d secondi."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'app chiede di attivare il Bluetooth e di rendere il telefono visualizzabile da altri dispositivi. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
@@ -311,7 +311,7 @@
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
-    <string name="phone_info_label">Info tablet</string>
+    <string name="phone_info_label">Info telefono</string>
     <string name="sd_card_settings_label">Archivio USB</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="cancel">Annulla</string>
@@ -330,7 +330,7 @@
     <string name="roaming_warning">Se consenti il roaming dei dati i costi potrebbero essere elevati.</string>
     <string name="roaming_warning_multiuser">"Quando consenti il roaming dei dati, potrebbero essere addebitati costi significativi per il roaming.
 
-Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
+Questa impostazione influisce su tutti gli utenti di questo telefono."</string>
     <string name="roaming_reenable_title">Consentire il roaming dei dati?</string>
     <string name="networks">Selezione operatore</string>
     <string name="sum_carrier_select">Scegli un operatore di rete</string>
@@ -373,27 +373,27 @@ Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
     <string name="cdma_security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco archivio credenziali</string>
     <string name="security_passwords_title">Password</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
-    <string name="crypt_keeper_encrypt_title">Esegui crittografia tablet</string>
-    <string name="crypt_keeper_encrypt_summary">Richiedi un PIN numerico o una password per decrittografare il tablet a ogni accensione</string>
+    <string name="crypt_keeper_encrypt_title">Esegui crittografia telefono</string>
+    <string name="crypt_keeper_encrypt_summary">Richiedi un PIN numerico o una password per decrittografare il telefono a ogni accensione</string>
     <string name="crypt_keeper_encrypted_summary">Crittografato</string>
-    <string name="crypt_keeper_desc">"Puoi crittografare i tuoi account, le impostazioni, le applicazioni scaricate e i relativi dati, file multimediali e altri file. Una volta crittografato il tablet, devi digitare un PIN numerico o una password per decrittografarlo ogni volta che lo accendi. Non puoi decrittografare il tablet se non eseguendo un ripristino dati di fabbrica, cancellando tutti i tuoi dati.
+    <string name="crypt_keeper_desc">"Puoi crittografare i tuoi account, le impostazioni, le applicazioni scaricate e i relativi dati, file multimediali e altri file. Una volta crittografato il telefono, devi digitare un PIN numerico o una password per decrittografarlo ogni volta che lo accendi. Non puoi decrittografare il telefono se non eseguendo un ripristino dati di fabbrica, cancellando tutti i tuoi dati.
 
-La crittografia potrebbe richiedere più di un'ora. Devi iniziare con una batteria carica e tenere il tablet collegato fino al completamento della crittografia. Se interrompi la procedura, perderai alcuni o tutti i tuoi dati."</string>
-    <string name="crypt_keeper_button_text">Esegui crittografia tablet</string>
+La crittografia potrebbe richiedere più di un'ora. Devi iniziare con una batteria carica e tenere il telefono collegato fino al completamento della crittografia. Se interrompi la procedura, perderai alcuni o tutti i tuoi dati."</string>
+    <string name="crypt_keeper_button_text">Esegui crittografia telefono</string>
     <string name="crypt_keeper_low_charge_text">Carica la batteria e riprova.</string>
     <string name="crypt_keeper_unplugged_text">Collega il caricabatterie e riprova.</string>
     <string name="crypt_keeper_dialog_need_password_title">Nessun PIN/password di blocco dello schermo</string>
     <string name="crypt_keeper_dialog_need_password_message">Devi impostare un PIN o una password di blocco dello schermo per poter iniziare la crittografia.</string>
     <string name="crypt_keeper_confirm_title">Crittografare?</string>
-    <string name="crypt_keeper_final_desc">"L'operazione di crittografia non è reversibile e la sua interruzione causerà la perdita di dati. La crittografia richiede almeno un'ora, durante la quale il tablet verrà riavviato diverse volte."</string>
+    <string name="crypt_keeper_final_desc">"L'operazione di crittografia non è reversibile e la sua interruzione causerà la perdita di dati. La crittografia richiede almeno un'ora, durante la quale il telefono verrà riavviato diverse volte."</string>
     <string name="crypt_keeper_setup_title">Crittografia</string>
-    <string name="crypt_keeper_setup_description">Attendi il termine della crittografia del tablet. ^1% completato.</string>
+    <string name="crypt_keeper_setup_description">Attendi il termine della crittografia del telefono. ^1% completato.</string>
     <string name="crypt_keeper_cooldown">Riprova tra ^1 secondi.</string>
     <string name="crypt_keeper_enter_password">Digita la password</string>
     <string name="crypt_keeper_failed_title">Crittografia non riuscita</string>
-    <string name="crypt_keeper_failed_summary">"La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul tablet non sono più accessibili. 
+    <string name="crypt_keeper_failed_summary">"La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul telefono non sono più accessibili. 
 
-Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di fabbrica. Quando configuri il tablet dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google."</string>
+Per riprendere a utilizzare il telefono devi effettuare un ripristino dei dati di fabbrica. Quando configuri il telefono dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google."</string>
     <string name="crypt_keeper_switch_input_method">Cambia metodo di immissione</string>
     <string name="lock_settings_picker_title">Scegli blocco schermo</string>
     <string name="backup_lock_settings_picker_title">Scegli blocco di backup</string>
@@ -504,7 +504,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
     <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s verrà disconnesso."</string>
-    <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione Internet del tablet.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione Internet del telefono.</string>
     <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth accoppiato</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connetti</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Connessione a dispositivo Bluetooth</string>
@@ -552,7 +552,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="wifi_display_listen_channel">"Canale d'ascolto"</string>
     <string name="wifi_display_operating_channel">Canale operativo</string>
     <string name="nfc_quick_toggle_title">NFC</string>
-    <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il tablet tocca un altro dispositivo</string>
+    <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il telefono tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">"Pronto a trasmettere i contenuti dell'applicazione tramite NFC"</string>
     <string name="android_beam_off_summary">Disattivato</string>
@@ -604,7 +604,7 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il tablet deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il telefono deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Avvvio WPS…</string>
@@ -662,9 +662,9 @@ Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
     <string name="wifi_dont_skip">Non saltare</string>
     <string name="wifi_skipped_message">"AVVISO. Potresti incorrere in addebiti extra dell'operatore per i dati.
 
-La configurazione del tablet può richiedere notevole attività di rete."</string>
-    <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione Internet, il tablet non sarà in grado di verificare che il software sia aggiornato.</string>
-    <string name="wifi_connect_failed_message">Impossibile collegare il tablet alla rete Wi-Fi.</string>
+La configurazione del telefono può richiedere notevole attività di rete."</string>
+    <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione Internet, il telefono non sarà in grado di verificare che il software sia aggiornato.</string>
+    <string name="wifi_connect_failed_message">Impossibile collegare il telefono alla rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
     <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi‑Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
@@ -773,20 +773,20 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="dock_audio_settings_title">Audio</string>
     <string name="dock_audio_summary_desk">Impostazioni per dock da tavolo collegato</string>
     <string name="dock_audio_summary_car">Impostazioni per dock auto collegato</string>
-    <string name="dock_audio_summary_none">Tablet non inserito nel dock</string>
+    <string name="dock_audio_summary_none">Telefono non inserito nel dock</string>
     <string name="dock_audio_summary_unknown">Impostazioni per dock collegato</string>
     <string name="dock_not_found_title">Dock non trovato</string>
-    <string name="dock_not_found_text">"Devi inserire il tablet nel dock per poter configurare l'audio del dock."</string>
+    <string name="dock_not_found_text">"Devi inserire il telefono nel dock per poter configurare l'audio del dock."</string>
     <string name="dock_sounds_enable_title">Suono inserimento nel dock</string>
-    <string name="dock_sounds_enable_summary_on">"Riproduci suono all'inserimento o alla rimozione del tablet dal dock"</string>
-    <string name="dock_sounds_enable_summary_off">"Non riprodurre suono all'inserimento o alla rimozione del tablet dal dock"</string>
+    <string name="dock_sounds_enable_summary_on">"Riproduci suono all'inserimento o alla rimozione del telefono dal dock"</string>
+    <string name="dock_sounds_enable_summary_off">"Non riprodurre suono all'inserimento o alla rimozione del telefono dal dock"</string>
     <string name="account_settings">Account</string>
     <string name="search_settings">Ricerca</string>
     <string name="search_settings_summary">Gestisci le impostazioni e la cronologia delle ricerche</string>
     <string name="display_settings">Display</string>
     <string name="accelerometer_title">Rotazione automatica</string>
-    <string name="accelerometer_summary_on">"Cambia automaticamente l'orientamento quando il tablet viene ruotato"</string>
-    <string name="accelerometer_summary_off">"Cambia automaticamente l'orientamento quando il tablet viene ruotato"</string>
+    <string name="accelerometer_summary_on">"Cambia automaticamente l'orientamento quando il telefono viene ruotato"</string>
+    <string name="accelerometer_summary_off">"Cambia automaticamente l'orientamento quando il telefono viene ruotato"</string>
     <string name="brightness">Luminosità</string>
     <string name="brightness_summary">Regola la luminosità dello schermo</string>
     <string name="screen_timeout">Sospensione</string>
@@ -831,7 +831,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="sim_enter_cancel">Annulla</string>
     <string name="wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l'operatore per sbloccare il dispositivo."</string>
     <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
-    <string name="device_info_settings">Stato tablet</string>
+    <string name="device_info_settings">Stato telefono</string>
     <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Versione di Android</string>
@@ -953,7 +953,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_summary">Cancella tutti i dati del dispositivo</string>
-    <string name="master_clear_desc">"Questa operazione cancellerà tutti i dati memorizzati nell'"<b>archivio interno</b>" del tablet, compresi:
+    <string name="master_clear_desc">"Questa operazione cancellerà tutti i dati memorizzati nell'"<b>archivio interno</b>" del telefono, compresi:
 
 "<li>Il tuo account Google</li>"
 "<li>Dati e impostazioni del sistema e delle applicazioni</li>"
@@ -970,7 +970,7 @@ Al momento sei collegato ai seguenti account:
 Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i dati dell'"<b>archivio USB</b>.</string>
     <string name="erase_external_storage">Cancella archivio USB</string>
     <string name="erase_external_storage_description">"Cancella tutti i dati nell'archivio USB interno, come musica o foto"</string>
-    <string name="master_clear_button_text">Reimposta tablet</string>
+    <string name="master_clear_button_text">Reimposta telefono</string>
     <string name="master_clear_final_desc">Cancellare tutti i dati personali e le applicazioni scaricate? Questa azione è irreversibile.</string>
     <string name="master_clear_final_button_text">Cancella tutto</string>
     <string name="master_clear_gesture_prompt">Inserisci la sequenza di sblocco</string>
@@ -1000,10 +1000,10 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="usb_tethering_unavailable_subtext">USB non connessa</string>
     <string name="usb_tethering_errored_subtext">Errore tethering USB</string>
     <string name="bluetooth_tether_checkbox_text">Tethering Bluetooth</string>
-    <string name="bluetooth_tethering_available_subtext">Connessione Internet di questo tablet condivisa</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Connessione Internet tablet condivisa con 1 dispositivo</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Connessione Internet tablet condivisa con %1$d dispositivi</string>
-    <string name="bluetooth_tethering_off_subtext">Connessione Internet del tablet non condivisa</string>
+    <string name="bluetooth_tethering_available_subtext">Connessione Internet di questo telefono condivisa</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Connessione Internet telefono condivisa con 1 dispositivo</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Connessione Internet telefono condivisa con %1$d dispositivi</string>
+    <string name="bluetooth_tethering_off_subtext">Connessione Internet del telefono non condivisa</string>
     <string name="bluetooth_tethering_errored_subtext">Senza tethering</string>
     <string name="bluetooth_tethering_overflow_error">Tethering impossibile con più di %1$d dispositivi.</string>
     <string name="bluetooth_untether_blank">Sarà annullato il tethering per %1$s.</string>
@@ -1038,7 +1038,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
     <string name="location_gps">Satelliti GPS</string>
-    <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS del tablet per individuare la tua posizione</string>
+    <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS del telefono per individuare la tua posizione</string>
     <string name="assisted_gps">Utilizza GPS assistito</string>
     <string name="assisted_gps_enabled">"Utilizza il server per assistere il GPS (deseleziona per ridurre l'utilizzo della rete)"</string>
     <string name="assisted_gps_disabled">Utilizza il server per assistere il GPS (deseleziona per migliorare le prestazioni GPS)</string>
@@ -1111,7 +1111,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
-    <string name="install_all_warning">"Il tablet e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al tablet o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
+    <string name="install_all_warning">"Il telefono e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al telefono o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="verify_applications">Verifica applicazioni</string>
     <string name="verify_applications_summary">"Non consentire o avvisa prima dell'installazione di applicazioni che potrebbero causare danni"</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
@@ -1188,8 +1188,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="app_factory_reset_dlg_text">Tutti gli aggiornamenti di questa applicazione di sistema Android verranno disinstallati.</string>
     <string name="clear_failed_dlg_title">Cancella dati</string>
     <string name="clear_failed_dlg_text">"Impossibile cancellare i dati dell'applicazione."</string>
-    <string name="security_settings_desc">"Contenuti a cui può accedere l'applicazione sul tablet:"</string>
-    <string name="security_settings_desc_multi">"Elenco dei contenuti a cui può accedere l'applicazione sul tablet. Per migliorare le prestazioni e ridurre l'utilizzo di memoria, alcune di queste autorizzazioni sono disponibili per l'applicazione %1$s perché funziona con la stessa procedura di %2$s:"</string>
+    <string name="security_settings_desc">"Contenuti a cui può accedere l'applicazione sul telefono:"</string>
+    <string name="security_settings_desc_multi">"Elenco dei contenuti a cui può accedere l'applicazione sul telefono. Per migliorare le prestazioni e ridurre l'utilizzo di memoria, alcune di queste autorizzazioni sono disponibili per l'applicazione %1$s perché funziona con la stessa procedura di %2$s:"</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="join_many_items_last">%1$s e %2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
@@ -1201,7 +1201,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="empty_list_msg">Nessuna applicazione di terze parti installata.</string>
     <string name="version_text">versione %1$s</string>
     <string name="move_app">Sposta</string>
-    <string name="move_app_to_internal">Sposta sul tablet</string>
+    <string name="move_app_to_internal">Sposta sul telefono</string>
     <string name="move_app_to_sdcard">Sposta in archivio USB</string>
     <string name="moving">Spostamento</string>
     <string name="insufficient_storage">Spazio di archiviazione insufficiente.</string>
@@ -1255,7 +1255,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
     <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
     <string name="runningservicedetails_stop_dlg_title">Interrompere il servizio di sistema?</string>
-    <string name="runningservicedetails_stop_dlg_text">Se interrompi questo servizio, potrebbero verificarsi anomalie in alcune funzioni del tablet fino allo spegnimento e alla riaccensione del tablet.</string>
+    <string name="runningservicedetails_stop_dlg_text">Se interrompi questo servizio, potrebbero verificarsi anomalie in alcune funzioni del telefono fino allo spegnimento e alla riaccensione del telefono.</string>
     <string name="language_settings">Lingua e tastiera</string>
     <string name="language_keyboard_settings_title">Lingua e tastiera</string>
     <string name="language_settings_category">Impostazioni lingua</string>
@@ -1514,13 +1514,13 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_phone">Chiamate vocali</string>
-    <string name="power_idle">Tablet inattivo</string>
+    <string name="power_idle">Telefono inattivo</string>
     <string name="usage_type_cpu">Totale CPU</string>
     <string name="usage_type_cpu_foreground">CPU in primo piano</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_wifi_running">Wi-Fi attivo</string>
-    <string name="usage_type_phone">Tablet</string>
+    <string name="usage_type_phone">Telefono</string>
     <string name="usage_type_data_send">Dati mobili inviati</string>
     <string name="usage_type_data_recv">Dati mobili ricevuti</string>
     <string name="usage_type_data_wifi_send">Dati Wi-Fi inviati</string>
@@ -1536,7 +1536,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_action_wifi">Impostazioni Wi-Fi</string>
     <string name="battery_action_bluetooth">Impostazioni Bluetooth</string>
     <string name="battery_desc_voice">Batteria utilizzata da chiamate vocali</string>
-    <string name="battery_desc_standby">Utilizzo batteria quando il tablet è inattivo</string>
+    <string name="battery_desc_standby">Utilizzo batteria quando il telefono è inattivo</string>
     <string name="battery_desc_radio">Batteria utilizzata da segnale cellulare</string>
     <string name="battery_sugg_radio">Passa a modalità in volo per ridurre i consumi nelle aree senza copertura cellulare</string>
     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
@@ -1780,8 +1780,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="header_add_an_account">Aggiungi un account</string>
     <string name="finish_button_label">Fine</string>
     <string name="really_remove_account_title">"Rimuovere l'account?"</string>
-    <string name="really_remove_account_message">"La rimozione di questo account comporterà l'eliminazione di tutti i relativi messaggi, contatti e altri dati dal tablet."</string>
-    <string name="remove_account_failed">Questo account è richiesto da alcune applicazioni. Puoi rimuoverlo solo ripristinando le impostazioni predefinite di fabbrica del tablet (questa operazione elimina tutti i dati personali) in Impostazioni > Backup e ripristino.</string>
+    <string name="really_remove_account_message">"La rimozione di questo account comporterà l'eliminazione di tutti i relativi messaggi, contatti e altri dati dal telefono."</string>
+    <string name="remove_account_failed">Questo account è richiesto da alcune applicazioni. Puoi rimuoverlo solo ripristinando le impostazioni predefinite di fabbrica del telefono (questa operazione elimina tutti i dati personali) in Impostazioni > Backup e ripristino.</string>
     <string name="provider_label">Sottoscrizioni push</string>
     <string name="cant_sync_dialog_title">Impossibile sincronizzare manualmente</string>
     <string name="cant_sync_dialog_message">Al momento la sincronizzazione di questo elemento non è attiva. Per modificare questa impostazione, attiva temporaneamente i dati in background e la sincronizzazione automatica.</string>
@@ -1886,9 +1886,9 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 Puoi trovare controlli di utilizzo dei dati più appropriati nelle impostazioni disponibili all'interno dell'applicazione."</string>
     <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati mobili.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Attivare sincronizzazione automatica dati?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul tablet.
+    <string name="data_usage_auto_sync_on_dialog">"Tutte le modifiche che apporti ai tuoi account sul Web verranno automaticamente copiate sul telefono.
 
-Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul tablet. Gli account Google funzionano in questo modo.
+Alcuni account potrebbero inoltre copiare automaticamente sul Web tutte le modifiche che apporti sul telefono. Gli account Google funzionano in questo modo.
 
 Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni account, vai a Impostazioni > Account."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare sincronizzazione automatica dati?</string>
@@ -1901,12 +1901,12 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
     <string name="data_usage_limit_dialog_title">Limitazione utilizzo dati</string>
     <string name="data_usage_limit_dialog_mobile">"La tua connessione dati mobili verrà disattivata al raggiungimento del limite specificato.
 
-Dato che l'utilizzo dei dati è misurato dal tuo tablet e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
+Dato che l'utilizzo dei dati è misurato dal tuo telefono e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
     <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
     <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
 
-Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
+Questa impostazione influisce su tutti gli utenti di questo telefono."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">avviso</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1915,7 +1915,7 @@ Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
     <string name="data_usage_uninstalled_apps_users">App e utenti rimossi</string>
     <string name="data_usage_received_sent">%1$s ricevuti, %2$s inviati</string>
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
-    <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal tablet. I dati possono differire da quelli dell'operatore."</string>
+    <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal telefono. I dati possono differire da quelli dell'operatore."</string>
     <string name="data_usage_metered_title">Hotspot mobili</string>
     <string name="data_usage_metered_body">"Seleziona le reti Wi‑Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
@@ -2007,7 +2007,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo con limitazioni</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
-    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del tablet, come il Wi‑Fi, che riguardano tutti.
+    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del telefono, come il Wi‑Fi, che riguardano tutti.
 
 Dopo la creazione di un nuovo utente, la persona in questione deve svolgere una procedura di configurazione.
 
@@ -2016,11 +2016,11 @@ Qualsiasi utente può accettare le autorizzazioni delle app aggiornate per conto
 
 Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate per conto di tutti gli altri utenti."</string>
     <string name="user_setup_dialog_title">"Configurare l'utente ora?"</string>
-    <string name="user_setup_dialog_message">Assicurati che la persona possa utilizzare il tablet e configurare il suo spazio.</string>
+    <string name="user_setup_dialog_message">Assicurati che la persona possa utilizzare il telefono e configurare il suo spazio.</string>
     <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
     <string name="user_setup_button_setup_now">Configura ora</string>
     <string name="user_setup_button_setup_later">Non ora</string>
-    <string name="user_cannot_manage_message">Solo il proprietario del tablet può gestire gli utenti.</string>
+    <string name="user_cannot_manage_message">Solo il proprietario del telefono può gestire gli utenti.</string>
     <string name="user_cannot_add_accounts_message">I profili con limitazioni non possono aggiungere account</string>
     <string name="user_remove_user_menu">Elimina %1$s da dispositivo</string>
     <string name="user_new_user_name">Nuovo utente</string>
@@ -2028,9 +2028,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_confirm_remove_self_title">Eliminare te stesso?</string>
     <string name="user_confirm_remove_title">"Rimuovere l'utente?"</string>
     <string name="user_profile_confirm_remove_title">Rimuovere il profilo?</string>
-    <string name="user_confirm_remove_self_message">"Perderai il tuo spazio e i tuoi dati sul tablet. Non è possibile annullare l'azione."</string>
-    <string name="user_confirm_remove_message">"Lo spazio e i dati dell'utente scompariranno dal tablet. Non è possibile annullare l'azione."</string>
-    <string name="user_profile_confirm_remove_message">"Lo spazio e i dati del profilo scompariranno dal tablet. Non è possibile annullare l'azione."</string>
+    <string name="user_confirm_remove_self_message">"Perderai il tuo spazio e i tuoi dati sul telefono. Non è possibile annullare l'azione."</string>
+    <string name="user_confirm_remove_message">"Lo spazio e i dati dell'utente scompariranno dal telefono. Non è possibile annullare l'azione."</string>
+    <string name="user_profile_confirm_remove_message">"Lo spazio e i dati del profilo scompariranno dal telefono. Non è possibile annullare l'azione."</string>
     <string name="user_adding_new_user">Aggiunta nuovo utente…</string>
     <string name="user_delete_user_description">Elimina utente</string>
     <string name="user_delete_button">Elimina</string>
@@ -2039,7 +2039,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="apps_with_restrictions_settings_button">Espandi impostazioni per app</string>
     <string name="home_app_uninstall_button">Disinstalla questa applicazione</string>
     <string name="only_one_home_message">"Le impostazioni proprietarie saranno nascoste fino a quando non installi un'altra applicazione proprietaria."</string>
-    <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo tablet.</string>
+    <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo telefono.</string>
     <string name="global_locale_change_title">Cambia lingua</string>
     <string name="global_font_change_title">Cambia le dimensioni del carattere</string>
     <string name="nfc_payment_settings_title">Touch &amp; Pay</string>
@@ -2068,7 +2068,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Consenti la modifica di impostazioni e accoppiamenti Bluetooth</string>
     <string name="restriction_nfc_enable_title">NFC</string>
-    <string name="restriction_nfc_enable_summary">Consenti lo scambio di dati quando il tablet tocca un altro dispositivo</string>
+    <string name="restriction_nfc_enable_summary">Consenti lo scambio di dati quando il telefono tocca un altro dispositivo</string>
     <string name="restriction_location_enable_title">Posizione</string>
     <string name="restriction_location_enable_summary">Consenti alle app di utilizzare informazioni sulla tua posizione</string>
     <string name="wizard_back">Indietro</string>

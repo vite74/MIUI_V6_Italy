@@ -498,7 +498,7 @@
     <string name="mail_header_downloading_message_body">In download…</string>
     <string name="mail_header_message_body_auto_download_complete">Scarica tramite Wi-Fi.</string>
     <string name="mail_header_message_body_auto_download_tip">Il contenuto della email verrà scsaricato tramite Wi-Fi.</string>
-    <string name="mail_header_message_body_download_failed">Connessione sc aduta.</string>
+    <string name="mail_header_message_body_download_failed">Connessione scaduta.</string>
     <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
     <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
     <string name="mailbox_name_display_drafts">Bozze</string>

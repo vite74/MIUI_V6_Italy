@@ -290,7 +290,6 @@ Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai 
     <string name="button_to_setting">Impostazioni</string>
     <string name="button_text_delete">Elimina</string>
     <string name="special_number_group">Blocco numeri speciali</string>
-    <string name="st_title_markednumber_group">Blocco numeri riportati</string>
     <string name="st_title_other_group">Altro</string>
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>

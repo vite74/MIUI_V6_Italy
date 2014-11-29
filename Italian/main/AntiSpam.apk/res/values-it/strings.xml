@@ -169,13 +169,11 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="SMS_BLACKLIST">Messaggio lista blocco</string>
     <string name="SMS_PREFIX">Prefisso lista blocco</string>
     <string name="SMS_DEFAULT">Lista blocco intelligente</string>
-    <string name="SMS_MODENAME">Predefinito lista blocco</string>
     <string name="SMS_KEYWORDS">Parole lista blocco</string>
     <string name="SMS_ADRESS">Località lista blocco</string>
     <string name="SMS_SERVICE">Servizio lista di blocco</string>
     <string name="Call_BLACKLIST">Chiamata lista blocco</string>
     <string name="Call_PREFIX">Prefisso lista blocco</string>
-    <string name="Call_MODENAME">Predefinito lista blocco</string>
     <string name="Call_ADRESS">Posizione lista blocco</string>
     <string name="Call_PRIVATE_CALL">Chiamate private</string>
     <string name="Call_DEFAULT">Lista blocco intelligente</string>
@@ -209,6 +207,11 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
+    <string name="report_sms">Segnala messaggi</string>
+    <string name="report_only">Scegli un messaggio da segnalare</string>
+    <string name="report_success">Messaggio segnalato</string>
+    <string name="report_error">Impossibile segnalare il messaggio</string>
+    <string name="report_error_not_net">Impossibile connettersi alla rete</string>
     <string name="menu_report_block">Segna come spam</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
     <string name="read_all_sms">Segna come già letto</string>
@@ -273,6 +276,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_sell">Telemarketing</string>
     <string name="mark_meal">Cibo a domicilio</string>
     <string name="mark_express">Corriere</string>
+    <string name="mark_banking_insurance">Proposte assicurative</string>
     <string name="mark_fraud_block">Segnalato come truffa</string>
     <string name="mark_agent_block">Segnalato come venditore</string>
     <string name="mark_sell_block">Segnalato come telemarketing</string>
@@ -285,4 +289,10 @@ Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai 
     <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'Identificazione dei numeri sconosciuti in TelefonoPhone >Impostazioni, prima di segnalare un numero."</string>
     <string name="button_to_setting">Impostazioni</string>
     <string name="button_text_delete">Elimina</string>
+    <string name="special_number_group">Blocco numeri speciali</string>
+    <string name="st_title_markednumber_group">Blocco numeri riportati</string>
+    <string name="st_title_other_group">Altro</string>
+    <string name="call_transfer_block">Blocco chiamate inoltrate</string>
+    <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
+    <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
 </resources>

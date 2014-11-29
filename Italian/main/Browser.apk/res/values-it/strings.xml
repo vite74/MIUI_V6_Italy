@@ -660,6 +660,11 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="url_suggest_indicator_hoturl">Popolare</string>
     <string name="url_suggest_indicator_bookmark">Segnalibri/Cronologia</string>
     <string name="url_suggest_indicator_mostvisited">Più visitati</string>
+    <string name="url_find_on_page_result">Mostra nel Browser</string>
+    <string name="url_find_on_page_result_item">Mostra tutto il testo di \"%s\"</string>
+    <string name="find_on_page_prev">Indietro</string>
+    <string name="find_on_page_next">Avanti</string>
+    <string name="find_on_page_cancel">Annulla</string>
     <string name="pref_volume_key_action">Tasti volume: pagina precedente/successiva</string>
     <string name="pref_other_title">Altro</string>
     <string name="pref_clear_data_title">Azzera dati</string>
@@ -713,7 +718,13 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="adblock_websites_settings_title">Regole personalizzate</string>
     <string name="adblock_websites_settings_empyt_hint">Regole vuote</string>
     <string name="adblock_rules_restore">Ripristina</string>
-    <string name="adblock_rules_number_text">%d elementi bloccati</string>
+    <string name="maximum_input_alert">Massimo 2048 caratteri</string>
+    <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
+    <string name="data_traffic_prompt_message">"Utilizzando la connessione dati mobile per navigare aumenterai l'utilizzo dei dati. Se superi il limite previsto dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="data_traffic_prompt_change">"Utilizzando la connessione dati mobile per vedere video aumenterai l'utilizzo dei dati. Se superi il limite previsto dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="video_project_title">External display</string>
+    <string name="video_project_msg">Displaying on %s</string>
+    <string name="video_project_button">Stop</string>
     <string name="webapp_app_name">Light Web Apps Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>

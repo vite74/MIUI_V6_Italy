@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
+    <string name="oldman_airplane_mode_text">aereo</string>
+    <string name="oldman_incall_text">in chiamata</string>
+    <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
+    <string name="audio_effect_info">Ottimizza audio</string>
+    <string name="audio_effect_custom">Imposta</string>
     <string name="app_label">UI di sistema</string>
     <string name="status_bar_recent_inspect_item_title">Informazioni applicazione</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
@@ -79,7 +84,6 @@
     <string name="data_usage_disabled_dialog_mobile_title">Dati mobili disattivati</string>
     <string name="data_usage_disabled_dialog_title">Dati disabilati</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato. Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
-    
 
     <string name="data_usage_disabled_dialog_enable">Riattiva dati</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>

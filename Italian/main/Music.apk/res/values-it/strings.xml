@@ -233,6 +233,7 @@
     <string name="filter_by_duration_format">%2$dm %5$2ds</string>
     <string name="no_local_source_find">Brano non trovato</string>
     <string name="start_to_play">Avvia</string>
+    <string name="can_not_find_resource">Nessuna risorsa trovata</string>
     <string name="modify_song_info">Modifica informazioni brano</string>
     <string name="song_name">Brano</string>
     <string name="artist_name">Artista</string>
@@ -257,7 +258,7 @@
     <string name="modify_lyric">Modifica testi</string>
     <string name="modify_progress">Modifica scorrimento testi</string>
     <string name="modify_progress_helper">Scorri in alto o in basso per regolare lo scorrimento del testo</string>
+    <string name="no_introduction">Nessun riepilogo</string>
     <string name="lyric_is_empty">Testo vuoto o non disponibile!</string>
     <string name="format_not_support">Formato non valido, impossibile impostare.</string>
-    <string name="no_introduction">Nessun riepilogo</string>
 </resources>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="phoneAppLabel">Telefono</string>
+    <string name="jeejen_answer_call_text">Rispondi</string>
+    <string name="jeejen_reject_call_text">Rifiuta</string>
+    <string name="jeejen_end_call_text">Termina</string>
+    <string name="jeejen_toggle_dialpad_text">Tastiera</string>
+    <string name="jeejen_card_title_in_call" />
+    <string name="jeejen_card_title_on_hold" />
+    <string name="jeejen_card_title_dialing">Composizione</string>
+    <string name="jeejen_card_title_incoming_call">Chiamata in arrivo</string>
+    <string name="jeejen_card_title_call_cancel">Chiamata anullata</string>
+    <string name="jeejen_card_title_call_ended">Chiamata terminata</string>
+    <string name="phoneAppLabel">Phone</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="onscreen_add_call_text">Aggiungi chiamata</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -146,10 +156,7 @@
     <string name="reverting_settings">Recupero impostazioni…</string>
     <string name="response_error">Risposta inattesa dalla rete.</string>
     <string name="exception_error">Errore di rete o di SIM.</string>
-    <string name="stk_cc_ss_to_dial_error">Richiesta SS modificata in una richiesta DIAL.</string>
-    <string name="stk_cc_ss_to_ussd_error">Richiesta SS modificata in una richiesta USSD.</string>
     <string name="stk_cc_ss_to_ss_error">Richiesta SS modificata in una nuova richiesta SS.</string>
-    <string name="fdn_check_failure">Le impostazioni NSF sono abilitate. Alcune funzioni non sono disponibili.</string>
     <string name="radio_off_error">Attiva la radio prima di accedere a queste impostazioni.</string>
     <string name="close_dialog">Ok</string>
     <string name="enable">Attiva</string>
@@ -373,9 +380,6 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="puk2_requested">"Password non corretta, SIM bloccata! E' necessario il codice PUK2."</string>
     <string name="doneButton">Fatto</string>
     <string name="caller_manage_header">Video chiamata %s</string>
-    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
-    <string name="fake_phone_activity_placeCall_text">Chiamata in entrata fasulla</string>
     <string name="voicemail_settings_number_label">Numero segreteria</string>
     <string name="card_title_dialing">Chiamata in corso</string>
     <string name="card_title_redialing">Nuovo tentativo</string>
@@ -494,14 +498,6 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="sip_call_options_entry_2">Solo per chiamate Internet</string>
     <string name="sip_call_options_entry_3">Chiedi per ogni chiamata</string>
     <string name="sip_call_options_wifi_only_entry_1">Per tutte le chiamate</string>
-    <string name="pick_outgoing_call_phone_type">Effettua chiamata</string>
-    <string name="pick_outgoing_sip_phone">Usa account di chiamata Internet:</string>
-    <string name="remember_my_choice">Usa sempre per chiamate internet</string>
-    <string name="reset_my_choice_hint">Puoi utilizzare le Impostazioni Chiamate per scegliere quale account di chiamata usare come predefinito per effettuare chiamate selezionando un account diverso nelle impostazioni delle chiamate Internet</string>
-    <string name="pstn_phone">Chiamata cellulare</string>
-    <string name="internet_phone">Chiamata Internet</string>
-    <string name="no_sip_account_found_title">Nessun account chiamata internet</string>
-    <string name="no_sip_account_found">Non sono presenti account per chiamate internet su questo telefono. Aggiungerne uno adesso ?</string>
     <string name="sip_menu_add">Aggiungi</string>
     <string name="add_sip_account">Aggiungi account</string>
     <string name="remove_sip_account">Rimuovi account</string>
@@ -596,20 +592,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="description_dial_button">chiama</string>
     <string name="description_delete_button">backspace</string>
     <string name="accessibility_speakerphone_enabled">Speaker attivati.</string>
-    <string name="accessibility_call_muted">Chiamata silenziata.</string>
-    <string name="description_target_answer">Rispondi</string>
-    <string name="description_target_answer_video">Rispondi con videochiamata</string>
-    <string name="description_target_answer_tx_video">Rispondi con video in trasmissione</string>
-    <string name="description_target_answer_rx_video">Rispondi con video in ricezione</string>
-    <string name="description_target_send_sms">Invia SMS</string>
-    <string name="description_target_decline">Rifiuta</string>
-    <string name="description_direction_up_right">Superiore destro</string>
-    <string name="description_direction_up_left">Superiore sinistro</string>
-    <string name="description_direction_down_left">Inferiore sinistro</string>
-    <string name="description_direction_down_right">Inferiore destro</string>
-    <string name="description_direction_up">Scorrere per %s.</string>
-    <string name="description_direction_left">Scorrere verso sinistra per %s.</string>
-    <string name="description_direction_right">Scorrere verso destra %s.</string>
+    <string name="accessibility_call_muted">Chiamata silenziata</string>
     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibra</string>
     <string name="voicemail_notification_ringtone_title">Suoneria</string>
@@ -648,4 +631,6 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
     <string name="online_check_warning_info_by_cmb">"Verifica sempre l'identità della persona con cui stai parlando al telefono o tramite videochiamata prima di rispondere a qualsiasi messaggio riguardante le tue finanze personali."</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
+    <string name="livetalk_provider_info">Fornito da %s</string>
+    <string name="livetalk_waiting">In attesa…</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="home_indicator">bottom_point</string>
     <string name="wallpaper_scrolling">all</string>
     <string name="sharedUserId" />
     <string name="process" />
@@ -22,6 +23,7 @@
     <string name="out_of_space">Spazio esaurito in questa home</string>
     <string name="title_select_shortcut">Seleziona collegamento</string>
     <string name="title_select_live_folder">Seleziona cartella</string>
+    <string name="app_being_backup_message">App in fase di backup.</string>
     <string name="menu_add">Aggiungi</string>
     <string name="menu_wallpaper">Sfondo</string>
     <string name="menu_search">Cerca</string>
@@ -60,11 +62,8 @@
     <string name="cant_remove_system_app">"Impossibile rimuovere l'applicazione di sistema"</string>
     <string name="cant_remove_retained_app">Impossibile rimuovere questa applicazione</string>
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
-    <string name="disable_auto_start_message">"Disattiva il lancio autoamtico all'avvio."</string>
     <string name="uninstall_dialog_title_format">Disinstalla applicazione \"%s\"?</string>
-    <string name="disable_auto_start_format">"Disattiva %s dall'avvio automatico"</string>
     <string name="uninstall">Disinstalla</string>
-    <string name="disable">Disattiva</string>
     <string name="starting_preset_app">Inizio…</string>
     <string name="install">Installa</string>
     <string name="cant_remove_folder">Non puoi rimuovere questa cartella</string>
@@ -183,40 +182,5 @@
     <string name="menu_customize">Personalizza impostazioni</string>
     <string name="menu_picktheme">Seleziona tema</string>
     <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d app</string>
-    <string name="maml_component_customization_title">Impostazioni Componenti</string>
-    <string name="default_name">Predefinito</string>
-    <string name="resource_select">Seleziona</string>
-    <string name="status_bar_toggle_ac">Controllo accesso</string>
-    <string name="status_bar_toggle_bluetooth">BT</string>
-    <string name="status_bar_toggle_brightness">Lumin.</string>
-    <string name="status_bar_toggle_auto_brightness">Lumin.Auto</string>
-    <string name="status_bar_toggle_data">Dati</string>
-    <string name="status_bar_toggle_divider">Altro</string>
-    <string name="status_bar_toggle_flight_mode">Aereo</string>
-    <string name="status_bar_toggle_gps">GPS</string>
-    <string name="status_bar_toggle_lock">Blocca</string>
-    <string name="status_bar_toggle_mute">Silenz.</string>
-    <string name="status_bar_toggle_network_type">Rete</string>
-    <string name="status_bar_toggle_privacy_mode">Guard</string>
-    <string name="status_bar_toggle_reboot">Riavvia</string>
-    <string name="status_bar_toggle_rotate">Rotaz.</string>
-    <string name="status_bar_toggle_screen_button">Tasti</string>
-    <string name="status_bar_toggle_screenshot">Screenshot</string>
-    <string name="status_bar_toggle_shutdown">Spegni</string>
-    <string name="status_bar_toggle_sync">Sincr.</string>
-    <string name="status_bar_toggle_torch">Torcia</string>
-    <string name="status_bar_toggle_vibrate">Vibra</string>
-    <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_power_mode">Consumo</string>
-    <string name="status_bar_toggle_drive_mode">Guida</string>
-    <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
-    <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
-    <string name="status_bar_toggle_ringtone">Suoneria</string>
-    <string name="status_bar_toggle_ring">Suona</string>
-    <string name="status_bar_toggle_sync_auto">Sinc.Auto</string>
-    <string name="status_bar_toggle_sync_manual">Sinc.Manu</string>
-    <string name="status_bar_toggle_syncing">Sincronizza</string>
-    <string name="screen_rotation_freeze_message">Rotazione automatica bloccata</string>
-    <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
-    <string name="screen_button_enabled_message">I tasti funzione in basso</string>
+    <string name="editing_mode_enter_tip_text">Chiudi con due dita per modificare la Home</string>
 </resources>

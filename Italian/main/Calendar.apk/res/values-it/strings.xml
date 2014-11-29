@@ -171,8 +171,6 @@
     <string name="do_not_check">Non spuntare -></string>
     <string name="chinese_leap" />
     <string name="event_lunar_month" />
-    <string name="huangli_label">Calendario cinese</string>
-    <string name="holiday_label">Festività cinese</string>
     <string name="huangli_good_type">Propizio</string>
     <string name="huangli_bad_type">Sconsigliato</string>
     <string name="chongsha" />
@@ -185,7 +183,6 @@
     <string name="tab_local">Locale</string>
     <string name="tab_online">Online</string>
     <string name="tab_category">Categoria</string>
-	<string name="tab_path">CARTELLE</string>
     <string name="add_calendar">Aggiungi</string>
     <string name="exist_calendar">Esistente</string>
     <string name="delete_calendar">Elimina</string>
@@ -206,7 +203,6 @@
     <string name="button_online">Online</string>
     <string name="topic_event_list_header_label">Prossimi eventi</string>
     <string name="topic_list_header_label">Lista</string>
-    <string name="setting_online_calendar">Iscriviti</string>
     <string name="setting_wifi_mode">Iscriviti solo sotto copertura Wi-Fi</string>
     <string name="user_notice_online_agreement">Stai per accedere ad un calendario tramite MIUI, questo è un servizio per cui è richiesta una connessione Internet. Utilizzando questo servizio dichiari di accettare %1$ e 2$s.</string>
     <string name="data_notice_online_large_image">La sottoscrizione al calendario a grandi pagine è stata impostata con sincronizzazione solo con Wi-Fi per risparmiare traffico dati.</string>
@@ -271,6 +267,7 @@
     <string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="birthday_calendar_display_name">Promemoria compleanno</string>
+    <string name="xiaomi_calendar_display_name">Calendario Xiaomi</string>
     <string name="local_owner_account_name">Account locale</string>
     <string name="birthday_term">Compleanno</string>
     <string name="anniversary_term">Anniversario</string>
@@ -295,6 +292,10 @@
     <string name="work_day_indication">:(</string>
     <string name="rest_day_indication">:)</string>
     <string name="edit_event_confirm_message">Annullare le modifiche di questo evento?</string>
+    <string name="edit_event_reminder_off_toast">Nessun tipo di promemoria</string>
+    <string name="can_not_modify_event">Impossibile modificare</string>
+    <string name="can_not_modify_allday_event">Gli eventi che durano tutto il giorno non possono essere modificati</string>
+    <string name="can_not_modify_repeating_acrossing_days_event">Gli eventi ripetuti e quelli in corso non possono essere modificati</string>
     <string name="more_string">Altri %1$s…</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>

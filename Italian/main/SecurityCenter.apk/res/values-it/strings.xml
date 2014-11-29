@@ -96,6 +96,7 @@
     <string name="power_mode_airplane_mode">Modalità aereo</string>
     <string name="power_mode_switch_on">Attivato</string>
     <string name="power_mode_switch_off">Disattivato</string>
+    <string name="power_mode_keep_state">Non modificare</string>
     <string name="power_dialog_cpu_state_title">Utilizzo CPU</string>
     <string name="power_dialog_cpu_state_performance">Prestazioni</string>
     <string name="power_dialog_cpu_state_performance_desc">"Prestazioni CPU preferite all'autonomia della batteria"</string>
@@ -665,4 +666,9 @@
     <string name="toast_virus_cloudscan">La scansione virus utilizzerà il database online</string>
     <string name="toast_cleaner_cloudscan">Lo Strumento di Pulizia utilizzerà il database online</string>
     <string name="toast_garbage_lib">Aggiornamenti automatici attivati per lo Strumento di Pulizia</string>
+    <string name="info_and_call">Chiamate e messaggi</string>
+    <string name="SMS_and_MMS">SMS e MMS</string>
+    <string name="permission_with_SMS_and_MMS">Permessi SMS ed MMS</string>
+    <string name="call_and_contact">Chiamate e contatti</string>
+    <string name="permission_with_call_and_contact">PErmessi per chiamate, inormazioni di contatto e registro chiamate.</string>
 </resources>

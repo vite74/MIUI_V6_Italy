@@ -389,10 +389,10 @@
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
-    <string name="eas_template">dominio\\utente</string>
+    <string name="eas_template">domain\\user</string>
     <string name="edit_quick_response_dialog">Risposta veloce</string>
     <string name="elided_padding_token"> </string>
-    <string name="email_feedback_uri"></string>
+    <string name="email_feedback_uri" />
     <string name="empty_account_tip">"Impossibile trovare l'account"</string>
     <string name="empty_email_tip">Impossibile inviare email vuota</string>
     <string name="empty_spam">Svuota spam</string>
@@ -595,6 +595,7 @@ CC: %4$s
     <string name="new_incoming_messages_one">Nuovo messaggio da %s. Leggi.</string>
     <string name="new_messages">%1$d nuovi messaggi</string>
     <string name="next_action">Avanti</string>
+    <string name="next_not_prompt">Non chiedere più</string>
     <string name="no">No</string>
     <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
     <string name="no_contacts">Nessun contatto.</string>

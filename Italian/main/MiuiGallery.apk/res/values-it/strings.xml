@@ -375,7 +375,7 @@
     <string name="cityname_373">Zigong</string>
     <string name="cityname_374">Zunyi</string>
     <string name="cityname_375">YanCheng</string>
-    <string name="photoeditor_name">Foto Studio</string>
+    <string name="photoeditor_name">Mi Photo Studio</string>
     <string name="loading_failure">Impossibile caricare la foto</string>
     <string name="saving_failure">Impossibile salvare la foto</string>
     <string name="photo_saved">"Foto salvate nell'album %s"</string>

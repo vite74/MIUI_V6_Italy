@@ -154,7 +154,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="network_settings_select_automatic_hint">Impossibile registrarsi sulla rete che hai selezionato.
 Sarà usata al suo posto la rete preferita.</string>
     <string name="network_settings_forbidden">%s (vietato)</string>
-    <string name="preferred_network_type_title">Tiplogia di rete preferita</string>
+    <string name="preferred_network_type_title">Tipologia di rete preferita</string>
     <string name="preferred_network_type_pref_entries_global">Globale</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>

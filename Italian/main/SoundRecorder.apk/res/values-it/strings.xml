@@ -83,7 +83,7 @@
     <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizo dei dati su rete mobile."</string>
     <string name="toast_file_is_downloading">Questo file è in download, attendere prego</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="data_connection_title">Avviso utilizzo dati/string>
+    <string name="data_connection_title">Avviso utilizzo dati</string>
     <string name="data_connection_body">"L'utilizzo della rete dati mobile per il downlaod di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi."</string>
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Inserisci scheda SD adesso</string>

@@ -665,7 +665,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_recording_notification_message_low_storage">Registrazione interrotta: spazio insufficiente.</string>
     <string name="call_recording_notification_message">Tocca per visualizzare %s.</string>
     <string name="call_recording_notification_message_sd_unmounted">Registrazione interrotta: scheda SD rimossa.</string>
-    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
@@ -673,14 +672,14 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_record_off_summary">Registrazione automatica disattivata</string>
     <string name="autoip">Composizione PI automatica</string>
     <string name="autoip_prefix">Prefisso internazionale</string>
-    <string name="autoip_prefix_summary">"Prefisso intenazionale del tuo operatore: %s"</string>
+    <string name="autoip_prefix_summary">"Prefisso internazionale del tuo operatore: %s"</string>
     <string name="autoip_autoip_current_areacode_summary">Prefisso internazionale della località dove ti trovi ora: %s</string>
     <string name="autoip_setting">Impostazioni PI automatico</string>
     <string name="autoip_summary">Aggiungi un prefisso int. ai numeri stranieri</string>
     <string name="autoip_current_areacode">Pref. intern. locale</string>
     <string name="autoip_current_areacode_summary">Prefisso internazionale della località dove ti trovi ora</string>
     <string name="autoip_support_local_numbers">Usa sempre prefisso internaz.</string>
-    <string name="autoip_add_zero_prefix">Antemponi lo 0 ai numeri di cellulare</string>
+    <string name="autoip_add_zero_prefix">Anteponi lo 0 ai numeri di cellulare</string>
     <string name="autoip_exception">Numeri che non richiedo un PI</string>
     <string name="autoip_exception_summary">%d totali</string>
     <string name="autoip_exception_summary_more">,… %d totali</string>
@@ -854,7 +853,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d s)</string>
-    <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Intenret, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
+    <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="select_voice_call_sim">Prego scegliere</string>
     <string name="general_setting">Impostazioni</string>

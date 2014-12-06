@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Rimanda di %d minuti.</item>
-        <item quantity="one">Rimanda di un minuto.</item>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minuti</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="one">%1$d secondo</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="one">1 secondo</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d minuti</item>

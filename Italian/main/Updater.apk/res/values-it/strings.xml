@@ -96,8 +96,19 @@
     <string name="user_intertup_download_title">Downlaod aggiornamento in pausa</string>
     <string name="user_intertup_download_msg">"Il download è stato messo in pausa. Puoi riavviarli in qualsiasi momento dall'applicazione Updater."</string>
     <string name="check_update_when_wifi_available_sum">Utilizza solo Wi-Fi per cercare aggiornaemnti</string>
+    <string name="important_suggestion">"L'informativa sulla Privacy è stata modificata"</string>
+    <string name="auto_dialog_msg">"Abbiamo aggiornato la nostra Informativa sulla Privacy. Leggila attentamente prima di aggiornare. "</string>
+    <string name="auto_button_examine">Leggi</string>
+    <string name="auto_check_clause_msg">"Devi accettare l'Informativa sulla Privacy prima di aggiornare. "</string>
+    <string name="auto_check_clause_button">Leggi</string>
+    <string name="auto_agree_clause">"La nostra nuova Informativa sulla Privacy Privacy Policy è già valida. "</string>
+    <string name="auto_dialog_title_check_again">Annullare aggiornaemnto?</string>
+    <string name="auto_dialog_msg_check_again">"evi accettare l'Informativa sulla Privacy prima di aggiornare. "</string>
+    <string name="auto_button_examine_immediately">Leggi</string>
+    <string name="auto_button_sure_cancel">Annulla</string>
     <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
     <string name="updater_nonetwork">Connettiti alla rete per recuperare il log</string>
+    <string name="updater_nonetwork_clause">"Collegati ad una rete per leggere l'Informativa sulla Privacy aggiornata"</string>
     <string name="updater_nolog">Nessun log</string>
     <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
     <string name="notification_load_title_dev">Accedi al tuo Mi Account</string>
@@ -125,8 +136,8 @@
     <string name="share_qq">Posta tramite Tencent weibo</string>
     <string name="install_qq">Installa app QQ</string>
     <string name="upgrade_kernel">La versione attuale del kernel deve essere aggiornata</string>
-    <string name="upgrade_kernel_msg">La versione attuale del kernel non corrisponde alla ROM MIUI. Devi aggiornare il kernel manualmente. Fai riferimento al tutorial di aggiornamento:
-</string>
+    <string name="upgrade_kernel_msg">"La versione attuale del kernel non corrisponde alla ROM MIUI. Devi aggiornare il kernel manualmente. Fai riferimento al tutorial di aggiornamento:
+"</string>
     <string name="view_upgrade_tutorial">Tutorial</string>
     <string name="upgrade_close">Chiudi</string>
     <string name="update_success_title">Congratulazioni, aggiornamento completato</string>

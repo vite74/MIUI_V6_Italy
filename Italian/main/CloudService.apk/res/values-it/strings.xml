@@ -114,6 +114,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_user_space_usage">Spazio di memorizzazione</string>
     <string name="micloud_web_discription_01">Accedi su i.mi.com</string>
     <string name="micloud_web_discription_02">per salvare i tuoi file o accedervi ovunque tu sia</string>
+    <string name="micloud_web_discription">Accedi a i.mi.com per archiviare i tuoi dati e consultarli ovunque ti trovi</string>
     <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
     <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
     <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
@@ -165,6 +166,7 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">Interrompi sincronizzazione</string>
     <string name="micloud_main_sync_pause">Sospendi sincronizzazione</string>
+    <string name="micloud_main_sync_exception">Errore di sincronizzazione</string>
     <string name="micloud_main_stop_sync">Interrompi sincronizzazione</string>
     <string name="micloud_main_suggest_sync">Alcuni elementi devono essere sincronizzati con il tuo Mi Cloud.</string>
     <string name="micloud_main_set_internet">Rete</string>
@@ -191,6 +193,11 @@ Per rimediare a questo, puoi cancellare qualche vecchio file per fare spazio per
     <string name="micloud_detail_wlan">%d dati non sincronizzati</string>
     <string name="micloud_detail_wlan_contact">%d foto contatti non sincronizzati</string>
     <string name="micloud_detail_wlan_mms">%d MMS non sincronizzati</string>
+   <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
+al tuo Mi Account per riattivare Mi Cloud."</string>
+    <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
+    <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
+al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="upgrade_space_mibipreyear">"%s Mi Credit all'anno"</string>

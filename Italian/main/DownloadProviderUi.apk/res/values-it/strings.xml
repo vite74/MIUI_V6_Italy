@@ -7,6 +7,7 @@
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_wait_connect">Download in attesa della connessione</string>
+    <string name="download_filesize_unknown">Sconosciuto</string>
     <string name="download_info_start_deleted_tasks">Elimina i download</string>
     <string name="download_info_count_deleted_tasks">%s download rimossi</string>
     <string name="menu_preferences">Impostazioni</string>

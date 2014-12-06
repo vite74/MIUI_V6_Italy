@@ -1000,10 +1000,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_bluetooth_title">Trasferisci contatti</string>
     <string name="device_version_header_no_bluetooth">Importa contatti trami carta SIM</string>
     <string name="device_version_header_bluetooth">Assicurati che il Bluetooth sia attivo</string>
-    <string name="scanning">Scansione…</string>
-    <string name="select_device">Scegli un dispositivo</string>
     <string name="none_paired">"Attualmente non c'è nessun dispositivo accoppiato"</string>
-    <string name="none_found">Nessun dispositivo trovato</string>
     <string name="device_pairing_dialog_title">Accoppia dispositivi</string>
     <string name="device_pairing_dialog_message">Accoppiamento…</string>
     <string name="device_paired_dialog_title">Recupero contatti…</string>
@@ -1117,6 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non ora</string>
     <string name="yellowpage_user_profile">Profilo</string>
     <string name="yellowpage_navigation_more_items">Altro</string>
+    <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
     <string name="imei_invalid">IMEI non valido</string>
     <string name="meid_invalid">MEID non valido</string>
     <string name="firewall_setting">Lista blocchi</string>

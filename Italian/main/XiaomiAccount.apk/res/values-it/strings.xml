@@ -244,8 +244,11 @@ Puoi utilizzarlo per accedere e recuperare la password."</string>
     <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona il codice QR di nuovo dopo aver eseguito l'accesso."</string>
     <string name="scan_barcode_title">"Esegui l'accesso sicuro all'account Xiaomi, scansionando il codice QR dalla pagina web o dalla TV"</string>
     <string name="micloud_sync_info">Ci sono %d contenuti da sincronizzare</string>
-    <string name="micloud_sync_info_synced">Tutti i contenuti sono aggiornati</string>
-    <string name="micloud_space_info">Rimanente: %s</string>
+    <string name="micloud_sync_state_synced">Sincronizzato</string>
+    <string name="micloud_sync_state_syncing">Sincronizzazione</string>
+    <string name="micloud_sync_state_stop">Interrotto</string>
+    <string name="micloud_sync_state_need_wifi">Usa Wi-Fi per sincronizzare</string>
+    <string name="micloud_space_info">%s disponibili</string>
     <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="sim_index_info">SIM %1$d - %2$s</string>
     <string name="choose_which_one_sim">Scegli un numero di telefono</string>

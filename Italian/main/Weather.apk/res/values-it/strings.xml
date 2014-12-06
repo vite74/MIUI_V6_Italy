@@ -48,6 +48,7 @@
     <string name="view_aqi_pubtime">Aggiornato a %1$s</string>
     <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
     <string name="activity_weathermain_locationg">Localizzazione…</string>
+    <string name="activity_weathermain_locationg_error">Impossibile localizzare</string>
     <string name="view_indexes_title_humidity">Umidità (%)</string>
     <string name="view_indexes_title_visibility">Visibilità (km)</string>
     <string name="view_indexes_title_uv">Indice UV</string>
@@ -68,4 +69,6 @@
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
     <string name="view_sun_titile">Alba e tramonto</string>
+    <string name="first_start_network_msg">Per ricevere le informazioni meteo devi essere connesso ad internet.</string>
+    <string name="first_start_network_title">Avviso di connessione</string>
 </resources>

@@ -46,15 +46,15 @@
         <item>Vento O</item>
         <item>Vento NO</item>
     </string-array>
-	<string-array name="moon_desc">
-        <item>New moon</item>
-        <item>Waxing crescent</item>
-        <item>First quarter</item>
-        <item>Waxing gibbous</item>
-        <item>Full moon</item>
-        <item>Waning gibbous</item>
-        <item>Last quarter</item>
-        <item>Waning crescent</item>
-        <item>Dark moon</item>
+    <string-array name="moon_desc">
+        <item>Luna nuova</item>
+        <item>Luna crescente</item>
+        <item>Primo quarto</item>
+        <item>Gibbosa crescente</item>
+        <item>Luna piena</item>
+        <item>Gibbosa calante</item>
+        <item>Ultimo quarto</item>
+        <item>Luna calante</item>
+        <item>Luna scura</item>
     </string-array>
 </resources>

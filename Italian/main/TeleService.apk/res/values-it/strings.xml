@@ -146,6 +146,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="network_settings_next">Avanti</string>
     <string name="network_settings_confirm_message">La rete potrebbe non essere disponibile.</string>
     <string name="network_settings_query_failed_message">Interrogazione rete fallita. Tocca Annulla per usare la tua rete preferita o tocca Ok per riprovare.</string>
+    <string name="retry_btn">Riprova</string>
     <string name="network_settings_information">Informazione</string>
     <string name="network_settings_duringcall">Operazione non consentita durante una chiamata</string>
     <string name="network_settings_data_connected_change">"Impossibile cambiare rete mentre è in uso la connessione dati. Interrompere la connessione dati in uso quindi passare ad un'altra rete?"</string>
@@ -411,7 +412,6 @@ Hai ancora %d tentativi a disposizione."</string>
 Dopo aver premuto “Attiva”, ascolta le istruzioni fornite per attivare il tuo telefono."</string>
     <string name="ota_hfa_activation_title">Attivazione…</string>
     <string name="ota_hfa_activation_dialog_message">"Il telefono sta attivando il tuo servizio dati mobile.
-
 Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
     <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti alla rete dati mobile (ma potrai connetterti via Wi-Fi). Finché non attivi il tuo telefono, ti verrà richiesto di attivarlo ogni volta che lo accendi."</string>
@@ -665,6 +665,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_recording_notification_message_low_storage">Registrazione interrotta: spazio insufficiente.</string>
     <string name="call_recording_notification_message">Tocca per visualizzare %s.</string>
     <string name="call_recording_notification_message_sd_unmounted">Registrazione interrotta: scheda SD rimossa.</string>
+    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>

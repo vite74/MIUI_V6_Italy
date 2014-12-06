@@ -37,9 +37,10 @@
     <string name="vibrate_when_ringing">Vibra quando squilla</string>
     <string name="start_up">Avvia</string>
     <string name="cancel">Stop</string>
-    <string name="timer_message_with_hour">timer a %1$d ore e %2$d minuti</string>
-    <string name="timer_message">%1$d minuti</string>
-    <string name="timer_message_with_seconds">%1$d secondi</string>
+    <string name="timer_message_00">%1$d minuto e %2$d secondo</string>
+    <string name="timer_message_01">%1$d minuto e %2$d secondi</string>
+    <string name="timer_message_10">%1$d minuti e %2$d secondo</string>
+    <string name="timer_message">%1$d minuti e %2$d secondi</string>
     <string name="timer_item_picker_minute">Min</string>
     <string name="timer_item_picker_second">Sec</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
@@ -109,7 +110,7 @@
     <string name="volume_button_setting_title">Tasti fisici</string>
     <string name="volume_button_setting_summary">Imposta il comportamento alla pressione di uno dei due pulsanti</string>
     <string name="menu_item_dock_settings">Impostazioni dock</string>
-    <string name="alarm_klaxon_service_desc">"Usa servizio riproduzione per gli allarmi impostati nell'Orologio."</string>
+    <string name="alarm_klaxon_service_desc">"Usa servizio riproduzione per gli allarmi impostati nell'orologio."</string>
     <string name="loading_ringtone">Caricamento suoneria…</string>
     <string name="control_set_alarm">Imposta sveglia</string>
     <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>

@@ -340,8 +340,14 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="tc_sms_report_get_sms_failure">Impossibile ricevere dati sul formato SMS</string>
     <string name="tc_sms_report_get_sms_timeout">Impossibile ricevere dati sul formato SMS: tempo scaduto</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
+    <string name="tc_sms_report_get_default">Non avrai costi per gli SMS di richiesta saldo dal tuo operatore.</string>
     <string name="privacy_declare_dialog_title">Termini e Condizioni</string>
     <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i &lt;a href=http://max.oupeng.com/eula.html> Termini e Condizioni&lt;/a> di Opera."</string>
     <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare la funzione di risparmio dati</string>
     <string name="sc_allow_network_dialog_message">Devi consentire a questa applicazione di accedere ad Internet perchè funzioni correttamente.</string>
+    <string name="privacy_prompt_upload">Privacy notification</string>
+    <string name="privacy_prompt_traffic_adjust_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per aggiornare i template di richiesta SMS e controllare se questa funzione è disponibile nella tua zona."</string>
+    <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi er avere maggiori informazioni sulle opzioni dei dati di acquisto."</string>
+    <string name="privacy_prompt_tc_sms_report_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per aggiornare le informazioni sul tuo utilizzo dei dati."</string>
+    <string name="privacy_prompt_purchase_history_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per analizzare la tua cronologia di acquisto."</string>
 </resources>

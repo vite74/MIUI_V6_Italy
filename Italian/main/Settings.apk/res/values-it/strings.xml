@@ -2217,7 +2217,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
     <string name="enable_snapshot_screenlock">Premi a lungo Indietro avvia la fotocamera</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disabilita menu pulsante accensione</string>
+    <string name="disable_power_key_long_press_under_keyguard">Disabilita menù pulsante accensione</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglio con i tasti del volume</string>
     <string name="pref_volume_wake_summary">Premendo i tasti del volume il dispositivo viene risvegliato</string>

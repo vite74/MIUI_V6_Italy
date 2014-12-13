@@ -25,8 +25,9 @@
     <string name="pref_front_mirror_title">Fotoc.frontale (effetto specchio)</string>
     <string name="pref_video_quality_title">Qualità video</string>
     <string name="pref_video_quality_default">5</string>
-    <string name="pref_video_quality_pad_default">6</string>
+    <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
+    <string name="pref_video_quality_entry_value_4kuhd">12</string>
     <string name="pref_video_quality_entry_4kuhd">4K</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
@@ -409,4 +410,7 @@
     <string name="pref_audio_focus_entry_general">Normale</string>
     <string name="pref_audio_focus_entry_front">Frontale</string>
     <string name="pref_audio_focus_entry_rear">Posteriore</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Pressione prolungata</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto multiplo</string>
 </resources>

@@ -53,6 +53,7 @@
     <string name="operation_create_folder_message">Inserire nome cartella</string>
     <string name="operation_delete_confirm_message">"Confermare l'eliminazione?"</string>
     <string name="operation_delete_confirm_message_folder">"Il contenuto della cartella verrà eliminato. "</string>
+    <string name="delete_dialog_button">Elimina</string>
     <string name="new_folder_name">Nuova Cartella</string>
     <string name="sd_card_size">Scheda SD: %1$s</string>
     <string name="sd_card_available">Spazio libero: %1$s</string>
@@ -104,6 +105,7 @@
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
     <string name="user_guide">Guida Utente</string>
+    <string name="user_guide_summary">Panoramica generale</string>
     <string name="rename_failed">Impossibile rinominare %1$s</string>
     <string name="directory_no_item">Cartella vuota</string>
     <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
@@ -250,6 +252,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
 2. Caricare (aggiornamento del file remoto)"</string>
     <string name="ui_filechange_btn_upload">Carica file</string>
     <string name="folder_exist">Cartella già esistente</string>
+    <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="unmount_inform_text">"L'archivio USB verrà smontato.</string>
     <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
     <string name="byteShort">B</string>

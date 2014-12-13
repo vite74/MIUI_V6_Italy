@@ -517,4 +517,7 @@
     <string name="hms_add_image_progress_message">Elaborazione…</string>
     <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
     <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
+    <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
+    <string name="mx_activate_user_agreement_p1">"Utilizzando questo servizio, accetti "</string>
+    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
 </resources>

@@ -44,4 +44,5 @@
     <string name="using_camera_confirm_message">La Bussola deve utilizzare la fotocamera per funzionare correttaemnte</string>
     <string name="using_camera_confirm_ok">OK</string>
     <string name="using_camera_confirm_cancel">Esci</string>
+    <string name="shake_enter_tip">Scuoti per calibrare</string>
 </resources>

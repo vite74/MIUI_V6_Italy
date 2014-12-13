@@ -261,4 +261,7 @@
     <string name="no_introduction">Nessun riepilogo</string>
     <string name="lyric_is_empty">Testo vuoto o non disponibile!</string>
     <string name="format_not_support">Formato non valido, impossibile impostare.</string>
+    <string name="bluetooth_device">Dispositivo Bluetooth</string>
+    <string name="device_connected">Connesso</string>
+    <string name="device_not_connected">Non connesso</string>
 </resources>

@@ -173,6 +173,9 @@
     <string name="ext_media_mountable_notification_title">Archiviazione USB connessa</string>
     <string name="ext_media_mountable_notification_message">Apri media esterno con File Explorer</string>
     <string name="ext_media_safe_remove">Rimozione sicura</string>
+    <string name="status_bar_network_flow_today">Oggi: %1$s</string>
+    <string name="status_bar_network_flow">"Oggi: %1$s    Rimanente: %2$s   Limite mensile: %3$s"</string>
+    <string name="status_bar_network_flow_exceed">Oggi: %1$s | Fuori soglia: %3$s | Limite mensile: %4$s</string>
     <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
     <string name="no_notification_tips">Nessuna notifica</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
@@ -205,4 +208,5 @@
     <string name="headset_custom">Personalizza</string>
     <string name="usb_share_net_info">Utilizza la connessione Internet del computer</string>
     <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
+    <string name="battery_profiles">Profili utilizzo batteria</string>
 </resources>

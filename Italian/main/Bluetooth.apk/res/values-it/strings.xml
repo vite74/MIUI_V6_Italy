@@ -35,6 +35,7 @@
     <string name="notification_received_fail">Condivisione Bluetooth: file %1$s non ricevuto</string>
     <string name="notification_sending">Condivisione Bluetooth: invio file %1$s</string>
     <string name="notification_sent">Condivisione Bluetooth: file %1$s inviato</string>
+    <string name="empty_file_notification_sent">Condivisione Bluetooth: il dispositivo remoto rifiuta il file vuoto %1$s</string>
     <string name="notification_sent_complete">100% completato</string>
     <string name="notification_sent_fail">Condivisione Bluetooth: file %1$s non inviato</string>
     <string name="download_title">Trasferimento file</string>

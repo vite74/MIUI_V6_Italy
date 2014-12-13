@@ -2080,7 +2080,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display wireless è disabilitato perchè il Wi-Fi è spento</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
+    <string name="wifi_type_approval" />
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Anti-disturbo abilitato.</string>
     <string name="dndm_open">Anti-disturbo</string>
@@ -2112,6 +2112,14 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il telefono suonerà</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+    <string name="oldman_mode_entry_title">Modalità semplificata</string>
+    <string name="oldman_mode_entry_name">Modalità semplificata</string>
+    <string name="oldman_mode_settings_caption">Impostazioni modalità semplificata</string>
+    <string name="oldman_mode_enabled_name">Modalità semplificata</string>
+    <string name="oldman_mode_summary">Usa schermata Home e menu semplificati</string>
+    <string name="oldman_mode_confirm_title">Riavviare in modalità semplificata? </string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo telefono sarà riavviato per entrare in modalità semplificata.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Esci dalla modalità semplificata?</string>
     <string name="search_airplane">Modalità aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">Wi-fi</string>
@@ -2204,6 +2212,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wallpaper_desktop">Schermata Home</string>
     <string name="wallpaper_lockscreen">Schermata di blocco</string>
     <string name="wallpaper_live">Sfondo animato</string>
+    <string name="title_font">Font</string>
+    <string name="title_font_current">In usi</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
     <string name="screen_key_press">Pressione semplice tasti</string>
@@ -2370,6 +2380,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="volume_restore_alert">Reimpostando i livelli del volume ai valori predefiniti verranno cancellate le attuali impostazioni dei livelli</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Cambia la dimensione del testo del sistema operativo</string>
+    <string name="font_size_summary1">"
+Non sei soddisfatto? Prova"</string>
+    <string name="font_size_summary2">JeeJen Home</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
     <string name="font_size_medium">Medii</string>
@@ -2632,14 +2645,6 @@ Disabilitare le finestre flottanti?"</string>
     <string name="wifi_share_qrcode_title">Condivisione Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Usa la fotocamera per scansionare un codice QR</string>
     <string name="wifi_share_qrcode_finish">Termina</string>
-    <string name="oldman_mode_entry_title">Modalità semplificata</string>
-    <string name="oldman_mode_entry_name">Modalità semplificata</string>
-    <string name="oldman_mode_settings_caption">Impostazioni modalità semplificata</string>
-    <string name="oldman_mode_enabled_name">Modalità semplificata</string>
-    <string name="oldman_mode_summary">Usa schermata Home e menu semplificati</string>
-    <string name="oldman_mode_confirm_title">Riavviare in modalità semplificata? </string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo telefono sarà riavviato per entrare in modalità semplificata.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Esci dalla modalità semplificata?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Abilita 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">Output 3D Stereoscopico verso un display 3D esterno sabilitato</string>

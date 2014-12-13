@@ -12,6 +12,9 @@
         <item quantity="other">%d brani che verranno scaricati.</item>
         <item quantity="one">1 brano che verrà scaricato.</item>
     </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nuovi</item>
+    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d canzoni</item>
         <item quantity="one">%d canzone</item>

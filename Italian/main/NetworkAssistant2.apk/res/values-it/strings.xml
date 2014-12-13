@@ -312,6 +312,8 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="mi_service_traffic_detail">Dettagli framework</string>
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+    <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
+    <string name="show_traffic_dialog_message">"Le informazioni sull'utilizzo dei dati verranno mostrate nel pannello delle notifiche. Puoi disattivare questa opzioni in Utilizzo dati -> Impostazioni</string>
     <string name="tc_sms_report_title">"Segnala bug nell'utilizzo dei dati"</string>
     <string name="tc_sms_report_summary">"Aiutaci a migliorare questa funzionalità inviandoci una segnalazione quando le informazioni sull'utilizzo dei tuoi dati non è corretto o non si aggiorna"</string>
     <string name="tc_sms_report_direction">"Codice di richiesta (comando nell'SMS all'operatore)"</string>

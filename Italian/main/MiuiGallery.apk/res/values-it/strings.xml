@@ -439,7 +439,6 @@
     <string name="crop_label">Rifila</string>
     <string name="select_image">Seleziona foto</string>
     <string name="select_video">Seleziona video</string>
-    <string name="select_item">Seleziona elemento</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
     <string name="confirm_delete">Confermare la cancellazione di %s file?</string>
@@ -462,6 +461,7 @@
     <string name="details">Dettagli</string>
     <string name="details_title">%1$d elementi su %2$d:</string>
     <string name="close">Chiudi</string>
+    <string name="select_item">Seleziona elementi</string>
     <string name="show_on_map">Mostra sulla mappa</string>
     <string name="no_map_app">Nessuna applicazione per le mappe</string>
     <string name="no_such_item">"Impossibile trovare l'elemento."</string>
@@ -658,6 +658,7 @@
     <string name="gallery_cloud_provider_name">Galleria</string>
     <string name="sync_album">Sincronizza album</string>
     <string name="sync_album_summary">Carica le foto e gli screenshot nel tuo spazio di archiviazione Mi Cloud</string>
+    <string name="sync_third_party_app_pic_summary">Carica automaticamente le foto in alcune delle tue cartelle in cloud</string>
     <string name="open_sync_title">Sincronizzazione necessaria</string>
     <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
@@ -712,14 +713,10 @@
     <string name="sync_album_in_proecess">"L'album è in fase di sincronizzazione, attendere prego…</string>
     <string name="retry_to_create_album">Riprova</string>
     <string name="share_current_album">Condividi contenuto album</string>
-    <string name="cloud_share_guide_title">Condivisione Mi Cloud!</string>
-    <string name="cloud_share_guide_message">"Puoi condividere il tuo album Mi Cloud con
-i tuoi amici.Consultalo e aggiornalo
- da qualsiasi posto..
-"</string>
     <string name="cloud_be_shared_guide_title">Questo album è stato condiviso da un amico</string>
     <string name="cloud_be_shared_guide_message">Puoi vedere le immagini dei tuoi amici ed aggiungerne di tue, così da renderle visibili a tutti gli amici.</string>
-    <string name="cloud_owner_album_share_guide">Puoi condividere questo album con gli amici</string>
+    <string name="cloud_owner_album_share_guide">"Puoi condividere questo album con
+ gli amici"</string>
     <string name="view_sharers">Mostra utenti</string>
     <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
     <string name="cloudfolder_contain_invalidate_char">"Il nome della cartella non puo contenere '%s'"</string>
@@ -870,7 +867,7 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="weikan_weikan">Weikan TV</string>
     <string name="tencent_qzonepic">Qzone</string>
     <string name="qsbk_save">QSBK</string>
-    <string name="sina_weibo_save">Weibo</string>
+    <string name="sina_weibo">Weibo</string>
     <string name="qqbrowser_img">QQ Browser</string>
     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
@@ -893,6 +890,9 @@ i tuoi amici.Consultalo e aggiornalo
     <string name="wandoujia">SnapPea</string>
     <string name="pocket_camera_picture">Immagini Pocket Camera</string>
     <string name="pocket_camera_video">Video Pocket Camera</string>
+    <string name="moman_camera_picture">Immagini Moman Camera</string>
+    <string name="moman_camera_drawing">Disegno Moman Camera</string>
+    <string name="moman_camera_icon">Emoticon Moman Camera</string>
     <string name="yunyi_pocket_camera">Pocket Camera</string>
     <string name="picker_tab_photo">Foto</string>
     <string name="picker_no_items_selected">Nessuna selezione</string>
@@ -942,9 +942,18 @@ il dispositivo"</string>
     <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
     <string name="auto_upload_title">Carica automaticamente</string>
     <string name="select_auto_upload_albums">Scegli gli album da caricare sul cloud</string>
-    <string name="auto_upload_tip">"Un album con lo stesso nome verrà creato dopo l'attivazione. L'album con lo stesso nome (inclusi gli album condivisi con altri) verrà unito."</string>
-    <string name="enable">Attiva</string>
+    <string name="enable">Turn on</string>
     <string name="same_name_album_exists_alert">"E' già presente un album condiviso con lo stesso nome, vuoi caricare automaticamente le foto in quell'album?"</string>
     <string name="auto_upload_album_comfirm_to_share">Questo album verrà caricato automaticamente, confermi di volerlo condividere?</string>
+    <string name="qq">QQ</string>
+    <string name="weibo">Weibo</string>
+    <string name="wechat">WeChat</string>
+    <string name="pocketcamera">PocketCamera</string>
+    <string name="miliao">MiTalk</string>
+    <string name="mishop">MiShop</string>
+    <string name="uc">UC</string>
+    <string name="moman">MomanCamera</string>
+    <string name="wps">WPS</string>
+    <string name="qzone">QZone</string>
     <string name="paint_crop_tips">"Per ottenere un'immagine migliore, prova a posizionare le parti interessanti su di ua griglia di punti e sposta."</string>
 </resources>

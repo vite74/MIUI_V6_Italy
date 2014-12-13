@@ -42,6 +42,8 @@
     <string name="sync_off">Disattivata</string>
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
+    <string name="phone_number_may_required_dspt_provision">"Questo servizio potrebbe richiedere il tuo numero di telefono. "</string>
+    <string name="phone_number_required_dspt_provision">"Questo servizio richie il tuo numero di telefono. "</string>
     <string name="sync_dspt_provision">"Mi Cloud sincronizza le tue foto, SMS, note e molto alo su ttutti i tuoi dispositivi Mi. Puoi accedere ai tuoi dati anche da "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
@@ -115,6 +117,7 @@ Se cambia carta SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_web_discription_01">Accedi su i.mi.com</string>
     <string name="micloud_web_discription_02">per salvare i tuoi file o accedervi ovunque tu sia</string>
     <string name="micloud_web_discription">Accedi a i.mi.com per archiviare i tuoi dati e consultarli ovunque ti trovi</string>
+    <string name="micloud_web_discription_international">Visita www.mi.com/micloud</string>
     <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
     <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
     <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>

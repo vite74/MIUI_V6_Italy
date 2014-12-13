@@ -67,6 +67,8 @@
     <string name="notification_new_version">Aggiorna a %s</string>
     <string name="notification_update_now">Aggiorna adesso</string>
     <string name="notification_reboot_title">Aggiornamento completato</string>
+    <string name="notification_reboot_title_hm">Riavvia per aggiornare</string>
+    <string name="notification_reboot_summary_hm">Tocca per riavviare il dispositivo.</string>
     <string name="notification_reboot_des">Aggiorna il tuo dispositivo per aggiornare %s.</string>
     <string name="notification_reboot_btn">Riavvia</string>
     <string name="notification_reboot_seccess_title">Dispositivo aggiornato!</string>

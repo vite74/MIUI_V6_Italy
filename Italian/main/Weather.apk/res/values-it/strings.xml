@@ -10,6 +10,7 @@
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
     <string name="view_indexes_wind_unit">km/h</string>
+    <string name="view_realtime_clear_substitution">Sereno</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
@@ -71,4 +72,5 @@
     <string name="view_sun_titile">Alba e tramonto</string>
     <string name="first_start_network_msg">Per ricevere le informazioni meteo devi essere connesso ad internet.</string>
     <string name="first_start_network_title">Avviso di connessione</string>
+    <string name="international_detail_menu_title">Dettagli</string>
 </resources>

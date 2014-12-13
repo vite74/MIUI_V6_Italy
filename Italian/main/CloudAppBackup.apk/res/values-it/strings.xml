@@ -6,6 +6,8 @@
     <string name="button_return">Indietro</string>
     <string name="button_next">Avanti</string>
     <string name="button_finish">Fine</string>
+    <string name="button_continue">Continua</string>
+    <string name="button_stop">Interrompi</string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="sdcard_unmounted">Nessuna scheda SD rilevata</string>

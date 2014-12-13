@@ -296,6 +296,8 @@
     <string name="can_not_modify_event">Impossibile modificare</string>
     <string name="can_not_modify_allday_event">Gli eventi che durano tutto il giorno non possono essere modificati</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Gli eventi ripetuti e quelli in corso non possono essere modificati</string>
+    <string name="can_not_create_long_event">Contenuto troppo lungo</string>
+    <string name="from_google_group_calendar">Calendario Google</string>
     <string name="more_string">Altri %1$s…</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>

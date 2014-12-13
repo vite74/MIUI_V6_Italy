@@ -16,7 +16,6 @@
     <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione della fotocamera?</string>
     <string name="save">Si</string>
     <string name="no_save">No</string>
-    <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_recordlocation_title">Rileva posizione</string>
     <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>

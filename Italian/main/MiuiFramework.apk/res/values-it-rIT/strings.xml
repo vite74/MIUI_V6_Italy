@@ -3,7 +3,7 @@
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Luminosità</string>
-    <string name="status_bar_toggle_auto_brightness">Automatica</string>
+    <string name="status_bar_toggle_auto_brightness">Luminosità</string>
     <string name="status_bar_toggle_data">Dati</string>
     <string name="status_bar_toggle_divider">Altro</string>
     <string name="status_bar_toggle_flight_mode">Aereo</string>

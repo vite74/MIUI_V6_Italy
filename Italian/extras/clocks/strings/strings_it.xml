@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<strings> 
-    <string name="date_time" value="dd/MM,E"/>
-    <string name="language" value="it"/>
+<strings>
+<string name="date_time" value="dd.MM. EEEE"/>
+<string name="language" value="it"/>
+<string name="desc_date_format" value="EEEE, dd MMM"/>
+<string name="desc_time" value="'ore' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', tocca due volte per leggere l'ora'"/>
 </strings>
+

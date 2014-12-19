@@ -201,6 +201,9 @@
     <string name="add_file_attachment">Allega file</string>
     <string name="add_label">Aggiungi cartella</string>
     <string name="add_photo_attachment">Allega foto</string>
+    <string name="add_pre_message_attachments">Aggiungere gli allegati del messaggio precedente?</string>
+    <string name="add_pre_message_attachments_no">No</string>
+    <string name="add_pre_message_attachments_yes">Aggiungi</string>
     <string name="add_star">Aggiungi a Speciali</string>
     <string name="add_video_attachment">Allega video</string>
     <string name="address_display_format">%1$s | %2$s</string>
@@ -238,6 +241,7 @@
     <string name="attachment_mgr_name">Allegato</string>
     <string name="attachment_not_exists">Allegato non disponibile</string>
     <string name="attachment_not_found">"Impossibile scaricare l'allegato."</string>
+    <string name="attachment_stop_all">Interrompi</string>
     <string name="attachment_text">Testo</string>
     <string name="attachment_type_blocked">Purtroppo, non puoi salvare o aprire questo tipo di allegato.</string>
     <string name="attachment_unknown">File %s</string>
@@ -257,7 +261,8 @@
     <string name="body_hint">Scrivi email</string>
     <string name="bottom_bar_more_delete">Elimina</string>
     <string name="bottom_bar_more_quickreply">Risposta veloce</string>
-    <string name="bottom_bar_more_unread">Segna non letto</string> 
+    <string name="bottom_bar_more_unread">Segna non letto</string>
+    <string name="bottom_bar_no_quickreply_toast">Nessuna risposta veloce</string>
     <string name="bytes">%s B</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_action">Annulla</string>
@@ -475,6 +480,8 @@
     <string name="imap_name">IMAP</string>
     <string name="inbox_folders_heading">Cartelle locali</string>
     <string name="info">Info</string>
+    <string name="inline_picture_deleted">"Impossibile trovare l'immagine,download in corso…"</string>
+    <string name="inline_picture_download_complete">Download immagine completato</string>
     <string name="input_password_prompt">Inserisci la password:</string>
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
     <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
@@ -851,6 +858,7 @@ CC: %4$s
     <string name="subject_hint">Oggetto</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="swipe_down_to_refresh">Scorri in basso per aggiornare</string>
+    <string name="switch_as_tranditional_view">Visualizzazione classica</string>
     <string name="sync_error">Impossibile sincronizzare</string>
     <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
     <string name="system_account_create_failed">"Impossibile creare l'account. Riprova."</string>

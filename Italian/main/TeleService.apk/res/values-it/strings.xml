@@ -140,6 +140,9 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="always_enable_mms">Ricevi sempre gli MMS</string>
     <string name="always_enable_mms_summary">Ricevi MMS anche quando la connessione dati è disattivata</string>
+    <string name="network_unlock">Sblocca</string>
+    <string name="sim_cards_network_mode_changed_title">Nuova SIM rilevata</string>
+    <string name="sim_cards_network_mode_changed_summary">Tocca per vedere le impostazioni SIM e di chiamata.</string>
     <string name="networks_title">Operatori di rete</string>
     <string name="network_settings_warn_message">Usa solo la rete che hai selezionato manualmente</string>
     <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
@@ -166,6 +169,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_3g_only_warning">Non sarai in grado di connetterti alla rete se la tua SIM non ha le funzionalità relative al 3G</string>
+    <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
     <string name="callwait_open_hint">\"Chiamata in attesa\" è una funzionalità fornita dal tuo operatore mobile. Se ricevi una notifica di errore, contatta il tuo fornitore di servizi e assicurati che questa funzionalità sia attiva per il tuo numero..</string>
     <string name="open_miui">Apri</string>
     <string name="cdma_system_select_title">Selezione sistema</string>
@@ -665,6 +669,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_recording_notification_message_low_storage">Registrazione interrotta: spazio insufficiente.</string>
     <string name="call_recording_notification_message">Tocca per visualizzare %s.</string>
     <string name="call_recording_notification_message_sd_unmounted">Registrazione interrotta: scheda SD rimossa.</string>
+    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>

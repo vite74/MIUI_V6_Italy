@@ -93,4 +93,10 @@
     <string name="cta_not_show_again">Non chiedere più</string>
     <string name="cta_cancel">Annulla</string>
     <string name="cta_confirm">OK</string>
+    <string name="submit_dialog_title">Invia rapporto a Xiaomi</string>
+    <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
+    <string name="submit_dialog_cancel">Annulla</string>
+    <string name="submit_dialog_confirm">Invia</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Creazione bug report (richiede circa un minuto)</string>
+    <string name="bugreport_tool_log_toast">Log salvato in %s</string>
 </resources>

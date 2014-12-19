@@ -282,7 +282,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_sell_block">Segnalato come telemarketing</string>
     <string name="mark_meal_block">Segnalato come cibo a domicilio</string>
     <string name="mark_express_block">Segnalato come corriere</string>
-    <string name="st_title_markednumber_group">Segnalato come lista blocco</string>
+    <string name="mark_banking_insurance_block">Segnalato come agente assicurativo</string>
     <string name="mark_number_info">"
 Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate."</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva Identificazione numeri sconosciuti</string>
@@ -290,6 +290,7 @@ Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai 
     <string name="button_to_setting">Impostazioni</string>
     <string name="button_text_delete">Elimina</string>
     <string name="special_number_group">Blocco numeri speciali</string>
+    <string name="st_title_markednumber_group">Blocca numeri segnalati</string>
     <string name="st_title_other_group">Altro</string>
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>

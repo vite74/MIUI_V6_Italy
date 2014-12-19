@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="music_headset_settings">Auricolari</string>
+    <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
     <string name="music_headset_settings">Headphones and audio effects</string>
@@ -2779,7 +2779,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="system_backup_section_title">Backup</string>
     <string name="local_backup_section_title">Backup in locale</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
-    <string name="local_auto_backup_section_title"Backup automatici</string>
+    <string name="local_auto_backup_section_title">Backup automatici</string>
     <string name="local_auto_backup_on">Attivato</string>
     <string name="local_auto_backup_off">Disattivato</string>
     <string name="other_personal_settings">Impostazioni aggiuntive</string>

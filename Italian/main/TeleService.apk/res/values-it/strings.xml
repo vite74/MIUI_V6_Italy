@@ -665,10 +665,10 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_recording_notification_title">Registrazione chiamata</string>
     <string name="call_recording_notification_title_error">Registrazione chiamata fallita</string>
     <string name="call_recording_setting">Registrazione chiamate</string>
+    <string name="call_recording_notification_toggle_title">Notifica registrazione chiamata</string>
     <string name="call_recording_notification_summary">Mostra una notifica nella barra di stato quando una chiamata è stata registrata</string>
     <string name="call_recording_notification_message_low_storage">Registrazione interrotta: spazio insufficiente.</string>
     <string name="call_recording_notification_message">Tocca per visualizzare %s.</string>
-    <string name="call_recording_notification_message_sd_unmounted">Registrazione interrotta: scheda SD rimossa.</string>
     <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>

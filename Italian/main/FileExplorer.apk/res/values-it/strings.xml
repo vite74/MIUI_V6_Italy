@@ -36,6 +36,7 @@
     <string name="background">Scarica in background</string>
     <string name="no_file">Nessun file</string>
     <string name="tab_category">Cerca</string>
+	<string name="tab_path">CARTELLE</string>
     <string name="tab_phone">Telefono</string>
     <string name="category_all">Tutti</string>
     <string name="category_music">Musica</string>

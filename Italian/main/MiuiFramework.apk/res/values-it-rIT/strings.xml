@@ -24,7 +24,7 @@
     <string name="status_bar_toggle_power_mode">Prestaz.</string>
     <string name="status_bar_toggle_drive_mode">Guida</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-    <string name="status_bar_toggle_quiet_mode">DND</string>
+    <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
     <string name="status_bar_toggle_sync_auto">Automatica</string>
     <string name="status_bar_toggle_sync_manual">Manuale</string>
     <string name="status_bar_toggle_syncing">Sincr.</string>

@@ -614,8 +614,8 @@
     <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_system_text">Permessi app</string>
     <string name="hints_scanning_text">Scansione…</string>
-    <string name="auto_handle_title">GENERAL</string>
-    <string name="manual_handle_title">AVAILABLE FEATURES</string>
+    <string name="auto_handle_title">GENERALI</string>
+    <string name="manual_handle_title">FEATURE DISPONIBILI</string>
     <string name="manual_item_white_list_title">Eccezioni</string>
     <string name="manual_item_white_list_summary">Evita che le app selezionate vengano ottimizzate</string>
     <string name="delete_from_manual_item_white_list">Rimuovi dalle eccezioni</string>

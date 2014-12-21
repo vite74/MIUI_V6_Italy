@@ -3,7 +3,7 @@
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
-    <string name="music_headset_settings">Headphones and audio effects</string>
+    <string name="music_headset_settings">Auricolari e effetti audio</string>
     <string name="music_headset_button_settings">Assegna tasti remoti</string>
     <string name="music_headset_mode_settings">Tasti controllo cuffie</string>
     <string name="music_headset_mode_volume">Controlla il livello del volume</string>

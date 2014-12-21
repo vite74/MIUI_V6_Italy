@@ -2219,7 +2219,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wallpaper_lockscreen">Schermata di blocco</string>
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="title_font">Font</string>
-    <string name="title_font_current">In usi</string>
+    <string name="title_font_current">In uso</string>
     <string name="title_layout_current">Seleziona dimensione font</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
@@ -2392,8 +2392,8 @@ Non sei soddisfatto? Prova"</string>
     <string name="font_size_summary2">JeeJen Home</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
-    <string name="font_size_medium">Medii</string>
-    <string name="font_size_large">Largi</string>
+    <string name="font_size_medium">Medio</string>
+    <string name="font_size_large">Largo</string>
     <string name="font_size_huge">Gigante</string>
     <string name="virus_scanner_title">Scanner virus</string>
     <string name="virus_scanner_scanning">Scansione in corso…</string>

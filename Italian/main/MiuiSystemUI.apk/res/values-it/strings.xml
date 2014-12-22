@@ -92,7 +92,7 @@
     <string name="gps_notification_found_text">Posizione stabilita dal GPS</string>
     <string name="accessibility_clear_all">Cancella tutte le notifiche.</string>
     <string name="status_bar_notification_inspect_item_title">Informazioni app</string>
-    <string name="status_bar_date_format">d/M,E</string>
+    <string name="status_bar_date_format">d/M, E</string>
     <string name="status_bar_recent_guide_all">Scorri in alto per chiudere, scorri in basso per bloccare</string>
     <string name="status_bar_recent_guide_top">Scorri in alto per chiudere</string>
     <string name="status_bar_recent_guide_bottom">Scorri in basso per bloccare</string>

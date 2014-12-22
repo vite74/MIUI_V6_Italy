@@ -346,6 +346,7 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_chinese_date"/>
     <string name="permlab_sendSmsNoConfirmation">Consenti SMS in background</string>
     <string name="permdesc_sendSmsNoConfirmation">"L'applicazione può inviare SMS senza chiedere il permesso. Questo potrebbe comportare addebiti aggiuntivi da parte del tuo operatore."</string>
 </resources>

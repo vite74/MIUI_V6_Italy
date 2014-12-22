@@ -52,7 +52,7 @@
     <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
     <string name="system_time_setting">Impostazioni</string>
     <string name="lap_num">Giro</string>
-    <string name="hour_unit">H</string>
+    <string name="hour_unit">O</string>
     <string name="alarm_label_hint">Inserisci etichetta sveglia</string>
     <string name="legal_workday">Giorni lavorativi</string>
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona da Luna Ven)</string>

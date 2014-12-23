@@ -182,7 +182,7 @@
     <string name="quit_warining">La riproduzione sarà interrotta tra %d minuti</string>
     <string name="sleep_mode">Timer ascolto</string>
     <string name="close_music_time">"Minuti: "</string>
-    <string name="sleep_mode_title">Ferma la riproduzione dopo un certo periodo di tempo</string>
+    <string name="sleep_mode_title">Ferma la riproduzione dopo un periodo di tempo</string>
     <string name="sleep_mode_summary">Usa il cursore qui sotto per impostare il periodo</string>
     <string name="auto_download_in_wifi">Nessuna connessione internet rilevata</string>
     <string name="no_favorites_songs">Vuoto</string>

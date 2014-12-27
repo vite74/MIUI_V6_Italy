@@ -234,7 +234,7 @@
     <string name="boot_reminder_day">Il dispositivo si accenderà tra %1$dd %2$dh %3$dm</string>
     <string name="boot_reminder_hour">Il dispositivo si accenderà tra %1$dh %2$dm</string>
     <string name="boot_reminder_minute">Il dispositivo si accenderà tra %1$dm</string>
-    <string name="boot_reminder">Accendi il dispositivo ad un orario rpogrammato/string>
+    <string name="boot_reminder">Accendi il dispositivo ad un orario programmato</string>
     <string name="shutdown_cancel_reminder">Non si è spento</string>
     <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perchè era in corso una chiamata</string>
     <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
@@ -610,7 +610,7 @@
     <string name="antivirus_sec_support">Powered by Tencent</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
     <string name="hints_title_garbage">Cestino</string>
-    <string name="toast_virus_in_cloud_scanning">Impossibile interrompere la scasione del cloud</string>
+    <string name="toast_virus_in_cloud_scanning">Impossibile interrompere la scansione del cloud</string>
     <string name="activity_title_cache_data">Cache</string>
     <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
     <string name="title_dev_no">Opzioni sviluppatore attivate</string>
@@ -684,7 +684,7 @@
     <string name="SMS_and_MMS">SMS e MMS</string>
     <string name="permission_with_SMS_and_MMS">Permessi SMS ed MMS</string>
     <string name="call_and_contact">Chiamate e contatti</string>
-    <string name="permission_with_call_and_contact">PErmessi per chiamate, inormazioni di contatto e registro chiamate.</string>
+    <string name="permission_with_call_and_contact">PErmessi per chiamate, informazioni di contatto e registro chiamate.</string>
     <string name="pref_category_title_auto_clean_settings">Pulisci automaticamente</string>
     <string name="pref_title_auto_clean_and_alert">Pulisci automaticamente</string>
     <string name="pref_summary_auto_clean_and_alert">Imposta la pulizia automatica</string>
@@ -697,7 +697,7 @@
     <string name="auto_clean_switch_on">On</string>
     <string name="auto_clean_switch_off">Off</string>
     <string name="item_title_process_mode">"Scegli un'azione"</string>
-    <string name="pref_title_auto_clean_content_choose">Scegli elementi dapulire</string>
+    <string name="pref_title_auto_clean_content_choose">Scegli elementi da pulire</string>
     <string name="clean_content_zero">Non pulire niente</string>
     <string name="clean_content_one">%s</string>
     <string name="clean_content_two">%1$s e %2$s</string>

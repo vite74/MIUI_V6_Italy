@@ -43,17 +43,17 @@
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="phone_number_may_required_dspt_provision">"Questo servizio potrebbe richiedere il tuo numero di telefono. "</string>
-    <string name="phone_number_required_dspt_provision">"Questo servizio richie il tuo numero di telefono. "</string>
-    <string name="sync_dspt_provision">"Mi Cloud sincronizza le tue foto, SMS, note e molto alo su ttutti i tuoi dispositivi Mi. Puoi accedere ai tuoi dati anche da "</string>
+    <string name="phone_number_required_dspt_provision">"Questo servizio richiede il tuo numero di telefono. "</string>
+    <string name="sync_resend_sms_dspt_provision">". Se cambi SIM potrebbe addebitarti dei costi per l'SMS necessario alla riattivazione di questo servizio."</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision">"Sincronizzazione
 Sincronizza le tue foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
-    <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nele Impostazioni.
+    <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni.
 "</string>
-    <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
-    <string name="sync_dspt_entrance_provision_2">Learn more</string>
+    <string name="sync_dspt_entrance_provision">Sincronizza le foto, i contatti, i messaggi o localizza il dispositivo.</string>
+    <string name="sync_dspt_entrance_provision_2">Leggi di più</string>
     <string name="find_device_dspt_provision">"Trova Telefono
 Localizza, blocca o cancella il telefono da "</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
@@ -61,7 +61,7 @@ Localizza, blocca o cancella il telefono da "</string>
     <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
     <string name="find_device_send_sms_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questo servizio.</string>
     <string name="mx_dspt_provision">"Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi.
-Puoi attivare e disattivare questa funzione in qualsiasi momento nele Impostazioni."</string>
+Puoi attivare e disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
     <string name="mx_dspt_provision_privacy">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
 Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
     <string name="user_agreement_p6">"
@@ -232,7 +232,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="buy_space_sulotion_renew_title">Rinnova abbonamento</string>
     <string name="buy_space_sulotion_message">Acquista %s GB di spazio aggiuntivo</string>
     <string name="buy_space_sulotion_renew_message">Valido per %s</string>
-    <string name="buy_space_sulotion_auto_renew">Rinnova automaticaemnte</string>
+    <string name="buy_space_sulotion_auto_renew">Rinnova automaticamente</string>
     <string name="buy_space_sulotion_not_auto_renew">Non rinnovare automaticamente</string>
     <string name="cloud_space_upgrade_title">Spazio aggiuntivo per Mi Cloud</string>
     <string name="cloud_space_upgrade_message">Tocca per aggiungere %s GB al tuo spazio cloud</string>

@@ -520,4 +520,22 @@
     <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
     <string name="mx_activate_user_agreement_p1">"Utilizzando questo servizio, accetti "</string>
     <string name="mx_activate_dlg_title">Attiva Mi Message</string>
+    <string name="resource_price_free">Gratis</string>
+    <string name="menu_send_as_common">Invia come SMS</string>
+    <string name="message_sent">Inviato</string>
+    <string name="mx2_type_description">[%s]</string>
+    <string name="left_cancel">Scorri a sinistra per annullare</string>
+    <string name="release_cancel">Rilascia per annullare</string>
+    <string name="press_recording">"Tieni premuto l'icona del microfono per registrare"</string>
+    <string name="warning_show">Invio tra %ds</string>
+    <string name="audio_playing_seconds">%d\"</string>
+    <string name="playing_failed">Impossibile riprodurre</string>
+    <string name="cannot_resend_audio">Impossibile inviare registrazione</string>
+    <string name="recording_failed">Impossibile registrare</string>
+    <string name="downloading_file_can_not_play">Attendi fino alla fine del download</string>
+    <string name="guild_msim_switcher">Tocca per cambiare SIM</string>
+    <string name="sdcard_has_not_enough_space">Spazio insufficiente sulla scheda SD</string>
+    <string name="snippet_audio">[audio]</string>
+    <string name="snippet_picture">[picture]</string>
+    <string name="audio_download_failed">Downlaod audio fallito</string>
 </resources>

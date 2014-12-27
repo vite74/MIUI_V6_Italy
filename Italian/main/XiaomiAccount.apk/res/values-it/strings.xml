@@ -160,6 +160,7 @@ Per attivare il tuo account, segui il
     <string name="login_failed">Accesso fallito</string>
     <string name="logout_failed">Impossibile uscire</string>
     <string name="timeout_retry">RIchiesta scaduta, riprovare.</string>
+    <string name="no_response_retry">Nessuna risposta, riprovare.</string>
     <string name="verification_failed">Autenticazione fallita</string>
     <string name="error_network">Problemi con la connessione di rete</string>
     <string name="error_ssl_hand_shake">Errore durante la connessione al server. Prova ad impostare data e ora sul tuo sistema sulla data e ora correnti.</string>
@@ -292,4 +293,5 @@ Per attivare il tuo account, segui il
     <string name="no_network_title">Impossibile collegarsi alla rete</string>
     <string name="no_network_btn">Aggiorna</string>
     <string name="get_device_list_failed">Impossibile recuperare i dispositivi</string>
+    <string name="delete_device_failed">Impossibile rimuovere il dispositivo</string>
 </resources>

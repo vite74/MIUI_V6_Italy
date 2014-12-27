@@ -589,7 +589,7 @@
         <item>Normale</item>
         <item>Migliore qualità</item>
     </string-array>
-	    <string-array name="whetstone_level_entries">
+    <string-array name="whetstone_level_entries">
         <item>Disattivato</item>
         <item>Basso</item>
         <item>Medio</item>

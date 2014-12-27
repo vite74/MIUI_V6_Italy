@@ -32,6 +32,8 @@
     <string name="hot_problem">Mostra bug comuni</string>
     <string name="title_common_problem">Bug comuni</string>
     <string name="title_hot_problem">Bug recenti</string>
+    <string name="title_system_app">App MIUI</string>
+    <string name="title_nonsystem_app">Altre app</string>
     <string name="non_system_app_select">App scaricate</string>
     <string name="system_app_select">App integrate</string>
     <string name="section_description">Descrizione</string>
@@ -45,6 +47,7 @@
     <string name="toast_feedback_submitted">Il tuo feedback è stato inviato correttamente</string>
     <string name="toast_feedback_pending_wlan">Il tuo feedback sarà invato quando la conessione WLAN sarà pronta</string>
     <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>
+    <string name="toast_network_unavailable">Impossibile inviare. Impossibile connettersi alla rete.</string>
     <string name="discard_draft_dialog_title">Elimina bozza</string>
     <string name="discard_draft_dialog_content">Il rapporto è stato modificato, premi il pulsante OK per eliminare la bozza.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
@@ -57,6 +60,7 @@
     <string name="loading_hot_problem">Caricamento…</string>
     <string name="network_err">Impossibile connettersi alla rete. Controlla la tua connessione dati e prova ad aggiornare.</string>
     <string name="refresh">Aggiorna</string>
+    <string name="announcement">Attenzione</string>
     <string name="app_empty">Non hai scaricato nessuna applicazione</string>
     <string name="reboot_problem1">Impossibile riavviare</string>
     <string name="reboot_problem2">Riavvii improvvisi utilizzando una specifica applicazione</string>
@@ -99,4 +103,5 @@
     <string name="submit_dialog_confirm">Invia</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Creazione bug report (richiede circa un minuto)</string>
     <string name="bugreport_tool_log_toast">Log salvato in %s</string>
+    <string name="screen_orientation_type">-1</string>
 </resources>

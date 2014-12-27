@@ -2118,14 +2118,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="dndm_repeated_call_summary_3min">Se lo stesso numero ti richiama entro tre minuti il telefono suonerà</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-    <string name="oldman_mode_entry_title">Modalità semplificata</string>
-    <string name="oldman_mode_entry_name">Modalità semplificata</string>
-    <string name="oldman_mode_settings_caption">Impostazioni modalità semplificata</string>
-    <string name="oldman_mode_enabled_name">Modalità semplificata</string>
-    <string name="oldman_mode_summary">Usa schermata Home e menu semplificati</string>
-    <string name="oldman_mode_confirm_title">Riavviare in modalità semplificata? </string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo telefono sarà riavviato per entrare in modalità semplificata.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Esci dalla modalità semplificata?</string>
     <string name="search_airplane">Modalità aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">Wi-fi</string>
@@ -2380,6 +2372,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="usb_msd_driver_installer_summary">Ottieni driver per Windows e OSX</string>
     <string name="input_settings">Impostazioni immissione</string>
     <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
+    <string name="volume_hifi_description">Impostazioni Hi-Fi</string>
     <string name="volume_voice_description">Voce</string>
     <string name="volume_system_description">Scatto fotocamera, schermata di blocco, e altre notifiche di sistema</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
@@ -2845,6 +2838,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="layout_size_large">Enorme</string>
     <string name="page_layout_confirm_title">Modifica visualizzazione</string>
     <string name="page_layout_confirm_message">"Modificare le impostazioni di visualizzazione del dispositivo? L'applicazioni di queste modifiche richiede circa 1 minuto."</string>
+    <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato epr poter applicare queste modifiche. Il tempo richiesto è di circa 1 minuto.</string>
     <string name="page_layout_1">Sun 28/12</string>
     <string name="page_layout_2">Fotocamera</string>
     <string name="page_layout_3">Galleria</string>
@@ -2876,6 +2870,14 @@ Disabilitare le finestre flottanti?"</string>
     <string name="page_layout_29">Jai Mani</string>
     <string name="page_layout_30">Frank Santo</string>
     <string name="page_layout_31">Alan Turing</string>
+    <string name="oldman_mode_entry_title">Modalità semplificata</string>
+    <string name="oldman_mode_entry_name">Modalità semplificata</string>
+    <string name="oldman_mode_settings_caption">Impostazioni modalità semplificata</string>
+    <string name="oldman_mode_enabled_name">Modalità semplificata</string>
+    <string name="oldman_mode_summary">Usa schermata Home e menu semplificati</string>
+    <string name="oldman_mode_confirm_title">Riavviare in modalità semplificata? </string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Il tuo telefono sarà riavviato per entrare in modalità semplificata.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Esci dalla modalità semplificata?</string>
     <string name="miracast_settings_category">Impostazioni display wireless</string>
     <string name="miracast_display_category">Display</string>
     <string name="miracast_menu_search">Ricerca</string>

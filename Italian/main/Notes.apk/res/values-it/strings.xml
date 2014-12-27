@@ -40,6 +40,7 @@
     <string name="alert_message_delete_folders_notes">Eliminare le %1$s cartelle e le %2$s note?</string>
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota?</string>
     <string name="format_move_notes_to_folder">%1$d nota(e) spostata(e) nella cartella %2$s</string>
+    <string name="format_move_notes_out_folder">%1$s spostate</string>
     <string name="alert_title_edit_anyway">Questa nota contiene contenuti non supportati</string>
     <string name="alert_message_edit_anyway">Se si modifica questa nota alcuni dei suoi contenuti andranno persi.</string>
     <string name="alert_action_edit_anyway">Continua la modifica</string>

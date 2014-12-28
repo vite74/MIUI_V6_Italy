@@ -7,7 +7,7 @@
     <string name="cit_tool">Strumenti</string>
     <string name="cit_hide_menu">Chiudi menu</string>
     <string name="cit_not_available">La versione utente non supporta questo test, sono disponibili solo i test di fabbrica</string>
-    <string name="cit_version_check_title">Versione Tes</string>
+    <string name="cit_version_check_title">Versione Test</string>
     <string name="cit_sim_check_title">Test SIM card</string>
     <string name="cit_keyboard_test_title">Test Tastiera</string>
     <string name="cit_pointer_location_title">Test Touchscreen</string>

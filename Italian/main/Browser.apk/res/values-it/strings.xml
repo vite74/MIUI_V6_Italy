@@ -269,8 +269,8 @@
     <string name="accessibility_button_clear">Cancella</string>
     <string name="pref_data_preload_summary">: consenti al browser di precaricare i risultati in background</string>
     <string name="pref_link_prefetch_summary">: consenti al browser di precaricare le pagine linkate</string>
-    <string name="share_page">Share page</string>
-    <string name="pref_video_preload_summary">: Conseti al browser di precaricare i video se il server lo consente</string>
+    <string name="share_page">Condividi pagina</string>
+    <string name="pref_video_preload_summary">: Consenti al browser di precaricare i video se il server lo consente</string>
     <string name="pref_content_block_float_popups">Blocca pop-up</string>
     <string name="webpage_title">Segnalibri e cronologia</string>
     <string name="video_title">Video</string>

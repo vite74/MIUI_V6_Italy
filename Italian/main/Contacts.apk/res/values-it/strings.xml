@@ -287,7 +287,7 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="listCustomView">Contatti in visualizzazione personalizzata</string>
     <string name="foundTooManyContacts">Più di %d trovati.</string>
     <string name="listFoundAllContactsZero">Nessun contatto</string>
-    <string name="contactsAllLabel">Tutti i contatti</string>
+    <string name="contactsAllLabel">Contatti</string>
     <string name="contactsGroupsLabel">Gruppi</string>
     <string name="contactsFavoritesLabel">Preferiti</string>
     <string name="dialerIconLabel">Recenti</string>

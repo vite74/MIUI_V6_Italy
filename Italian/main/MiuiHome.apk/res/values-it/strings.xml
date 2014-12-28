@@ -49,7 +49,7 @@
     <string name="status_paused">In pausa</string>
     <string name="status_downloaded">Scaricato</string>
     <string name="status_installing">Installazione</string>
-    <string name="loading_desktop">Caricamento launcher…</string>
+    <string name="loading_desktop">Caricamento launcher</string>
     <string name="start_activity_failed">Avvio non riuscito, provare di nuovo</string>
     <string name="gadget_error_text">Problema nel caricamento widget</string>
     <string name="menu_edit">Modifica</string>

@@ -2210,7 +2210,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="wallpaper_desktop">Schermata Home</string>
     <string name="wallpaper_lockscreen">Schermata di blocco</string>
     <string name="wallpaper_live">Sfondo animato</string>
-    <string name="title_font">Font</string>
+    <string name="title_font">Carattere</string>
     <string name="title_font_current">In uso</string>
     <string name="title_layout_current">Seleziona dimensione font</string>
     <string name="key_settings_title">Tasti</string>

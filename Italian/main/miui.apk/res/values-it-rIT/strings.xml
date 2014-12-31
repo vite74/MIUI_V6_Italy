@@ -12,8 +12,8 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_day" />
-    <string name="time_picker_label_hour">H</strings>
-    <string name="time_picker_label_minute">M</strings>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="yesterday">Ieri</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>

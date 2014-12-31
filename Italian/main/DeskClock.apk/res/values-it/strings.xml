@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_settings">Impostazioni Frequenti</string>
+    <string name="common_settings">Impostazioni</string>
     <string name="alarm_settings">Impostazioni Sveglia</string>
-    <string name="edit_systemtime">Modifica ora di sistema</string>
+    <string name="edit_systemtime">"Modifica l'orario di sistema"</string>
     <string name="vibrate_pref_summary">"Vibra quando suona l'allarme"</string>
     <string name="label_pref_summary">Rinomina questa sveglia</string>
     <string name="worldclock_title">Orologio</string>
@@ -16,7 +16,7 @@
     <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
     <string name="timezone_exist_error_message">Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo.</string>
     <string name="alarm_disabled">Disabilitata</string>
-    <string name="alarm_ascending_mode_title">Sveglia ascendente</string>
+    <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_ascending_mode_summary">"Il volume dell'allarme cresce progressivamente."</string>
     <string name="close_alarm">Disattiva sveglia</string>
     <string name="timer_notify_text">Sospendi o disattiva.</string>
@@ -52,7 +52,7 @@
     <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
     <string name="system_time_setting">Impostazioni</string>
     <string name="lap_num">Giro</string>
-    <string name="hour_unit">O</string>
+    <string name="hour_unit">H</string>
     <string name="alarm_label_hint">Inserisci etichetta sveglia</string>
     <string name="legal_workday">Giorni lavorativi</string>
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona da Luna Ven)</string>
@@ -93,7 +93,7 @@
     <string name="day_concat">". "</string>
     <string name="analog_gadget">Orologio</string>
     <string name="settings">Impostazioni</string>
-    <string name="alarm_in_silent_mode_title">Suona in mod. silenziosa</string>
+    <string name="alarm_in_silent_mode_title">Allarme in modalità Silenzioso</string>
     <string name="snooze_duration_title">Durata sospensione</string>
     <string name="auto_silence_title">Disattivazione automatica</string>
     <string name="auto_silence_summary">La sveglia verrà spenta dopo %d minuti</string>
@@ -101,7 +101,7 @@
     <string name="done">Fatto</string>
     <string name="revert">Ripristina</string>
     <string name="delete">Cancella</string>
-    <string name="alarm_volume_title">Volume sveglia</string>
+    <string name="alarm_volume_title">Volume allarme</string>
     <string name="alarm_volume_summary">Imposta il volume delle sveglie</string>
     <string name="silent_alarm_summary">Silenziosa</string>
     <string name="alarm_notify_text">Sospendi o disattiva questa sveglia.</string>

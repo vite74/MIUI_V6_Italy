@@ -187,7 +187,7 @@
     <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
     <string name="notification_multiple">%s messaggi non letti.</string>
     <string name="notification_multiple_title">Nuovi messaggi</string>
-    <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
+    <string name="notification_failed_multiple">%s messaggi potrebbero non essere inviati.</string>
     <string name="notification_failed_multiple_title">Messaggi non inviati</string>
     <string name="sim_full_body">Elimina alcuni messaggi SIM per fare spazio.</string>
     <string name="sms_full_title">Memoria SMS piena</string>

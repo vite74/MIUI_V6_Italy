@@ -532,12 +532,12 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="webview_js_dialog_title_default">JavaScript</string>
     <string name="webview_no_matches">Nessun risultato</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
-    <string name="webview_yesterday">Irri</string>
+    <string name="webview_yesterday">Ieri</string>
     <string name="webview_today">Oggi</string>
     <string name="webview_last_month">Il mese scorso</string>
     <string name="webview_older">Più vecchi</string>
     <string name="miuichromium_default_text_encoding">Latin-1</string>
-    <string name="miuichromium_save_password_message">Vuoi che iil browser memorizzi questa password?</string>
+    <string name="miuichromium_save_password_message">Vuoi che il browser memorizzi questa password?</string>
     <string name="miuichromium_save_password_notnow">Non adesso</string>
     <string name="miuichromium_save_password_remember">Memorizza</string>
     <string name="miuichromium_save_password_never">Mai</string>
@@ -573,7 +573,7 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="media_player_loading_video">LCaricamento video</string>
     <string name="profiler_started_toast">Profilo avviato</string>
     <string name="profiler_stopped_toast">Profilo completato. I risultati sono in %1$s.</string>
-    <string name="profiler_no_storage_toast">Profilo non avviato perchè la memoria esterna non è pronta.</string>
+    <string name="profiler_no_storage_toast">Profilo non avviato perché la memoria esterna non è pronta.</string>
     <string name="profiler_error_toast">Impossibile avviare profilo</string>
     <string name="low_memory_error">"Impossibile completare l'operazione precedente a causa di memoria insufficiente"</string>
     <string name="opening_file_error">Impossibile aprire il file selezionato</string>
@@ -599,9 +599,9 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="miui_content_paste">Incolla</string>
     <string name="miui_content_web_search">Cerca</string>
     <string name="miui_content_share">Condividi</string>
-    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunt</string>
+    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunti</string>
     <string name="date_picker_dialog_other_button_label">Altro</string>
-    <string name="miuichromium_error_page_title">Impossibile trovare quesa pagina</string>
+    <string name="miuichromium_error_page_title">Impossibile trovare questa pagina</string>
     <string name="miuichromium_error_page_reason_network">Mostra link</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
     <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>

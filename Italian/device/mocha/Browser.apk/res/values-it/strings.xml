@@ -541,12 +541,12 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="webview_js_dialog_title_default">JavaScript</string>
     <string name="webview_no_matches">Nessun risultato</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
-    <string name="webview_yesterday">Irri</string>
+    <string name="webview_yesterday">Ieri</string>
     <string name="webview_today">Oggi</string>
     <string name="webview_last_month">Il mese scorso</string>
     <string name="webview_older">Più vecchi</string>
     <string name="miuichromium_default_text_encoding">Latin-1</string>
-    <string name="miuichromium_save_password_message">Vuoi che iil browser memorizzi questa password?</string>
+    <string name="miuichromium_save_password_message">Vuoi che il browser memorizzi questa password?</string>
     <string name="miuichromium_save_password_notnow">Non adesso</string>
     <string name="miuichromium_save_password_remember">Memorizza</string>
     <string name="miuichromium_save_password_never">Mai</string>

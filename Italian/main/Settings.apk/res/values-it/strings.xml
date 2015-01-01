@@ -2351,8 +2351,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="erase_personal_data">Dati personali</string>
     <string name="erase_personal_data_description">Cancella il tuo account Xiaomi, i dati delle app e le impostazioni del sistema</string>
     <string name="erase_optional">Contenuti</string>
-    <string name="erase_application">Cancella app</string>
-    <string name="erase_application_description">Cancella app scaricate</string>
+    <string name="erase_application">Cancella applicazioni</string>
+    <string name="erase_application_description">Cancella applicazioni scaricate</string>
     <string name="erase_data">Cancella</string>
     <string name="confirm_erase">Cancella</string>
     <string name="master_clear_personal_data">"Cancellare tutti i tuoi dati? Questa azione non è reversibile!"</string>

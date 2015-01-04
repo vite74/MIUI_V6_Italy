@@ -100,8 +100,8 @@
     <string name="description_direction_up">Scorri su per %s.</string>
     <string name="description_direction_left">Scorri a sinistra per for %s.</string>
     <string name="description_target_search">Cerca</string>
-    <string name="status_bar_recent_memory_info1">"%s "</string>
-    <string name="status_bar_recent_memory_info2">" %s disponibile"</string>
+    <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+    <string name="status_bar_recent_memory_info2"/>
     <string name="usb_mode_notification">Archiviazione USB</string>
     <string name="usb_mode_dont_ask">Non chiedere più</string>
     <string name="usb_mode_mount_storage_title">Aprire archiviazione USB？</string>

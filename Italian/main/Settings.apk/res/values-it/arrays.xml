@@ -199,6 +199,13 @@
         <item>Scheda SD rimovibile</item>
         <item>Impostazione di sistema</item>
     </string-array>
+    <string-array name="app_ops_categories">
+        <item>Posizione</item>
+        <item>Personale</item>
+        <item>Messaggi</item>
+        <item>Media</item>
+        <item>Dispositivo</item>
+    </string-array>
     <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
         <item>posizione precisa</item>
@@ -380,7 +387,7 @@
         <item>Stack di chiamate su glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Disattivo</item>
+        <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia cmd disegno test in verde</item>
     </string-array>
@@ -530,6 +537,16 @@
         <item>Brillante</item>
         <item>Normale</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Contrasto automatico</item>
+        <item>Contrasto aumentato</item>
+        <item>Normale</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Ottimizza il contrasto in base alla luce ambientale</item>
+        <item>Aumenta il contrasto dello schermo</item>
+        <item>Il contrasto rimarrà costante</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Consenti</item>
         <item>Chiedi</item>
@@ -584,15 +601,27 @@
         <item>Memoria interna</item>
         <item>Memoria esterna</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Minimo ritardo</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Molto elnto</item>
+        <item>Lento</item>
         <item>Normale</item>
-        <item>Migliore qualità</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Disattivato</item>
         <item>Basso</item>
         <item>Medio</item>
         <item>Alto</item>
+    </string-array>
+    <string-array name="agps_network_entries">
+        <item>Reti domestiche</item>
+        <item>Tutte le reti</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Ritardo minore</item>
+        <item>Normale</item>
+        <item>Qualità migliore</item>
     </string-array>
 </resources>

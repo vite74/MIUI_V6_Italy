@@ -42,16 +42,25 @@
         <item>"Dati risparmiati "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Rete dati "</item>
-        <item>"Wi-Fi "</item>
+        <item>"Utilizzo 3G "</item>
+        <item>"Utilizzo Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>"Rete dati "</item>
-        <item>"Wi-Fi "</item>
+        <item>"Utilizzo 3G "</item>
+        <item>"utilizzo Wi-Fi "</item>
         <item>"Dati risparmiati "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Usa modello messaggio automaticamente</item>
-        <item>Imposta manualmente modello messaggio</item>
+        <item>Recupera automaticamente il modello</item>
+        <item>Imposta manualmente il modello</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostra avviso</item>
+        <item>Avvisa e disattiva dati 3G</item>
+    </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 MB</item>
+        <item>2 MB</item>
+        <item>3 MB</item>
     </string-array>
 </resources>

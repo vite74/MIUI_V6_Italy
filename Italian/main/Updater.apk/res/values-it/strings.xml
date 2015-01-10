@@ -35,12 +35,8 @@
     <string name="progress_title_checking">Ricerca aggiornamenti…</string>
     <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
     <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
-    <string name="menu_title_check_update">Utilizza sono Wi-Fi per scaricare aggiornamenti</string>
     <string name="menu_title_recovery">Riavvia in Recovery</string>
     <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
-    <string name="no_proper_updates">Nessun aggiornamento trovato per la versione installata</string>
-    <string name="install_file_explorer">Si prega di installare File Explorer</string>
-    <string name="file_not_found_error_message">File richiesto non trovato sul server</string>
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
@@ -48,28 +44,15 @@
     <string name="apply_update_dialog_cancel_button">Annulla</string>
     <string name="cancel_download_buton_text">Annulla</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
-    <string name="dialog_yes">Si</string>
-    <string name="dialog_no">No</string>
-    <string name="dialog_ok">OK</string>
     <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
-    <string name="downloading_description">Download in corso…</string>
-    <string name="apply_upload_info_message">"Premendo Aggiorna il telefono si riavvierà per installare l'aggiornamento"</string>
-    <string name="apply_now_button_text">Aggiorna adesso</string>
-    <string name="apply_later_button_text">Installa dopo</string>
-    <string name="reboot_to_new_system">Riavvia nella nuova versione</string>
     <string name="update_success">Congratulazioni, aggiornamento installato con successo!</string>
-    <string name="install_failed">Aggiornamento fallito</string>
-    <string name="download_failed">Impossibile scaricare</string>
     <string name="download_current_rom">"Scarica l'ultima full ROM"</string>
-    <string name="now">Riavvia adesso</string>
     <string name="later">Riavvia dopo</string>
     <string name="notification_update_new_version">Aggiornamento disponibile</string>
-    <string name="notification_new_version">Aggiorna a %s</string>
     <string name="notification_update_now">Aggiorna adesso</string>
     <string name="notification_reboot_title">Aggiornamento completato</string>
     <string name="notification_reboot_title_hm">Riavvia per aggiornare</string>
     <string name="notification_reboot_summary_hm">Tocca per riavviare il dispositivo.</string>
-    <string name="notification_reboot_des">Aggiorna il tuo dispositivo per aggiornare %s.</string>
     <string name="notification_reboot_btn">Riavvia</string>
     <string name="notification_reboot_seccess_title">Dispositivo aggiornato!</string>
     <string name="notification_reboot_seccess_des">Tocca per condividere.</string>
@@ -87,6 +70,7 @@
     <string name="download_again">Scarica di nuovo</string>
     <string name="space_not_enough_title">Spazio insufficiente</string>
     <string name="space_not_enough_msg">Spazio insufficiente per scaricare questo aggiornamento.</string>
+    <string name="clean_up_button">Cancella</string>
     <string name="no_wifi_title">Avviso utilizzo dati</string>
     <string name="no_wifi_msg">"Non sei più collegato alla rete Wi-Fi. Continuando con l'aggiornamento su rete dati, avrai un elevato incremento del tuo traffico."</string>
     <string name="go_on_download">Continua</string>
@@ -101,7 +85,6 @@
     <string name="important_suggestion">"L'informativa sulla Privacy è stata modificata"</string>
     <string name="auto_dialog_msg">"Abbiamo aggiornato la nostra Informativa sulla Privacy. Leggila attentamente prima di aggiornare. "</string>
     <string name="auto_button_examine">Leggi</string>
-    <string name="auto_check_clause_msg">"Devi accettare l'Informativa sulla Privacy prima di aggiornare. "</string>
     <string name="auto_check_clause_button">Leggi</string>
     <string name="auto_agree_clause">"La nostra nuova Informativa sulla privacy è entrata in vigore. "</string>
     <string name="auto_dialog_title_check_again">Annullare aggiornamento?</string>
@@ -163,6 +146,8 @@
     <string name="update_feedback_need_update">"Devi prima aggiornare il sistema all'ultima versione."</string>
     <string name="update_feedback_expired">"Ti sei perso la griglia feedback di questa settimana.
 Ma puoi partecipare il prossimo martedì"</string>
+    <string name="update_feedback_need_account">Devi accedere prima al tuo Mi Account</string>
+    <string name="update_feedback_need_network">Collegati prima alla rete</string>
     <string name="update_happy">Grandioso!</string>
     <string name="update_general">Così così</string>
     <string name="update_sad">Mah (non buono)</string>

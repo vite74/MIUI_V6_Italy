@@ -5,7 +5,6 @@
     <string name="menu_copy">Copia</string>
     <string name="description">Descrizione (opzionale)</string>
     <string name="suggestion_description">Spero che aggiungerete la funzione X perchè…</string>
-    <string name="nonsystemapp_description">Descrivi il problema</string>
     <string name="btn_send">Invia</string>
     <string name="err_type">Tipo di bug</string>
     <string name="err_type_reboot">Riavvio di sistema</string>
@@ -16,9 +15,9 @@
     <string name="err_type_camera">Fotocamera</string>
     <string name="err_type_systemapp">App MIUI</string>
     <string name="err_type_nonsystemapp">Altre app</string>
+    <string name="err_type_app">Applicazioni</string>
     <string name="err_type_suggestion">Suggerimenti</string>
-    <string name="err_type_mysuggestion">Suggerimenti</string>
-    <string name="err_type_mysuggestion_summary">Condividi idee e feedback con noi</string>
+    <string name="err_type_more">Altro</string>
     <string name="err_type_hardware">Hardware</string>
     <string name="err_type_hardware_summary">Tasti, carica, sensori, etc.</string>
     <string name="err_type_system">Sistema</string>
@@ -101,7 +100,9 @@
     <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
     <string name="submit_dialog_cancel">Annulla</string>
     <string name="submit_dialog_confirm">Invia</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Creazione bug report (richiede circa un minuto)</string>
-    <string name="bugreport_tool_log_toast">Log salvato in %s</string>
-    <string name="screen_orientation_type">-1</string>
+    <string name="bugreport_dump_start_notification_title">Creazione bug report</string>
+    <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
+    <string name="bugreport_dump_complete_notification_title">Bug report creato</string>
+    <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
+    <string name="screen_orientation_type">1</string>
 </resources>

@@ -31,8 +31,10 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Chiamata audio</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Test feedback microfono sueperiore</string>
     <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test feedback microfono frontale</string>
     <string name="cit_headset_plug_detect_title">Test Rilevamento Cuffie</string>
     <string name="cit_headset_button_check_title">Test Cuffie</string>
     <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -106,12 +108,18 @@ Hold the phone as if you are making a call, speak to main microphone, you should
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
 Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+
+Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
     <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
 Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+
+Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
     <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
     <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
     <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
@@ -147,11 +155,13 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
     <string name="cit_audio_cali_playing">Press button to do calibration</string>
     <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
     <string name="cit_audio_cali_done">Calibration Done!</string>
-    <string name="cit_audio_cali_valueR">Impedance:</string>
-    <string name="cit_audio_cali_valueT">tCoef:</string>
+    <string name="cit_audio_cali_valueR">Ref_diff:</string>
+    <string name="cit_audio_cali_valueT">Temp_acc:</string>
     <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Counter:</string>
     <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
     <string name="cit_aud_spkcal">Calibrate</string>
+    <string name="cit_audio_calibrating">Calibration is ongoing...</string>
     <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
     <string name="cit_OTG_plugout_check_summary">When OTG device is removed, the text \"USB OTG device removed\" should be displayed below.</string>
     <string name="cit_vibrator_short">Short vibration</string>
@@ -312,8 +322,8 @@ Touch the screen to start GPS…"</string>
     <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
     <string name="cit_tool_wifi_rx_run">Avvia</string>
     <string name="cit_tool_wifi_rx_stop">Interrompi</string>
-    <string name="cit_tool_wifi_rx_error">An error has occurred</string>
-    <string name="cit_tool_wifi_rx_count_error">An error occurred while running the program</string>
+    <string name="cit_tool_wifi_rx_error">"Si è verificato un errore durante l'esecuzione del programma"</string>
+    <string name="cit_tool_wifi_rx_count_error">Il valore di uscita non è un numero</string>
     <string name="cit_tool_wifi_rx_ap_name">Nome punto di accesso</string>
     <string name="cit_tool_wifi_exit">Esci</string>
     <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>

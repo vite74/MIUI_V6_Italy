@@ -147,11 +147,13 @@
     <string name="playlist_renamed_message">Playlist rinominata</string>
     <string name="available_playlist_name_format">Nuova playlist %d</string>
     <string name="select_device">Seleziona dispositivo</string>
+    <string name="project_device">Telefono Mi</string>
     <string name="project_device_mobile">Dispositivo mobile</string>
     <string name="online_playlist_is_empty">Spiacente, la playlist online è vuota!</string>
     <string name="network_failure">Errore di rete, prego riprovare di nuovo.</string>
     <string name="local_music_is_not_available">Musica in locale non disponibile.</string>
     <string name="source_from">Ricerca da: %1$s</string>
+    <string name="stream_quality">Qualità streaming</string>
     <string name="choose_stream_quality">Qualità streaming preferita</string>
     <string name="choose_download_quality">Scegli la qualità per i download</string>
     <string name="ultra_high_quality">La più elevata</string>
@@ -264,4 +266,12 @@
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
+    <string name="delete_file_as_well">Elimina anche i file in locale</string>
+    <string name="delete_file_start">Elimina i file selezionati</string>
+    <string name="delete_file_end">Elimina in modo permanente</string>
+    <string name="no_song">Nessun brano</string>
+    <string name="recommend_fragment_title">In evidenza</string>
+    <string name="channel_list_fragment_title">Radio</string>
+    <string name="bill_list_fragment_title">Classifiche</string>
+    <string name="nowplaying_menu_item_delete">Elimina</string>
 </resources>

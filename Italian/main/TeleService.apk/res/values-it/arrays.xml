@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Solo domestiche</item>
+        <item>Automatico</item>
     </string-array>
-   </resources>
+</resources>

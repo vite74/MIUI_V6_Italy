@@ -207,14 +207,18 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
+    <string name="report">Segnala</string>
     <string name="report_sms">Segnala messaggi</string>
     <string name="report_only">Scegli un messaggio da segnalare</string>
     <string name="report_success">Messaggio segnalato</string>
     <string name="report_error">Impossibile segnalare il messaggio</string>
     <string name="report_error_not_net">Impossibile connettersi alla rete</string>
+    <string name="report_warning">"Segnalare %1$s SMS a Mi? Questi messaggi ed i numeri telefonici associati verranno inviati ai server Mi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
+    <string name="report_warning_title">Segnala SMS</string>
     <string name="menu_report_block">Segna come spam</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
     <string name="read_all_sms">Segna come già letto</string>
+    <string name="loding">Caricamento dati</string>
     <string name="st_title_open_antispam">Attiva filtro</string>
     <string name="st_title_antispam_mode">Regole</string>
     <string name="st_sub_title_whiteblack_list_group">Filtro</string>
@@ -295,4 +299,5 @@ Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai 
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
     <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
+    <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
 </resources>

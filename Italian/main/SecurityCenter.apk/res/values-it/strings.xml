@@ -231,9 +231,12 @@
     <string name="legal_workday">Festivi</string>
     <string name="never">Solo una volta</string>
     <string name="power_20s_shutdown">Il dispositivo si spegnerà tra 20 secondi</string>
-    <string name="boot_reminder_day">Il dispositivo si accenderà tra %1$dd %2$dh %3$dm</string>
-    <string name="boot_reminder_hour">Il dispositivo si accenderà tra %1$dh %2$dm</string>
-    <string name="boot_reminder_minute">Il dispositivo si accenderà tra %1$dm</string>
+    <string name="boot_reminder_day">Il dispositivo si accenderà tra %1$dd %2$dh %3$d minuti</string>
+    <string name="boot_reminder_hour">Il dispositivo si accenderà tra %1$dh %2$d minuti</string>
+    <string name="boot_reminder_minute">Il dispositivo si accenderà tra %1$d minuti</string>
+    <string name="boot_reminder_only_hour">Il dispositivo si accenderà tra %1$d ore</string>
+    <string name="boot_reminder_only_day">Il dispositivo si accenderà tra %1$d giorni</string>
+    <string name="boot_reminder_day_hour">Il dispositivo si accenderà tra %1$d giorni e %2$d ore</string>
     <string name="boot_reminder">Accendi il dispositivo ad un orario programmato</string>
     <string name="shutdown_cancel_reminder">Non si è spento</string>
     <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perchè era in corso una chiamata</string>
@@ -645,6 +648,8 @@
     <string name="summary_cloud_account">Ottieni il massimo dal tuo Dispositivo Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Sincronizza le tue foto,i contatti e molto altro su tutti i tuoi dispositivi</string>
+    <string name="title_network_switch">Permetti connessione ad Internet</string>
+    <string name="summary_network_switch">"Consenti all'app Sicurezza di connettersi ad Internet"</string>
     <string name="title_power_optimizer">Risparmio batteria</string>
     <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
     <string name="title_data_flow">"Imposta un avviso per l'utilizzo dei dati"</string>
@@ -653,6 +658,7 @@
     <string name="summary_telecom_operator">Ottieni le statistiche mensili dal tuo operatore</string>
     <string name="title_flow_verify">Confronto</string>
     <string name="summary_flow_verify">"Non hai sincronizzato le statistiche dell'operatore da %d giorni"</string>
+    <string name="summary_never_flow_verify">Questa figura non è stata verificata con il tuo operatore</string>
     <string name="title_saving_switch">Risparmio dati</string>
     <string name="summary_saving_switch">Impedisci alle applicazioni di utilizzare la connessione dati mobile</string>
     <string name="title_flow_notification">Rapporto utilizzo dati</string>
@@ -675,6 +681,7 @@
     <string name="summary_virus_cloudscan">Carica nomi app e dettagli e controlla utilizzando le definizioni online</string>
     <string name="title_cleaner_cloudscan">Utilizza motore di pulizia online</string>
     <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti delle carte con il database online</string>
+    <string name="toast_network_switch">Questa applicazione può connettersi ad Internet</string>
     <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
     <string name="toast_show_notification">Inserto nel pannello di notifica</string>
     <string name="toast_virus_cloudscan">La scansione virus utilizzerà il database online</string>

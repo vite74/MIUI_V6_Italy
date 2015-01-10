@@ -30,6 +30,11 @@
         <item>Più vecchi</item>
         <item>Lista conversazioni</item>
     </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostra solo archiviati</item>
+        <item>Mostra solo eliminati</item>
+        <item>Mostra Archiviati ed Eliminati</item>
+    </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Mostra la conversazione più recente dopo la cancellazione</item>
         <item>Mostra la conversazione più vecchia dopo la cancellazione</item>
@@ -45,11 +50,60 @@
         <item>Mostra solo eliminati</item>
         <item>Mostra archivio ed eliminati</item>
     </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
-        <item>Predefinito</item>
-        <item>Formato</item>
-        <item>Nome</item>
-        <item>Mittente</item>
-        <item>Data</item>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Sito:</item>
+        <item>Email:</item>
+        <item>Cell:</item>
+        <item>Telefono:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Indirizzo:</item>
+        <item>Tel:</item>
+        <item>Nome:</item>
+        <item>Email:</item>
+        <item>Cell:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Codice postale:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Avviso:</item>
+        <item>Avviso Email</item>
+        <item>Inviato da WPSMail</item>
+        <item>Inviato da</item>
+        <item>Inviato con</item>
+        <item>Grazie,</item>
+        <item>Cordiali saluti</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Grazie,</item>
+        <item>Cordiali slauti</item>
+        <item>Inviato dal mio</item>
+        <item>Email originale</item>
+        <item>Inviato dal mio</item>
+        <item>Inviato da</item>
+        <item>Da</item>
+        <item>Questa email</item>
+        <item>Avviso</item>
+        <item>Avviso email</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sincronizzazione completata.</item>
+        <item>Errore di connessione alla rete.</item>
+        <item>Accesso fallito.</item>
+        <item>Errore nella connessioen sicura.</item>
+        <item>impossibile sincronizzare.</item>
+        <item>Errore del server.</item>
     </string-array>
 </resources>

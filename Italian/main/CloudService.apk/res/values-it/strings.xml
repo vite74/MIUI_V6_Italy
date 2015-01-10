@@ -21,6 +21,7 @@
     <string name="error_data_in_transfer">Trasferimento dei tuoi dati in corso. Si prega di attendere %s ore.</string>
     <string name="activate">Attiva</string>
     <string name="no_sim">SIM non rilevata</string>
+    <string name="find_device_status_ok">Localizza il tuo dispositivo in ogni momento su i.mi.com</string>
     <string name="account">Account</string>
     <string name="verify">Verifica</string>
     <string name="next">Avanti</string>
@@ -68,6 +69,7 @@ Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."
 L'utilizzo di questa funziopne è soggetto a "</string>
     <string name="user_agreement_p7">"Condizioni di Utilizzo Mi Cloud"</string>
     <string name="user_agreement_p8">.</string>
+    <string name="user_agreement_title">"Termini del Servizio Mi Cloud"</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="loading">Caricamento\u2026</string>
     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Per vedere queste informazioni adesso, vai su %s.</string>
@@ -204,6 +206,12 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
+    <string name="micloud_setting_contact_summary">Informazioni contatto e foto profilo</string>
+    <string name="micloud_setting_sms_summary">SMS e MMS</string>
+    <string name="micloud_setting_gallery_summary">Foto e video</string>
+    <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
+    <string name="micloud_setting_music_summary">Playlist e preferiti</string>
+    <string name="micloud_setting_wifi_summary">Impostazioni Wi-Fi</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="upgrade_space_mibipreyear">"%s Mi Credit all'anno"</string>

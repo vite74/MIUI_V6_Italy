@@ -76,15 +76,17 @@
     <string name="resource_downloaded_title">Risorse scaricate</string>
     <string name="resource_see_more">Vedi altro</string>
     <string name="resource_no_result">Nessun risultato</string>
-    <string name="resource_unable_to_access">"Spiacenti,
-il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
+    <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
+    <string name="resource_search_list_empty">Nessun risultato</string>
+    <string name="resource_no_network_text">impossibile connettersi alla rete</string>
     <string name="resource_list_title">Ultimo selezionato</string>
     <string name="resource_get_auth_checking">Verifica autorizzazioni…</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
-    <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, prego scaricarne uno simile dal market ufficiale.</string>
+    <string name="resource_get_auth_not_official">I temi di terze parti non sono supportati</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">"Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite di 10 per dispositivo, prego usare un'altro dispositivo'"</string>
     <string name="resource_server_out_of_service">Il server in questo momento non è disponibile, prego riprovare più tardi.</string>
+    <string name="resource_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string
     <string name="resource_server_alert_dialog_title">Servizio attualmente non disponibile</string>
     <string name="resource_purchase_getting_order">Recupero info ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle info di pagamento…</string>
@@ -103,7 +105,8 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_trial_end_purchase">Acquista</string>
     <string name="deleting">Cancellazione…</string>
     <string name="resource_title_select_ringtone">Seleziona tono</string>
-    <string name="resource_tip_select_ringtone">Nessuna selezionata</string>
+    <string name="resource_tip_select_none">Nessuna selezione</string>
+    <string name="resource_select_ringtone_confirm">Selezionare questo suono?</string>
     <string name="loading_resource_detail_info">Caricamento info risorsa…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="resource_expand_full_text">Espandi</string>
@@ -179,6 +182,13 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Avviso</string>
     <string name="resource_ringtone_volume_mute">La tua suoneria è attualmente silenziata</string>
+    <string name="resource_has_been_downloaded">Hai già scaricato questo tema</string>
+    <string name="resource_no_match_app">Nessuna applicazione trovata per aprire questo file.</string>
+    <string name="resource_title_rank">Classifiche</string>
+    <string name="resource_title_category">categorie</string>
+    <string name="resource_title_subject">In evidenza</string>
+    <string name="resource_title_local">Locali</string>
+    <string name="resource_title_hot_subject">Popolari</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />

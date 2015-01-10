@@ -58,7 +58,6 @@
     <string name="customization"><u>Personalizza</u></string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="self_phone">Questo dispositivo</string>
-    <string name="skip_recovery">Salta</string>
     <string name="process_whole_recovery">Ripristino da \"%s\"</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="miui_device_name">Android</string>
@@ -87,7 +86,6 @@
     <string name="backup_to_cloud">Esegui backup sul Mi Cloud</string>
     <string name="restoreing_file_tile">Ripristino di %d file</string>
     <string name="listview_empty_no_results">Nessun risultato</string>
-    <string name="display_early_backup">Mostra backup precedenti</string>
     <string name="dialog_prompt_stop_backup">Fermare il backup?</string>
     <string name="menu_item_sort">Ordina per</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -108,6 +106,13 @@
     <string name="open_wifi">Attiva Wi-Fi adesso</string>
     <string name="open_wifi_description">Connettiti ad una rete Wi-Fi per ripristinare i dati delle applicazioni</string>
     <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
-    <string name="select_backup_data">Seleziona backup</string>
     <string name="name_model">"%2$s di %1$s"</string>
+    <string name="select_backup_data">Seleziona backup</string>
+    <string name="cloud_app_backup_already">" è stato salvato"</string>
+    <string name="explantion_of_data_size">Spazio risparmiato utilizzando Mi App Market</string>
+    <string name="about_cloud_app_backup">Informazioni backup</string>
+    <string name="download_settings">Download impostazioni Homescreen</string>
+    <string name="recover_settings">Ripristina impostazioni Homescreen</string>
+    <string name="cancel_recover_settings"><u>Annulla</u></string>
+    <string name="recover_settings_description">Mantieni il terminale acceso</string>
 </resources>

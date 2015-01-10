@@ -3,6 +3,8 @@
     <string name="carrier_settings" />
     <string name="carrier_settings_menu" />
     <string name="config_dialing_emergency_number_suffix" />
+    <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferito</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred">3G preferito</string>
     <string name="phoneAppLabel">Telefono</string>
     <string name="emergencyDialerIconLabel">Chiamate di emergenza</string>
     <string name="phoneIconLabel">Telefono</string>
@@ -162,8 +164,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preferred_network_type_pref_entries_global">Globale</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred">Preferisci reti 4G</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred">Preferisci reti 3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferisci reti 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G (risparmia batteria)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
@@ -874,4 +874,5 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_dial_pad_touch_tone_piano">Pianoforte</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Chiamata</string>
+    <string name="international_roaming_setting">Roaming internazionale</string>
 </resources>

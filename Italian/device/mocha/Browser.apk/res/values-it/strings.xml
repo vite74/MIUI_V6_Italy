@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_default_text_encoding_default">UTF-8</string>
     <string name="application_name">Browser</string>
-    <string name="choose_upload">Scegli il file per il caricamento</string>
-    <string name="uploads_disabled">I caricamenti di file sono disabilitati.</string>
-    <string name="new_tab">Nuova scheda</string>
-    <string name="new_incognito_tab">Nuova scheda in incognito</string>
-    <string name="tab_bookmarks">Segnalibri</string>
-    <string name="tab_most_visited">I più visitati</string>
-    <string name="tab_snapshots">Pagine salvate</string>
-    <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
-    <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
-    <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
-    <string name="username">Nome</string>
-    <string name="password">Password</string>
-    <string name="action">Accedi</string>
-    <string name="bookmarks_add_page">Salva segnalibro</string>
-    <string name="bookmarks_search">Browser</string>
+    <string name="nav_screen_settings">Impostazioni</string>
+    <string name="frontedit_add">Aggiungi alla pagina iniziale</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
+    <string name="save">OK</string>
     <string name="title_bar_loading">Caricamento…</string>
     <string name="page_info">Info pagina</string>
     <string name="page_info_view">Visualizza info pagina</string>
@@ -40,7 +27,6 @@
     <string name="reload">Aggiorna</string>
     <string name="back">Indietro</string>
     <string name="forward">Avanti</string>
-    <string name="save">OK</string>
     <string name="do_not_save">Annulla</string>
     <string name="location">Indirizzo</string>
     <string name="account">Account</string>

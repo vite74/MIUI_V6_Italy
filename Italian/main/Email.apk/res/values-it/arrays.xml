@@ -40,11 +40,6 @@
         <item>Mostra la conversazione più vecchia dopo la cancellazione</item>
         <item>Mostra la lista conversazioni dopo la cancellazione</item>
     </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Mostra solo archivio</item>
-        <item>Mostra solo eliminati</item>
-        <item>Mostra archivio ed eliminati</item>
-    </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Mostra solo archivio</item>
         <item>Mostra solo eliminati</item>
@@ -97,13 +92,5 @@
         <item>Questa email</item>
         <item>Avviso</item>
         <item>Avviso email</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Sincronizzazione completata.</item>
-        <item>Errore di connessione alla rete.</item>
-        <item>Accesso fallito.</item>
-        <item>Errore nella connessioen sicura.</item>
-        <item>impossibile sincronizzare.</item>
-        <item>Errore del server.</item>
     </string-array>
 </resources>

@@ -86,7 +86,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">"Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite di 10 per dispositivo, prego usare un'altro dispositivo'"</string>
     <string name="resource_server_out_of_service">Il server in questo momento non è disponibile, prego riprovare più tardi.</string>
-    <string name="resource_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string
+    <string name="resource_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
     <string name="resource_server_alert_dialog_title">Servizio attualmente non disponibile</string>
     <string name="resource_purchase_getting_order">Recupero info ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle info di pagamento…</string>

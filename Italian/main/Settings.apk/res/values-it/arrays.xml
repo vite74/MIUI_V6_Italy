@@ -438,13 +438,6 @@
         <item>basso</item>
         <item>critico</item>
     </string-array>
-    <string-array name="app_ops_categories">
-        <item>Posizione</item>
-        <item>Personali</item>
-        <item>Messaggi</item>
-        <item>Contenuti multimediali</item>
-        <item>Dispositivo</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Medio</item>

@@ -190,8 +190,6 @@
     <string name="resource_title_subject">In evidenza</string>
     <string name="resource_title_local">Locali</string>
     <string name="resource_title_hot_subject">Popolari</string>
-    <string name="config_import_vcard_type">default</string>
-    <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />

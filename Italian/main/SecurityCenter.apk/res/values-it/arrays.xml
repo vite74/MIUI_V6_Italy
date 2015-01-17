@@ -13,20 +13,20 @@
         <item>Dimensione</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Tutti i giorni</item>
+        <item>Ogni giorno</item>
         <item>Ogni 3 giorni</item>
         <item>Ogni 7 giorni</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
-        <item>300 MB</item>
+        <item>30 0MB</item>
         <item>500 MB</item>
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Chiedi con messaggio</item>
+        <item>Chiedi con notifica</item>
         <item>Pulisci in background</item>
-        <item>Mostra messaggio dopo la pulizia</item>
+        <item>Mostra notifica dopo la pulizia</item>
     </string-array>
     <string-array name="auto_memory_clean">
         <item>Tra 1 minuto</item>
@@ -65,15 +65,15 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una volta</item>
-        <item>Tutti i giorni</item>
+        <item>Ogni giorno</item>
         <item>Giorni lavorativi</item>
         <item>Infrasettimanale</item>
-        <item>Personalizza</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una volta</item>
         <item>Tutti i giorni</item>
         <item>Infrasettimanale</item>
-        <item>Personalizza</item>
+        <item>Personalizzato</item>
     </string-array>
 </resources>

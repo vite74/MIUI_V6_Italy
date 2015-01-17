@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s conversazioni verranno eliminate.</item>
-        <item quantity="one">Una conversazione verrà eliminata.</item>
+        <item quantity="other">Eliminare le %1$s conversazioni selezionate?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s sec</item>

@@ -424,6 +424,9 @@
     <string name="frame_black">Nera</string>
     <string name="frame_semicircle">Semicerchio</string>
     <string name="frame_movie">Film</string>
+    <string name="photo_paint_adjust">Regola</string>
+    <string name="photo_paint_effect">Effetto</string>
+    <string name="original">Originale</string>
     <string name="app_name">Galleria</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -461,7 +464,7 @@
     <string name="details">Dettagli</string>
     <string name="details_title">%1$d elementi su %2$d:</string>
     <string name="close">Chiudi</string>
-    <string name="select_item">Seleziona elementi</string>
+    <string name="select_item">Seleziona elemento</string>
     <string name="show_on_map">Mostra sulla mappa</string>
     <string name="no_map_app">Nessuna applicazione per le mappe</string>
     <string name="no_such_item">"Impossibile trovare l'elemento."</string>
@@ -628,14 +631,10 @@
     <string name="operation_add_picture">Aggiungi immagini</string>
     <string name="operation_add_secret">Aggiungi segreto</string>
     <string name="operation_remove_secret">Rimuovi segreto</string>
-    <string name="how_many_videos">%d video</string>
-    <string name="how_many_sub_folders">%d cartelle</string>
     <string name="directory_info_divider">"  |  "</string>
-    <string name="how_many_pics">%d immagini</string>
     <string name="global_setting">Impostazioni</string>
     <string name="no_storage_disable_cloud_albums">Album cloud disabilitati; riprova quando sarà disponibile dello spazio sulla memoria esterna.</string>
     <string name="message_no_delete_access">Accesso negato. Impossibile eliminare file o cartella: %s</string>
-    <string name="message_no_delete_access_with_count">Impossibile eliminare %d file or cartella(e). Forse sono protetti/e.</string>
     <string name="fail_init_gallery_db_helper">Applicazione chiusa, impossibile aprire il database della galleria; disco pieno.</string>
     <string name="crop_fail_to_load_image">"Impossibile caricare l'immagine da rifilare".</string>
     <string name="error_should_not_select_image">Attenzione: non selezionare un file immagine.</string>
@@ -658,7 +657,7 @@
     <string name="gallery_cloud_provider_name">Galleria</string>
     <string name="sync_album">Sincronizza album</string>
     <string name="sync_album_summary">Carica le foto e gli screenshot nel tuo spazio di archiviazione Mi Cloud</string>
-    <string name="sync_third_party_app_pic_summary">Carica automaticamente le foto in alcune delle tue cartelle in cloud</string>
+  <string name="sync_third_party_app_pic_summary">Carica automaticamente le foto nelle cartelle delle app sul tuo cloud</string>
     <string name="open_sync_title">Sincronizzazione necessaria</string>
     <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
@@ -691,6 +690,7 @@
     <string name="remove_from_secret_unfinished_message_with_count">"%1$s elementi non sono stati rimossi dall'album segreto"</string>
     <string name="alert_secret_album_title">Album Segreto</string>
     <string name="alert_secret_album_message">"Puoi scorrere l'album cloud nell'album segreto."</string>
+    <string name="alert_secret_album_set_pattern">Imposta sequenza di sblocco</string>
     <string name="cant_delete_cloud_album">Impossibile eliminare: %s è un album di sistema oppure è condiviso con altri utenti.</string>
     <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elemento(i) caricati da altri utenti.</string>
     <string name="share_album">Condividi album</string>
@@ -713,11 +713,11 @@
     <string name="sync_album_in_proecess">"L'album è in fase di sincronizzazione, attendere prego…</string>
     <string name="retry_to_create_album">Riprova</string>
     <string name="share_current_album">Condividi contenuto album</string>
-    <string name="cloud_be_shared_guide_title">Questo album è stato condiviso da un amico</string>
+    <string name="cloud_be_shared_guide_title">This album comes from a friend</string>
     <string name="cloud_be_shared_guide_message">Puoi vedere le immagini dei tuoi amici ed aggiungerne di tue, così da renderle visibili a tutti gli amici.</string>
-    <string name="cloud_owner_album_share_guide">"Puoi condividere questo album con
- gli amici"</string>
-    <string name="view_sharers">Mostra utenti</string>
+    <string name="cloud_owner_album_share_guide">"Puoi condividere questo album 
+con gli amici"</string>
+    <string name="view_sharers">View sharers</string>
     <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
     <string name="cloudfolder_contain_invalidate_char">"Il nome della cartella non puo contenere '%s'"</string>
     <string name="cloudfolder_cannot_start_with">"Il nome della cartella non può iniziare con '%s'"</string>
@@ -898,7 +898,6 @@
     <string name="picker_no_items_selected">Nessuna selezione</string>
     <string name="picker_select_album_title_empty">Seleziona un album</string>
     <string name="picker_no_album_selected">Nessun album selezionato</string>
-    <string name="pick_with_limited_upper_bound_title">Puoi selezionare %d elementi</string>
     <string name="download">Download</string>
     <string name="confirm_download">Devi scaricare %s. Questo suggerimento non verrà più visualizzato.</string>
     <string name="download_fail">Download fallito!</string>
@@ -942,18 +941,23 @@ il dispositivo"</string>
     <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
     <string name="auto_upload_title">Carica automaticamente</string>
     <string name="select_auto_upload_albums">Scegli gli album da caricare sul cloud</string>
-    <string name="enable">Turn on</string>
+    <string name="enable">Attiva</string>
     <string name="same_name_album_exists_alert">"E' già presente un album condiviso con lo stesso nome, vuoi caricare automaticamente le foto in quell'album?"</string>
     <string name="auto_upload_album_comfirm_to_share">Questo album verrà caricato automaticamente, confermi di volerlo condividere?</string>
     <string name="qq">QQ</string>
     <string name="weibo">Weibo</string>
     <string name="wechat">WeChat</string>
     <string name="pocketcamera">PocketCamera</string>
-    <string name="miliao">MiTalk</string>
+    <string name="miliao">Mi Talk</string>
     <string name="mishop">MiShop</string>
     <string name="uc">UC</string>
-    <string name="moman">MomanCamera</string>
+    <string name="moman">Moman Camera</string>
     <string name="wps">WPS</string>
     <string name="qzone">QZone</string>
+    <string name="no_such_album">Album non trovato</string>
+    <string name="auto_upload_guide_title">Carica automaticamente</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Carica automaticaemnte le tue foto dalle applicazioni a Mi Cloud. Guarda le impostazioni in Impostazioni Galleria > Sincronizza ocn Mi Cloud > Carica automaticamente. </Data>" "</string>
+    <string name="not_now">Non adesso</string>
+    <string name="go_setting">Vai alle impostazioni</string>
     <string name="paint_crop_tips">"Per ottenere un'immagine migliore, prova a posizionare le parti interessanti su di ua griglia di punti e sposta."</string>
 </resources>

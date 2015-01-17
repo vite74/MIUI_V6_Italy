@@ -80,11 +80,12 @@
     <string name="resource_list_title">Ultime</string>
     <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
-    <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, si prega di riscaricarne uno simile dal market ufficiale.</string>
+    <string name="resource_get_auth_not_official">I temi di terze parti non sono supportati</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite massimo di 10 installazioni, si prega di usare il tema su un altro dispositivo</string>
     <string name="resource_server_out_of_service">Server attualmente non disponibile, si prega di riprovare più tardi.</string>
     <string name="resource_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
+   <string name="resource_pack_get_auth_has_been_undercarriaged">Questo soggetto non è più disponibile.</string>
     <string name="resource_server_alert_dialog_title">Il servizio è momentaneamente non disponibile</string>
     <string name="resource_purchase_getting_order">Recupero informazioni ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle informazioni di pagamento…</string>

@@ -3,8 +3,8 @@
     <string name="carrier_settings" />
     <string name="carrier_settings_menu" />
     <string name="config_dialing_emergency_number_suffix" />
-    <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferito</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred">3G preferito</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">Preferisci reti LTE</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred">Preferisci reti 3G</string>
     <string name="phoneAppLabel">Telefono</string>
     <string name="emergencyDialerIconLabel">Chiamate di emergenza</string>
     <string name="phoneIconLabel">Telefono</string>
@@ -95,7 +95,7 @@
     <string name="error_updating_title">Errore impostazioni chiamate</string>
     <string name="reading_settings">Lettura impostazioni…</string>
     <string name="updating_settings">Aggiornamento impostazioni…</string>
-    <string name="reverting_settings">Annullamento impostazioni…</string>
+    <string name="reverting_settings">Anullamento impostazioni…</string>
     <string name="response_error">Risposta non prevista dalla rete.</string>
     <string name="exception_error">Errore di rete o della carta SIM.</string>
     <string name="stk_cc_ss_to_dial_error">Richiesta SS modificata in una richiesta DIAL.</string>
@@ -144,7 +144,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="always_enable_mms_summary">Ricevi MMS anche quando la connessione dati è disattivata</string>
     <string name="network_unlock">Sblocca</string>
     <string name="sim_cards_network_mode_changed_title">Nuova SIM rilevata</string>
-    <string name="sim_cards_network_mode_changed_summary">Tocca per vedere le impostazioni SIM e di chiamata.</string>
+    <string name="sim_cards_network_mode_changed_summary">Tocca per vedere le impostazioni SMS e di chiamata.</string>
     <string name="networks_title">Operatori di rete</string>
     <string name="network_settings_warn_message">Usa solo la rete che hai selezionato manualmente</string>
     <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
@@ -160,10 +160,11 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="network_settings_select_automatic_hint">Impossibile registrarsi sulla rete che hai selezionato.
 Sarà usata al suo posto la rete preferita.</string>
     <string name="network_settings_forbidden">%s (vietato)</string>
-    <string name="preferred_network_type_title">Tipologia di rete preferita</string>
+    <string name="preferred_network_type_title">Tiplogia di rete preferita</string>
     <string name="preferred_network_type_pref_entries_global">Globale</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferisci reti 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferisci reti 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G (risparmia batteria)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
@@ -381,6 +382,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="incall_error_call_failed">Chiamata non effettuata.</string>
     <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
     <string name="incall_error_turn_off_airplane_mode">Disattiva la modalità Aereo</string>
+    <string name="incall_error_no_active_sim">Nessuna SIM attiva.</string>
     <string name="emergency_enable_radio_dialog_title">Chiamata di emergenza</string>
     <string name="dial_emergency_error">Chiamata non effettuata. %s non è un numero di emergenza!</string>
     <string name="dial_emergency_empty_error">Chiamata non effettuata. Chiama un numero di emergenza!</string>
@@ -416,6 +418,7 @@ Hai ancora %d tentativi a disposizione."</string>
 Dopo aver premuto “Attiva”, ascolta le istruzioni fornite per attivare il tuo telefono."</string>
     <string name="ota_hfa_activation_title">Attivazione…</string>
     <string name="ota_hfa_activation_dialog_message">"Il telefono sta attivando il tuo servizio dati mobile.
+
 Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
     <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti alla rete dati mobile (ma potrai connetterti via Wi-Fi). Finché non attivi il tuo telefono, ti verrà richiesto di attivarlo ogni volta che lo accendi."</string>
@@ -669,7 +672,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_recording_notification_summary">Mostra una notifica nella barra di stato quando una chiamata è stata registrata</string>
     <string name="call_recording_notification_message_low_storage">Registrazione interrotta: spazio insufficiente.</string>
     <string name="call_recording_notification_message">Tocca per visualizzare %s.</string>
-    <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
+    <string name="call_recording_notification_message_sd_unmounted">Registrazione interrotta: scheda SD rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
@@ -677,14 +680,14 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="call_record_off_summary">Registrazione automatica disattivata</string>
     <string name="autoip">Composizione PI automatica</string>
     <string name="autoip_prefix">Prefisso internazionale</string>
-    <string name="autoip_prefix_summary">"Prefisso internazionale del tuo operatore: %s"</string>
+    <string name="autoip_prefix_summary">"Prefisso intenazionale del tuo operatore: %s"</string>
     <string name="autoip_autoip_current_areacode_summary">Prefisso internazionale della località dove ti trovi ora: %s</string>
     <string name="autoip_setting">Impostazioni PI automatico</string>
     <string name="autoip_summary">Aggiungi un prefisso int. ai numeri stranieri</string>
     <string name="autoip_current_areacode">Pref. intern. locale</string>
     <string name="autoip_current_areacode_summary">Prefisso internazionale della località dove ti trovi ora</string>
     <string name="autoip_support_local_numbers">Usa sempre prefisso internaz.</string>
-    <string name="autoip_add_zero_prefix">Anteponi lo 0 ai numeri di cellulare</string>
+    <string name="autoip_add_zero_prefix">Antemponi lo 0 ai numeri di cellulare</string>
     <string name="autoip_exception">Numeri che non richiedo un PI</string>
     <string name="autoip_exception_summary">%d totali</string>
     <string name="autoip_exception_summary_more">,… %d totali</string>
@@ -858,7 +861,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d s)</string>
-    <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
+    <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Intenret, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="select_voice_call_sim">Prego scegliere</string>
     <string name="general_setting">Impostazioni</string>
@@ -873,6 +876,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
     <string name="preference_dial_pad_touch_tone_piano">Pianoforte</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
-    <string name="telephony_setting">Chiamata</string>
+    <string name="telephony_setting">Impostazioni chiamata</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
 </resources>

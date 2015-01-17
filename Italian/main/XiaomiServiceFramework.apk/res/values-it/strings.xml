@@ -3,8 +3,11 @@
     <string name="app_name">Servizi Xiaomi</string>
     <string name="xmsf_activate_info">Attiva informazioni XMSF</string>
     <string name="error_device_id_title">Impossibile rilevare codice IMEI</string>
-    <string name="error_device_id_message">Alcune funzioni e servizi cloud non saranno utilizzabili</string>
+    <string name="error_device_id_message">"ID dispositivo non valido,
+L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositivo, alcuni account e funzionalità cloudnon saranno disponibili."</string>
     <string name="accept">OK</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="sync_notification_title_format">Elemanto in sincronizzazione: %1$s</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>

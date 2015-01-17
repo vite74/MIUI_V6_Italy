@@ -51,4 +51,8 @@
     <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
     <string name="confirm_pin_msg">Inserisci di nuovo PIN</string>
     <string name="invalid_confirm_pin_hint">I PIN non corrispondono</string>
+    <string name="unlock_string">Sblocca</string>
+    <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
+    <string name="open_remote_center_hint_text">Scorri a destra per aprire Mi Remote</string>
+    <string name="click_to_enter_text">Tocca per sbloccare</string>
 </resources>

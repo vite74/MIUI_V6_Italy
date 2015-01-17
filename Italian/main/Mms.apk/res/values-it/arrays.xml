@@ -29,8 +29,8 @@
         <item>Via messaggio Cloud</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Tramite messaggio</item>
-        <item>Tramite messaggio Cloud</item>
+        <item>SMS</item>
+        <item>Mi Message</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 secondo</item>

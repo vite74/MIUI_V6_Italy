@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_toggle_ac">Accesso</string>
-    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_brightness">Luminosità</string>
-    <string name="status_bar_toggle_auto_brightness">Luminosità</string>
+    <string name="status_bar_toggle_bluetooth">BT</string>
+    <string name="status_bar_toggle_brightness">Lumin.</string>
+    <string name="status_bar_toggle_auto_brightness">Lumin. Auto</string>
     <string name="status_bar_toggle_data">Dati</string>
     <string name="status_bar_toggle_divider">Altro</string>
     <string name="status_bar_toggle_flight_mode">Aereo</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
-    <string name="status_bar_toggle_mute">Silenzioso</string>
+    <string name="status_bar_toggle_mute">Silenz.</string>
     <string name="status_bar_toggle_network_type">Rete</string>
     <string name="status_bar_toggle_privacy_mode">Guard</string>
     <string name="status_bar_toggle_reboot">Riavvia</string>
@@ -19,15 +19,19 @@
     <string name="status_bar_toggle_shutdown">Spegni</string>
     <string name="status_bar_toggle_sync">Sincr.</string>
     <string name="status_bar_toggle_torch">Torcia</string>
-    <string name="status_bar_toggle_vibrate">Vibrazione</string>
+    <string name="status_bar_toggle_vibrate">Vibra</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Prestaz.</string>
     <string name="status_bar_toggle_drive_mode">Guida</string>
-    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="status_bar_toggle_wifi_ap">Hospot Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Anti-disturbo</string>
-    <string name="status_bar_toggle_sync_auto">Automatica</string>
-    <string name="status_bar_toggle_sync_manual">Manuale</string>
-    <string name="status_bar_toggle_syncing">Sincr.</string>
+    <string name="status_bar_toggle_paper_mode">Modalità lettura</string>
+    <string name="status_bar_toggle_sync_auto">Sincr.Auto</string>
+    <string name="status_bar_toggle_sync_manual">Sincr.Man.</string>
+    <string name="status_bar_toggle_syncing">Sincronizza</string>
+    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
+    <string name="screen_button_disabled_message">Tasti di navigazione disattivati. TPer riattivarli premi Home ed il tasto accensione contemporaneamente.</string>
+    <string name="screen_button_enabled_message">Tasti di navigazione attivati.</string>
     <string name="shutdown_confirm_title">Il tuo dispositivo sarà spento.</string>
     <string name="shutdown_progress">Spegnimento in corso…</string>
     <string name="reboot_confirm_title">Il tuo dispositivo sarà riavviato.</string>
@@ -36,6 +40,7 @@
     <string name="memory_clear_nothing_result">"L'utilizzo della memoria è già ottimizzata."</string>
     <string name="device_xiaomi">Telefono Mi</string>
     <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">Mi Pad</string>
     <string name="miui_device_name">Android</string>
     <string name="app_no_notification">Nessuna notifica</string>
     <string name="app_notificaiton_on_notificationBar">Pannello notifiche</string>
@@ -51,9 +56,11 @@
     <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
     <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
     <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i tasti Indietro e Volume Su.</string>
-    <string name="first_back_long_press_message">Vuoi abilitare la funzione long-press del tasto Indietro per chiudere il porcesso attuale ed i servizi in background associati? Abilita da Impostazioni > Sistema > Tasti</string>
-    <string name="force_exit_message">%1$s chiuso correttamente</string>
-    <string name="force_exit_skip_message">%1$s è componente chiave del sistema, non può essere forzata.</string>
+    <string name="first_back_long_press_message">"Tieni premuto il tasto Indietro per chiudere il processo in esecuzione e tutti i servizi in background ad esso collegati.
+
+Attiva questa funzione da Impostazioni > Sistema > Tasti"</string>
+    <string name="force_exit_message">%1$s chiuso forzatamente</string>
+    <string name="force_exit_skip_message">%1$s è un componente chiave del sistema, non può essere chiuso forzatamente.</string>
     <string name="screen_button_notification_title">Tasti schermo disabilitati</string>
     <string name="screen_button_notification_text">"Premi 'Home'+'Power' abilitare"</string>
     <string name="perm_send_push_dspt">"Consenti l'invio di messagi push Xiaomi"</string>
@@ -145,7 +152,7 @@
     <string name="cut">Taglia</string>
     <string name="copy">Copia</string>
     <string name="paste">Incolla</string>
-    <string name="replace">Sost.</string>
+    <string name="replace">Sostituisci</string>
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
     <string name="call_record_sample_prefix_miui">Chiamata</string>
     <string name="fm_record_smaple_prefix_miui">Registrazione FM</string>
@@ -174,4 +181,8 @@
     <string name="no_notification_tips">Nessuna notifica</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivato</string>
     <string name="softap_notifif_summary">%d collegato(i)</string>
+    <string name="maml_component_customization_title">Impostazioni</string>
+    <string name="default_name">Predefinito</string>
+    <string name="resource_select">Seleziona</string>
+    <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento da Impostazioni aggiuntive > Modalità Lettura.</string>
 </resources>

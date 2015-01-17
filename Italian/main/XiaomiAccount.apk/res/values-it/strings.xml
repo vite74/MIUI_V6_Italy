@@ -38,6 +38,7 @@
     <string name="passport_reg_via_sms_alert">"L'SMS di attivazione è soggetto ai normali costi preavvisi dal tuo operatore."</string>
     <string name="passport_reg_sms_send_prompt">Invia il codice di verifica a %s</string>
     <string name="passport_password_req_notice">La pasword deve essere di 8-16 caratteri ed includere numeri e lettere (case sensitive).</string>
+    <string name="passport_error_empty_email">Inserisci il tuo indirizzo email</string>
     <string name="passport_error_email">"L'indirizzo email inserito non è valido"</string>
     <string name="passport_activing_account">Attivazione…</string>
     <string name="passport_account_not_actived">Il tuo account non è stato attivato</string>
@@ -204,6 +205,7 @@ Per attivare il tuo account, segui il
     <string name="hide_mibi_info">Le informazioni sui Mi credit sono state nascoste</string>
     <string name="failed_get_mibi_info">Impossibile recuperare informazioni sui Mi Credit</string>
     <string name="mipay_center">Account bancari</string>
+    <string name="mi_service">Supporto</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>

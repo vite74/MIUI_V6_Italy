@@ -51,6 +51,7 @@
     <string name="eq_preset_hint">Nome preset</string>
     <string name="eq_preset_select">Scegli un preset</string>
     <string name="action_item_download">Download</string>
+    <string name="action_item_hide">Nascondi</string>
     <string name="action_item_add_to_favorite_playlist">Playlist preferita</string>
     <string name="online_music">Online</string>
     <string name="my_music">La mia musica</string>
@@ -184,7 +185,7 @@
     <string name="quit_warining">La riproduzione sarà interrotta tra %d minuti</string>
     <string name="sleep_mode">Timer ascolto</string>
     <string name="close_music_time">"Minuti: "</string>
-    <string name="sleep_mode_title">Ferma la riproduzione dopo un periodo di tempo</string>
+    <string name="sleep_mode_title">Ferma la riproduzione dopo un certo periodo di tempo</string>
     <string name="sleep_mode_summary">Usa il cursore qui sotto per impostare il periodo</string>
     <string name="auto_download_in_wifi">Nessuna connessione internet rilevata</string>
     <string name="no_favorites_songs">Vuoto</string>
@@ -233,6 +234,9 @@
     <string name="filter_by_duration_min">0 sec</string>
     <string name="filter_by_duration_max">5 min</string>
     <string name="filter_by_duration_format">%2$dm %5$2ds</string>
+    <string name="filter_by_folder">PEr cartella</string>
+    <string name="filter_by_folder_summary">Seleziona le cartelle da visualizzare</string>
+    <string name="select_displayed_folders">Seleziona le cartelle da visualizzare</string>
     <string name="no_local_source_find">Brano non trovato</string>
     <string name="start_to_play">Avvia</string>
     <string name="can_not_find_resource">Nessuna risorsa trovata</string>
@@ -266,7 +270,7 @@
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
-    <string name="delete_file_as_well">Elimina anche i file in locale</string>
+    <string name="delete_file_as_well">Elimina anche i file in lcoale</string>
     <string name="delete_file_start">Elimina i file selezionati</string>
     <string name="delete_file_end">Elimina in modo permanente</string>
     <string name="no_song">Nessun brano</string>

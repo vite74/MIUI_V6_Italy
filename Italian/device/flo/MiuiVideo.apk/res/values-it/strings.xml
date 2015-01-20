@@ -26,7 +26,7 @@
     <string name="buffering">Creazione buffer…</string>
     <string name="airkan_video_playing_in">Video in</string>
     <string name="airkan_video_playing">riproduzione</string>
-    <string name="airkan_tips">"Premi qui per trasmettere il videosu box o TV"</string>
+    <string name="airkan_tips">"Premi qui per trasmettere il video su box o TV"</string>
     <string name="menu_item_orientation_auto_sensor_action">Abilita Rotazione</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Disabilita Rotazione</string>
     <string name="menu_item_sub_title">Sottotitoli</string>
@@ -42,7 +42,7 @@
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
     <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>
-    <string name="about_developer_label">Sviluppatore</string>
+    <string name="about_developer_label">Developer</string>
     <string name="about_developer_name">MIUI</string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
     <string name="nowifi_alert_dialog_message">Stai per usare la rete mobile per lo stream video. Continuare?</string>
@@ -107,7 +107,7 @@
     <string name="local_media_empty_hint">Nessun video locale</string>
     <string name="edit">Modif.</string>
     <string name="local_favorite_empty_hint">Nessun preferito</string>
-    <string name="unfavorite">Unstar</string>
+    <string name="unfavorite">Togli dai preferiti</string>
     <string name="play">Inzia</string>
     <string name="episode">Episodio</string>
     <string name="introduce">Riassunto</string>
@@ -158,7 +158,7 @@
     <string name="comment_edit_blog_hint">Rilascia su sina</string>
     <string name="comment_edit_start_hint">Clicca una stella per votare:</string>
     <string name="comment_count_less_tip">Devi scrivere almeno d% caratteri</string>
-    <string name="comment_count_much_tip">Il tuo commento non può eccedere i d% carattero</string>
+    <string name="comment_count_much_tip">Il tuo commento non può eccedere i d% caratteri</string>
     <string name="offline_no_source">Nessuna origine cache può essere avviata</string>
     <string name="download_is_in_tasklist">È stato inserito nella lista cache</string>
     <string name="download_is_success">"E' stato memorizzato nella cache"</string>
@@ -178,7 +178,7 @@
     <string name="offline_setting">Video offline</string>
     <string name="use_cellular_network">Usa la rete cellulare</string>
     <string name="use_cellular_network_summary">Utilizza la rete cellulare per scaricare i video, questo comporterà costi molto elevati di traffico dati.</string>
-    <string name="mipush_setting">Nofitiche contenuti</string>
+    <string name="mipush_setting">Notifiche contenuti</string>
     <string name="receive_mipush">Ricevi le notifiche  contenuti</string>
     <string name="receive_mipush_summary">Ricevi le notifiche sui contenuti online nuovi o aggiornati</string>   
     <string name="play_setting">Riproduci</string>
@@ -233,8 +233,8 @@
     <string name="myfavorite">Preferiti</string>
     <string name="recentplay">Video recenti</string>
     <string name="mycamera">Miei video</string>
-    <string name="dlna_name">Shared device</string>
-    <string name="dlna_list_name">DLNA device</string>
+    <string name="dlna_name">Dispositivo condiviso</string>
+    <string name="dlna_list_name">Dispositivo DLNA</string>
     <string name="myfavorite_onlylocal">Preferiti</string>
     <string name="login_tip_title">Accedi</string>
     <string name="login_tip_content">Accedi con il tuo account Xiaomi per sincronizzare e aggiornarti sui i contenuti che stai seguendo.</string>

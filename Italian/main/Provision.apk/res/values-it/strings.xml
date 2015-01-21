@@ -36,7 +36,7 @@ Devi accettare le Condizioni del Servizio e e i Termini sulla Privacy prima di u
     <string name="user_agreement">Condizioni del Servizio</string>
     <string name="privacy_policy">Termini sulla Privacy</string>
     <string name="agree">OK</string>
-    <string name="disagree">Anulla</string>
+    <string name="disagree">Annulla</string>
     <string name="network_access_warning">Devi collegarti ad Internet per attivare i Servizi Mi.</string>
     <string name="setting_locale">Impostazione PAese…</string>
     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i Termini del Servizio su %s</string>

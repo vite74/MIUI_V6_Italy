@@ -60,10 +60,6 @@
         <item>Solo su Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Pagina iniziale predefinita</item>
-        <item>Personalizza</item>
-    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -94,11 +90,6 @@
         <item>Normale</item>
         <item>Grande</item>
         <item>Molto grande</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Mai</item>
-        <item>Solo su Wi-Fi</item>
-        <item>Sempre</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">
         <item>Molto grande</item>

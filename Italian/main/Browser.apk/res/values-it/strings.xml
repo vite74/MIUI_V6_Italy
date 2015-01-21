@@ -726,7 +726,10 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="video_project_msg">Displaying on %s</string>
     <string name="video_project_button">Stop</string>
     <string name="clear_history_by_group_alert">Cancellare la cronologia da %s?</string>
-    <string name="webapp_app_name">Light Web Apps Store</string>
+    <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
+    <string name="suggest_access_appstore">Mi App Store</string>
+    <string name="suggest_access_music">Mi Music</string>
+    <string name="webapp_app_name">Light Web App Store</string>
     <string name="webapp_dialog_title">Aggiungi alla schermata Home</string>
     <string name="webapp_add_to_desktop">Aggiungi questa app alla tua schermata Home?</string>
     <string name="webapp_addtodeskpop_append">Aggiunta</string>

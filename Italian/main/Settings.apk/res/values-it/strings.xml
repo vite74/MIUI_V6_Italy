@@ -98,9 +98,9 @@
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
-    <string name="header_category_device">DISPOSITIVO</string>
-    <string name="header_category_personal">PERSONALE</string>
-    <string name="header_category_system">SISTEMA</string>
+    <string name="header_category_device">DEVICE</string>
+    <string name="header_category_personal">PERSONAL</string>
+    <string name="header_category_system">SYSTEM</string>
     <string name="turn_on_radio">Attiva segnale cellulare</string>
     <string name="turn_off_radio">Disattiva segnale cellulare</string>
     <string name="sms_over_ims_on">Attiva SMS su IMS</string>
@@ -1455,6 +1455,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="color_cyan">Ciano</string>
     <string name="color_yellow">Giallo</string>
     <string name="color_magenta">Magenta</string>
+    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
     <string name="enable_service_title">Utilizzare %1$s?</string>
     <string name="capabilities_list_title">%1$s deve:</string>
     <string name="capability_title_receiveAccessibilityEvents">Osservare le tue azioni</string>

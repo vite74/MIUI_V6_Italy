@@ -190,6 +190,9 @@
     <string name="resource_title_subject">In evidenza</string>
     <string name="resource_title_local">Locali</string>
     <string name="resource_title_hot_subject">Popolari</string>
+    <string name="resource_download_notification_title_one">Tema scaricato</string>
+    <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
+    <string name="resource_download_notification_content">Tocca per leggere.</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />

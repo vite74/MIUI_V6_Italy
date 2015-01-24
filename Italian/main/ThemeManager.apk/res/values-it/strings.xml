@@ -188,6 +188,9 @@
     <string name="resource_title_subject">In evidenza</string>
     <string name="resource_title_local">Locali</string>
     <string name="resource_title_hot_subject">popolari</string>
+    <string name="resource_download_notification_title_one">Temi scaricati</string>
+    <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
+    <string name="resource_download_notification_content">Tocca per vedere.</string>
     <string name="app_name">Temi</string>
     <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego…</string>
     <string name="theme_changed_message">Applicato con successo!</string>
@@ -266,7 +269,6 @@
     <string name="my_gifts">Regali</string>
     <string name="my_gifts_purchased">Acquistati</string>
     <string name="my_gifts_received">Ricevuti</string>
-    <string name="theme_batch_has_update_text">%1$d temi hanno aggiornamenti disponibili</string>
     <string name="theme_batch_updating_text">%1$d temi sono stati aggiornati</string>
     <string name="theme_batch_update_all">Aggiorna tutto</string>
     <string name="theme_batch_update_dlg_title">Aggiorna</string>
@@ -286,6 +288,7 @@
     <string name="theme_user_agreement_content5">.</string>
     <string name="theme_user_agreement_title">Termini di utilizzo</string>
     <string name="theme_user_agreement_allow">"D'accordo"</string>
+    <string name="theme_user_agreement_exit">Uscita</string>
     <string name="theme_user_agreement_remind_never">Non chiedere più</string>
     <string name="theme_user_agreement_remind_again">Mostra Condizioni di utilizzo</string>
     <string name="theme_user_agreement_remind_summary">"Mostra l'avviso sulle Condizioni di utilizzo ogni volta. Questa impostazione avrà effetto dopo il riavvio del dispositivo."</string>

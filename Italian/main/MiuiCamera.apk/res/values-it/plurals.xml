@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-    <item type="plurals" name="APKTOOL_DUMMY_0000">false</item>
+    <plurals name="delete_selection">
+        <item quantity="other">Eliminare i file selezionati?</item>
+        <item quantity="one">Eliminare il file selezionato?</item>
+    </plurals>
 </resources>

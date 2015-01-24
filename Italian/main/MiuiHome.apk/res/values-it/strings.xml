@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--This Italia translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
     <string name="wallpaper_scrolling">all</string>
     <string name="sharedUserId" />
     <string name="process" />
@@ -213,4 +214,20 @@
     <string name="delete_wallpaper_message">Eliminare %1$d sfondo selezionato?</string>
     <string name="delete_wallpapers_message">Eliminare i %1$d sfondi selezionati?</string>
     <string name="is_system_wallpaper_message">Impossibile eliminare risorse di sistema</string>
+    <string name="app_category_finance">Finanza</string>
+    <string name="app_category_social">Sociale</string>
+    <string name="app_category_travel">Viaggi</string>
+    <string name="app_category_music_movie">Musica e Video</string>
+    <string name="app_category_shopping">Acquisti</string>
+    <string name="app_category_photos">Foto</string>
+    <string name="app_category_games">Giochi</string>
+    <string name="app_category_news">Notizie</string>
+    <string name="app_category_lifestyle">Lifestyle</string>
+    <string name="app_category_tools">Strumenti</string>
+    <string name="app_category_entertainment">Intrattenimento</string>
+    <string name="app_category_education">Educazione</string>
+    <string name="app_category_books">Libri</string>
+    <string name="app_category_sport">Sport</string>
+    <string name="app_category_health">Salute</string>
+    <string name="app_category_productivity">Produttività</string>
 </resources>

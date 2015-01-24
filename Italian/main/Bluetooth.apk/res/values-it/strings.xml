@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="device_picker">Selezione dispositivo Bluetooth</string>
+    <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
+    <string name="bluetooth_preference_connected_devices">Collega dispositivi</string>
+    <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
+    <string name="progress_scanning">Ricerca</string>
+    <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
+    <string name="mi_key_alert_dialog_title">Avviso Mi Key</string>
+    <string name="mi_key_alert_dialog_message">"Tocca OK per silenziare l'avviso."</string>
+    <string name="ble_device_address">MAC dispositivo BLE</string>
+    <string name="disconnect">Disconnetti</string>
+    <string name="ble_device_unbind">Cancella impostazioni</string>
+    <string name="ble_device_profile_header_title">Profili</string>
+    <string name="ble_device_profile_title">Dispositivo BLE collegato</string>
+    <string name="mi_band_vibrate_incall">Vibrazione su squillo</string>
+    <string name="mi_band_vibrate_incall_in_contacts">Vibra su squillo di chiamata dai tuoi contatti</string>
+    <string name="mi_band_vibrate_incall_no_contacts">Vibra su squillo di chiamata da numeri sconosciuti</string>
+    <string name="mi_band_vibrate_sms">Vibrazione alla ricezione di SMS</string>
+    <string name="mi_band_vibrate_sms_in_contacts">Vibrazione quando ricevi SMS dai tuoi contatti</string>
+    <string name="mi_band_vibrate_sms_no_contacts">Vibrazione quando ricevi SMS da numeri sconosciuti</string>
+    <string name="mi_band_vibrate_alarm">Vibrazione durante lo squillo</string>
+    <string name="mi_key_take_photo">Scatta foto</string>
+    <string name="mi_key_find_phone">Trova il telefono</string>
+    <string name="mi_key_find_mikey">Trova Mi-Key</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
     <string name="miui_transfer_inbound_title">Ricevuti</string>
     <string name="miui_transfer_outbound_title">Inviati</string>

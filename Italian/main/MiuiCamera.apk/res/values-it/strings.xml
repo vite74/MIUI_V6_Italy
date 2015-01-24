@@ -160,7 +160,7 @@
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">Auto</string>
     <string name="dialog_ok">Ok</string>
-    <string name="spaceIsLow_content">Lo spazio di archiviazione USB si sta esaurendo. Modifica la qualità delle immagini oppure elimina alcuni file.</string>
+    <string name="spaceIsLow_content">Lo spazio di archiviazione USB si sta esaurendo.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -188,6 +188,7 @@
     <string name="accessibility_shutter_button">Pulsante scatto</string>
     <string name="accessibility_review_thumbnail">Foto recenti</string>
     <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
+    <string name="accessibility_hdr">Tasto HDR</string>
     <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_title">Metodo esposizione automatica</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
@@ -258,15 +259,17 @@
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
-    <string name="face_analyze_info">%1$s %2$s anni</string>
+    <string name="face_analyze_info">Età: %2$s (%1$s)</string>
     <string name="face_analyze_info_male">Uomo</string>
     <string name="face_analyze_info_female">Donna</string>
+
     <string name="face_beauty_intelligent_level_0">Disat.</string>
     <string name="face_beauty_intelligent_level_1">Basso</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
     <string name="pref_camera_show_gender_age_title">Rapporto riconoscimento viso</string>
     <string name="pref_camera_show_gender_age_entry_off">Disattivato</string>
+
     <string name="pref_camera_show_gender_age_entry_on">Mostra età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
     <string name="face_beauty_age_alias_male_0_7">Uomo 0-7</string>
@@ -286,15 +289,18 @@
     <string name="pref_camera_multiple_face_beauty_entry_off">Un viso</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Due visi</string>
     <string name="pref_face_beauty_title">Tonalità pelle</string>
-    <string name="pref_camera_hdr_type_entry_normal">Normale</string>
-    <string name="pref_camera_hdr_type_entry_live">Live</string>
+
+
+
+
     <string name="toast_cannot_preview_image_when_screen_locked">Impossibile vedere immagini o video quando lo schermo è bloccato.</string>
     <string name="pref_priority_storage_title">Salva nella scheda SD</string>
     <string name="setting_top_text">Opzioni</string>
+
+
+
     <string name="pref_video_speed_fast_title">Veloce</string>
     <string name="pref_video_speed_slow_title">Lento</string>
-    <string name="pref_camera_countdown_title">Autoscatto</string>
-    <string name="simple_mode_button_text_countdown">Chiudi autoscatto</string>
     <string name="pref_camera_manual_mode_title">Manuale</string>
     <string name="effect_setting_top_text">Filtri fotocamera</string>
     <string name="pref_camera_settings">Impostazioni dispositivo</string>
@@ -303,6 +309,7 @@
     <string name="pref_advance_settings">Impostazioni avanzate</string>
     <string name="accessibility_video_pause_button">VideoPauseButton</string>
     <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+    <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
     <string name="pref_camera_ubifocus_title">Ubifocus</string>
     <string name="simple_mode_button_text_ubifocus">Chiudi ubifocus</string>
@@ -326,8 +333,30 @@
     <string name="pref_audio_focus_entry_general">Normale</string>
     <string name="pref_audio_focus_entry_front">Frontale</string>
     <string name="pref_audio_focus_entry_rear">Posteriore</string>
+    <string name="audio_focus_exit_button_text">Chiudi Audio Focus</string>
     <string name="pref_camera_long_press_shutter_feature_title">Pressione prolungata</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto multiplo</string>
-    <string name="pref_camera_asd_title">Scena Automatica</string>
+
+    <string name="pref_camera_hdr_entry_auto">Auto</string>
+    <string name="pref_camera_hdr_entry_off">Disattivato</string>
+    <string name="pref_camera_hdr_entry_normal">Normale</string>
+    <string name="pref_camera_hdr_entry_live">Live</string>
+    <string name="pref_simple_hdr_entry_off">Disattivato</string>
+    <string name="pref_simple_hdr_entry_on">Attivato</string>
+    <string name="pref_camera_countdown_title">Conto alla rovescia</string>
+    <string name="simple_mode_button_text_countdown">Chiudi conto alla rovescia</string>
+    <string name="pref_camera_countdown_default">3</string>
+    <string name="pref_camera_countdown_entry_3s">3 sec</string>
+    <string name="pref_camera_countdown_entry_5s">5 sec</string>
+    <string name="pref_camera_countdown_entry_10s">10 sec</string>
+    <string name="pref_camera_delay_capture_title">Conto alla rovescia</string>
+    <string name="simple_mode_button_text_delay_capture">Chiudi conto alla rovescia</string>
+    <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+    <string name="pref_camera_delay_capture_entry_3s">3 sec</string>
+    <string name="pref_camera_delay_capture_entry_5s">5 sec</string>
+    <string name="pref_camera_delay_capture_entry_10s">10 sec</string>
+    <string name="pref_camera_asd_night_title">Ottimizzazione automatica foto notturne</string>
+    <string name="pref_camera_asd_popup_title">Segnala quando è necessario il flash</string>
+    <string name="simple_mode_button_text_scene">Chiudi modalità scena</string>
 </resources>

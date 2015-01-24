@@ -203,4 +203,38 @@
         <item>Nero trasparente</item>
         <item>Sfondo bianco</item>
     </string-array>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mar</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Lun - Ven</item>
+        <item>Weekend</item>
+        <item>Settimana</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Mai</item>
+        <item>Ora</item>
+        <item>Numero</item>
+    </string-array>
 </resources>

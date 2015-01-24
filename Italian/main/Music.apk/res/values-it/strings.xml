@@ -278,4 +278,5 @@
     <string name="channel_list_fragment_title">Radio</string>
     <string name="bill_list_fragment_title">Classifiche</string>
     <string name="nowplaying_menu_item_delete">Elimina</string>
+    <string name="similar_songs">Brani simili</string>
 </resources>

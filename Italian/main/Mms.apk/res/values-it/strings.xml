@@ -510,6 +510,7 @@
     <string name="file_create_time">Creato alle:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
+    <string name="festival_networking_title">Notifica</string>
     <string name="festival_networking_desc">Questa funzionalità ha la necessità connettersi ad internet per funzionare correttamente.</string>
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Non mostrare di nuovo</string>

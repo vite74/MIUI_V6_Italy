@@ -77,6 +77,11 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_popup_title_failed_phone_error">Attivazione fallita</string>
     <string name="activate_popup_desc_failed_phone_error">Il numero che hai inserito non è valido</string>
     <string name="activate_popup_confirm_failed_phone_error">Riprova</string>
+    <string name="activate_popup_title_upload_diagnosis_info">Impossibile attivare SIM</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Segnalare questo problema a Xiaomi? (ID segnalazione: %s)</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Segnala</string>
+    <string name="activate_popup_link_diagnosis_detail">Quali informazioni verranno inviate?</string>
+    <string name="activate_popup_title_diagnosis_detail">Informazioni diagnostiche</string>
     <string name="activate_feature_mx">Messaggi cloud gratuiti</string>
     <string name="activate_feature_mms_sync">Sync SMS</string>
     <string name="activate_feature_call_log_sync">Sync registro chiamate</string>

@@ -722,4 +722,5 @@
     <string name="title_auto_cleaner">Pulire automaticamente?</string>
     <string name="summary_auto_cleaner">Pulire automaticamente il sistema ogni 3 giorni?</string>
     <string name="confirm_auto_cleaner">OK</string>
+    <string name="auto_cleaner_open">Attiva</string>
 </resources>

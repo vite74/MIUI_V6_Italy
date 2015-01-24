@@ -262,14 +262,12 @@
     <string name="face_analyze_info">Età: %2$s (%1$s)</string>
     <string name="face_analyze_info_male">Uomo</string>
     <string name="face_analyze_info_female">Donna</string>
-
     <string name="face_beauty_intelligent_level_0">Disat.</string>
     <string name="face_beauty_intelligent_level_1">Basso</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
     <string name="pref_camera_show_gender_age_title">Rapporto riconoscimento viso</string>
     <string name="pref_camera_show_gender_age_entry_off">Disattivato</string>
-
     <string name="pref_camera_show_gender_age_entry_on">Mostra età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
     <string name="face_beauty_age_alias_male_0_7">Uomo 0-7</string>
@@ -289,16 +287,9 @@
     <string name="pref_camera_multiple_face_beauty_entry_off">Un viso</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Due visi</string>
     <string name="pref_face_beauty_title">Tonalità pelle</string>
-
-
-
-
     <string name="toast_cannot_preview_image_when_screen_locked">Impossibile vedere immagini o video quando lo schermo è bloccato.</string>
     <string name="pref_priority_storage_title">Salva nella scheda SD</string>
     <string name="setting_top_text">Opzioni</string>
-
-
-
     <string name="pref_video_speed_fast_title">Veloce</string>
     <string name="pref_video_speed_slow_title">Lento</string>
     <string name="pref_camera_manual_mode_title">Manuale</string>
@@ -337,7 +328,6 @@
     <string name="pref_camera_long_press_shutter_feature_title">Pressione prolungata</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto multiplo</string>
-
     <string name="pref_camera_hdr_entry_auto">Auto</string>
     <string name="pref_camera_hdr_entry_off">Disattivato</string>
     <string name="pref_camera_hdr_entry_normal">Normale</string>
@@ -346,7 +336,6 @@
     <string name="pref_simple_hdr_entry_on">Attivato</string>
     <string name="pref_camera_countdown_title">Conto alla rovescia</string>
     <string name="simple_mode_button_text_countdown">Chiudi conto alla rovescia</string>
-    <string name="pref_camera_countdown_default">3</string>
     <string name="pref_camera_countdown_entry_3s">3 sec</string>
     <string name="pref_camera_countdown_entry_5s">5 sec</string>
     <string name="pref_camera_countdown_entry_10s">10 sec</string>

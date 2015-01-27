@@ -29,7 +29,7 @@
     <string name="resource_ranking_purchase">A pagamento</string>
     <string name="resource_category">Categoria</string>
     <string name="resource_my">Locali</string>
-    <string name="resource_pack_price_info">%1$s Originale</string>
+    <string name="resource_pack_price_info">Prezzo originale: %1$s</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti, vuoi continuare?</string>
     <string name="resource_pack_warning">Attenzione! Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
@@ -65,6 +65,7 @@
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s temi</string>
+    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_share_title">Condividi</string>
     <string name="resource_share_subject">Condividi tema: %1$s</string>
     <string name="resource_share_text">Ecco un tema che potrebbe piacerti: %1$s! Link: %2$s</string>

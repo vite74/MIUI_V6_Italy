@@ -15,6 +15,7 @@
     <string name="notif_title_single_downloading">Download in corso %1$s</string>
     <string name="notif_title_multiple_downloading">Download di %1$d file</string>
     <string name="notif_title_file_size">Totale %1$d</string>
+    <string name="paused_waiting_for_network">In attesa di reti disponibili</string>
     <string name="app_label">Gestione download</string>
     <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
     <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>

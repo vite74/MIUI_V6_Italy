@@ -41,6 +41,7 @@ Fascia alta: %1$s%2$s rimanenti | %3$s usati"</string>
     <string name="main_secondary_message_traffic_detail_leisure">"
 Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s dati usai in fascia alta | non ti rimangono altri dati in fascia bassa</string>
+    <string name="main_alert_message_month_limit_error">Il limite impostato non è corretto</string>
     <string name="firewall_activity_lable">Limite utilizzo dati da applicazione</string>
     <string name="firewall_applist">Applicazioni</string>
     <string name="firewall_rule_group_title_mobile">Dati</string>
@@ -192,6 +193,10 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="network_assistant_upgraded_body">"Tocca per limitare l'utilizzo dei dati."</string>
     <string name="lock_screen_traffic_warn_title">Avviso utilizzo dati</string>
     <string name="lock_screen_traffic_notify_body">Utilizzo dati a schermo spento: %s</string>
+    <string name="lock_screen_setting_summary">Mostra un avviso dopo il consumo di 100 KB</string>
+    <string name="timeshow_h_m">%1$d ore %2$d min</string>
+    <string name="timeshow_m_s">%1$d min %2$d sec/string>
+    <string name="timeshow_s">%ds</string>
     <string name="free_time_traffic_title">Inserisci un limite fuori soglia</string>
     <string name="free_time_traffic_hint">Inserisci un limite fuori soglia</string>
     <string name="traffic_protection_label">Avviso utilizzo dati</string>
@@ -224,6 +229,10 @@ Hai acquistato %1$s i traffico aggiuntivo questo mese. Questo è diverso dai %2$
     <string name="traffic_config_alert_body_extra_notset">"
 Hai acquistato %1$s i traffico aggiuntivo questo mese. Non corrisponde al limite mensile che hai impostato manualmente."</string>
     <string name="traffic_config_alert_setted">Limite dati impostato</string>
+    <string name="traffic_limit_error_alert_title">Avviso soglia dati %s</string>
+    <string name="traffic_limit_error_alert_iknow">OK</string>
+    <string name="traffic_limit_error_alert_reset">Azzera soglia</string>
+    <string name="traffic_limit_error_alert_body">Il conteggio del tuo operare segnala %1$s rimanenti per questo mese. Questo valore è superiore alla soglia di %2$s che hai impostato manualmente.</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -352,12 +361,11 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="privacy_declare_dialog_title">Termini e Condizioni</string>
     <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i &lt;a href=http://max.oupeng.com/eula.html> Termini e Condizioni&lt;/a> di Opera."</string>
     <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare la funzione di risparmio dati</string>
-    <string name="sc_allow_network_dialog_message">Devi consentire a questa applicazione di accedere ad Internet perchè funzioni correttamente.</string>
-    <string name="privacy_prompt_upload">Privacy notification</string>
+    <string name="sc_allow_network_dialog_message">Devi consentire a questa applicazione di accedere ad Internet perché funzioni correttamente.</string>
+    <string name="privacy_prompt_upload">Notifica privacy</string>
     <string name="privacy_prompt_traffic_adjust_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per aggiornare i template di richiesta SMS e controllare se questa funzione è disponibile nella tua zona."</string>
     <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi er avere maggiori informazioni sulle opzioni dei dati di acquisto."</string>
     <string name="privacy_prompt_tc_sms_report_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per aggiornare le informazioni sul tuo utilizzo dei dati."</string>
-    <string name="privacy_prompt_purchase_history_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per analizzare la tua cronologia di acquisto."</string>
     <string name="title_limit_traffic_per_day">Limite utilizzo dati giornaliero</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
     <string name="pref_title_over_traffic_limit_warning">Al superamento soglia</string>
@@ -374,7 +382,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="pref_allow_connect_network_whitelist_title">Consenti eccezioni</string>
     <string name="pref_allow_connect_network_whitelist_summary">Consentire alle app nella lista delle eccezioni di collegarsi al servizio dati anche durante il roaming internazionale?</string>
     <string name="pref_whitelist_setting">Eccezioni</string>
-    <string name="alter_dialog_message">La connesione dati durante il roaming internazionale può comportare costi elevati con il tuo operatore. Consentire alle app nella lista delle eccezioni di collegarsi al servizio dati anche durante il roaming internazionale?</string>
+    <string name="alter_dialog_message">La connessione dati durante il roaming internazionale può comportare costi elevati con il tuo operatore. Consentire alle app nella lista delle eccezioni di collegarsi al servizio dati anche durante il roaming internazionale?</string>
     <string name="add_white_list">Aggiungi</string>
     <string name="international_roaming_whitelist_count">%d applicazioni possono collegarsi al servizio dati anche durante il roaming internazionale</string>
     <string name="firewall_rule_group_title_roaming">Roaming internazionale</string>
@@ -396,10 +404,17 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="traffic_setting_step_num">Impostazioni piano dati</string>
     <string name="traffic_setting_open">Attivato</string>
     <string name="traffic_setting_app_count">%d applicazioni</string>
+    <string name="traffic_setting_update_template_falure">Impossibile collegarsi alla rete</string>
     <string name="traffic_warning_purchase_title">Il traffico rimanente è inferiore al %d%%</string>
     <string name="traffic_purchase_body">Risparmia il 50% ricaricando adesso.</string>
     <string name="traffic_purchse_suggestion">"E' il momento di ricaricare"</string>
     <string name="traffic_over_purchase_title">Limite dati superato</string>
     <string name="traffic_over_purchase_body">Tocca per leggere i dettagli.</string>
     <string name="traffic_over_purchase_link">Hai raggiunto il limite previsto dal tuo piano dati.Se superi il limite previsto dal tuo piano dati il tuo operatore potrebbe addebitarti dei costi aggiuntivi. Ricarica adesso e risparmia il 50%.</string>
+    <string name="notify_setting_pkg_title">Imposta la soglia mensile</string>
+    <string name="notify_weekly_pkg_body">%s utilizzati questa settimana. Tocca per impostare la soglia.</string>
+    <string name="notify_daily_data_usage_body">%s utilizzati oggi. Tocca per impostare la soglia.</string>
+    <string name="notify_month_traffic_body">%s utilizzati questo mese. Tocca per impostare la soglia.</string>
+    <string name="notify_daily_limit_title">Imposta una soglia dati quotidiana</string>
+    <string name="notify_daily_limit_body">%s utilizzati questa settimana. Tocca per impostare la soglia.</string>
 </resources>

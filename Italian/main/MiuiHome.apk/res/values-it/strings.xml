@@ -11,7 +11,7 @@
     <string name="activity_not_found">Applicazione non installata sul telefono.</string>
     <string name="cancel_action">Annulla</string>
     <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
-    <string name="apply_as_lock_wallpaper">Applica</string>
+    <string name="apply_action">Applica</string>
     <string name="apply_as_lock_wallpaper_message">Applicare questo sfondo anche alla lockscreen?</string>
     <string name="lock_screen_failed_message">Impossibile applicare</string>
     <string name="lock_screen_success_message">Applicato</string>

@@ -35,6 +35,9 @@
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="date_time_picker_dialog_title">Imposta ora e data</string>
+    <string name="app_name_which_call">Applicazione:%s</string>
+    <string name="app_version_which_call">Versione applicazione:%s</string>
+    <string name="policy_name">Reglamento:%s</string>
     <string name="copyright">Copyright</string>
     <string name="user_agreement">Accordo utente</string>
     <string name="privacy_policy">Accordo privacy</string>
@@ -249,8 +252,8 @@
     <string name="phone">Telefono</string>
     <string name="email">Email</string>
     <string name="organization">Organizzazione</string>
-    <string name="im">Im</string>
-    <string name="sip_phone">Telefono Sip</string>
+    <string name="im">IM</string>
+    <string name="sip_phone">Telefono SIP</string>
     <string name="birthday">Compleanno</string>
     <string name="website">Sito</string>
     <string name="address">Indirizzo</string>

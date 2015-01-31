@@ -60,10 +60,13 @@ Localizza, blocca o cancella il telefono da "</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
-    <string name="find_device_send_sms_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questo servizio.</string>
+    <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
+    <string name="find_device_send_sms_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questa funzione.</string>
     <string name="mx_dspt_provision">"Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi.
+
 Puoi attivare e disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
     <string name="mx_dspt_provision_privacy">"Questo servizio potrebbe richiedere il tuo numero. Il tuo operatore potrebbe addebitarti dei costi per l'SMS utilizzato per l'attivazione del servizio.
+
 Questa funziona crittografa ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
     <string name="user_agreement_p6">"
 L'utilizzo di questa funziopne è soggetto a "</string>

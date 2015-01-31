@@ -63,7 +63,9 @@
     <string name="alarm_alert">Imposta suoneria</string>
     <string name="alarm_screen">Imposta stile sveglia</string>
     <string name="slider_text">Scorri in alto per spegnere</string>
-    <string name="snooze_message">Sospendi per %d min</string>
+    <string name="snooze_confirm_cancel">Annulla sospensione</string>
+    <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
+    <string name="menu_item_sort_by_name">Oedina per nome</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
@@ -106,9 +108,9 @@
     <string name="silent_alarm_summary">Silenziosa</string>
     <string name="alarm_notify_text">Sospendi o disattiva questa sveglia.</string>
     <string name="alarm_notify_snooze_label">%s (sospesa)</string>
-    <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="volume_button_setting_title">Tasti fisici</string>
     <string name="volume_button_setting_summary">Imposta il comportamento alla pressione di uno dei due pulsanti</string>
+    <string name="battery_charging_level">%d%%</string>
     <string name="menu_item_dock_settings">Impostazioni dock</string>
     <string name="alarm_klaxon_service_desc">"Usa servizio riproduzione per gli allarmi impostati nell'orologio."</string>
     <string name="loading_ringtone">Caricamento suoneria…</string>

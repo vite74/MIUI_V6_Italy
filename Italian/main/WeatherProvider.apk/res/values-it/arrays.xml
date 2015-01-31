@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Soleggiato</item>
+        <item>Sereno</item>
         <item>Parzialmente nuvoloso</item>
         <item>Nuvoloso</item>
         <item>Nebbia</item>

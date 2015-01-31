@@ -58,7 +58,7 @@
         <item>30 minuti</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Nessuno</item>
+        <item>Niente</item>
         <item>Sospendi</item>
         <item>Disattiva</item>
     </string-array>

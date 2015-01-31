@@ -67,6 +67,7 @@
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s temi</string>
+    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_share_title">Condividi</string>
     <string name="resource_share_subject">Condividi il tema: %1$s</string>
     <string name="resource_share_text">"Ecco un tema che ti potrebbe piacere: %1$s! Link: %2$s"</string>
@@ -1040,7 +1041,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_import_progress_end_message">Importazione completata</string>
     <string name="device_import_progress_message">Importazione…</string>
     <string name="device_import_failed_message">Importazione fallita</string>
-    <string name="hint_distance"></string>
+    <string name="hint_distance" />
     <string name="hint_more_contact">Unisci contatti duplicati</string>
     <string name="device_import_account_dialog_title">Scegli un account</string>
     <string name="device_import_account_dialog_title_suffix">"
@@ -1113,6 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="login_ok">Accedi</string>
     <string name="yellowpage_navigation_no_content">Nessun risultato dalla ricerca</string>
+    <string name="yellowpage_navigation_clear_search_history">Cancella cronologia</string>
     <string name="yellowpage_navigation_search_offline_hint">Nessun accesso ad internet</string>
     <string name="refresh">Aggiorna</string>
     <string name="yellowpage_navigation_search_city_name_hint">Città</string>

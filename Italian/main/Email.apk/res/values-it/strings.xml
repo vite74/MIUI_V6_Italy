@@ -299,6 +299,7 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
+    <string name="compose_help_context">scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -354,11 +355,11 @@
     <string name="debug_enable_verbose_logging_label">Consentire log particolarmente lunghi?</string>
     <string name="debug_force_one_minute_refresh_label">Forza aggiornamento POP/IMAP ogni minuto</string>
     <string name="debug_title">Debug</string>
-    <string name="default_">Predefinito</string>
+    <string name="default_">PREDEFINITO</string>
     <string name="default_exchange">EXCHANGE</string>
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
-    <string name="default_setup">Impostazioni predefinite</string>
+    <string name="default_setup">IMPOSTAZIONI PREDEFINITE</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="delete">Elimina</string>
     <string name="delete_conversation_hint_message">%1$d %2$s è stato eliminato</string>
@@ -614,6 +615,7 @@ CC: %4$s
     <string name="next_not_prompt">Non chiedere più</string>
     <string name="no">No</string>
     <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
+    <string name="no_application_found_title">Apri questo allegato.</string>
     <string name="no_contacts">Nessun contatto.</string>
     <string name="no_conversations">Nessun messaggio.</string>
     <string name="no_mails">Nessuna mail</string>
@@ -790,6 +792,7 @@ CC: %4$s
     <string name="remote_search_result">%s email trovate sul server.</string>
     <string name="remove_account">Rimuovi account</string>
     <string name="remove_account_confirm">"L'account \"%1$s\" verrà rimosso da WPSMail."</string>
+    <string name="remove_account_confirm_title">Elimina account</string>
     <string name="remove_folder">Rimuovi da %1$s</string>
     <string name="remove_star">Rimuovi da Speciali</string>
     <string name="reply">Rispondi</string>

@@ -33,12 +33,13 @@
     <string name="operation_hide_sys">Nascondi file di sistema e cache</string>
     <string name="cancel">Annulla</string>
     <string name="tab_expand">Espansione</string>
+    <string name="mi_router_label">Mi Router</string>
+    <string name="usb_label">USB</string>
     <string name="background">Scarica in background</string>
     <string name="no_file">Nessun file</string>
     <string name="tab_category">Cerca</string>
-	<string name="tab_path">CARTELLE</string>
-    <string name="tab_phone">Telefono</string>
-    <string name="category_all">Tutti</string>
+    <string name="tab_path">CARTELLE</string>
+    <string name="category_all">TUTTI</string>
     <string name="category_music">Musica</string>
     <string name="category_video">Video</string>
     <string name="category_picture">Immagini</string>
@@ -49,7 +50,7 @@
     <string name="category_other">Altro</string>
     <string name="category_favorite">Preferiti</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Log</string>
+    <string name="category_recent">Recenti</string>
     <string name="operation_rename_message">Inserire un nome</string>
     <string name="operation_create_folder_message">Inserire nome cartella</string>
     <string name="operation_delete_confirm_message">"Confermare l'eliminazione?"</string>
@@ -266,7 +267,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="tab_local">Locale</string>
     <string name="sys_size_enable">\u0020liberi</string>
     <string name="menu_list_name">Menu</string>
-    <string name="tools">Strumenti</string>
+    <string name="tools">STRUMENTI</string>
     <string name="category_type_meida">Media</string>
     <string name="category_type_document">Documenti</string>
     <string name="category_type_other">Altro</string>

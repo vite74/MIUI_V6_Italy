@@ -16,4 +16,8 @@
         <item quantity="other">%1$d minuti</item>
         <item quantity="one">1 minuto</item>
     </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Sospendi per %d minuti</item>
+        <item quantity="one">Sospendi per %d minuto</item>
+    </plurals>
 </resources>

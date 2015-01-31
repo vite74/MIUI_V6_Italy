@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
-    <string name="oldman_airplane_mode_text">aereo</string>
-    <string name="oldman_incall_text">in chiamata</string>
-    <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
-    <string name="audio_effect_info">Ottimizza audio</string>
-    <string name="audio_effect_custom">Imposta</string>
     <string name="app_label">UI di sistema</string>
-    <string name="status_bar_recent_inspect_item_title">Informazioni applicazione</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
     <string name="battery_low_title">Collega il caricabatterie</string>
-    <string name="battery_low_subtitle">Batteria quasi scarica.</string>
     <string name="battery_low_percent_format">%d%% rimanente</string>
-    <string name="invalid_charger">Ricarica tramite USB non supportata.Utilizza solo il caricatore in dotazione.</string>
-    <string name="battery_low_why">Utilizzo batteria</string>
+    <string name="invalid_charger">"Ricarica tramite USB non supportata.
+Utilizza solo il caricatore in dotazione."</string>
     <string name="status_bar_settings_airplane">Modalità aereo</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
@@ -83,8 +76,9 @@
     <string name="data_usage_disabled_dialog_4g_title">Dati 4G disattivati</string>
     <string name="data_usage_disabled_dialog_mobile_title">Dati mobili disattivati</string>
     <string name="data_usage_disabled_dialog_title">Dati disabilati</string>
-    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato. Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
+    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
 
+Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="data_usage_disabled_dialog_enable">Riattiva dati</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
@@ -176,6 +170,8 @@
     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
     <string name="status_bar_network_flow">"Oggi: %1$s    Rimanente: %2$s   Limite mensile: %3$s"</string>
     <string name="status_bar_network_flow_exceed">Oggi: %1$s | Fuori soglia: %3$s | Limite mensile: %4$s</string>
+    <string name="status_bar_network_flow_exceed_to_purchase">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Fuori soglia:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Acquista ></string>
+    <string name="status_bar_network_flow_warning_to_purchase">"Oggi: %1$s    Rimanente: %2$s    Acquista >"</string>
     <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
     <string name="no_notification_tips">Nessuna notifica</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
@@ -209,4 +205,9 @@
     <string name="usb_share_net_info">Utilizza la connessione Internet del computer</string>
     <string name="hint_for_long_press_app_switch_key">Tieni premuto per visualizzare il menu</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
+    <string name="oldman_airplane_mode_text">aereo</string>
+    <string name="oldman_incall_text">in chiamata</string>
+    <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
+    <string name="audio_effect_info">Ottimizza audio</string>
+    <string name="audio_effect_custom">Imposta</string>
 </resources>

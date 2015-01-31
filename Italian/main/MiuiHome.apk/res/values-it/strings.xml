@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!--This Italia translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
-    <string name="wallpaper_scrolling">all</string>
     <string name="sharedUserId" />
     <string name="process" />
     <string name="application_name">Launcher di sistema</string>

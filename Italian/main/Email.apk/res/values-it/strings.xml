@@ -299,7 +299,6 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
-    <string name="compose_help_context">scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>

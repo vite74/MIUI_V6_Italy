@@ -234,7 +234,7 @@
     <string name="filter_by_duration_min">0 sec</string>
     <string name="filter_by_duration_max">5 min</string>
     <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-    <string name="filter_by_folder">PEr cartella</string>
+    <string name="filter_by_folder">Per cartella</string>
     <string name="filter_by_folder_summary">Seleziona le cartelle da visualizzare</string>
     <string name="select_displayed_folders">Seleziona le cartelle da visualizzare</string>
     <string name="no_local_source_find">Brano non trovato</string>

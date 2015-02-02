@@ -62,7 +62,7 @@
     <string name="view_indexes_item_tommorrow">Domani</string>
     <string name="view_aqi_main_no_data">Nessuno</string>
     <string name="activity_main_refresh_time">Ultimo aggiornamento %1$s</string>
-    <string name="activity_main_update_time">Aggiornato alle %1$s</string>
+    <string name="activity_main_update_time">Aggiornato %1$s</string>
     <string name="activity_main_update_time_right_now">Ora</string>
     <string name="activity_main_refresh_timeout">Timeout aggiornamenti</string>
     <string name="activity_find_city_dialog_cancel">Annulla</string>

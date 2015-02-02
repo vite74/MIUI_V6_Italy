@@ -25,7 +25,7 @@
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
     <string name="act_find_city_hot_title">Aggiungi</string>
     <string name="act_find_city_hint">Inserisci località</string>
-    <string name="act_set_city_find_side">Localizzazzione in corso…</string>
+    <string name="act_set_city_find_side">Localizzazione in corso…</string>
     <string name="act_set_city_find_side_error">Impossibile trovare il dispositivo</string>
     <string name="menu_location">Località</string>
     <string name="button_allow">Consenti</string>

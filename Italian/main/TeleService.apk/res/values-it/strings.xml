@@ -632,7 +632,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="telocation_show_settings">Impostazioni visualizzazione</string>
     <string name="telocation_enable_title">Mostra località</string>
     <string name="telocation_custom_location_title">Le mie località</string>
-    <string name="telocation_custom_location_summary">Manage saved area codes and group numbers</string>
+    <string name="telocation_custom_location_summary">Gestisci i prefissi internazionali e numeri di gruppo</string>
     <string name="telocation_call_assistant">Assistente alla composizione</string>
     <string name="telocation_contacts_countrycode">Prefisso internazionale predefinito</string>
     <string name="telocation_contacts_countrycode_hint">Inserisci il prefisso internazionale</string>
@@ -644,10 +644,10 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="telocation_countrycode_alert_message_wrong">Il prefisso internazionale immesso non è valido.</string>
     <string name="telocation_custom_empty">Aggiungi un numero toccando il pulsante +</string>
     <string name="telocation_edit_custom_location_title">Configura località</string>
-    <string name="telocation_custom_number_hint">Area code or group number</string>
+    <string name="telocation_custom_number_hint">Prefisso o numero del gruppo</string>
     <string name="telocation_custom_name_hint">Numero</string>
     <string name="telocation_number_type">Tipologia numero</string>
-    <string name="telocation_number_type_jituan">Group number</string>
+    <string name="telocation_number_type_jituan">Numero del gruppo</string>
     <string name="telocation_number_type_mob">Rete mobile</string>
     <string name="telocation_number_type_tel">Rete fissa</string>
     <string name="telocation_countrycode_alert_message">Inserisci il numero di telefono senza prefisso internazionale</string>

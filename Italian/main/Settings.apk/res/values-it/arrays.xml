@@ -628,8 +628,8 @@ Seguire le istruzioni"</item>
         <item>Migliore qualità</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Zobraziť naposledy spustené apl.</item>
-        <item>Zobraziť Menu</item>
+        <item>Mostra applicazioni recenti</item>
+        <item>Mostra Menu</item>
     </string-array>
 	    <string-array name="whetstone_level_entries">
         <item>Disattivato</item>

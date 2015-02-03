@@ -601,7 +601,7 @@ Seguire le istruzioni"</item>
         <item>15 minuti</item>
         <item>30 minuti</item>
         <item>1 ora</item>
-        <item>Illiminato</item>
+        <item>Illimitato</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -628,8 +628,8 @@ Seguire le istruzioni"</item>
         <item>Migliore qualità</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Mostra applicazioni recenti</item>
-        <item>Mostra Menu</item>
+        <item>Applicazioni recenti</item>
+        <item>Menu</item>
     </string-array>
 	    <string-array name="whetstone_level_entries">
         <item>Disattivato</item>

@@ -24,7 +24,7 @@
     <string name="power_center_consume_rank">Utilizzo batteria</string>
     <string name="power_center_custom_title">Risparmio batteria</string>
     <string name="power_center_auto_shutdown">Switcher</string>
-    <string name="power_center_auto_shutdown_summary">Orario di spegnimento o riavvio</string>
+	<string name="power_center_auto_shutdown_summary_default">Orario di spegnimento o riavvio</string>
     <string name="power_center_ontime_boot">Accensione programmata</string>
     <string name="power_center_time_to_boot">Orario a cui accendersi</string>
     <string name="power_center_repeat">Ripeti</string>

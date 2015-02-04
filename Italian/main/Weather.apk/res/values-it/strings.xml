@@ -28,9 +28,9 @@
     <string name="act_set_city_find_side">Localizzazione in corso…</string>
     <string name="act_set_city_find_side_error">Impossibile trovare il dispositivo</string>
     <string name="menu_location">Località</string>
-    <string name="button_allow">Consenti</string>
+    <string name="button_allow">OK</string>
     <string name="button_abandon">Abbandona cambiamenti</string>
-    <string name="button_not_allow">Nega</string>
+    <string name="button_not_allow">Annulla</string>
     <string name="location_allow_err">Impossibile rilevare la posizione</string>
     <string name="view_aqi_title">Qualità aria</string>
     <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>

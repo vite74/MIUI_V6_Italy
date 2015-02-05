@@ -191,8 +191,8 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="data_usage_no_total_package_body_dual">\u0020impostare soglia per %s?</string>
     <string name="network_assistant_upgraded_title">Aggiornamento completato</string>
     <string name="network_assistant_upgraded_body">"Tocca per limitare l'utilizzo dei dati."</string>
-    <string name="lock_screen_traffic_warn_title">Avviso utilizzo dati</string>
-    <string name="lock_screen_traffic_notify_body">Utilizzo dati a schermo spento: %s</string>
+    <string name="lock_screen_traffic_warn_title">Avviso utilizzo dati a schermo spento</string>
+	<string name="lock_screen_traffic_notify_body">Bloccato per %1$s | Usato %2$s di dati mobili</string>
     <string name="lock_screen_setting_summary">Mostra un avviso dopo il consumo di 100 KB</string>
     <string name="timeshow_h_m">%1$d ore %2$d min</string>
     <string name="timeshow_m_s">%1$d min %2$d sec</string>

@@ -7,7 +7,7 @@
 L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositivo, alcuni account e funzionalità cloudnon saranno disponibili."</string>
     <string name="accept">OK</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="sync_notification_title_format">Elemanto in sincronizzazione: %1$s</string>
+    <string name="sync_notification_title_format">Elemento in sincronizzazione: %1$s</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
     <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>

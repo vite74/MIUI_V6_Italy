@@ -70,6 +70,8 @@
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
     <string name="view_sun_titile">Alba e tramonto</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
+    <string name="data_source_timezone">GMT %1$s</string>
     <string name="activity_main_time_format">dd/MM</string>
     <string name="first_start_network_msg">Per ricevere le informazioni meteo devi essere connesso ad internet.</string>
     <string name="first_start_network_title">Avviso di connessione</string>

@@ -137,7 +137,7 @@
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="i_know">Ho capito</string>
     <string name="list_item_play_all_tracks">Tocca per riprodurre tutte le tracce</string>
-    <string name="go_to_add_music">Agginggi brani~</string>
+    <string name="add_music">Aggiungi brani</string>
     <string name="button_add">Aggiungi</string>
     <string name="find_music">Copertine brani</string>
     <string name="favourite_music_left_half">Per aggiungere brani a questa playlist, tocca</string>
@@ -279,4 +279,9 @@
     <string name="bill_list_fragment_title">Classifiche</string>
     <string name="nowplaying_menu_item_delete">Elimina</string>
     <string name="similar_songs">Brani simili</string>
+    <string name="search_for_artist">Artista</string>
+    <string name="search_for_album">Album</string>
+    <string name="support_online_only">Solo in streaming</string>
+    <string name="no_artist_info">"Nessuna informazione sull'artista"</string>
+    <string name="no_album_info">"Nessuna informazione sull'album"</string>
 </resources>

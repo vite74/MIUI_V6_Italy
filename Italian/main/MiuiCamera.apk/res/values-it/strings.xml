@@ -14,8 +14,8 @@
     <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della Fotocamera ?</string>
     <string name="confirm_location_title">Registra posizione</string>
     <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione della fotocamera?</string>
-    <string name="save">Si</string>
-    <string name="no_save">No</string>
+    <string name="confirm_location_alert">Memorizza la località delle foto</string>
+    <string name="start_capture">OK</string>
     <string name="pref_camera_recordlocation_title">Rileva posizione</string>
     <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>
@@ -301,6 +301,7 @@
     <string name="accessibility_video_pause_button">VideoPauseButton</string>
     <string name="accessibility_video_capture_button">VideoCaptureButton</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
+    <string name="accessibility_setting_button">Tasto impostazioni avanzate</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
     <string name="pref_camera_ubifocus_title">Ubifocus</string>
     <string name="simple_mode_button_text_ubifocus">Chiudi ubifocus</string>

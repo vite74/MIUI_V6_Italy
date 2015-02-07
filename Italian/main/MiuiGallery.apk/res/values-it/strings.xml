@@ -938,6 +938,7 @@ il dispositivo"</string>
     <string name="impunity_declaration_title">Notizie di rete</string>
     <string name="impunity_declaration">La galleria può connettersi alla rete dati per fornire alcuni servizi. Vuoi continuare?</string>
     <string name="impunity_declaration_ignore">Non chiedere più</string>
+    <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Mostra notizie di rete</string>
     <string name="impunity_declaration_summary">"Mostra le notizie di rete ogni volta che si avvia l'applicazione galleria"</string>
     <string name="auto_upload_title">Carica automaticamente</string>

@@ -18,13 +18,13 @@
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
+        <item>Solo EvDo</item>
+        <item>CDMA senza EvDo</item>
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Solo WCDMA</item>
+        <item>Solo GSM</item>
+        <item>GSM/WCDMA preferito</item>
     </string-array>
   
     <string-array name="list_language_entries">

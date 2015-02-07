@@ -9,4 +9,5 @@
     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="view_indexes_wind_unit">km/h</string>
 </resources>

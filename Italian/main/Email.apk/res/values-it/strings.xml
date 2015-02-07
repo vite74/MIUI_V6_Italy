@@ -21,10 +21,6 @@
     <string name="account_folder_list_summary_inbox">Posta in arrivo</string>
     <string name="account_folder_list_summary_outbox">Posta in uscita</string>
     <string name="account_folder_list_summary_starred">Speciali</string>
-    <string name="account_manager_type_exchange">com.android.exchange</string>
-    <string name="account_manager_type_imap">com.android.email</string>
-    <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
     <string name="account_name_toast">Nome già esistente, rinominare</string>
     <string name="account_options_acc_title">Account</string>
     <string name="account_options_common_title">Impostazioni comuni</string>
@@ -132,9 +128,7 @@
     <string name="account_setup_incoming_port_label">Porta</string>
     <string name="account_setup_incoming_security_label">Tipo di sicurezza</string>
     <string name="account_setup_incoming_security_none_label">Nessuna</string>
-    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
     <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accetta tutti i certificati)</string>
-    <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_title">Impostazione account</string>
@@ -216,7 +210,6 @@
     <string name="always_show_images_toast">Le immagini provenienti da questo mittente verranno sempre visualizzate.</string>
     <string name="annex_size">Allegati</string>
     <string name="app_name">Email</string>
-    <string name="application_mime_type">application/email-ls</string>
     <string name="archive">Archivia</string>
     <string name="archived">Archiviata</string>
     <string name="att_download_failed_content">Download fallito</string>
@@ -259,7 +252,9 @@
     <string name="bcc">Ccn</string>
     <string name="bcc_heading">"Ccn: "</string>
     <string name="blank_feedback_toast">Il feedback è vuoto, inserire un feedback!</string>
+    <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Scrivi email</string>
+    <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_delete">Elimina</string>
     <string name="bottom_bar_more_quickreply">Risposta veloce</string>
     <string name="bottom_bar_more_unread">Segna non letto</string>
@@ -296,9 +291,11 @@
     <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
     <string name="clear_display_images_whitelist_dialog_title">Vuoi revocare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
+    <string name="click_download_all_content">[ Tap to download content ]</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
+    <string name="compose_help_context">compose</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -332,6 +329,7 @@
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Spostata in %1$s</string>
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
@@ -342,6 +340,7 @@
     <string name="copy_number">Copia numero di telefono</string>
     <string name="create_action">Crea nuova</string>
     <string name="custom_from_account_label">Invia msg come:</string>
+    <string name="date">2888/88/88</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Oggi, %1$s</string>
@@ -402,10 +401,7 @@
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
-    <string name="eas_template">domain\\user</string>
     <string name="edit_quick_response_dialog">Risposta veloce</string>
-    <string name="elided_padding_token"> </string>
-    <string name="email_feedback_uri" />
     <string name="empty_account_tip">"Impossibile trovare l'account"</string>
     <string name="empty_email_tip">Impossibile inviare email vuota</string>
     <string name="empty_spam">Svuota spam</string>
@@ -413,8 +409,6 @@
     <string name="empty_trash">Svuota cestino</string>
     <string name="empty_trash_dialog_title">Svuotare cestino?</string>
     <string name="enable_sync_in_account_settings">Attiva tra %1$s.</string>
-    <string name="enumeration_comma">", "</string>
-    <string name="enumeration_delimiter">" | "</string>    
     <string name="exception_cancel">Questo evento è stato annullato per: %s</string>
     <string name="exception_updated">I dettagli di questo evento sono stati modificati per: %s</string>
     <string name="exchange_name">Exchange</string>
@@ -427,14 +421,14 @@
     <string name="fetching_attachment">Recupero allegato</string>
     <string name="file_deleted_success">File eliminato correttamente!</string>
     <string name="file_not_found">File non trovato sul server di posta!</string>
-    <string name="file_not_found_reDownload">File non trovato, prova di nuovo!</string>
+    <string name="file_not_found_redownload">"Couldn't find file"</string>
     <string name="file_rar_not_support">File .rar protetti non supportati!</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
     <string name="flow_saved_dlg_do_not_show">Non chiedere più</string>
     <string name="flow_saved_dlg_i_know">OK</string>
     <string name="flow_saved_dlg_message">%1$d nuovi messaggi. Risparmiati %2$s (dati rete mobile).</string>
     <string name="flow_saved_dlg_title">Reduced your data usage</string>
-    <string name="flow_saved_preference_total">Saved %1$s.</string>
+    <string name="flow_saved_preference_total">%1$s salvati.</string>
     <string name="folder_drafts_name_en0">Bozze</string>
     <string name="folder_drafts_name_en1">Bozza</string>
     <string name="folder_icon_desc">Icona cartella</string>
@@ -447,14 +441,13 @@
     <string name="folder_trash_name_en0">Cestino</string>
     <string name="folder_trash_name_en1">Messaggi eliminati</string>
     <string name="folder_trash_name_en2">Messaggio eliminato</string>
-    <string name="formatted_email_address">%1$s</string>
-    <string name="formatted_subject">%1$s%2$s</string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Avanti</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
+    <string name="forward_subject_label">I:</string>
     <string name="from">Da</string>
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
@@ -480,23 +473,15 @@
     <string name="hide_atts_remaining">Nascondi %1$d allegati</string>
     <string name="hide_elided">▼ Nascondi testo citato</string>
     <string name="hide_folders">Nascondi cartelle</string>
-    <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-    <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hint_quick_reply_all">Rispondi a tutti</string>
     <string name="ignore_spam_warning">Ignora, messaggio sicuro</string>
-    <string name="imap_name">IMAP</string>
     <string name="inbox_folders_heading">Cartelle locali</string>
     <string name="info">Info</string>
     <string name="inline_picture_deleted">"Impossibile trovare l'immagine,download in corso…"</string>
     <string name="inline_picture_download_complete">Download immagine completato</string>
     <string name="input_password_prompt">Inserisci la password:</string>
-    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-    <string name="intent_exchange_package">com.android.exchange</string>
     <string name="invalid_recipient">Indirizzo non valido.</string>
     <string name="invalid_recipient_title">Destinatario non valido</string>
-    <string name="kilobytes">%s KB</string>
     <string name="load_from_remote">Continua a cercare sul server</string>
     <string name="load_more">Carica altro</string>
     <string name="loading_conversation">Caricamento…</string>
@@ -507,8 +492,7 @@
     <string name="login">Accedi</string>
     <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
     <string name="login_failed_title">Accesso non riuscito</string>
-    <string name="long_press_to_select_tip">Tocca e tieni premuto per selezionare una conversazione, then touch to select more.</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>    
+    <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
     <string name="mail">Email</string>
     <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero da PC più tardi</string>
     <string name="mail_header_downloading_message_body">In download…</string>
@@ -548,7 +532,6 @@
     <string name="meeting_updated">Aggiornato: %s</string>
     <string name="meeting_when">Quando: %s</string>
     <string name="meeting_where">Dove: %s</string>
-    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Allegati</string>
     <string name="menu_att_mgr_order_default">Predefinito</string>
     <string name="menu_att_mgr_order_mime">Ordina per formato</string>
@@ -596,10 +579,10 @@ CC: %4$s
     <string name="message_saved">Messaggio salvato come bozza.</string>
     <string name="message_type_name">Messaggio</string>
     <string name="message_view_attachment_background_load">"Nota. Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
+    <string name="mock_content_provider">Mock Content Provider</string>
     <string name="more_atts_remaining">%1$d rimanenti</string>
     <string name="more_atts_total">%1$d allegati</string>
     <string name="more_context">Altro</string>
-    <string name="more_info_attachment">Informazioni</string>
     <string name="more_string">+%1$s</string>
     <string name="more_than_999">999+</string>
     <string name="move_to_selection_dialog_title">Sposta in un\'altra cartella</string>
@@ -613,9 +596,11 @@ CC: %4$s
     <string name="next_action">Avanti</string>
     <string name="next_not_prompt">Non chiedere più</string>
     <string name="no">No</string>
+    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
     <string name="no_application_found_title">Apri questo allegato.</string>
     <string name="no_contacts">Nessun contatto.</string>
+    <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Nessun messaggio.</string>
     <string name="no_mails">Nessuna mail</string>
     <string name="no_matched_attachment">Nessun allegato corrispondente!</string>
@@ -639,6 +624,7 @@ CC: %4$s
     <string name="outbox_alert_button_confirm">Modifica</string>
     <string name="outbox_alert_button_no_resend">Non inviare</string>
     <string name="outbox_alert_button_resend">Invia di nuovo</string>
+    <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
     <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
     <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
@@ -647,6 +633,7 @@ CC: %4$s
     <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
     <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
+    <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
     <string name="outbox_alert_select_operation">Selezionare operazione</string>
     <string name="outbox_alert_title_sent_failed">Impossibile inviare email</string>
     <string name="outbox_no_mails">Nessuna mail in uscita</string>
@@ -705,13 +692,12 @@ CC: %4$s
     <string name="policy_require_smime">Richiede messaggi SMIME</string>
     <string name="policy_screen_timeout">Richiedi dispos. inattivo per blocco schermo</string>
     <string name="policy_text_truncation">Restringi dimensione email testo</string>
-    <string name="pop3_name">POP3</string>
     <string name="prefDialogTitle_conversationListIcon">Immagine mittente</string>
     <string name="prefDialogTitle_removal_action">Archivio e operazioni cancellate</string>
     <string name="preference_eas_tips">"La pagina di attivazione in arrivo è richiesta dal server email, resta in attesa dell'attivazione."</string>
     <string name="preference_head_load_description">Scarica solo i titoli delle email, quando stai utilizzano i dati mobili.</string>
     <string name="preference_head_load_title">Riduci utilizzo dati</string>
-    <string name="preference_imap_tips" />
+    <string name="preference_imap_tips"/>
     <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
     <string name="preference_removal_action_title">Archivio e operazioni cancellate</string>
     <string name="preference_sender_image_description">Mostra a fianco al nome nella lista</string>
@@ -729,10 +715,6 @@ CC: %4$s
     <string name="previous_action">Indietro</string>
     <string name="prompt_title">Prompt</string>
     <string name="protocol">Protocollo</string>
-    <string name="protocol_eas">eas</string>
-    <string name="protocol_imap">imap</string>
-    <string name="protocol_legacy_imap">imap</string>
-    <string name="protocol_pop3">pop3</string>
     <string name="provider_note_live">"Solo alcuni account \"Plus\" includono l'accesso POP che consente la connessione del programma. Se non riesci ad accedere con l'indirizzo email e la password corretti, potresti non disporre di un account \"Plus\" a pagamento. Avvia il browser web per avere accesso a questi account email."</string>
     <string name="provider_note_t_online">"Prima di configurare questo account email, visita il sito web T-Online e crea una password per l'accesso email POP3."</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
@@ -745,7 +727,7 @@ CC: %4$s
     <string name="quick_reply_hint_bcc">(In Ccn)</string>
     <string name="quick_reply_hint_cc">(In Cc)</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
-    <string name="quote_begin">&lt;div class=\"quote\"></string>
+    <string name="quote_begin"><div class=\"quote\"></string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_10">-----------------------------------</string>
     <string name="quote_divider_11">----- Originale -----</string>
@@ -774,13 +756,13 @@ CC: %4$s
     <string name="quote_divider_xm_zh">Creato dal mio telefono Xiaomi</string>
     <string name="quote_divider_xm_zh_hk">Creato dal mio telefono Xiaomi</string>
     <string name="quoted_text">Includi testo citato</string>
-
-
+    <string name="quoted_text_background_color_string">@android:color/white</string>
+    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Testo citato</string>
     <string name="read_string">Conversazione letta</string>
     <string name="recent_folders_heading">Cartelle recenti</string>
-    <string name="recipient_error_dialog_title">Errore destinatario</string>
     <string name="recipient_needed">Aggiungi almeno un destinatario.</string>
+    <string name="recipient_needed_title">Warn</string>
     <string name="recipient_null_dialog_title">Avviso</string>
     <string name="refresh">Aggiorna</string>
     <string name="refreshing">Aggiornamento…</string>
@@ -797,9 +779,14 @@ CC: %4$s
     <string name="reply">Rispondi</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
+    <string name="reply_subject_label">Re:</string>
     <string name="replyto_heading">"Rispondi a: "</string>
     <string name="report">Rapporto</string>
     <string name="report_phishing">Segnala phishing</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="require_manual_sync_message">Sincronizzazione dello sfondo per questo account disattivata durante il roaming.</string>
@@ -809,6 +796,7 @@ CC: %4$s
     <string name="save_action">Salva</string>
     <string name="save_attachment">Salva</string>
     <string name="save_draft">Salva bozza</string>
+    <string name="save_draft_failed">Save draft failed</string>
     <string name="saved">Salvato, %s</string>
     <string name="saving">Salvataggio…</string>
     <string name="search_attachment">Cerca</string>
@@ -817,6 +805,10 @@ CC: %4$s
     <string name="search_results_header">Risultati</string>
     <string name="search_results_loaded">%1$d</string>
     <string name="search_results_searching_header">Ricerca in corso…</string>
+    <string name="search_tabs_name_all">Tutti</string>
+    <string name="search_tabs_name_recipient">Destinatario</string>
+    <string name="search_tabs_name_sender">Mittente</string>
+    <string name="search_tabs_name_subject">Oggetto</string>
     <string name="search_title">Email unificate</string>
     <string name="search_txt_size_limit_prompt">La stringa di ricerca deve essere più lunga di 3 caratteri. 3。</string>
     <string name="search_unsupported">La ricerca non è supportata in questo account.</string>
@@ -861,7 +853,6 @@ CC: %4$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sort_attachment">Ordina per</string>
-    <string name="spaceChar">" "</string>
     <string name="status_network_error">Problema di connessione.</string>
     <string name="storage">Memoria</string>
     <string name="str_select_all">Seleziona tutto</string>
@@ -892,10 +883,6 @@ CC: %4$s
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
-    <string name="trigger_compose_char">c</string>
-    <string name="trigger_refresh_char">u</string>
-    <string name="trigger_save_char">s</string>
-    <string name="trigger_y_char">y</string>
     <string name="tryrefreshing">Aggiornamento\u2026</string>
     <string name="turn_auto_sync_on_dialog_body">Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
@@ -907,11 +894,7 @@ CC: %4$s
     <string name="updated_at">Ultimo aggiornamento %1$s</string>
     <string name="updated_just_now">Appena aggiornato</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
-    <string name="veiled_address"></string>
-    <string name="veiled_alternate_text"></string>
-    <string name="veiled_alternate_text_unknown_person"></string>
-    <string name="veiled_summary_unknown_person"></string>
-    <string name="via_domain">via %1$s</string>
+    <string name="via_domain">tramite %1$s</string>
     <string name="view_more_conversations">Mostra altre conversazioni</string>
     <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
 Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazioni di sincronizzazione per consentire la sincronizzazione automatica.</string>
@@ -924,8 +907,8 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">"Scorri dall'alto per leggere le notifiche. Premi per concludere le impostazioni di sicurezza."</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
+    <string name="wait_help_context">wait</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
-    <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>
     <string name="wrong_password">Password sbagliata!</string>
     <string name="yes">Sì</string>

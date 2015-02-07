@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Invio...</string>
+    <string name="sina_share_success">Inviato</string>
+    <string name="sina_share_fail">FInvio fallito</string>
+    <string name="sina_token_expired_warning">Account Weibo scaduto: ricollegarsi</string>
+    <string name="sina_token_invalid_warning">Account Weibo non valido: ricollegarsi</string>
+    <string name="sina_share_fail_content_repeat">Impossibile condividere, contenuto già esistente"</string>
     <string name="xmpp_server_addr" />
     <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
@@ -252,4 +258,10 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="loading_hint">Caricamento</string>
     <string name="buy_space_expire">Lo spazio acquistato scadrà tra %s</string>
     <string name="buy_space_expire_concat">%1$s al %2$s</string>
+    <string name="share_miliao_not_installed">MiTalk non è installato.</string>
+    <string name="share_weibo_not_installed">Weibo non è installato.</string>
+    <string name="share_weixin_not_installed">Wechat non è installato.</string>
+    <string name="share_success">Condiviso</string>
+    <string name="share_cancel">Condivisione annullata</string>
+    <string name="share_failed">Impossibile condividere</string>
 </resources>

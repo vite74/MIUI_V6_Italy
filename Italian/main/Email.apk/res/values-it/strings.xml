@@ -295,7 +295,6 @@
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
-    <string name="compose_help_context">compose</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">Conferma</string>
@@ -329,7 +328,6 @@
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Spostata in %1$s</string>
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
@@ -447,7 +445,6 @@
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
-    <string name="forward_subject_label">I:</string>
     <string name="from">Da</string>
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
@@ -579,7 +576,6 @@ CC: %4$s
     <string name="message_saved">Messaggio salvato come bozza.</string>
     <string name="message_type_name">Messaggio</string>
     <string name="message_view_attachment_background_load">"Nota. Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
     <string name="more_atts_remaining">%1$d rimanenti</string>
     <string name="more_atts_total">%1$d allegati</string>
     <string name="more_context">Altro</string>
@@ -727,7 +723,6 @@ CC: %4$s
     <string name="quick_reply_hint_bcc">(In Ccn)</string>
     <string name="quick_reply_hint_cc">(In Cc)</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
-    <string name="quote_begin"><div class=\"quote\"></string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_10">-----------------------------------</string>
     <string name="quote_divider_11">----- Originale -----</string>
@@ -779,14 +774,10 @@ CC: %4$s
     <string name="reply">Rispondi</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="replyto_heading">"Rispondi a: "</string>
     <string name="report">Rapporto</string>
     <string name="report_phishing">Segnala phishing</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
+    <string name="report_rendering_problem_desc">Questo messaggio sembra pericoloso.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="require_manual_sync_message">Sincronizzazione dello sfondo per questo account disattivata durante il roaming.</string>
@@ -907,7 +898,6 @@ Touch "Sincronizza adesso per sincronizzare una volta, o Modifica le impostazion
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">"Scorri dall'alto per leggere le notifiche. Premi per concludere le impostazioni di sicurezza."</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-    <string name="wait_help_context">wait</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_other_views">Altro</string>
     <string name="wrong_password">Password sbagliata!</string>

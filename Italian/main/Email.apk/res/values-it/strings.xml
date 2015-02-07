@@ -751,8 +751,6 @@ CC: %4$s
     <string name="quote_divider_xm_zh">Creato dal mio telefono Xiaomi</string>
     <string name="quote_divider_xm_zh_hk">Creato dal mio telefono Xiaomi</string>
     <string name="quoted_text">Includi testo citato</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Testo citato</string>
     <string name="read_string">Conversazione letta</string>
     <string name="recent_folders_heading">Cartelle recenti</string>
@@ -777,7 +775,6 @@ CC: %4$s
     <string name="replyto_heading">"Rispondi a: "</string>
     <string name="report">Rapporto</string>
     <string name="report_phishing">Segnala phishing</string>
-    <string name="report_rendering_problem_desc">Questo messaggio sembra pericoloso.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="require_manual_sync_message">Sincronizzazione dello sfondo per questo account disattivata durante il roaming.</string>

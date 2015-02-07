@@ -521,10 +521,9 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="no_wifi_available">"E' necessario che tu sia connesso ad una rete Wi-Fi per eseguire chiamate via internet (usa le Impostazioni Wi-Fi e rete)."</string>
     <string name="no_voip">Chiamate via internet non supportate</string>
     <string name="no_volte">Impossibile eseguire una chiamata IMS</string>
-    <string name="no_vt_allowed">Per eseguire una videochiamata, disattivare la modalità TTY</string>
+    <string name="no_vt_allowed">Per eseguire una video chiamata, disattivare la modalità TTY</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
-    <string name="domain_address">Dominio SIP</string>
     <string name="proxy_address">Indirizzo proxy</string>
     <string name="ims_edit_title">Dettagli account IMS</string>
     <string name="ims_accounts_title">Account IMS</string>

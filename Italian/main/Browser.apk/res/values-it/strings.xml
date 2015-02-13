@@ -32,7 +32,7 @@
     <string name="media_player_loading_video">Caricamento video</string>
     <string name="profiler_started_toast">Profilo avviato</string>
     <string name="profiler_stopped_toast">Profilo completato. I risultati sono in %1$s.</string>
-    <string name="profiler_no_storage_toast">Profilo non avviato perchè la memoria esterna non è pronta.</string>
+    <string name="profiler_no_storage_toast">Profilo non avviato perché la memoria esterna non è pronta.</string>
     <string name="profiler_error_toast">Impossibile avviare profilo</string>
     <string name="low_memory_error">"Impossibile completare l'operazione precedente a causa di memoria insufficiente"</string>
     <string name="opening_file_error">Impossibile aprire il file selezionato</string>
@@ -52,8 +52,8 @@
     <string name="color_picker_button_black">Nero</string>
     <string name="color_picker_button_white">Bianco</string>
     <string name="date_picker_dialog_other_button_label">Altro</string>
-    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunt</string>
-    <string name="miuichromium_error_page_title">Impossibile trovare quesa pagina</string>
+    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunti</string>
+    <string name="miuichromium_error_page_title">Impossibile trovare questa pagina</string>
     <string name="miuichromium_error_page_reason_network">Mostra link</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
     <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>
@@ -399,7 +399,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cloud_time_tips">Ultima sincronizzazione</string>
     <string name="cloud_no_new_data_toast">Nessun nuovo dato, riprovare più tardi</string>
     <string name="cloud_sync_failed_toast">Impossibile aggiornare</string>
-    <string name="cloud_sync_closed_toast">Impossibile aggiornare perchè la sincronizzazine è disattivata</string>
+    <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
     <string name="close_cloud_tab_tip">Chiudere la scheda cloud su %s?</string>
     <string name="enter_incongnito_mode">Entra in modalità incognito</string>
     <string name="pref_volume_key_action">Tasti volume: pagina precedente/successiva</string>
@@ -458,7 +458,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="block_ads_choice_continue">Continua</string>
     <string name="block_ads_choice_block">Blcca</string>
     <string name="empty_history_hint">Vuoto</string>
-    <string name="ssl_certificate">SCertificato di sicurezzae</string>
+    <string name="ssl_certificate">Certificato di sicurezzae</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
@@ -499,7 +499,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_download_pause">Pausa</string>
     <string name="video_push_single_message">Aggiornato a %1$d</string>
     <string name="video_push_multi_message">Ci sono %1$d aggiornamenti</string>
-    <string name="video_push_multi_title">Ci sono nuovi aggiornaemnti</string>
+    <string name="video_push_multi_title">Ci sono nuovi aggiornamenti</string>
     <string name="video_project_title">Proiettore video</string>
     <string name="video_project_msg">Video proiettato su %s</string>
     <string name="video_project_button">Interrompi</string>

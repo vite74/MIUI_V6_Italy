@@ -2233,7 +2233,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="back_key">Indietro</string>
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
-    <string name="enable_snapshot_screenlock">Premi a lungo Indietro avvia la fotocamera</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita menu pulsante accensione</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglio con i tasti del volume</string>
@@ -2883,6 +2882,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="page_layout_29">Jai Mani</string>
     <string name="page_layout_30">Frank Santo</string>
     <string name="page_layout_31">Katie Whitman</string>
+    <string name="smartcover_sensitive_title">Modalità Smartcover</string>
     <string name="oldman_mode_entry_title">Modalità semplificata</string>
     <string name="oldman_mode_entry_name">Modalità semplificata</string>
     <string name="oldman_mode_settings_caption">Impostazioni modalità semplificata</string>
@@ -2920,4 +2920,16 @@ Disabilitare le finestre flottanti?"</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi disconnessa</string>
     <string name="wifi_disconnected_notification_summary">Non sei connesso alla rete Wi-Fi.</string>
+    <string name="wifi_off_airplane_on_title">Wi-Fi in modalità Aereo</string>
+    <string name="wifi_off_airplane_on_content">Consente di attivare manualmente il Wi-Fi durante la modalità Aereo.</string>
+    <string name="wifi_off_airplane_on_not_remind">Non mostrare più</string>
+    <string name="wifi_off_airplane_on_cancel">Annulla</string>
+    <string name="wifi_off_airplane_on_confirm">OK</string>
+    <string name="wifi_connect_cmcc_dialog_title">Notifica utilizzo dati</string>
+    <string name="wifi_connect_cmcc_dialog_content">Collegato ai servizi dati su rete CMCC.</string>
+    <string name="wifi_connect_cmcc_dialog_not_remind">Non mostrare più</string>
+    <string name="wifi_connect_cmcc_dialog_cancel">Annulla</string>
+    <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+    <string name="wifi_notify_cmcc_connected_title">Notifica rete CMCC</string>
+    <string name="wifi_notify_cmcc_connected_summary">Mostra notifica quando collegato alla rete CMCC</string>
 </resources>

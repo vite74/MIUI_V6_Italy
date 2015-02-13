@@ -143,10 +143,9 @@
     <string name="account_setup_options_background_attachments_label">Scarica allegati automaticamente quando connesso a Wi-Fi</string>
     <string name="account_setup_options_headline">Opzioni account</string>
     <string name="account_setup_options_mail_check_frequency_10min">Ogni 10 minuti</string>
-    <string name="account_setup_options_mail_check_frequency_15min">Ogni 15 minuti</string>
+    <string name="account_setup_options_mail_check_frequency_12hour">Ogni 12 ore</string>
     <string name="account_setup_options_mail_check_frequency_1hour">Ogni ora</string>
-    <string name="account_setup_options_mail_check_frequency_30min">Ogni 30 minuti</string>
-    <string name="account_setup_options_mail_check_frequency_5min">Ogni 5 minuti</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Ogni 4 ore</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Automatico (Push, se il server lo supporta)</string>
     <string name="account_setup_options_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
     <string name="account_setup_options_mail_check_frequency_never">Mai</string>
@@ -693,7 +692,7 @@ CC: %4$s
     <string name="preference_eas_tips">"La pagina di attivazione in arrivo è richiesta dal server email, resta in attesa dell'attivazione."</string>
     <string name="preference_head_load_description">Scarica solo i titoli delle email, quando stai utilizzano i dati mobili.</string>
     <string name="preference_head_load_title">Riduci utilizzo dati</string>
-    <string name="preference_imap_tips"/>
+    <string name="preference_imap_tips" />
     <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
     <string name="preference_removal_action_title">Archivio e operazioni cancellate</string>
     <string name="preference_sender_image_description">Mostra a fianco al nome nella lista</string>

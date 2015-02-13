@@ -9,7 +9,7 @@ Leggi questo documento per la tastiera: "</string>
     <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
     <string name="multisim_settings_category">Impostazioni preferite SIM</string>
     <string name="page_layout_title">Layout di sistema</string>
-    <string name="page_layout_label">Regola la dimensione del testo ed il layout per della Home, pannello delle notifiche, tastierino telefono ed altro.</string>
+    <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle Notifiche, il Telefono ed altro.</string>
     <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
     <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo MI Account.</string>
     <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>

@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d selezionati</item>
-        <item quantity="one">%1$d selezionato</item>
+    <plurals name="last_num_days">
+        <item quantity="other">Ultimi %d giorni</item>
+        <item quantity="one">Ieri</item>
     </plurals>
-    <plurals name="webview_matches_found">
+    <plurals name="matches_found">
         <item quantity="other">%1$d di %2$d</item>
         <item quantity="one">1 risultato</item>
-    </plurals>
-    <plurals name="webview_last_num_days">
-        <item quantity="other">Ultimi %d giorni</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d risultati</item>
         <item quantity="one">%d risultato</item>
     </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
     <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d elementi bloccati</item>
-        <item quantity="one">%d elemento bloccato</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d brani popolari</item>
-        <item quantity="one">%d brano popolare</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d album</item>
-        <item quantity="one">%d album</item>
-    </plurals>
-    <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d brani</item>
-        <item quantity="one">%d brano</item>
+        <item quantity="other">%d pubblicità bloccate</item>
+        <item quantity="one">%d pubblicità bloccata</item>
     </plurals>
 </resources>

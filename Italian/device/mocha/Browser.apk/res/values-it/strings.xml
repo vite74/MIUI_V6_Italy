@@ -273,9 +273,9 @@ Sei sicuro di voler uscire da questa pagina?"</string>
     <string name="miui_content_paste">Incolla</string>
     <string name="miui_content_web_search">Cerca</string>
     <string name="miui_content_share">Condividi</string>
-    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunt</string>
+    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunti</string>
     <string name="date_picker_dialog_other_button_label">Altro</string>
-    <string name="miuichromium_error_page_title">Impossibile trovare quesa pagina</string>
+    <string name="miuichromium_error_page_title">Impossibile trovare questa pagina</string>
     <string name="miuichromium_error_page_reason_network">Mostra link</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
     <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>

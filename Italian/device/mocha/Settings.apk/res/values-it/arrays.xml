@@ -560,4 +560,10 @@
         <item>Memoria interna</item>
         <item>Memoria esterna</item>
     </string-array>
+	    <string-array name="whetstone_level_entries">
+        <item>Disattivo</item>
+        <item>Basso</item>
+        <item>Medio</item>
+        <item>Alto</item>
+    </string-array>
 </resources>

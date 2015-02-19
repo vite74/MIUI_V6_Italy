@@ -98,6 +98,8 @@
     <string name="function_error">Questa funzione non può essere inizializzata</string>
     <string name="music_settings">Musica</string>
     <string name="network_traffic">Traffico di rete</string>
+    <string name="avoid_to_use_traffic_summary">"Mostra avvisi sull'utilizzo dei dati"</string>
+    <string name="avoid_to_use_traffic_title">Usa solamente il Wi-Fi per lo streaming di musica</string>
     <string name="allow_to_use_traffic_summary">"Non attivandolo si può avere costi elevati di traffico dati,si consiglia l'attivazione"</string>
     <string name="allow_to_use_traffic_title">"Consenti l'uso della rete Wi-Fi per ascoltare le canzoni online"</string>
     <string name="use_traffic_toast">"Non consentire l'uso di una rete Wi-Fi a pagamento per ascoltare le canzoni online. Modificare le impostazioni, se necessario"</string>

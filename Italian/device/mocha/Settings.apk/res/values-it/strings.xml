@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="music_audio_effect_optimize">Impostazioni audio</string>
+    <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
+    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
     <string name="music_headset_settings">Auricolari</string>
     <string name="music_headset_button_settings">Assegna tasti remoti</string>
+	<string name="music_headset_mode_settings">Tasti remoti cuffie</string>
     <string name="music_headset_mode_volume">Controlla il livello del volume</string>
     <string name="music_headset_mode_music">Controlla la riproduzione della musica</string>
     <string name="music_headset_calibrate">Assegna tasti remoti degli auricolari</string>
@@ -28,6 +32,7 @@
     <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
+	<string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
     <string name="menu_item_show_more">Altro</string>
     <string name="ringtone_mute">Nessuna</string>
     <string name="title_system_resource">Risorse di sistema</string>
@@ -2730,6 +2735,7 @@ ed esegui il software."</string>
     <string name="bluetooth_unlock_change_matched_device">Scegli un altro dispositivo</string>
     <string name="bluetooth_unlock_add_device">Aggiungi dispositivo</string>
     <string name="bluetooth_unlock_delete_device">Cancella questo dispositivo</string>
+	<string name="whetstone_level_title">Ottimizza memoria</string>
 	<string name="alpha_build">" | Alfa"</string>
     <string name="developer_build">" | Sviluppatore"</string>
     <string name="stable_build">" | Stabile"</string>
@@ -2812,4 +2818,5 @@ ed esegui il software."</string>
     <string name="tnhwrevision_settings_list_item_title">Revisione HW Mocha</string>
     <string name="tnhwrevision_settings_list_item_summary">Sommario revisione HW Mocha</string>
 	<string name="security_keyguard_category_name">Schermata di blocco</string>
+	<string name="translation_contributors_title">Collaboratori</string>
 </resources>

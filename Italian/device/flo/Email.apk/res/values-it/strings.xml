@@ -767,7 +767,6 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="ApplicationIconMore99">99+</string>
     <string name="parase_setup_data">Recupero dati di configurazione…</string>
     <string name="allread">Tutto letto</string>
-    <string name="eas_template">dominio\\utente</string>
     <string name="outbox_alert_button_resend">Invia di nuovo</string>
     <string name="outbox_alert_button_no_resend">Non inviare</string>
     <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
